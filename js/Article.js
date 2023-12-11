@@ -18,17 +18,12 @@ export class Article {
     static Languages = ["en", "de", "es", "es", "fr", "it", "ja", "ko", "pt", "pl", "ru", "zh", "zh-Hans"];
 
     /**
-     * @type {string}
-     */
-    static id;
-
-    /**
      * @param {string} id ID of the event
      * @param {object} data Metadata object
      */
     static async Fetch(id, data) {
         let articles = await this.GetLocalizedContent(id);
-        let images = await this.GetAllImages(articles);
+        let images = await this.GetImages(articles);
 
         this.CreateFolder(id);
         this.SaveArticles(id, articles);
@@ -57,7 +52,7 @@ export class Article {
      * @param {Map<string, object>} articles
      * @return {Map<string, Int8Array>}
      */
-    static async GetAllImages(articles) {
+    static async GetImages(articles) {
         let urls = new Set();
 
         for (const [language, article] of articles) {
