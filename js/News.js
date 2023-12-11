@@ -20,13 +20,16 @@ export class News {
         IO.CreatePathIfNotExist("./article");
         let articles = await this.GetArticles();
         let cache = IO.GetCache();
+        let n = 1;
 
-        for (const [id, data] of Object.entries(articles)) {
+        for (const [id, data] of articles) {
             if (cache.has(id)) continue;
 
             await Article.Fetch(id, data);
 
             cache.add(id);
+
+            console.log(`Saved: ${id} (${n++}/${articles.size})`);
         }
 
         IO.CreateFile(IO.cache, JSON.stringify(Array.from(cache)));
@@ -45,7 +48,7 @@ export class News {
             for (const item of news) {
                 let id = item["gm.evt"]["d"]["k"];
 
-                articles[id] = item;
+                articles.set(id, item);
             }
         }
 

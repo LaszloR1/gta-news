@@ -24,15 +24,16 @@ export class Article {
 
     /**
      * @param {string} id ID of the event
-     * @param {object} meta Metadata object
+     * @param {object} data Metadata object
      */
-    static async Fetch(id, meta) {
+    static async Fetch(id, data) {
         let articles = await this.GetLocalizedContent(id);
         let images = await this.GetAllImages(articles);
 
         this.CreateFolder(id);
         this.SaveArticles(id, articles);
         this.SaveImages(id, images);
+        this.SaveMetadata(id, data);
     }
 
     /**
@@ -45,7 +46,8 @@ export class Article {
 
         for (const language of this.Languages) {
             const urlLocalized = url.replace("{LANGUAGE}", language);
-            articles[language] = JSON.parse(await Http.FetchJson(urlLocalized));
+
+            articles.set(language, JSON.parse(await Http.FetchJson(urlLocalized)));
         }
 
         return articles;
@@ -62,14 +64,14 @@ export class Article {
             urls.add(article["image"]["path"]);
         }
 
-
         let images = new Map();
 
         for (const url of urls) {
             let imageUrl = this.UrlImage.replace("{IMAGE}", url);
             let imageName = url.split("/").pop();
+            let imageData = await Http.FetchData(imageUrl);
 
-            images[imageName] = await Http.FetchData(imageUrl);
+            images.add(imageName, imageData);
         }
 
         return images;
@@ -87,7 +89,7 @@ export class Article {
      * @param {Map<string, object>} articles
      */
     static SaveArticles(id, articles) {
-        for (const [language, article] of Object.entries(articles)) {
+        for (const [language, article] of articles) {
             IO.CreateFile(`./article/${id}/${language}.json`, JSON.stringify(article));
         }
     }
@@ -97,8 +99,16 @@ export class Article {
      * @param {Map<string, Int8Array>} images
      */
     static SaveImages(id, images) {
-        for (const [name, data] of Object.entries(images)) {
+        for (const [name, data] of images) {
             IO.CreateFile(`./article/${id}/${name}`, data);
         }
+    }
+
+    /**
+     * @param {string} id
+     * @param {object} data
+     */
+    static SaveMetadata(id, data) {
+        IO.CreateFile(`./article/${id}/meta.json`, JSON.stringify(data));
     }
 }
