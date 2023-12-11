@@ -25,6 +25,12 @@ export class Article {
         let articles = await this.GetLocalizedContent(id);
         let images = await this.GetImages(articles);
 
+        if (!articles.size && !images.size) {
+            console.log(`Article: "${id}" contains images or text. Skipping.`);
+
+            return;
+        }
+
         this.CreateFolder(id);
         this.SaveArticles(id, articles);
         this.SaveImages(id, images);
@@ -45,7 +51,7 @@ export class Article {
             try {
                 articles.set(language, JSON.parse(await Http.FetchJson(urlLocalized)));
             } catch(error) {
-                console.log(`Localization: ${language} does not exist on Article: ${id}`);
+                console.log(`Localization: "${language}" does not exist on Article: "${id}"`);
             }
 
         }
@@ -61,6 +67,10 @@ export class Article {
         let urls = new Set();
 
         for (const [language, article] of articles) {
+            if (!("image" in article)) continue;
+            if (!("path" in article["image"])) continue;
+            if (!article["image"]["path"]) continue;
+
             urls.add(article["image"]["path"]);
 
             if (!("landscape" in article)) continue;

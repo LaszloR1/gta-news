@@ -1,4 +1,4 @@
-import {readFileSync, writeFileSync, existsSync, mkdirSync} from "node:fs";
+import {readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync} from "node:fs";
 
 export class IO {
     /**
@@ -35,8 +35,8 @@ export class IO {
      * @returns {Set<string>}
      */
     static GetCache(){
-        if (!existsSync(this.cache)) return new Set();
+        if (!existsSync("./article")) return new Set();
 
-        return new Set(JSON.parse(readFileSync(this.cache)));
+        return new Set(readdirSync("./article"));
     }
 }
