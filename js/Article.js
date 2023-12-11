@@ -42,7 +42,12 @@ export class Article {
         for (const language of this.Languages) {
             const urlLocalized = url.replace("{LANGUAGE}", language);
 
-            articles.set(language, JSON.parse(await Http.FetchJson(urlLocalized)));
+            try {
+                articles.set(language, JSON.parse(await Http.FetchJson(urlLocalized)));
+            } catch(error) {
+                console.log(`Localization: ${language} does not exist on Article: ${id}`);
+            }
+
         }
 
         return articles;
@@ -57,6 +62,12 @@ export class Article {
 
         for (const [language, article] of articles) {
             urls.add(article["image"]["path"]);
+
+            if (!("landscape" in article)) continue;
+            if (!("path" in article["landscape"])) continue;
+            if (!article["landscape"]["path"]) continue;
+
+            urls.add(article["landscape"]["path"]);
         }
 
         let images = new Map();
