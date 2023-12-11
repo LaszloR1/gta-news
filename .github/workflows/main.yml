@@ -1,4 +1,4 @@
-name: Repo Update
+name: News Update
 on: [workflow_dispatch]
 jobs:
   Explore-GitHub-Actions:
@@ -9,13 +9,13 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 21.3.0
-      - name: Running script
+      - name: Running script to gather the news.
         run: node index.js
-      - name: Updating repo
+      - name: Uploading news to the repo.
         continue-on-error: true
         run: |
           git config --global user.name 'LaszloR1'
           git config --global user.email 'LaszloR1@users.noreply.github.com'
           git add article
-          git commit -am "[WORKFLOW] Updating news."
+          git commit -am "[WORKFLOW] Updated news."
           git push
