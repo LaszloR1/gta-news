@@ -1,0 +1,19 @@
+name: GitHub Actions Demo
+on: [workflow_dispatch]
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 21
+      - name: Running script
+        run: node index.js
+      - name: Updating repo
+        run: |
+          git config --global user.name 'LaszloR1'
+          git config --global user.email 'LaszloR1@users.noreply.github.com'
+          git commit -am "Updating repo"
+          git push
