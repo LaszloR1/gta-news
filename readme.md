@@ -10,7 +10,7 @@ Alternatively you can run this on your own machine. Just clone the repo and `nod
 
 ## todo
 
-Some missing functionality I'd like to add would be saving the `news.json` and the `event-schedule.json` files to archive these as well.
+Caching `news.json` listings.
 
 ## license
 
