@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515787,"title":"","headline":"GTA Online","subtitle":"Criador de Emblemas do Social Club","content":"Todo MC precisa de um símbolo de honra. O seu MC não será exceção. O Criador de Emblemas do Social Club agora possui uma pilha de formas e designs com temática de motoqueiros para você usar, além de novas opções para ajustar as suas criações. Primeiras impressões são importantes, então capriche na que você vai causar.","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Criador de Emblemas do Social Club",
+    "content": "Todo MC precisa de um símbolo de honra. O seu MC não será exceção. O Criador de Emblemas do Social Club agora possui uma pilha de formas e designs com temática de motoqueiros para você usar, além de novas opções para ajustar as suas criações. Primeiras impressões são importantes, então capriche na que você vai causar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

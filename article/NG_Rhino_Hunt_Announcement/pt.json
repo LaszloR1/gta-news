@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1456487317,"title":"","headline":"GTA Online","subtitle":"Bombando Tanquinho","content":"Desafie as probabilidades neste Modo Adversário com veículos. Os Caçadores, armados somente com Bombas Adesivas, tentam destruir os tanques Rhino adversários que, em menor número, devem usar sua força e poder de fogo para se defender e sobreviver ao limite de tempo.","url":"","image":{"path":"sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rhino_Hunt_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1456487317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bombando Tanquinho",
+    "content": "Desafie as probabilidades neste Modo Adversário com veículos. Os Caçadores, armados somente com Bombas Adesivas, tentam destruir os tanques Rhino adversários que, em menor número, devem usar sua força e poder de fogo para se defender e sobreviver ao limite de tempo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/.dds",
+        "filesize": 2048
+    }
+}

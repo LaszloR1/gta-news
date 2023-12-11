@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543618,"title":"","headline":"GTA Online","subtitle":"제트 연료","content":"속도에 집착하십니까? 우아한 멋을 중시하신다고요? 아니면 베니즈의 최신 걸작을 원하십니까? 여러분의 욕구를 채워줄 새로운 자동차가 막 등장했습니다. 그리고 임원 전용 오피스에 개인 차량 개조점도 낼 수 있으니, 여러분의 패닉룸 바로 앞에서 차량을 다양하게 개조하고 업그레이드하실 수 있습니다. 만약에 그래도 뭔가 좀 부족하다고 느끼신다면 군수품 캐시 앤 캐리를 방문해 보십시오. 퇴폐적이고 야만적인 새로운 유형의 특수 차량이 입고되었다고 하네요!","url":"","image":{"path":"sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Jet_Fuel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543618,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "제트 연료",
+    "content": "속도에 집착하십니까? 우아한 멋을 중시하신다고요? 아니면 베니즈의 최신 걸작을 원하십니까? 여러분의 욕구를 채워줄 새로운 자동차가 막 등장했습니다. 그리고 임원 전용 오피스에 개인 차량 개조점도 낼 수 있으니, 여러분의 패닉룸 바로 앞에서 차량을 다양하게 개조하고 업그레이드하실 수 있습니다. 만약에 그래도 뭔가 좀 부족하다고 느끼신다면 군수품 캐시 앤 캐리를 방문해 보십시오. 퇴폐적이고 야만적인 새로운 유형의 특수 차량이 입고되었다고 하네요!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Jet_Fuel/.dds",
+        "filesize": 2048
+    }
+}

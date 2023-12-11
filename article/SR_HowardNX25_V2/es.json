@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1506508147,"title":"","headline":"GTA Online","subtitle":"Howard NX-25","content":"¿Quién dijo que había que elegir entre forma o función? Quieres toda la belleza clásica de la época dorada de la aviación, y la quieres perfectamente combinada con un rendimiento brutal. Pues, por suerte para ti, eso es lo que ansiaban los diseñadores del Howard NX-25. Y lo han logrado.","url":"","image":{"path":"sc/news/SR_HowardNX25_V2/262272_HowardNX25.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1506508147,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Howard NX-25",
+    "content": "¿Quién dijo que había que elegir entre forma o función? Quieres toda la belleza clásica de la época dorada de la aviación, y la quieres perfectamente combinada con un rendimiento brutal. Pues, por suerte para ti, eso es lo que ansiaban los diseñadores del Howard NX-25. Y lo han logrado.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_HowardNX25_V2/262272_HowardNX25.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

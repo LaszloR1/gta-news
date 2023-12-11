@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766143,"title":"","headline":"GTA Online","subtitle":"不動産を増やそう","content":"ガレージはお気に入りの車でいっぱい、クラブハウスはこだわりのカスタムを施したマシンでいっぱい、5軒の高級アパートじゃ飽き足らない――そんな悩みを解消しましょう。今なら6軒目の不動産を購入できます。","url":"","image":{"path":"sc/news/NG_Bikers_RoomForGrowth/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_RoomForGrowth/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766143,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "不動産を増やそう",
+    "content": "ガレージはお気に入りの車でいっぱい、クラブハウスはこだわりのカスタムを施したマシンでいっぱい、5軒の高級アパートじゃ飽き足らない――そんな悩みを解消しましょう。今なら6軒目の不動産を購入できます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_RoomForGrowth/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_RoomForGrowth/.dds",
+        "filesize": 2048
+    }
+}

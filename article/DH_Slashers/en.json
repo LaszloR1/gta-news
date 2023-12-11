@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513941004,"title":"","headline":"GTA Online","subtitle":"Slashers","content":"In the latest Adversary Mode to hit GTA Online, there’s no such thing as a fair fight. One team gets shotguns and license to indulge their bloodlust, while the other gets nothing but a flashlight and a sense of overwhelming panic. The good news is that every minute the roles change, and vengeance is very, very sweet. Last team standing wins.","url":"","image":{"path":"sc/news/DH_Slashers/262272_bigfeed-slashers.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513941004,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Slashers",
+    "content": "In the latest Adversary Mode to hit GTA Online, there’s no such thing as a fair fight. One team gets shotguns and license to indulge their bloodlust, while the other gets nothing but a flashlight and a sense of overwhelming panic. The good news is that every minute the roles change, and vengeance is very, very sweet. Last team standing wins.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Slashers/262272_bigfeed-slashers.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

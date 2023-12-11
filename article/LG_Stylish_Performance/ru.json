@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433953266,"title":"","headline":"GTA Online","subtitle":"Стильное вождение","content":"Посетите салон LegendaryMotorsport.net и полюбуйтесь на новую подборку великолепных машин, в числе которых один из самых красивых суперкаров, когда-либо мелькавших на улицах Лос-Сантоса, - Pegassi Osiris.<br /><br />Также в продажу поступил Enus Windsor в нескольких броских эксклюзивных вариантах покраски.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Stylish_Performance/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433953266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Стильное вождение",
+    "content": "Посетите салон LegendaryMotorsport.net и полюбуйтесь на новую подборку великолепных машин, в числе которых один из самых красивых суперкаров, когда-либо мелькавших на улицах Лос-Сантоса, - Pegassi Osiris.<br /><br />Также в продажу поступил Enus Windsor в нескольких броских эксклюзивных вариантах покраски.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Stylish_Performance/.dds",
+        "filesize": 2048
+    }
+}

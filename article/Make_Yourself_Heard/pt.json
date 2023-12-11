@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991729,"headline":"Dica online","subtitle":"Faça-se ouvir","content":"Coloque um headset e aproveite o GTA Online ao máximo e faça uns novos amigos criminosos lhe ajudarem na sua passagem por Los Santos.<br /><br />O ícone de voz ao lado do nome de um jogador indica quem tem um headset conectado, mas não se preocupe, se estiver em uma sessão com alguém que respira no microfone, ou algum outro desagrado desses, você pode silenciar eles no cartão de jogador em Online > Jogadores, selecionando 'emudecer'.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991729,
+    "headline": "Dica online",
+    "subtitle": "Faça-se ouvir",
+    "content": "Coloque um headset e aproveite o GTA Online ao máximo e faça uns novos amigos criminosos lhe ajudarem na sua passagem por Los Santos.<br /><br />O ícone de voz ao lado do nome de um jogador indica quem tem um headset conectado, mas não se preocupe, se estiver em uma sessão com alguém que respira no microfone, ou algum outro desagrado desses, você pode silenciar eles no cartão de jogador em Online > Jogadores, selecionando 'emudecer'.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds",
+        "filesize": 65664
+    }
+}

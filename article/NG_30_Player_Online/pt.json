@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223047,"title":"","headline":"GTA Online","subtitle":"GTA Online agora com capacidade para 30 jogadores","content":"Grand Theft Auto Online agora permite até 30 jogadores no Modo Livre e em Serviços apropriados. Isso significa mais jogadores do que nunca pra dar cobertura para você (ou que podem cobrir você de tiros).<br /><br />Quer ficar de olho nessa superpopulação? Experimente o Modo Espectador, permitindo que dois jogadores assistam aos outros do conforto de um Apartamento.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_30_Player_Online/262272_30Players.dds","filesize":262272},"landscape":{"path":"sc/news/NG_30_Player_Online/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223047,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online agora com capacidade para 30 jogadores",
+    "content": "Grand Theft Auto Online agora permite até 30 jogadores no Modo Livre e em Serviços apropriados. Isso significa mais jogadores do que nunca pra dar cobertura para você (ou que podem cobrir você de tiros).<br /><br />Quer ficar de olho nessa superpopulação? Experimente o Modo Espectador, permitindo que dois jogadores assistam aos outros do conforto de um Apartamento.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_30_Player_Online/262272_30Players.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_30_Player_Online/.dds",
+        "filesize": 2048
+    }
+}

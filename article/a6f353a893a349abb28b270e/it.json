@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686676156,"title":"GTA+","headline":"GTA+","subtitle":"Vinewood Car Club","content":"Il Vinewood Car Club è il nuovo luogo in cui gli abbonati a GTA+ possono accedere a una selezione di veicoli da provare, richiedere in Freemode e acquistare a prezzi scontati. Inoltre, i membri riceveranno occasionalmente un veicolo premium gratuito.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/a6f353a893a349abb28b270e/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds","filesize":262272},"button":"Seleziona e visita il Vinewood Car Club"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686676156,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Vinewood Car Club",
+    "content": "Il Vinewood Car Club è il nuovo luogo in cui gli abbonati a GTA+ possono accedere a una selezione di veicoli da provare, richiedere in Freemode e acquistare a prezzi scontati. Inoltre, i membri riceveranno occasionalmente un veicolo premium gratuito.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/a6f353a893a349abb28b270e/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona e visita il Vinewood Car Club"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1455273183,"title":"","headline":"GTA Online","subtitle":"Till Death Do Us Part","content":"Hold your loved one close in this new Adversary mode, built especially for couples. Up to four pairs face off in a shootout but teamwork is key - if one of you dies, the other dies too. You’ll get a health regeneration bonus for staying by your partner’s side. The last pair of lovers standing win.","url":"","image":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1455273183,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Till Death Do Us Part",
+    "content": "Hold your loved one close in this new Adversary mode, built especially for couples. Up to four pairs face off in a shootout but teamwork is key - if one of you dies, the other dies too. You’ll get a health regeneration bonus for staying by your partner’s side. The last pair of lovers standing win.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/.dds",
+        "filesize": 2048
+    }
+}

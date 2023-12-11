@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515531,"title":"","headline":"GTA Online","subtitle":"MCについて","content":"クラブハウスを購入すると、MC(モーターサイクルクラブ)を立ち上げることができ、最大7名のメンバーを率いるプレジデントの座につくことができます。MCには様々な特典があり、メンバーにバイスプレジデントやエンフォーサーなどMC内の役割を割り振ることもできます。全員で協力すれば、最強のMCも夢ではありません。","url":"","image":{"path":"sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChapertVerse/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515531,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "MCについて",
+    "content": "クラブハウスを購入すると、MC(モーターサイクルクラブ)を立ち上げることができ、最大7名のメンバーを率いるプレジデントの座につくことができます。MCには様々な特典があり、メンバーにバイスプレジデントやエンフォーサーなどMC内の役割を割り振ることもできます。全員で協力すれば、最強のMCも夢ではありません。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/.dds",
+        "filesize": 2048
+    }
+}

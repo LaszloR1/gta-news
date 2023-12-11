@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1658771309,"title":"","headline":"GTA Online","subtitle":"PRECISION RIFLE","content":"Ammu-Nation now stock the Precision Rifle, the long-range firearm with heightened accuracy for a quick clean shot. Sure, fight dirty. But do it perfectly.","url":"","image":{"path":"sc/news/9fbe6f9e909f4f969fd157dd/262272_GTAO_CE_Percision_Rifle_BF.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1658771309,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "PRECISION RIFLE",
+    "content": "Ammu-Nation now stock the Precision Rifle, the long-range firearm with heightened accuracy for a quick clean shot. Sure, fight dirty. But do it perfectly.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9fbe6f9e909f4f969fd157dd/262272_GTAO_CE_Percision_Rifle_BF.dds",
+        "filesize": 262272
+    }
+}

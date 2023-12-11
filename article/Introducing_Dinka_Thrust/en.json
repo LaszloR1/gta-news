@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399988978,"headline":"GTA Online Update","subtitle":"Introducing the new Dinka Thrust","content":"The Dinka Thrust. It’s not subtle. It’s not cheap. It’s not safe. Perfect for you.<br /><br />Available now from legendarymotorsport.net and featured in the new High Life race ‘Thrusting Motion’ – test drive it now, easy riding guaranteed.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Dinka_Thrust/65664_GTAVhighLife_THRUST.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399988978,
+    "headline": "GTA Online Update",
+    "subtitle": "Introducing the new Dinka Thrust",
+    "content": "The Dinka Thrust. It’s not subtle. It’s not cheap. It’s not safe. Perfect for you.<br /><br />Available now from legendarymotorsport.net and featured in the new High Life race ‘Thrusting Motion’ – test drive it now, easy riding guaranteed.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Dinka_Thrust/65664_GTAVhighLife_THRUST.dds",
+        "filesize": 65664
+    }
+}

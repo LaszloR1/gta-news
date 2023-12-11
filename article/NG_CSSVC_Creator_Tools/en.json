@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490356057,"title":"","headline":"GTA Online","subtitle":"Special Vehicles Now Available in the Stunt Race Creator","content":"The Special Vehicle Circuit update has expanded the toolbox for the brilliant Creator community to take things up a few notches. In addition to the Rocket Voltic, Ruiner 2000 and Blazer Aqua becoming available in the Stunt Race Creator, we've added a collection of new Props designed to highlight these vehicles’ unique abilities, including Hurdles, Boost Refills and Explosive Crates.","url":"","image":{"path":"sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CSSVC_Creator_Tools/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490356057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Special Vehicles Now Available in the Stunt Race Creator",
+    "content": "The Special Vehicle Circuit update has expanded the toolbox for the brilliant Creator community to take things up a few notches. In addition to the Rocket Voltic, Ruiner 2000 and Blazer Aqua becoming available in the Stunt Race Creator, we've added a collection of new Props designed to highlight these vehicles’ unique abilities, including Hurdles, Boost Refills and Explosive Crates.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/.dds",
+        "filesize": 2048
+    }
+}

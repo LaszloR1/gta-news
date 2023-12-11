@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349635,"title":"","headline":"GTA Online","subtitle":"La munición va a explotar","content":"¿Necesitas munición de inmediato? Ahora puedes comprar la munición directamente desde el menú Interacción, pero no olvides visitar Ammu-Nation, donde encontrarás los mejores precios de Los Santos y lo último en armamento.","url":"","image":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349635,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La munición va a explotar",
+    "content": "¿Necesitas munición de inmediato? Ahora puedes comprar la munición directamente desde el menú Interacción, pero no olvides visitar Ammu-Nation, donde encontrarás los mejores precios de Los Santos y lo último en armamento.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/.dds",
+        "filesize": 2048
+    }
+}

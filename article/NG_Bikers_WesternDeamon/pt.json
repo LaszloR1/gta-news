@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766202,"title":"","headline":"GTA Online","subtitle":"Western Daemon Personalizada e BF Raptor","content":"Chegando às ruas de Los Santos essa semana, a Daemon Personalizada e a Raptor são duas soluções muito diferentes para um problema que você nem sabia que tinha. A nova Daemon é perfeita para mostrar para todo mundo que você pertence a uma longa e distinta tradição de gangues com estilo. Mas se você deseja aquela mistura de admiração, confusão e entusiasmo que apenas um triciclo turbinado pode inspirar, então a Raptor é o veículo certo para você.","url":"","image":{"path":"sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_WesternDeamon/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766202,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Western Daemon Personalizada e BF Raptor",
+    "content": "Chegando às ruas de Los Santos essa semana, a Daemon Personalizada e a Raptor são duas soluções muito diferentes para um problema que você nem sabia que tinha. A nova Daemon é perfeita para mostrar para todo mundo que você pertence a uma longa e distinta tradição de gangues com estilo. Mas se você deseja aquela mistura de admiração, confusão e entusiasmo que apenas um triciclo turbinado pode inspirar, então a Raptor é o veículo certo para você.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515908,"title":"","headline":"GTA Online","subtitle":"Ferri del mestiere","content":"Benvenuto in una nuova era di armi essenziali, senza fronzoli e a canne mozze, perfette per dirigere la tua sinfonia di terrore senza rinunciare alla comodità del sellino. Che si tratti di un potente lanciagranate tascabile o della forza bruta di una giratubi, Ammu-Nation ha quel che fa per te.","url":"","image":{"path":"sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_TooledUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515908,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ferri del mestiere",
+    "content": "Benvenuto in una nuova era di armi essenziali, senza fronzoli e a canne mozze, perfette per dirigere la tua sinfonia di terrore senza rinunciare alla comodità del sellino. Che si tratti di un potente lanciagranate tascabile o della forza bruta di una giratubi, Ammu-Nation ha quel che fa per te.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_TooledUp/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470802,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Nieruchomości","content":"Na dynasty8realestate.com możesz przejrzeć katalog wielu rozsianych po całym stanie luksusowych i mniej luksusowych nieruchomości czekających na spełnienie twych marzeń o domu idealnym. O miejscu, gdzie możesz się zrelaksować, zregenerować siły i ustalać nowe życiowe priorytety. Wszystkie domostwa posiadają garaże, dzięki którym twój wóz będzie bezpieczny, a niektóre oferują również niesamowite widoki.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Real_Estate/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470802,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Nieruchomości",
+    "content": "Na dynasty8realestate.com możesz przejrzeć katalog wielu rozsianych po całym stanie luksusowych i mniej luksusowych nieruchomości czekających na spełnienie twych marzeń o domu idealnym. O miejscu, gdzie możesz się zrelaksować, zregenerować siły i ustalać nowe życiowe priorytety. Wszystkie domostwa posiadają garaże, dzięki którym twój wóz będzie bezpieczny, a niektóre oferują również niesamowite widoki.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Real_Estate/.dds",
+        "filesize": 2048
+    }
+}

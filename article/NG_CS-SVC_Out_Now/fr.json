@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423790,"title":"","headline":"GTA Online","subtitle":"Casse-cou jusqu’au boutµ: édition spéciale","content":"Vous avez tout donné dans les loopings, les sauts, les virages et les plongeons de chacune des courses casse-cou de San Andreas. Vous avez foncé, chuté et surfé à bord de tous les véhicules spéciaux que votre garage souterrain peut contenir. Et maintenantµ? Enfilez une combinaison casse-cou et préparez-vous pour 20µnouvelles courses casse-cou spécialement conçues pour des véhicules que le gouvernement aimerait bien interdire.","url":"","image":{"path":"sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423790,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Casse-cou jusqu’au boutµ: édition spéciale",
+    "content": "Vous avez tout donné dans les loopings, les sauts, les virages et les plongeons de chacune des courses casse-cou de San Andreas. Vous avez foncé, chuté et surfé à bord de tous les véhicules spéciaux que votre garage souterrain peut contenir. Et maintenantµ? Enfilez une combinaison casse-cou et préparez-vous pour 20µnouvelles courses casse-cou spécialement conçues pour des véhicules que le gouvernement aimerait bien interdire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

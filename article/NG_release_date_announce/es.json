@@ -1,1 +1,20 @@
-{"types":["newswire","transition"],"date":1411060292,"title":"18 de noviembre","headline":"GTAV y GTA Online","subtitle":"Grand Theft Auto V llega a las nuevas plataformas","content":"Experimenta una multitud de mejoras técnicas y visuales que hacen a GTAV y GTA Online más envolventes que nunca. Además de mayores distancias visuales y resolución, encontrarás:<br /><br />Nuevas armas, vehículos y actividades.<br />Más fauna salvaje.<br />Tráfico más denso y nuevo sistema de follaje.<br />Efectos de daño y de clima mejorados, y mucho más.<br /><br />Los jugadores que reserven el juego recibirán 1 millón en dinero GTA para gastar en GTAV y GTA Online.","url":"www.rockstargames.com/es/newswire","image":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1411060292,
+    "title": "18 de noviembre",
+    "headline": "GTAV y GTA Online",
+    "subtitle": "Grand Theft Auto V llega a las nuevas plataformas",
+    "content": "Experimenta una multitud de mejoras técnicas y visuales que hacen a GTAV y GTA Online más envolventes que nunca. Además de mayores distancias visuales y resolución, encontrarás:<br /><br />Nuevas armas, vehículos y actividades.<br />Más fauna salvaje.<br />Tráfico más denso y nuevo sistema de follaje.<br />Efectos de daño y de clima mejorados, y mucho más.<br /><br />Los jugadores que reserven el juego recibirán 1 millón en dinero GTA para gastar en GTAV y GTA Online.",
+    "url": "www.rockstargames.com/es/newswire",
+    "image": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds",
+        "filesize": 65664
+    }
+}

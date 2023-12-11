@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999984,"title":"","headline":"GTA Online","subtitle":"Cleared for Take Off","content":"The skies above Los Santos are about to get busy. Everything from vintage dogfighters to miniature choppers to cold war bombers are now in stock (and available at a special trade price for committed smugglers). These magnificent flying machines can be stored in your private hangar, and customized with the investment in an Aircraft Workshop. You can even convert and store any Pegasus aircraft as your own Personal Vehicle at no extra cost. Time for some blue-sky thinking.","url":"","image":{"path":"sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cleared for Take Off",
+    "content": "The skies above Los Santos are about to get busy. Everything from vintage dogfighters to miniature choppers to cold war bombers are now in stock (and available at a special trade price for committed smugglers). These magnificent flying machines can be stored in your private hangar, and customized with the investment in an Aircraft Workshop. You can even convert and store any Pegasus aircraft as your own Personal Vehicle at no extra cost. Time for some blue-sky thinking.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

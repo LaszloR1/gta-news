@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677133,"title":"GTA+","headline":"GTA+","subtitle":"復仇者作戰終端機","content":"即日起至µ7µ月µ19µ日止，GTA+µ會員可免費安裝復仇者作戰終端機。<br /><br />作戰終端機是室內升級項目，可解鎖「傾覆計畫」與「洛聖都天使行動」。<br /><br />駕駛您的復仇者前往機庫，查理可以幫您安裝復仇者作戰終端機，或是您也可透過「查理升級」選單自訂復仇者。<br /><br />GTA+µ會籍每月將自動續訂，訂閱可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_zh_tw.dds","filesize":262272},"button":"選擇以加入µGTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677133,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "復仇者作戰終端機",
+    "content": "即日起至µ7µ月µ19µ日止，GTA+µ會員可免費安裝復仇者作戰終端機。<br /><br />作戰終端機是室內升級項目，可解鎖「傾覆計畫」與「洛聖都天使行動」。<br /><br />駕駛您的復仇者前往機庫，查理可以幫您安裝復仇者作戰終端機，或是您也可透過「查理升級」選單自訂復仇者。<br /><br />GTA+µ會籍每月將自動續訂，訂閱可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_zh_tw.dds",
+        "filesize": 262272
+    },
+    "button": "選擇以加入µGTA+"
+}

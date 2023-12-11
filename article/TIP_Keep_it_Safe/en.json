@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380468159,"headline":"Online Tip","subtitle":"Keep it Safe","content":"Keep your cash safe by banking it via one of the numerous ATMs in Los Santos at any time. Use the Interaction Menu to Quick GPS ‘ATMs’ to find one in a hurry. You can also access your ATM and make deposits and withdrawals using your phone’s web browser, simply go to www.maze-bank.com.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380468159,
+    "headline": "Online Tip",
+    "subtitle": "Keep it Safe",
+    "content": "Keep your cash safe by banking it via one of the numerous ATMs in Los Santos at any time. Use the Interaction Menu to Quick GPS ‘ATMs’ to find one in a hurry. You can also access your ATM and make deposits and withdrawals using your phone’s web browser, simply go to www.maze-bank.com.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482320395,"title":"","headline":"GTA Online","subtitle":"Sang plomb","content":"Vous avez déjà incarné une proie enragée et un tueur en série, mais vous êtes-vous déjà transformé en un char d'assaut Rhino capable de rouler à 100µkm/h, avant de se faire ralentir et laminer par un sale type sur sa Shotaroµ? C'est bien ce qu'on pensait, mais c'est maintenant ou jamais. Dans ce nouveau mode rivalité, votre équipe devra affronter une bande de timbrés motorisés et récupérer des bonus qui peuvent à eux seuls renverser le cours de la bataille. Accrochez votre ceinture.","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Vendetta/349672_bigFeed-VehicleVendetta.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Vehicle_Vendetta/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482320395,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sang plomb",
+    "content": "Vous avez déjà incarné une proie enragée et un tueur en série, mais vous êtes-vous déjà transformé en un char d'assaut Rhino capable de rouler à 100µkm/h, avant de se faire ralentir et laminer par un sale type sur sa Shotaroµ? C'est bien ce qu'on pensait, mais c'est maintenant ou jamais. Dans ce nouveau mode rivalité, votre équipe devra affronter une bande de timbrés motorisés et récupérer des bonus qui peuvent à eux seuls renverser le cours de la bataille. Accrochez votre ceinture.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Vendetta/349672_bigFeed-VehicleVendetta.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Vendetta/.dds",
+        "filesize": 2048
+    }
+}

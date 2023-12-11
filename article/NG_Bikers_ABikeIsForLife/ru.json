@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515861,"title":"","headline":"GTA Online","subtitle":"Мотоцикл – друг до гроба","content":"На улицах Сан-Андреаса появилась уйма невероятно крутых байков, так что вам наверняка захочется пополнить свою коллекцию. К счастью, в гараже каждого мотоклуба есть место для 10 мотоциклов, так что вы станете ближе к заветной мечте. Купите себе клабхаус на сайте foreclosures.maze-bank.com прямо сейчас.","url":"","image":{"path":"sc/news/NG_Bikers_ABikeIsForLife/262272_MazeForeclosure.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ABikeIsForLife/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515861,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Мотоцикл – друг до гроба",
+    "content": "На улицах Сан-Андреаса появилась уйма невероятно крутых байков, так что вам наверняка захочется пополнить свою коллекцию. К счастью, в гараже каждого мотоклуба есть место для 10 мотоциклов, так что вы станете ближе к заветной мечте. Купите себе клабхаус на сайте foreclosures.maze-bank.com прямо сейчас.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ABikeIsForLife/262272_MazeForeclosure.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ABikeIsForLife/.dds",
+        "filesize": 2048
+    }
+}

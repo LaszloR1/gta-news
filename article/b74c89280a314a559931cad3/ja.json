@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTAオンライン","subtitle":"タクティカルSMG","content":"朗報：友好的な近所の武器商人が、合法的とは言えないお土産を大量に抱えて街にやって来ました。<br /><br />その中でも注目すべきは、武器のエキスパートなら誰もが装備したがる大容量の高速サブマシンガン、タクティカルSMGです。今すぐ銃器バンで手に入れましょう。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTAオンライン",
+    "subtitle": "タクティカルSMG",
+    "content": "朗報：友好的な近所の武器商人が、合法的とは言えないお土産を大量に抱えて街にやって来ました。<br /><br />その中でも注目すべきは、武器のエキスパートなら誰もが装備したがる大容量の高速サブマシンガン、タクティカルSMGです。今すぐ銃器バンで手に入れましょう。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

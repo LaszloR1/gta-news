@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380568682,"title":"","headline":"Dica online","subtitle":"Ativar o Modo Passivo","content":"Se precisa de tempo para explorar sem interrupções invasivas e desnecessárias, ligue o Modo Passivo. Quando ele estiver habilitado, e você estiver a pé, os demais jogadores não poderão atirar em você e você não poderá atirar neles. Não é nada realista.<br /> <br />Encontre o Modo Passivo no Menu de Interação.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Passive_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380568682,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Ativar o Modo Passivo",
+    "content": "Se precisa de tempo para explorar sem interrupções invasivas e desnecessárias, ligue o Modo Passivo. Quando ele estiver habilitado, e você estiver a pé, os demais jogadores não poderão atirar em você e você não poderá atirar neles. Não é nada realista.<br /> <br />Encontre o Modo Passivo no Menu de Interação.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Passive_Mode/.dds",
+        "filesize": 2048
+    }
+}

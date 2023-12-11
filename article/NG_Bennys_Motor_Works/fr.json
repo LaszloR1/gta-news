@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349404,"title":"","headline":"GTA Online","subtitle":"Benny’s Original Motor Works","content":"Tout un tas de nouvelles options de customisation sont à votre disposition chez Benny’s Original Motor Works. Rendez-vous sur www.bennysoriginalmotorworks.com ou servez-vous du raccourci de votre téléphone pour voir les derniers projets réalisés par Benny.<br /><br />Achetez la voiture que vous souhaitez modifier et amenez-la à Benny, au cœur de Los Santos. Débloquez l'accès à de nouvelles options, incluant les suspensions hydrauliques et l'habillage de l'habitacle.<br />Lamar pourra vous aider à vous lancer.","url":"","image":{"path":"sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bennys_Motor_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349404,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Benny’s Original Motor Works",
+    "content": "Tout un tas de nouvelles options de customisation sont à votre disposition chez Benny’s Original Motor Works. Rendez-vous sur www.bennysoriginalmotorworks.com ou servez-vous du raccourci de votre téléphone pour voir les derniers projets réalisés par Benny.<br /><br />Achetez la voiture que vous souhaitez modifier et amenez-la à Benny, au cœur de Los Santos. Débloquez l'accès à de nouvelles options, incluant les suspensions hydrauliques et l'habillage de l'habitacle.<br />Lamar pourra vous aider à vous lancer.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bennys_Motor_Works/.dds",
+        "filesize": 2048
+    }
+}

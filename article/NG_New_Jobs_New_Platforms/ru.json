@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224090,"title":"","headline":"GTA Online","subtitle":"Новые дела для новых платформ","content":"Чтобы извлечь максимум пользы из возросшего числа игроков в сессии, в игру были добавлены новые дела (гонки, перестрелки, захваты и КУ), рассчитанные на 30 человек, а также парашютные прыжки на 16 человек.<br /><br />Кроме того, есть плей-листы с ожесточенными схватками на 30 человек.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Jobs_New_Platforms/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224090,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Новые дела для новых платформ",
+    "content": "Чтобы извлечь максимум пользы из возросшего числа игроков в сессии, в игру были добавлены новые дела (гонки, перестрелки, захваты и КУ), рассчитанные на 30 человек, а также парашютные прыжки на 16 человек.<br /><br />Кроме того, есть плей-листы с ожесточенными схватками на 30 человек.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/.dds",
+        "filesize": 2048
+    }
+}

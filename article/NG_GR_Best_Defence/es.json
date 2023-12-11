@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916829,"title":"","headline":"GTA Online","subtitle":"La mejor defensa","content":"Además de ser la única propiedad del catálogo creada para soportar un ataque nuclear directo, tu nuevo búnker puede ser la sede de operaciones desde la que accedas al mercado negro más importante. En él, jefes, vips y presidentes de clubes de moteros pueden crear un distribuidor de armas de élite: abastece tu negocio, fabrica armas y véndelas antes de que los federales o la competencia se entrometan. Prepárate para los enormes beneficios que solo una economía de guerra puede ofrecer.","url":"","image":{"path":"sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Best_Defence/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916829,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La mejor defensa",
+    "content": "Además de ser la única propiedad del catálogo creada para soportar un ataque nuclear directo, tu nuevo búnker puede ser la sede de operaciones desde la que accedas al mercado negro más importante. En él, jefes, vips y presidentes de clubes de moteros pueden crear un distribuidor de armas de élite: abastece tu negocio, fabrica armas y véndelas antes de que los federales o la competencia se entrometan. Prepárate para los enormes beneficios que solo una economía de guerra puede ofrecer.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Best_Defence/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

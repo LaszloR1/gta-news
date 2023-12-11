@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140171,"title":"GTA+","headline":"GTA+","subtitle":"Vêtements exclusifs","content":"Les abonnés à GTA+ peuvent adopter un look terrifiant et effrayer la populace en récupérant les vêtements suivants jusqu'au 8µnovembreµ:<br /><br />• Combinaison rayée monochrome fermée<br />• Combinaison moulante squelette<br />• T-shirt PRB<br />• Short PRB<br />• Sweat PRB<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Plus d'informations sur rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_fr_fr.dds","filesize":262272},"button":"Abonnez-vous à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140171,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Vêtements exclusifs",
+    "content": "Les abonnés à GTA+ peuvent adopter un look terrifiant et effrayer la populace en récupérant les vêtements suivants jusqu'au 8µnovembreµ:<br /><br />• Combinaison rayée monochrome fermée<br />• Combinaison moulante squelette<br />• T-shirt PRB<br />• Short PRB<br />• Sweat PRB<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Plus d'informations sur rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "Abonnez-vous à GTA+"
+}

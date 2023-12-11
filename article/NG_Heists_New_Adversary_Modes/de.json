@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979851,"title":"","headline":"GTA Online","subtitle":"Gegner-Modi","content":"Das Heist-Update beinhaltet spannende neue Gegner-Modi für ein kleines Gefecht vor dem nächsten großen Ding. Alle neuen Modi werden ab Rang 12 freigeschaltet.<br /><br />Belagerungszustand – Verteidige dein Gebiet um jeden Preis, mit Mut, Entschlossenheit und schweren Waffen.<br />Hasta La Vista – Entkomme deinen Gegnern, die in bedrohlichen Todestrucks unterwegs sind – du brauchst doch keine Maschine ... oder?<br />Come Out to Play – Ein Team muss sein Ziel zu Fuß erreichen, während die Jäger sie verfolgen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979851,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Gegner-Modi",
+    "content": "Das Heist-Update beinhaltet spannende neue Gegner-Modi für ein kleines Gefecht vor dem nächsten großen Ding. Alle neuen Modi werden ab Rang 12 freigeschaltet.<br /><br />Belagerungszustand – Verteidige dein Gebiet um jeden Preis, mit Mut, Entschlossenheit und schweren Waffen.<br />Hasta La Vista – Entkomme deinen Gegnern, die in bedrohlichen Todestrucks unterwegs sind – du brauchst doch keine Maschine ... oder?<br />Come Out to Play – Ein Team muss sein Ziel zu Fuß erreichen, während die Jäger sie verfolgen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

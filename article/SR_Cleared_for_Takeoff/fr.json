@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999984,"title":"","headline":"GTA Online","subtitle":"Autorisation de décoller","content":"Le ciel de Los Santos va être surchargé. Avion de chasse rétro, bombardier de la guerre froide, hélicoptère miniatureµ: tout est dès à présent en stock et disponible à un tarif spécial pour les trafiquants dévoués. Entreposez ces machines volantes dans votre hangar privé et personnalisez-les avec un atelier d’appareils aériens. Vous pouvez aussi entreposer un appareil Pegasus et en faire votre appareil aérien personnel sans frais supplémentaires. La créativité va vous donner des ailes.","url":"","image":{"path":"sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Autorisation de décoller",
+    "content": "Le ciel de Los Santos va être surchargé. Avion de chasse rétro, bombardier de la guerre froide, hélicoptère miniatureµ: tout est dès à présent en stock et disponible à un tarif spécial pour les trafiquants dévoués. Entreposez ces machines volantes dans votre hangar privé et personnalisez-les avec un atelier d’appareils aériens. Vous pouvez aussi entreposer un appareil Pegasus et en faire votre appareil aérien personnel sans frais supplémentaires. La créativité va vous donner des ailes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

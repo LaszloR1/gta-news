@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705124,"title":"GTA+","headline":"GTA+","subtitle":"Vêtements exclusifs","content":"Les abonnés à GTA+ peuvent récupérer gratuitement le t-shirt réserve fédérale de SA, le t-shirt Rangers de l'espace et le sweat Seigneur de Los Santos jusqu'au 11µoctobre.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/8946945e9efb45899c09fc3e/262272_GTA_Plus_MP18_FreeCloathing_FINAL_BigFeed_fr_fr.dds","filesize":262272},"button":"Abonnez-vous à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705124,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Vêtements exclusifs",
+    "content": "Les abonnés à GTA+ peuvent récupérer gratuitement le t-shirt réserve fédérale de SA, le t-shirt Rangers de l'espace et le sweat Seigneur de Los Santos jusqu'au 11µoctobre.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/8946945e9efb45899c09fc3e/262272_GTA_Plus_MP18_FreeCloathing_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "Abonnez-vous à GTA+"
+}

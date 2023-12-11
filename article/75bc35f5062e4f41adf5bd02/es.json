@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1617898540,"title":"","headline":"GTA Online","subtitle":"Descuentos","content":"Disfruta de una selección de ofertas esta semana: ahorra un 40µ% en apartamentos de lujo y un 50µ% en mejoras de armas Mk II. Además, hay varios vehículos rebajados:<br /><br />- Grotti Cheetah Classic: 30µ% de descuento<br />- Vapid Winky: 30µ% de descuento<br />- HVY Insurgent: 40µ% de descuento<br />- Lampadati Casco: 40 % de descuento<br /><br />¡Y mucho más! Detalles en el Rockstar Newswire.","url":"","image":{"path":"sc/news/75bc35f5062e4f41adf5bd02/262272_Grotti_Cheetah_Classic.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1617898540,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos",
+    "content": "Disfruta de una selección de ofertas esta semana: ahorra un 40µ% en apartamentos de lujo y un 50µ% en mejoras de armas Mk II. Además, hay varios vehículos rebajados:<br /><br />- Grotti Cheetah Classic: 30µ% de descuento<br />- Vapid Winky: 30µ% de descuento<br />- HVY Insurgent: 40µ% de descuento<br />- Lampadati Casco: 40 % de descuento<br /><br />¡Y mucho más! Detalles en el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/75bc35f5062e4f41adf5bd02/262272_Grotti_Cheetah_Classic.dds",
+        "filesize": 262272
+    }
+}

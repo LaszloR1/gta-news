@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455282,"title":"","headline":"GTA Online","subtitle":"Nuits blanches et marché noir","content":"Dans GTA Onlineµ: Nuits blanches et marché noir, redécouvrez un Los Santos où les lumières sont encore plus vives, les nuits encore plus longues, et l'argent encore plus sale que d'ordinaire. Gérez la boîte de nuit la plus sélecte de la ville, attirez-y des DJ de renommée mondiale et utilisez-la comme façade au réseau criminel le plus dense jamais vu à San Andreas.","url":"","image":{"path":"sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455282,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuits blanches et marché noir",
+    "content": "Dans GTA Onlineµ: Nuits blanches et marché noir, redécouvrez un Los Santos où les lumières sont encore plus vives, les nuits encore plus longues, et l'argent encore plus sale que d'ordinaire. Gérez la boîte de nuit la plus sélecte de la ville, attirez-y des DJ de renommée mondiale et utilisez-la comme façade au réseau criminel le plus dense jamais vu à San Andreas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

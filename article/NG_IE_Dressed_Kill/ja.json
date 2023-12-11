@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543397,"title":"","headline":"GTA Online","subtitle":"ドレスコード","content":"急速に拡大する皆さんの犯罪帝国に合わせて、犯罪用のワードローブも充実させる必要があります。店に新しく追加された幅広い衣服はもちろん、新しいタトゥーや髪型、そして奇妙なマスク、素晴らしいマスク、それに吐き気を催すマスクもチェックしましょう。もちろんこれら最新ファッションには、新たなCEOのスタイルも含まれており、アクションメニューから組織全体に共有できます。","url":"","image":{"path":"sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Dressed_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543397,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ドレスコード",
+    "content": "急速に拡大する皆さんの犯罪帝国に合わせて、犯罪用のワードローブも充実させる必要があります。店に新しく追加された幅広い衣服はもちろん、新しいタトゥーや髪型、そして奇妙なマスク、素晴らしいマスク、それに吐き気を催すマスクもチェックしましょう。もちろんこれら最新ファッションには、新たなCEOのスタイルも含まれており、アクションメニューから組織全体に共有できます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Dressed_Kill/.dds",
+        "filesize": 2048
+    }
+}

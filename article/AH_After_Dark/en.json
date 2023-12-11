@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455277,"title":"","headline":"GTA Online","subtitle":"After Dark","content":"So you’ve partnered with a well-connected impresario of the underground nightclub scene to open your own club. Well, how about putting the executive branch of your whole criminal empire right underneath it? From the mainframe in this sprawling underground warehouse, your tech team can extract potential opportunities for major additional profits from every other business you own – and all without you having to lift a finger.","url":"","image":{"path":"sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455277,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "After Dark",
+    "content": "So you’ve partnered with a well-connected impresario of the underground nightclub scene to open your own club. Well, how about putting the executive branch of your whole criminal empire right underneath it? From the mainframe in this sprawling underground warehouse, your tech team can extract potential opportunities for major additional profits from every other business you own – and all without you having to lift a finger.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380560619,"headline":"Newswire","subtitle":"Witamy w GTA Online","content":"Grand Theft Auto Online zawiera kluczowe wyróżniki Grand Theft Auto czyli pełną swobodę, rozgrywkę opartą na misjach i szeroki wachlarz dodatkowych zajęć i udostępnia je wielu graczom jednocześnie, tworząc szczegółowy i dynamiczny świat.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds","filesize":65664},"landscape":{"path":"sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380560619,
+    "headline": "Newswire",
+    "subtitle": "Witamy w GTA Online",
+    "content": "Grand Theft Auto Online zawiera kluczowe wyróżniki Grand Theft Auto czyli pełną swobodę, rozgrywkę opartą na misjach i szeroki wachlarz dodatkowych zajęć i udostępnia je wielu graczom jednocześnie, tworząc szczegółowy i dynamiczny świat.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds",
+        "filesize": 65664
+    }
+}

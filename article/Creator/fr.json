@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1386691807,"headline":"GTA Online","subtitle":"Éditeur d'affrontements et de courses (beta) disponible","content":"La dernière mise à jour gratuite de GTA Online inclut l'éditeur d'affrontements et de courses (beta).<br /><br />Créez vos propres fusillades sanglantes, vos courses de rue enflammées et plus encore, puis publiez-les via le Rockstar Games Social Club pour que toute la communauté les découvre, les télécharge, les teste, les note et les partage.<br /><br />Accédez à l'Éditeur d'affrontements et de courses (beta) en allant dans En ligne > Éditeur, dans le menu Pause de GTA Online.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds","filesize":131200},"landscape":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds","filesize":131200}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1386691807,
+    "headline": "GTA Online",
+    "subtitle": "Éditeur d'affrontements et de courses (beta) disponible",
+    "content": "La dernière mise à jour gratuite de GTA Online inclut l'éditeur d'affrontements et de courses (beta).<br /><br />Créez vos propres fusillades sanglantes, vos courses de rue enflammées et plus encore, puis publiez-les via le Rockstar Games Social Club pour que toute la communauté les découvre, les télécharge, les teste, les note et les partage.<br /><br />Accédez à l'Éditeur d'affrontements et de courses (beta) en allant dans En ligne > Éditeur, dans le menu Pause de GTA Online.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds",
+        "filesize": 131200
+    },
+    "landscape": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds",
+        "filesize": 131200
+    }
+}

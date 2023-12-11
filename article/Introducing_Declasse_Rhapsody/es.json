@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402998616,"headline":"Actualización de GTA Online","subtitle":"Presentamos el nuevo Declasse Rhapsody","content":"Nada expresa mejor la postironía como un coche de gominolas americano retrofuturista. Pequeño y con un amplio cristal trasero para lucir tu moño samurái y facilitar la fotografía Snapmatic de 360 grados.<br /><br />Disponible para comprar en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un Hipster'': ''Ser guay mola''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Declasse_Rhapsody/65664_Rhapsody.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402998616,
+    "headline": "Actualización de GTA Online",
+    "subtitle": "Presentamos el nuevo Declasse Rhapsody",
+    "content": "Nada expresa mejor la postironía como un coche de gominolas americano retrofuturista. Pequeño y con un amplio cristal trasero para lucir tu moño samurái y facilitar la fotografía Snapmatic de 360 grados.<br /><br />Disponible para comprar en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un Hipster'': ''Ser guay mola''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Declasse_Rhapsody/65664_Rhapsody.dds",
+        "filesize": 65664
+    }
+}

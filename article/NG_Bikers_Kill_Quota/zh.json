@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480010231,"title":"","headline":"GTA Online","subtitle":"定額殺戮","content":"真正的大師必須快速適應各種環境，而您可在「定額殺戮」中試煉您的能耐。您的隊伍於一開始會配備一種武器，以該武器達到特定擊殺數後，將換成另一種武器。無論是火箭砲或撞球桿，您都必須精進自己的專業技術，運用各式各樣的武器在賽中闖蕩：運用所有武器達到足夠擊殺數的第一支隊伍即可獲勝。","url":"","image":{"path":"sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Kill_Quota/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480010231,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "定額殺戮",
+    "content": "真正的大師必須快速適應各種環境，而您可在「定額殺戮」中試煉您的能耐。您的隊伍於一開始會配備一種武器，以該武器達到特定擊殺數後，將換成另一種武器。無論是火箭砲或撞球桿，您都必須精進自己的專業技術，運用各式各樣的武器在賽中闖蕩：運用所有武器達到足夠擊殺數的第一支隊伍即可獲勝。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/.dds",
+        "filesize": 2048
+    }
+}

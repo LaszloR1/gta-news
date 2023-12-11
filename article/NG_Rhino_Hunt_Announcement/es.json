@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1456487317,"title":"","headline":"GTA Online","subtitle":"Caza de Rhinos","content":"Lucha por sobrevivir contra todo pronóstico en este nuevo modo Adversario con vehículos en el que los cazadores, armados únicamente con bombas adhesivas, intentarán destruir los tanques Rhino enemigos. Superados en número, los Rhinos deberán utilizar su fuerza y su potencia de fuego para defenderse y sobrevivir el tiempo necesario para ganar.","url":"","image":{"path":"sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rhino_Hunt_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1456487317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Caza de Rhinos",
+    "content": "Lucha por sobrevivir contra todo pronóstico en este nuevo modo Adversario con vehículos en el que los cazadores, armados únicamente con bombas adhesivas, intentarán destruir los tanques Rhino enemigos. Superados en número, los Rhinos deberán utilizar su fuerza y su potencia de fuego para defenderse y sobrevivir el tiempo necesario para ganar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/.dds",
+        "filesize": 2048
+    }
+}

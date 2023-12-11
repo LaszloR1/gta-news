@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313643,"title":"","headline":"GTA Online","subtitle":"自由模式","content":"自由模式已大幅改變，而您也可以在遊戲中找到許多不同的活動，讓您可以與整個洛聖都的高手一較高下。記得注意畫面出現的紫色通知和光點，這樣您就可以知道活動舉辦的時間以及位置。<br />每個活動都會有必要的步驟規定，依照這些步驟規定，您就有機會可以賺取遊戲幣和聲望值。","url":"","image":{"path":"sc/news/NG-Free-Freemode/262272_Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313643,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "自由模式",
+    "content": "自由模式已大幅改變，而您也可以在遊戲中找到許多不同的活動，讓您可以與整個洛聖都的高手一較高下。記得注意畫面出現的紫色通知和光點，這樣您就可以知道活動舉辦的時間以及位置。<br />每個活動都會有必要的步驟規定，依照這些步驟規定，您就有機會可以賺取遊戲幣和聲望值。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode/262272_Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode/.dds",
+        "filesize": 2048
+    }
+}

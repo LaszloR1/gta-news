@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314080,"title":"","headline":"GTA Online","subtitle":"自由模式活動","content":"在洛聖都歡樂兜風的時候，記得隨時注意紫色光點，那是代表有新的自由模式活動可進行。<br />這些活動包括需要您快速送貨的「死亡運車手」、需要佔領區域的「城堡之王」、需要使用特定載具與梅利威瑟人馬對戰的「殺戮名單」等，另外還有更多。只要接近活動位置即可參加。","url":"","image":{"path":"sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Events/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314080,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "自由模式活動",
+    "content": "在洛聖都歡樂兜風的時候，記得隨時注意紫色光點，那是代表有新的自由模式活動可進行。<br />這些活動包括需要您快速送貨的「死亡運車手」、需要佔領區域的「城堡之王」、需要使用特定載具與梅利威瑟人馬對戰的「殺戮名單」等，另外還有更多。只要接近活動位置即可參加。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Events/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916655,"title":"","headline":"GTA Online","subtitle":"Estilo sanguinario","content":"Esta temporada, las tiendas y las peluquerías de Los Santos están listas para ofrecer las últimas tendencias del estilo 'mercenario superviviente': parkas de camuflaje, boinas de exmilitar, botas de combate resistentes, tatuajes sanguinarios y pelo rapado. Ten el aspecto adecuado: serás lo último que vean.","url":"","image":{"path":"sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Cold_blooded_Chic/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916655,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Estilo sanguinario",
+    "content": "Esta temporada, las tiendas y las peluquerías de Los Santos están listas para ofrecer las últimas tendencias del estilo 'mercenario superviviente': parkas de camuflaje, boinas de exmilitar, botas de combate resistentes, tatuajes sanguinarios y pelo rapado. Ten el aspecto adecuado: serás lo último que vean.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

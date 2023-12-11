@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1651166693,"title":"","headline":"GTA Online","subtitle":"Скидки на предприятия","content":"На этой неделе воспользуйтесь скидкой 30% на офисы, бункеры, ночные клубы, байкерские предприятия, а также Benefactor Terrorbyte.","url":"","image":{"path":"sc/news/7c9e7ac9b5824f46a1b76cf5/349672_NG_Exec_Office.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1651166693,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Скидки на предприятия",
+    "content": "На этой неделе воспользуйтесь скидкой 30% на офисы, бункеры, ночные клубы, байкерские предприятия, а также Benefactor Terrorbyte.",
+    "url": "",
+    "image": {
+        "path": "sc/news/7c9e7ac9b5824f46a1b76cf5/349672_NG_Exec_Office.dds",
+        "filesize": 349672
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433954894,"title":"","headline":"GTA Online","subtitle":"Sumptuous Destruction","content":"Visit Ammu-Nation to apply opulent engravings to your arsenal of deadly weapons.<br /><br />A variety of weapons can now have special engravings applied - show your most trusted side-arm the love it deserves.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Sumptuous_Destruction/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sumptuous_Destruction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433954894,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumptuous Destruction",
+    "content": "Visit Ammu-Nation to apply opulent engravings to your arsenal of deadly weapons.<br /><br />A variety of weapons can now have special engravings applied - show your most trusted side-arm the love it deserves.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Sumptuous_Destruction/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sumptuous_Destruction/.dds",
+        "filesize": 2048
+    }
+}

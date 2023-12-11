@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465308370,"title":"","headline":"GTA Online","subtitle":"Haute finance et basses besognes maintenant disponible","content":"Continuez votre ascension pour devenir le parrain du crime organisé à Los Santos et Blaine County dans Haute finance et basses besognes. Avoir un poste de PDG, c'est pouvoir profiter de toutes les compétences spéciales réservées aux gros bonnets et accéder au marché noir grâce au Réseau de Marchandises spéciales SecuroServ, vous permettant d'acheter et de vendre de la contrebande dans toute la ville.<br /><br />Consultez rockstargames.com/fr/newswire pour plus d'informations.","url":"","image":{"path":"sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds","filesize":349672},"landscape":{"path":"sc/news/NG_FAFF_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465308370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Haute finance et basses besognes maintenant disponible",
+    "content": "Continuez votre ascension pour devenir le parrain du crime organisé à Los Santos et Blaine County dans Haute finance et basses besognes. Avoir un poste de PDG, c'est pouvoir profiter de toutes les compétences spéciales réservées aux gros bonnets et accéder au marché noir grâce au Réseau de Marchandises spéciales SecuroServ, vous permettant d'acheter et de vendre de la contrebande dans toute la ville.<br /><br />Consultez rockstargames.com/fr/newswire pour plus d'informations.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

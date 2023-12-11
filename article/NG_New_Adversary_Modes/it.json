@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349349,"title":"","headline":"GTA Online","subtitle":"Nuove modalità Competizione","content":"Scendi in campo con le lowrider in 3 nuove modalità Competizione:<br />Staffetta: un Guidatore gareggia, mentre l'altro attende sulla linea di partenza. A ogni giro i ruoli si invertono.<br /><br />La miglior difesa: un Trafficante deve attraversare dei checkpoint con la sua lowrider mentre il suo Protettore lo difende e attacca gli avversari.<br /><br />Mantieni il passo: mantieniti sopra una determinata velocità mentre gareggi lungo percorsi disseminati di salti e ostacoli. Rallenta troppo ed esploderai.","url":"","image":{"path":"sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349349,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuove modalità Competizione",
+    "content": "Scendi in campo con le lowrider in 3 nuove modalità Competizione:<br />Staffetta: un Guidatore gareggia, mentre l'altro attende sulla linea di partenza. A ogni giro i ruoli si invertono.<br /><br />La miglior difesa: un Trafficante deve attraversare dei checkpoint con la sua lowrider mentre il suo Protettore lo difende e attacca gli avversari.<br /><br />Mantieni il passo: mantieniti sopra una determinata velocità mentre gareggi lungo percorsi disseminati di salti e ostacoli. Rallenta troppo ed esploderai.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Spiele The Last Dose","content":"Besuche Dax, sobald du The First Dose abgeschlossen hast, um die Story von Los Santos Drug Wars mit The Last Dose fortzusetzen. Die fünf neuen Missionen führen dich und die Truppe in einen Kaninchenbau voller Action, bekannter Gesichter, Söldner, Sabotage, Entführungen und mehr.<br /><br />Durch den Abschluss der Missionen schaltest du einen kostenlosen Ocelot Virtue frei sowie dessen Handelspreis.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds","filesize":262272},"button":"Spiele The Last Dose"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Spiele The Last Dose",
+    "content": "Besuche Dax, sobald du The First Dose abgeschlossen hast, um die Story von Los Santos Drug Wars mit The Last Dose fortzusetzen. Die fünf neuen Missionen führen dich und die Truppe in einen Kaninchenbau voller Action, bekannter Gesichter, Söldner, Sabotage, Entführungen und mehr.<br /><br />Durch den Abschluss der Missionen schaltest du einen kostenlosen Ocelot Virtue frei sowie dessen Handelspreis.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds",
+        "filesize": 262272
+    },
+    "button": "Spiele The Last Dose"
+}

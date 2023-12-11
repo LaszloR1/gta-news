@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453861,"title":"","headline":"GTA Online","subtitle":"Zona de Salto","content":"Até quatro equipes saltam de um Cargobob e competem para chegar ao chão, onde devem lutar para manter o controle da Zona de Salto. Vence a primeira equipe a dominar a Zona por tempo suficiente para encher o marcador. Caso ninguém vença dentro do tempo limite, a Morte Súbita será ativada.","url":"","image":{"path":"sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drop_Zone/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453861,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zona de Salto",
+    "content": "Até quatro equipes saltam de um Cargobob e competem para chegar ao chão, onde devem lutar para manter o controle da Zona de Salto. Vence a primeira equipe a dominar a Zona por tempo suficiente para encher o marcador. Caso ninguém vença dentro do tempo limite, a Morte Súbita será ativada.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drop_Zone/.dds",
+        "filesize": 2048
+    }
+}

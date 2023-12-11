@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140171,"title":"GTA+","headline":"GTA+","subtitle":"Exclusive Clothing","content":"GTA+ Members can cut a terrifying figure and scare the local populace by claiming the following clothing items through November 8:<br /><br />— The Monochrome Striped Closed Suit<br />— The Skeleton Bodysuit<br />— The PRB Tee<br />— The PRB Shorts<br />— The PRB Hoodie<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_en_us.dds","filesize":262272},"button":"Select to sign up to GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140171,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Exclusive Clothing",
+    "content": "GTA+ Members can cut a terrifying figure and scare the local populace by claiming the following clothing items through November 8:<br /><br />— The Monochrome Striped Closed Suit<br />— The Skeleton Bodysuit<br />— The PRB Tee<br />— The PRB Shorts<br />— The PRB Hoodie<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_en_us.dds",
+        "filesize": 262272
+    },
+    "button": "Select to sign up to GTA+"
+}

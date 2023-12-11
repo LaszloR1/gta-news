@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223259,"title":"","headline":"GTA Online","subtitle":"大量購買","content":"您現在可以在武裝國度購買任何武器的所有彈藥！只要瀏覽武器陳列牆面、選擇一種武器，然後在購買彈藥時按 ~INPUT_FRONTEND_X~，即可切換為購買最大數目。~n~~n~您也可以在死鬥遊戲/團隊生存遊戲/奪取/任務大廳中一口氣買齊自己所有武器的所有彈藥。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Bulk_Buy/262272_BulkBuy.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bulk_Buy/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223259,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "大量購買",
+    "content": "您現在可以在武裝國度購買任何武器的所有彈藥！只要瀏覽武器陳列牆面、選擇一種武器，然後在購買彈藥時按 ~INPUT_FRONTEND_X~，即可切換為購買最大數目。~n~~n~您也可以在死鬥遊戲/團隊生存遊戲/奪取/任務大廳中一口氣買齊自己所有武器的所有彈藥。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Bulk_Buy/262272_BulkBuy.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bulk_Buy/.dds",
+        "filesize": 2048
+    }
+}

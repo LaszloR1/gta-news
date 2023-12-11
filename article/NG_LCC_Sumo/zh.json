@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044120,"title":"","headline":"GTA Online","subtitle":"暴力碰碰車","content":"在這個全新競爭模式中與隊友通力合作，利用猛擊、衝撞與閃躲與對手一較高下，將其撞出賽場。依據您對大小、速度或操控性的需求，挑選符合您風格的載具。能在場上留到最後一秒的隊伍即可獲勝。","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044120,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "暴力碰碰車",
+    "content": "在這個全新競爭模式中與隊友通力合作，利用猛擊、衝撞與閃躲與對手一較高下，將其撞出賽場。依據您對大小、速度或操控性的需求，挑選符合您風格的載具。能在場上留到最後一秒的隊伍即可獲勝。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

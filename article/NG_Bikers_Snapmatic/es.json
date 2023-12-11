@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475767265,"title":"","headline":"GTA Online","subtitle":"Concurso de Snapmatic #BIKERS","content":"Prepárate para mandar tus mejores fotos al desafío de Snapmatic #BIKERS. Estamos buscando cinco fotos que resalten lo mejor de Moteros, desde los vehículos a sedes del club ocupándose de sus negocios. Los cinco ganadores no solo aparecerán destacados en el Newswire, sino que sus autores también recibirán 1 millón de GTA$. La inscripción durará hasta el lunes 10 de octubre, y las fotos deben etiquetarse con #BIKERS en el Social Club.<br /><br />Visita el Social Club para ver las reglas oficiales.","url":"","image":{"path":"sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Snapmatic/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475767265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Concurso de Snapmatic #BIKERS",
+    "content": "Prepárate para mandar tus mejores fotos al desafío de Snapmatic #BIKERS. Estamos buscando cinco fotos que resalten lo mejor de Moteros, desde los vehículos a sedes del club ocupándose de sus negocios. Los cinco ganadores no solo aparecerán destacados en el Newswire, sino que sus autores también recibirán 1 millón de GTA$. La inscripción durará hasta el lunes 10 de octubre, y las fotos deben etiquetarse con #BIKERS en el Social Club.<br /><br />Visita el Social Club para ver las reglas oficiales.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Snapmatic/.dds",
+        "filesize": 2048
+    }
+}

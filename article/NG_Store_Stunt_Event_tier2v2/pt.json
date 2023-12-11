@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488453994,"title":"","headline":"Promoção por tempo limitado só para você","subtitle":"","content":"Ganhe descontos exclusivos em 3 formidáveis veículos de alto desempenho nesta semana: compre com 50% de desconto o avançado Grotti X80 Proto, o incrivelmente veloz Pegassi Reaper e a futurista moto esportiva Nagasaki Shotaro.<br /><br />O carro esportivo Dewbauchee Specter, pronto para correr, também está com 25% de desconto. Armazene sua crescente frota em uma nova garagem para 10 carros, todas com 25% de desconto até 13 de março. ","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488453994,
+    "title": "",
+    "headline": "Promoção por tempo limitado só para você",
+    "subtitle": "",
+    "content": "Ganhe descontos exclusivos em 3 formidáveis veículos de alto desempenho nesta semana: compre com 50% de desconto o avançado Grotti X80 Proto, o incrivelmente veloz Pegassi Reaper e a futurista moto esportiva Nagasaki Shotaro.<br /><br />O carro esportivo Dewbauchee Specter, pronto para correr, também está com 25% de desconto. Armazene sua crescente frota em uma nova garagem para 10 carros, todas com 25% de desconto até 13 de março. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/.dds",
+        "filesize": 2048
+    }
+}

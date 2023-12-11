@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175082,"title":"","headline":"GTA Online","subtitle":"Schutz von Führungskräften","content":"Du benötigst zusätzlichen Schutz? Einige neue Fahrzeuge stehen jetzt auf legendarymotorsport.net zum Kauf bereit und verfügen über ein optionales Panzerungs-Upgrade mit kugelsicherem Glas.<br /><br />Oder hol dir die Limousine mit Bordgeschütz bei warstock-cache-and-carry.com, falls du eine Extraportion Feuerkraft benötigst. Angriff ist schließlich immer noch die beste Verteidigung.","url":"","image":{"path":"sc/news/NG_EAOC_Exec_Protection/262272_Exectutive_Protection.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Exec_Protection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175082,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Schutz von Führungskräften",
+    "content": "Du benötigst zusätzlichen Schutz? Einige neue Fahrzeuge stehen jetzt auf legendarymotorsport.net zum Kauf bereit und verfügen über ein optionales Panzerungs-Upgrade mit kugelsicherem Glas.<br /><br />Oder hol dir die Limousine mit Bordgeschütz bei warstock-cache-and-carry.com, falls du eine Extraportion Feuerkraft benötigst. Angriff ist schließlich immer noch die beste Verteidigung.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Exec_Protection/262272_Exectutive_Protection.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Exec_Protection/.dds",
+        "filesize": 2048
+    }
+}

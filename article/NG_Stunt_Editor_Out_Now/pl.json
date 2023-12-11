@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1470048391,"title":"","headline":"GTA Online","subtitle":"Edytor wyścigów kaskaderskich","content":"W kreatorze wyścigów dostępne są teraz nowe wystrzałowe i wszechstronne narzędzia do tworzenia własnych wyścigów kaskaderskich. Oprócz szalonych olbrzymich tub, platform i skoczni, gracze mają też dostęp do dopalaczy, alternatywnych punktów kontrolnych, fajerwerków i nie tylko. Jest tam wszystko, czego sprytni twórcy mogą potrzebować do projektowania oszałamiających torów.","url":"","image":{"path":"sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunt_Editor_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1470048391,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Edytor wyścigów kaskaderskich",
+    "content": "W kreatorze wyścigów dostępne są teraz nowe wystrzałowe i wszechstronne narzędzia do tworzenia własnych wyścigów kaskaderskich. Oprócz szalonych olbrzymich tub, platform i skoczni, gracze mają też dostęp do dopalaczy, alternatywnych punktów kontrolnych, fajerwerków i nie tylko. Jest tam wszystko, czego sprytni twórcy mogą potrzebować do projektowania oszałamiających torów.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

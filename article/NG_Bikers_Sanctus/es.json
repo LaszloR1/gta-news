@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477561765,"title":"","headline":"GTA Online","subtitle":"LCC Sanctus","content":"Hipsters, pandilleros, especialistas en pista, amantes del campo, abogados en plena crisis de los cuarenta... Todos tienen una moto diseñada justo para ellos. Pero, ¿qué pasa si eres un apóstol de la muerte movido por el odio que bebe sangre y va cubierto de calaveras, y estás decepcionado con la falta de oferta en el mercado para tu sector demográfico? No temas: la LCC Sanctus es el complemento ideal para esas grandes decisiones que has tomado hasta ahora.","url":"","image":{"path":"sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Sanctus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477561765,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "LCC Sanctus",
+    "content": "Hipsters, pandilleros, especialistas en pista, amantes del campo, abogados en plena crisis de los cuarenta... Todos tienen una moto diseñada justo para ellos. Pero, ¿qué pasa si eres un apóstol de la muerte movido por el odio que bebe sangre y va cubierto de calaveras, y estás decepcionado con la falta de oferta en el mercado para tu sector demográfico? No temas: la LCC Sanctus es el complemento ideal para esas grandes decisiones que has tomado hasta ahora.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Sanctus/.dds",
+        "filesize": 2048
+    }
+}

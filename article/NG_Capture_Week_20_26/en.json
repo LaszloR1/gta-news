@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1463750229,"title":"","headline":"GTA Online","subtitle":"Capture Week: Get Double GTA$ & RP Capture Bonuses, 'Meltdown' Tee, Discounts and More","content":"Go all out for the contested hardware in Capture Jobs this week and earn Double RP. There's also a huge range of discounted items available all this week, including cut-rate Gold Luxor Deluxe and Kurumas (both standard and armored), select car mods, ammo and clothing. <br /><br />As part of Capture Week you've also unlocked an exclusive 'Meltdown' t-shirt, which can be found in your wardrobe.<br /><br />Check out rockstargames.com/newswire for all the details.","url":"","image":{"path":"sc/news/NG_Capture_Week_20_26/262272_captureweek_686x1024v2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Capture_Week_20_26/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1463750229,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Capture Week: Get Double GTA$ & RP Capture Bonuses, 'Meltdown' Tee, Discounts and More",
+    "content": "Go all out for the contested hardware in Capture Jobs this week and earn Double RP. There's also a huge range of discounted items available all this week, including cut-rate Gold Luxor Deluxe and Kurumas (both standard and armored), select car mods, ammo and clothing. <br /><br />As part of Capture Week you've also unlocked an exclusive 'Meltdown' t-shirt, which can be found in your wardrobe.<br /><br />Check out rockstargames.com/newswire for all the details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Capture_Week_20_26/262272_captureweek_686x1024v2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Capture_Week_20_26/.dds",
+        "filesize": 2048
+    }
+}

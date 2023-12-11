@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1470048455,"title":"","headline":"GTA Online","subtitle":"Escolta","content":"As coisas são difíceis no topo e vão ficar ainda mais difíceis com o novo Modo Adversário do GTA Online: Escolta. Uma equipe de seguranças tenta levar um alvo de alto valor até um ponto de evacuação, enquanto um grupo implacável de assassinos tenta acabar com eles. Os seguranças possuem vidas limitadas mas muito poder de fogo e os assassinos não carregam tantas armas, mas não importa quantos você mate, eles não param de chegar.","url":"","image":{"path":"sc/news/NG_Entourage_Out_Now/262272_Entourage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Entourage_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1470048455,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Escolta",
+    "content": "As coisas são difíceis no topo e vão ficar ainda mais difíceis com o novo Modo Adversário do GTA Online: Escolta. Uma equipe de seguranças tenta levar um alvo de alto valor até um ponto de evacuação, enquanto um grupo implacável de assassinos tenta acabar com eles. Os seguranças possuem vidas limitadas mas muito poder de fogo e os assassinos não carregam tantas armas, mas não importa quantos você mate, eles não param de chegar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Entourage_Out_Now/262272_Entourage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Entourage_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

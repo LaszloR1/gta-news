@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356205,"title":"","headline":"GTA Online","subtitle":"就要轉台","content":"我們非常高興能在此宣佈，洛聖都廣播世界現在有了一個全新的廣播電台！<br /><br />The Lab 會由 Dr. No and the Chemical Bro 主持，每天播放各種不同曲風的新音樂，多采多姿，並讓您邊開車邊開槍殺人的時候也能盡情享受。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Change_that_Dial/262272_TheLab.dds","filesize":262272},"landscape":{"path":"sc/news/LG_IGG2_Change_that_Dial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356205,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "就要轉台",
+    "content": "我們非常高興能在此宣佈，洛聖都廣播世界現在有了一個全新的廣播電台！<br /><br />The Lab 會由 Dr. No and the Chemical Bro 主持，每天播放各種不同曲風的新音樂，多采多姿，並讓您邊開車邊開槍殺人的時候也能盡情享受。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Change_that_Dial/262272_TheLab.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Change_that_Dial/.dds",
+        "filesize": 2048
+    }
+}

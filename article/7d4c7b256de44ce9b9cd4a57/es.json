@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867528,"title":"GTA+","headline":"GTA+","subtitle":"Descuentos en costes de conversión de HSW","content":"Los miembros de GTA+ pueden aprovechar el 50% de descuento en costes de conversión de HSW hasta el 16 de agosto.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/7d4c7b256de44ce9b9cd4a57/262272_GTA_PlusTab_Mp16_AdditionalBenefits_FINAL_BigFeed_es_es.dds","filesize":262272},"button":"Selecciona para registrarte en GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867528,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Descuentos en costes de conversión de HSW",
+    "content": "Los miembros de GTA+ pueden aprovechar el 50% de descuento en costes de conversión de HSW hasta el 16 de agosto.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/7d4c7b256de44ce9b9cd4a57/262272_GTA_PlusTab_Mp16_AdditionalBenefits_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para registrarte en GTA+"
+}

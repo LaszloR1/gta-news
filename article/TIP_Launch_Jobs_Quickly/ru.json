@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381831291,"headline":"Сетевые подсказки","subtitle":"Как быстро начать дело","content":"Начать любое дело – от перестрелки до гонки – можно с помощью триггеров дел, расположенных непосредственно в мире игры, или же с помощью меню:<br /><br />- используя «Быстрая игра» в телефоне;<br />- выбрав дело в списке дел в меню «Сеть»;<br />- начав дело на карте в меню паузы – просто выберите метку дела.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831291,
+    "headline": "Сетевые подсказки",
+    "subtitle": "Как быстро начать дело",
+    "content": "Начать любое дело – от перестрелки до гонки – можно с помощью триггеров дел, расположенных непосредственно в мире игры, или же с помощью меню:<br /><br />- используя «Быстрая игра» в телефоне;<br />- выбрав дело в списке дел в меню «Сеть»;<br />- начав дело на карте в меню паузы – просто выберите метку дела.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569645,"headline":"Сетевые подсказки","subtitle":"Пополнение боеприпасов","content":"Если у вас заканчиваются боеприпасы и вы не хотите идти в «Амму-Нацию», вы можете пополнить боеприпасы прямо в экране лобби перед началом дела.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569645,
+    "headline": "Сетевые подсказки",
+    "subtitle": "Пополнение боеприпасов",
+    "content": "Если у вас заканчиваются боеприпасы и вы не хотите идти в «Амму-Нацию», вы можете пополнить боеприпасы прямо в экране лобби перед началом дела.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

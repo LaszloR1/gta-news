@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402999101,"headline":"Actualización de GTA Online","subtitle":"Presentamos el nuevo Lampadati Pigalle","content":"Diseño francés y manufactura italiana. Básicamente, estilo antes que sustancia y averías habituales. El Pigalle, un cupé de alto rendimiento, es un icono del mal gusto y la automoción de los setenta. No es extraño que les encante a los aficionados a la ironía.<br /><br />Disponible para su compra en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un hipster'': ''Odisea playera''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Lampadati_Pigalle/65664_Pigalle.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999101,
+    "headline": "Actualización de GTA Online",
+    "subtitle": "Presentamos el nuevo Lampadati Pigalle",
+    "content": "Diseño francés y manufactura italiana. Básicamente, estilo antes que sustancia y averías habituales. El Pigalle, un cupé de alto rendimiento, es un icono del mal gusto y la automoción de los setenta. No es extraño que les encante a los aficionados a la ironía.<br /><br />Disponible para su compra en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un hipster'': ''Odisea playera''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Lampadati_Pigalle/65664_Pigalle.dds",
+        "filesize": 65664
+    }
+}

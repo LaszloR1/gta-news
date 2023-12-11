@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1598555689,"title":"","headline":"GTA Online","subtitle":"Discounts","content":"There are a range of discounts on offer throughout Los Santos this week that benefit white-collar and blue-collar criminals alike, namely:<br /><br />- 40% off MC Clubhouses<br />- 40% off Executive Offices<br />- 40% off Biker Businesses<br />- 30% off Executive Office Customizations<br /><br />And more! Check out the Rockstar Newswire for more details.","url":"","image":{"path":"sc/news/cf5849b1d0e149488e025993/349672_NG_FAFF_Date_Announce.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1598555689,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Discounts",
+    "content": "There are a range of discounts on offer throughout Los Santos this week that benefit white-collar and blue-collar criminals alike, namely:<br /><br />- 40% off MC Clubhouses<br />- 40% off Executive Offices<br />- 40% off Biker Businesses<br />- 30% off Executive Office Customizations<br /><br />And more! Check out the Rockstar Newswire for more details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/cf5849b1d0e149488e025993/349672_NG_FAFF_Date_Announce.dds",
+        "filesize": 349672
+    }
+}

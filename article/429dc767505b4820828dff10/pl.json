@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"JAK ROZPOCZĄĆ","content":"Odbierz telefon od Charliego Reeda, żeby wykonać najemnicze zlecenia wraz z Aniołami Los Santos. Będziesz potrzebować Mammotha Avengera, żeby rozpocząć tę nową serię misji w panelu operacyjnym Avengera. Jeśli nie posiadasz jeszcze tej maszyny, możesz ją nabyć w Warstock Cache & Carry.<br /><br />Aby skorzystać z nowych okazji biznesowych, zajrzyj do terminalu Free Trade Shipping Co. w hangarze lub kup hangar na Maze Bank Foreclosures, żeby uzyskać dostęp do działalności przemytniczej.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "JAK ROZPOCZĄĆ",
+    "content": "Odbierz telefon od Charliego Reeda, żeby wykonać najemnicze zlecenia wraz z Aniołami Los Santos. Będziesz potrzebować Mammotha Avengera, żeby rozpocząć tę nową serię misji w panelu operacyjnym Avengera. Jeśli nie posiadasz jeszcze tej maszyny, możesz ją nabyć w Warstock Cache & Carry.<br /><br />Aby skorzystać z nowych okazji biznesowych, zajrzyj do terminalu Free Trade Shipping Co. w hangarze lub kup hangar na Maze Bank Foreclosures, żeby uzyskać dostęp do działalności przemytniczej.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

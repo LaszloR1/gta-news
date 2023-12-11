@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452381,"title":"","headline":"GTA Online","subtitle":"Now at Benny’s: The Vapid Minivan","content":"Benny has just added to his ever increasing custom Lowrider collection, this time the Vapid Minivan gets a facelift. You wouldn’t normally look twice at this run of the mill soccer mom van but with the right modifications you can take center stage at any car meet.","url":"","image":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452381,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Now at Benny’s: The Vapid Minivan",
+    "content": "Benny has just added to his ever increasing custom Lowrider collection, this time the Vapid Minivan gets a facelift. You wouldn’t normally look twice at this run of the mill soccer mom van but with the right modifications you can take center stage at any car meet.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds",
+        "filesize": 2048
+    }
+}

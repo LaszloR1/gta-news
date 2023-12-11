@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433955146,"title":"","headline":"GTA Online","subtitle":"Encima del capó","content":"Ya puedes disfrutar de un ángulo adicional de cámara mientras conduces si prefieres tenerla montada encima del capó, en vez de en el interior del vehículo.<br /><br />Desde el menú de pausa, ve a Ajustes > Cámara y activa la opción ''Capó de vehículo en primera persona'' para habilitar esta función y acceder a ella alternando los distintos modos de vista.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_On_The_Hood/262272_OnTheHood.dds","filesize":262272},"landscape":{"path":"sc/news/NG_On_The_Hood/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433955146,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Encima del capó",
+    "content": "Ya puedes disfrutar de un ángulo adicional de cámara mientras conduces si prefieres tenerla montada encima del capó, en vez de en el interior del vehículo.<br /><br />Desde el menú de pausa, ve a Ajustes > Cámara y activa la opción ''Capó de vehículo en primera persona'' para habilitar esta función y acceder a ella alternando los distintos modos de vista.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_On_The_Hood/262272_OnTheHood.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_On_The_Hood/.dds",
+        "filesize": 2048
+    }
+}

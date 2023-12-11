@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1629998003,"title":"","headline":"GTAµOnline","subtitle":"Épave sur les côtes","content":"Des chasseurs de trésors et des touristes affirment avoir aperçu un bateau échoué sur la côte. L'épave contiendrait un trésor et des morceaux d’un vêtement. En combiner 7 permettrait de recréer une tenue d'un autre temps. Si vous tombez dessus, allez voir si elle ne contient pas un coffre rempli de choses précieuses.<br /><br />Vous ne croiserez qu'une seule épave par jour, et vous pouvez vérifier si vous l'avez déjà trouvée en consultant la section Objets journaliers à récupérer du menu Interaction.","url":"","image":{"path":"sc/news/0f900225e6eb42e99c665c84/262272_GTAO263_Shipwrecks_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1629998003,
+    "title": "",
+    "headline": "GTAµOnline",
+    "subtitle": "Épave sur les côtes",
+    "content": "Des chasseurs de trésors et des touristes affirment avoir aperçu un bateau échoué sur la côte. L'épave contiendrait un trésor et des morceaux d’un vêtement. En combiner 7 permettrait de recréer une tenue d'un autre temps. Si vous tombez dessus, allez voir si elle ne contient pas un coffre rempli de choses précieuses.<br /><br />Vous ne croiserez qu'une seule épave par jour, et vous pouvez vérifier si vous l'avez déjà trouvée en consultant la section Objets journaliers à récupérer du menu Interaction.",
+    "url": "",
+    "image": {
+        "path": "sc/news/0f900225e6eb42e99c665c84/262272_GTAO263_Shipwrecks_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1462295195,"title":"","headline":"GTA Online","subtitle":"Vol au détalage","content":"Battez-vous pour défendre ou dérober plusieurs colis dans ce nouveau mode rivalité. Les attaquants doivent récupérer tous les colis et les rapporter au point de livraison pour l'emporter. Les défenseurs doivent tenir jusqu'à la fin. Plus il y a de colis dérobés, moins les défenseurs auront de cibles à gérer. Vous allez devoir être discret et travailler en équipe pour l'emporter.","url":"","image":{"path":"sc/news/NG_In_And_Out/262272_In_And_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_In_And_Out/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1462295195,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vol au détalage",
+    "content": "Battez-vous pour défendre ou dérober plusieurs colis dans ce nouveau mode rivalité. Les attaquants doivent récupérer tous les colis et les rapporter au point de livraison pour l'emporter. Les défenseurs doivent tenir jusqu'à la fin. Plus il y a de colis dérobés, moins les défenseurs auront de cibles à gérer. Vous allez devoir être discret et travailler en équipe pour l'emporter.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_In_And_Out/262272_In_And_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_In_And_Out/.dds",
+        "filesize": 2048
+    }
+}

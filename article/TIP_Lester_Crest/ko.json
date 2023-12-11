@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467026,"title":"","headline":"온라인 팁","subtitle":"레스터 크레스트","content":"누군가의 목에 현상금을 걸고 싶으십니까? 경찰을 매수해서 지명수배를 벗고 싶으십니까? 어쩌면 누군가에게 다가가 원한을 갚을 때까지 레이더에 걸리지 않기를 바랄 수도 있겠군요. 아니면 단순히 이동 수단을 찾고 싶으신가요? 특이하고 외로우며 어색한 괴짜 레스터에게 전화 주십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Lester_Crest/262272_LesterCrest.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Lester_Crest/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467026,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "레스터 크레스트",
+    "content": "누군가의 목에 현상금을 걸고 싶으십니까? 경찰을 매수해서 지명수배를 벗고 싶으십니까? 어쩌면 누군가에게 다가가 원한을 갚을 때까지 레이더에 걸리지 않기를 바랄 수도 있겠군요. 아니면 단순히 이동 수단을 찾고 싶으신가요? 특이하고 외로우며 어색한 괴짜 레스터에게 전화 주십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Lester_Crest/262272_LesterCrest.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Lester_Crest/.dds",
+        "filesize": 2048
+    }
+}

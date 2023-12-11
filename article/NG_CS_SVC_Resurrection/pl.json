@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631928,"title":"","headline":"GTA Online","subtitle":"Wskrzeszenie","content":"Nic tak nie mówi „integracja zespołu” jak przywrócenie kolegi do gry, strzelając komuś z innej ekipy w tył głowy. Ale to oznacza, że jedynym sposobem na zwycięstwo w trybie adwersarza Wskrzeszenie jest wybicie rywali do nogi, bo jeśli komuś odpuścisz, to prosisz się o problem. Ale okazywanie współczucia nigdy nie było dla ciebie problemem, prawda?<br />","url":"","image":{"path":"sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS_SVC_Resurrection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631928,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wskrzeszenie",
+    "content": "Nic tak nie mówi „integracja zespołu” jak przywrócenie kolegi do gry, strzelając komuś z innej ekipy w tył głowy. Ale to oznacza, że jedynym sposobem na zwycięstwo w trybie adwersarza Wskrzeszenie jest wybicie rywali do nogi, bo jeśli komuś odpuścisz, to prosisz się o problem. Ale okazywanie współczucia nigdy nie było dla ciebie problemem, prawda?<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/.dds",
+        "filesize": 2048
+    }
+}

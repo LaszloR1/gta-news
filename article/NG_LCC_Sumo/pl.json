@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044119,"title":"","headline":"GTA Online","subtitle":"Sumo","content":"Rozwalajcie i obijajcie konkurencję w nowym trybie adwersarza, w którym trzeba współpracować z drużyną, aby wyrzucić rywali poza arenę. Rozmiar, szybkość czy zwrotność – trzeba rozsądnie wybrać pojazd, żeby pozostać w grze do końca rundy.","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumo",
+    "content": "Rozwalajcie i obijajcie konkurencję w nowym trybie adwersarza, w którym trzeba współpracować z drużyną, aby wyrzucić rywali poza arenę. Rozmiar, szybkość czy zwrotność – trzeba rozsądnie wybrać pojazd, żeby pozostać w grze do końca rundy.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

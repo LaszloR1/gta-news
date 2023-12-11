@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533838139,"title":"Obejrzyj teraz","headline":"Obejrzyj teraz","subtitle":"Oficjalny film z rozgrywki Red Dead Redemption 2","content":"Zapraszamy do obejrzenia tego wprowadzenia do rozgrywki w Red Dead Redemption 2 w jakości 4K, które zostało w pełni nagrane w grze. <br /><br />Red Dead Redemption 2 ukaże się 26 października 2018 r. na Xbox One. Zamów już dziś.","url":"","image":{"path":"sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_POL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533838139,
+    "title": "Obejrzyj teraz",
+    "headline": "Obejrzyj teraz",
+    "subtitle": "Oficjalny film z rozgrywki Red Dead Redemption 2",
+    "content": "Zapraszamy do obejrzenia tego wprowadzenia do rozgrywki w Red Dead Redemption 2 w jakości 4K, które zostało w pełni nagrane w grze. <br /><br />Red Dead Redemption 2 ukaże się 26 października 2018 r. na Xbox One. Zamów już dziś.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_POL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

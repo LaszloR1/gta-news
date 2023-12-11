@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1470048391,"title":"","headline":"GTA Online","subtitle":"Editor de acrobacias","content":"Novas ferramentas radicais e versáteis para criar suas próprias Corridas Acrobáticas estão agora disponíveis no Criador de Corridas. Além dos tubos gigantes que desafiam a morte, plataformas e saltos, você vai ter acesso a boosts, checkpoints secundários, fogos de artifício e mais - perfeito para acrobacias incríveis e seus criadores insanos.","url":"","image":{"path":"sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunt_Editor_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1470048391,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Editor de acrobacias",
+    "content": "Novas ferramentas radicais e versáteis para criar suas próprias Corridas Acrobáticas estão agora disponíveis no Criador de Corridas. Além dos tubos gigantes que desafiam a morte, plataformas e saltos, você vai ter acesso a boosts, checkpoints secundários, fogos de artifício e mais - perfeito para acrobacias incríveis e seus criadores insanos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

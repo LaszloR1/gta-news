@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1523980379,"title":"","headline":"GTA Online","subtitle":"씨 스패로우","content":"어떤 문제든 적당한 도구가 있으면 해결할 수 있습니다. 하지만 모든 문제를 해결하는 도구는 하나밖에 없습니다. 그 도구가 뭐냐고요? 당연히 무기화 가능한 미니 헬리콥터죠.","url":"","image":{"path":"sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1523980379,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "씨 스패로우",
+    "content": "어떤 문제든 적당한 도구가 있으면 해결할 수 있습니다. 하지만 모든 문제를 해결하는 도구는 하나밖에 없습니다. 그 도구가 뭐냐고요? 당연히 무기화 가능한 미니 헬리콥터죠.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

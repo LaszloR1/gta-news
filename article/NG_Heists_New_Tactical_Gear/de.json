@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976513,"title":"","headline":"GTA Online","subtitle":"Neue taktische Ausrüstungsgegenstände erhältlich","content":"Ammu-Nation hat nun die aktuellsten Kollektionen aus dem Bereich der taktischen Ausrüstungsgegenstände auf Lager, wie etwa Leuchtpistolen, Ohrhörer, und vieles anderes mehr.<br /><br />Außerdem steht eine Vielzahl an neuen Outfit-Optionen zum Kauf zur Verfügung. Schließe dich mit deinen Teammitgliedern kurz oder setze dich von der Masse ab. Hier ist für jeden etwas dabei.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Tactical_Gear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976513,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Neue taktische Ausrüstungsgegenstände erhältlich",
+    "content": "Ammu-Nation hat nun die aktuellsten Kollektionen aus dem Bereich der taktischen Ausrüstungsgegenstände auf Lager, wie etwa Leuchtpistolen, Ohrhörer, und vieles anderes mehr.<br /><br />Außerdem steht eine Vielzahl an neuen Outfit-Optionen zum Kauf zur Verfügung. Schließe dich mit deinen Teammitgliedern kurz oder setze dich von der Masse ab. Hier ist für jeden etwas dabei.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/.dds",
+        "filesize": 2048
+    }
+}

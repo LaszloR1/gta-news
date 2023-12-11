@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832180,"headline":"Dica online","subtitle":"Problemas de streaming?","content":"Caso você veja algum item estranho enquanto dirige por Los Santos, como carros ou objetos se movendo de modo bizarro, então ou você andou na cachaça da Vovó outra vez ou você está em uma sessão com alguém com problemas de conexão, ou tendo problemas de rede. Se persistir, você pode mudar de sessão, evitar convidar o sujeito para os seus Serviços ou só parar de beber tanto.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832180,
+    "headline": "Dica online",
+    "subtitle": "Problemas de streaming?",
+    "content": "Caso você veja algum item estranho enquanto dirige por Los Santos, como carros ou objetos se movendo de modo bizarro, então ou você andou na cachaça da Vovó outra vez ou você está em uma sessão com alguém com problemas de conexão, ou tendo problemas de rede. Se persistir, você pode mudar de sessão, evitar convidar o sujeito para os seus Serviços ou só parar de beber tanto.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

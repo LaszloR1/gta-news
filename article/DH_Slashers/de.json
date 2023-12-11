@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513941004,"title":"","headline":"GTA Online","subtitle":"Slashers","content":"Im neuesten Gegner-Modus für GTA Online gibt es keine fairen Kämpfe.<br /><br />Ein Team bekommt Schrotflinten und die Erlaubnis, ihrem Blutrausch zu frönen. Das andere bekommt lediglich eine Taschenlampe und ein Gefühl unermesslicher Panik.<br /><br />Die gute Nachricht: Jede Minute werden die Rollen getauscht und Rache ist süß. Sehr süß. Das Team, das am Ende überlebt, gewinnt.","url":"","image":{"path":"sc/news/DH_Slashers/262272_bigfeed-slashers.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513941004,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Slashers",
+    "content": "Im neuesten Gegner-Modus für GTA Online gibt es keine fairen Kämpfe.<br /><br />Ein Team bekommt Schrotflinten und die Erlaubnis, ihrem Blutrausch zu frönen. Das andere bekommt lediglich eine Taschenlampe und ein Gefühl unermesslicher Panik.<br /><br />Die gute Nachricht: Jede Minute werden die Rollen getauscht und Rache ist süß. Sehr süß. Das Team, das am Ende überlebt, gewinnt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Slashers/262272_bigfeed-slashers.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

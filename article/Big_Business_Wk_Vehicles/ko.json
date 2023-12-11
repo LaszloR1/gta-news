@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530030439,"title":"","headline":"GTA Online","subtitle":"이동 수단 할인","content":"7월 2일까지, 전투와 레이스에서 사용할 수 있는 일부 이동 수단이 30% 할인됩니다:<br /><br />매머드 어벤져와 개조<br />이동식 작전 본부 캡과 개조<br />바피드 GB200<br />그로티 X80 프로토<br />임폰테 루이너 2000<br /><br />자세한 사항은 Rockstar 뉴스와이어를 참조하십시오.","url":"","image":{"path":"sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530030439,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "이동 수단 할인",
+    "content": "7월 2일까지, 전투와 레이스에서 사용할 수 있는 일부 이동 수단이 30% 할인됩니다:<br /><br />매머드 어벤져와 개조<br />이동식 작전 본부 캡과 개조<br />바피드 GB200<br />그로티 X80 프로토<br />임폰테 루이너 2000<br /><br />자세한 사항은 Rockstar 뉴스와이어를 참조하십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867541,"title":"GTA+","headline":"GTA+","subtitle":"Penaud La Coureuse","content":"Membros do GTA+ podem resgatar o Penaud La Coureuse até 16/08.<br /><br />O crepe, a rabanada, e agora o carro esportivo Penaud La Coureuse. Três importações francesas aclamadas e muito apreciadas em solo estadunidense. Mas não se deixe enganar pelo ar de luxo europeu, porque esse carro consegue exceder o limite de velocidade sem grandes dificuldades.<br /><br />A Afiliação GTA+ é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_pt_br.dds","filesize":262272},"button":"Selecione para se afiliar ao GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867541,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Penaud La Coureuse",
+    "content": "Membros do GTA+ podem resgatar o Penaud La Coureuse até 16/08.<br /><br />O crepe, a rabanada, e agora o carro esportivo Penaud La Coureuse. Três importações francesas aclamadas e muito apreciadas em solo estadunidense. Mas não se deixe enganar pelo ar de luxo europeu, porque esse carro consegue exceder o limite de velocidade sem grandes dificuldades.<br /><br />A Afiliação GTA+ é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se afiliar ao GTA+"
+}

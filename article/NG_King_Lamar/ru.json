@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349316,"title":"","headline":"GTA Online","subtitle":"Король Ламар","content":"Ламар Дэвис собирается стать королем лоурайдеров Лос-Сантоса и ему нужны подданные, которые возведут его на трон. Отвечайте на звонки Ламара и выполняйте его поручения в ходе 8 новых заданий.","url":"","image":{"path":"sc/news/NG_King_Lamar/262272_King_Lamar.dds","filesize":262272},"landscape":{"path":"sc/news/NG_King_Lamar/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349316,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Король Ламар",
+    "content": "Ламар Дэвис собирается стать королем лоурайдеров Лос-Сантоса и ему нужны подданные, которые возведут его на трон. Отвечайте на звонки Ламара и выполняйте его поручения в ходе 8 новых заданий.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_King_Lamar/262272_King_Lamar.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_King_Lamar/.dds",
+        "filesize": 2048
+    }
+}

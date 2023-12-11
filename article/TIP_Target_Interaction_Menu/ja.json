@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811610,"title":"","headline":"オンラインのヒント","subtitle":"ターゲットアクションメニュー","content":"ターゲットが視界にいる状態で~INPUT_FRONTEND_SELECT~ ボタンを長押しするとターゲットアクションメニューが開きます。ここでは便利なオプションの利用や、ターゲットのプレイヤー・カードを簡単に閲覧することができます。報告をする際や、クルーのステータスを確認する際などに役立ちます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Target_Interaction_Menu/262272_Interaction_Menu.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Target_Interaction_Menu/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811610,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "ターゲットアクションメニュー",
+    "content": "ターゲットが視界にいる状態で~INPUT_FRONTEND_SELECT~ ボタンを長押しするとターゲットアクションメニューが開きます。ここでは便利なオプションの利用や、ターゲットのプレイヤー・カードを簡単に閲覧することができます。報告をする際や、クルーのステータスを確認する際などに役立ちます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Target_Interaction_Menu/262272_Interaction_Menu.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Target_Interaction_Menu/.dds",
+        "filesize": 2048
+    }
+}

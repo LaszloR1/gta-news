@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736470,"title":"","headline":"GTAオンライン","subtitle":"クラブに入会しよう","content":"「バインウッド・クラブ」はロスサントス最高の会員制クラブで、GTA+メンバーに限定の特典を提供してくれます。<br /><br />国際派エリートの仲間入りを果たすなら、今がチャンスです。GTA+に今すぐ加入し、限定の高級車のコレクションがレンタルでき、またそれらを割引価格で購入できる新オープンの「バインウッド・カークラブ」に足を運びましょう。さらに、「バインウッド・カークラブ」からGTA+の無料の乗り物をチェックし、受け取ることもできます。<br /><br />詳細は、ターミナルのショールームでご確認ください。<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736470,
+    "title": "",
+    "headline": "GTAオンライン",
+    "subtitle": "クラブに入会しよう",
+    "content": "「バインウッド・クラブ」はロスサントス最高の会員制クラブで、GTA+メンバーに限定の特典を提供してくれます。<br /><br />国際派エリートの仲間入りを果たすなら、今がチャンスです。GTA+に今すぐ加入し、限定の高級車のコレクションがレンタルでき、またそれらを割引価格で購入できる新オープンの「バインウッド・カークラブ」に足を運びましょう。さらに、「バインウッド・カークラブ」からGTA+の無料の乗り物をチェックし、受け取ることもできます。<br /><br />詳細は、ターミナルのショールームでご確認ください。<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

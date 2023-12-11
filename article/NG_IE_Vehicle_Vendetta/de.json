@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482320395,"title":"","headline":"GTA Online","subtitle":"Vehicle Vendetta","content":"Du hast als Bestie gewütet und bist als Schlitzer auf die Jagd gegangen, aber hast du dich jemals bei 100 km/h in einen Rhino verwandelt, nur damit dich bei aktiviertem Fokus irgendein Idiot auf einer Shotaro plattmacht? Wohl kaum, aber jetzt ist deine Chance gekommen: In diesem neuen Gegner-Modus trittst du mit deinem Team gegen eine andere Crew motorisierter Wahnsinniger an und kämpfst um Power-ups, die den Kampfverlauf komplett auf den Kopf stellen können. Anschnallen!","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Vendetta/349672_bigFeed-VehicleVendetta.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Vehicle_Vendetta/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482320395,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vehicle Vendetta",
+    "content": "Du hast als Bestie gewütet und bist als Schlitzer auf die Jagd gegangen, aber hast du dich jemals bei 100 km/h in einen Rhino verwandelt, nur damit dich bei aktiviertem Fokus irgendein Idiot auf einer Shotaro plattmacht? Wohl kaum, aber jetzt ist deine Chance gekommen: In diesem neuen Gegner-Modus trittst du mit deinem Team gegen eine andere Crew motorisierter Wahnsinniger an und kämpfst um Power-ups, die den Kampfverlauf komplett auf den Kopf stellen können. Anschnallen!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Vendetta/349672_bigFeed-VehicleVendetta.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Vendetta/.dds",
+        "filesize": 2048
+    }
+}

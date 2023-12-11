@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736471,"title":"","headline":"GTA 線上模式","subtitle":"壯志凌雲","content":"準備承受衝擊！全新飛行載具與陸地載具即將進駐洛聖都。從軍火大亨破壞力強大的軍事級載具，到傳奇車業疾速奔馳的座駕，您的新歡載具正在網站上等著您。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736471,
+    "title": "",
+    "headline": "GTA 線上模式",
+    "subtitle": "壯志凌雲",
+    "content": "準備承受衝擊！全新飛行載具與陸地載具即將進駐洛聖都。從軍火大亨破壞力強大的軍事級載具，到傳奇車業疾速奔馳的座駕，您的新歡載具正在網站上等著您。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224412,"title":"","headline":"GTA Online","subtitle":"카메라 고정","content":"모든 플레이어가 동일한 카메라 유형을 사용하도록 고정하고 싶다면 작업을 시작하기 전에 로비에서 설정할 수 있습니다.<br /><br />로비에서 '카메라 고정' 옵션을 원하는 모드로 변경하면 모든 플레이어가 3인칭, 1인칭, 또는 양쪽 모두 중에서 여러분이 선호하는 시점을 사용하게 됩니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224412,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "카메라 고정",
+    "content": "모든 플레이어가 동일한 카메라 유형을 사용하도록 고정하고 싶다면 작업을 시작하기 전에 로비에서 설정할 수 있습니다.<br /><br />로비에서 '카메라 고정' 옵션을 원하는 모드로 변경하면 모든 플레이어가 3인칭, 1인칭, 또는 양쪽 모두 중에서 여러분이 선호하는 시점을 사용하게 됩니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

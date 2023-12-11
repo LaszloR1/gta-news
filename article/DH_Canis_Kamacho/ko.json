@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1517940165,"title":"","headline":"GTA Online","subtitle":"카니스 카마초","content":"사람들이 사륜구동차에 바라는 건 단 하나, 단순함 뿐일 겁니다. 큰 바퀴와 튼튼한 섀시, 맥주로 가득 찬 짐칸, 보닛 아래의 수백 마력짜리 엔진이 가져다주는 바로 그 단순함 말입니다. 카니스 카마초는 이 모든 걸 제공합니다. 쓸데없이 차를 느리게 하는 불필요한 것들은 없습니다.","url":"","image":{"path":"sc/news/DH_Canis_Kamacho/524416_BIGFEED_2017_1212_V01_F_512x1024_canis_kamacho.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1517940165,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "카니스 카마초",
+    "content": "사람들이 사륜구동차에 바라는 건 단 하나, 단순함 뿐일 겁니다. 큰 바퀴와 튼튼한 섀시, 맥주로 가득 찬 짐칸, 보닛 아래의 수백 마력짜리 엔진이 가져다주는 바로 그 단순함 말입니다. 카니스 카마초는 이 모든 걸 제공합니다. 쓸데없이 차를 느리게 하는 불필요한 것들은 없습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Canis_Kamacho/524416_BIGFEED_2017_1212_V01_F_512x1024_canis_kamacho.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

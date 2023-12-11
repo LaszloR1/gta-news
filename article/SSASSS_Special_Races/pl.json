@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525195306,"title":"","headline":"GTA Online","subtitle":"Nowe wyścigi specjalne","content":"Wydaje ci się, że masz opanowane wszystkie auta koncepcyjne i eksperymentalne prototypy, jakie można znaleźć w salonach Los Santos. Ale prawda jest taka, że w dziedzinie latających samochodów, plecaków odrzutowych i podwodnych wyścigów wciąż jesteś żółtodziobem. A zawodowcem można zostać tylko w jeden sposób: pokonaj najlepszych w nowym zestawie wyścigów specjalnych, a dowiedziesz swojej wartości.","url":"","image":{"path":"sc/news/SSASSS_Special_Races/349672_bigfeed-svc-V3.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525195306,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nowe wyścigi specjalne",
+    "content": "Wydaje ci się, że masz opanowane wszystkie auta koncepcyjne i eksperymentalne prototypy, jakie można znaleźć w salonach Los Santos. Ale prawda jest taka, że w dziedzinie latających samochodów, plecaków odrzutowych i podwodnych wyścigów wciąż jesteś żółtodziobem. A zawodowcem można zostać tylko w jeden sposób: pokonaj najlepszych w nowym zestawie wyścigów specjalnych, a dowiedziesz swojej wartości.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Special_Races/349672_bigfeed-svc-V3.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

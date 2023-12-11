@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1487085359,"title":"","headline":"GTA Online","subtitle":"Nowe mapy w trybie Do grobowej deski, podwójne premie za tryby ''dla par'' i nie tylko","content":"Miłość unosi się w powietrzu, a wszystkie pary mogą zgarnąć podwójne premie GTA$ i RP w trybach adwersarza: Do grobowej deski, Hasta La Vista, Sztafeta i Atak - Obrona. Tryb Do grobowej deski otrzymał też dwie nowe, romantyczne mapy - na Legion Square i w La Puerta. Podczas rozgrywki trzymajcie się swojej drugiej połówki i pamiętajcie, aby dobrze o nią dbać, bo jeśli zginie, to Wy też.<br /><br />Więcej szczegółów na Rockstar Newswire.<br />","url":"","image":{"path":"sc/news/NG_Valentines_TDDUP_Maps/349672_tddup-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Valentines_TDDUP_Maps/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1487085359,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nowe mapy w trybie Do grobowej deski, podwójne premie za tryby ''dla par'' i nie tylko",
+    "content": "Miłość unosi się w powietrzu, a wszystkie pary mogą zgarnąć podwójne premie GTA$ i RP w trybach adwersarza: Do grobowej deski, Hasta La Vista, Sztafeta i Atak - Obrona. Tryb Do grobowej deski otrzymał też dwie nowe, romantyczne mapy - na Legion Square i w La Puerta. Podczas rozgrywki trzymajcie się swojej drugiej połówki i pamiętajcie, aby dobrze o nią dbać, bo jeśli zginie, to Wy też.<br /><br />Więcej szczegółów na Rockstar Newswire.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_TDDUP_Maps/349672_tddup-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_TDDUP_Maps/.dds",
+        "filesize": 2048
+    }
+}

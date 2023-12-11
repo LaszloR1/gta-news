@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470550,"title":"","headline":"Online Tip","subtitle":"Crews","content":"If you want to join a Crew, you can find Active Crews with open membership at the Rockstar Games Social Club website - make new Friends and allies and then take to the streets to battle with other Crews. You can improve your reputation and earn cash by completing Jobs in a Crew. If you rank your Crew up, you will unlock special bonuses. Or you and your Friends can create a private Crew and really go after strangers. If you don’t want to join a Crew, then have fun playing with yourself.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Crews/262272_Crews.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Crews/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470550,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Crews",
+    "content": "If you want to join a Crew, you can find Active Crews with open membership at the Rockstar Games Social Club website - make new Friends and allies and then take to the streets to battle with other Crews. You can improve your reputation and earn cash by completing Jobs in a Crew. If you rank your Crew up, you will unlock special bonuses. Or you and your Friends can create a private Crew and really go after strangers. If you don’t want to join a Crew, then have fun playing with yourself.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Crews/262272_Crews.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Crews/.dds",
+        "filesize": 2048
+    }
+}

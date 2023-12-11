@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285738,"title":"GTA+","headline":"GTA+","subtitle":"Annis ZR380 (Apokalipsa)","content":"Członkowie GTA+ mogą do 13 września odebrać Annisa ZR380 (Apokalipsa).<br /><br />Annis ZR380 (Apokalipsa) to szalona wersja na arenę ukochanego przez wielu wozu sportowego ze stajni Annisa, która dysponuje dużą prędkością maksymalną, niezłą przyczepnością i niezaspokojonym apetytem na diesela i zniszczenie.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/fd9d4455dca9465b908f4eaa/262272_GTAP_MEP17_Lead_Apocalypse_Annis_FINAL_BigFeed_pl_pl.dds","filesize":262272},"button":"Wybierz, aby dołączyć do GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285738,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Annis ZR380 (Apokalipsa)",
+    "content": "Członkowie GTA+ mogą do 13 września odebrać Annisa ZR380 (Apokalipsa).<br /><br />Annis ZR380 (Apokalipsa) to szalona wersja na arenę ukochanego przez wielu wozu sportowego ze stajni Annisa, która dysponuje dużą prędkością maksymalną, niezłą przyczepnością i niezaspokojonym apetytem na diesela i zniszczenie.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/fd9d4455dca9465b908f4eaa/262272_GTAP_MEP17_Lead_Apocalypse_Annis_FINAL_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby dołączyć do GTA+"
+}

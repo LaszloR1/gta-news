@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470555,"title":"","headline":"Dica online","subtitle":"Comandos","content":"Para entrar em um Comando, você pode encontrar Comandos Ativos com inscrições livres no site do Social Club da Rockstar Games. Com novos amigos e aliados, tome as ruas em lutas contra outros Comandos. Sua reputação aumenta e você ganha dinheiro completando Serviços em um Comando. Se subir o nível do Comando, você desbloqueará bônus especiais. Você e os seus amigos podem criar um Comando particular e sair atrás de estranhos. Se não quer entrar para um Comando, então divirta-se consigo mesmo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Crews/262272_Crews.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Crews/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470555,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Comandos",
+    "content": "Para entrar em um Comando, você pode encontrar Comandos Ativos com inscrições livres no site do Social Club da Rockstar Games. Com novos amigos e aliados, tome as ruas em lutas contra outros Comandos. Sua reputação aumenta e você ganha dinheiro completando Serviços em um Comando. Se subir o nível do Comando, você desbloqueará bônus especiais. Você e os seus amigos podem criar um Comando particular e sair atrás de estranhos. Se não quer entrar para um Comando, então divirta-se consigo mesmo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Crews/262272_Crews.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Crews/.dds",
+        "filesize": 2048
+    }
+}

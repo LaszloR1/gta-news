@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504030786,"title":"","headline":"GTA Online","subtitle":"Motor Wars","content":"This brutal Adversary Mode is a deadly scavenger hunt where second place is not an option. Up to four teams parachute into a periodically shrinking kill box strewn with a lethal assortment of guns, explosives and Weaponized Vehicles. Work together towards total annihilation of opposing forces battling each other and the shrinking map to survive and win. ","url":"","image":{"path":"sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504030786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Motor Wars",
+    "content": "This brutal Adversary Mode is a deadly scavenger hunt where second place is not an option. Up to four teams parachute into a periodically shrinking kill box strewn with a lethal assortment of guns, explosives and Weaponized Vehicles. Work together towards total annihilation of opposing forces battling each other and the shrinking map to survive and win. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

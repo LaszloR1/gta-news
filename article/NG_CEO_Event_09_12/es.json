@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481212800,"title":"","headline":"GTA Online","subtitle":"Fin de semana Bonus ejecutivo: doble de GTA$ y RP, -50% en oficinas de ejecutivo y mucho más","content":"Entra a tope en Importaciones/Exportaciones con bonus para jefes.<br /><br />Gana 2x GTA$ y RP en No te pases de la raya, Séquito, Extracción y Jauría de caza, y prepárate para Importaciones/Exportaciones con un -50% en oficinas de ejecutivo, limusinas con torreta y más.<br /><br />También has desbloqueado el pijama y batín azules con remolinos al iniciar sesión. Consigue estas relajantes prendas en cualquier tienda de ropa a tiempo para estas fiestas.<br /><br />Visita el Rockstar Newswire para ver todos los detalles.","url":"","image":{"path":"sc/news/NG_CEO_Event_09_12/524416_BIGFEED_2016_1208-686x1024_V01.dds","filesize":524416},"landscape":{"path":"sc/news/NG_CEO_Event_09_12/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481212800,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fin de semana Bonus ejecutivo: doble de GTA$ y RP, -50% en oficinas de ejecutivo y mucho más",
+    "content": "Entra a tope en Importaciones/Exportaciones con bonus para jefes.<br /><br />Gana 2x GTA$ y RP en No te pases de la raya, Séquito, Extracción y Jauría de caza, y prepárate para Importaciones/Exportaciones con un -50% en oficinas de ejecutivo, limusinas con torreta y más.<br /><br />También has desbloqueado el pijama y batín azules con remolinos al iniciar sesión. Consigue estas relajantes prendas en cualquier tienda de ropa a tiempo para estas fiestas.<br /><br />Visita el Rockstar Newswire para ver todos los detalles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CEO_Event_09_12/524416_BIGFEED_2016_1208-686x1024_V01.dds",
+        "filesize": 524416
+    },
+    "landscape": {
+        "path": "sc/news/NG_CEO_Event_09_12/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1492522656,"title":"","headline":"GTA Online","subtitle":"Mercado Aberto","content":"Uma variedade de veículos favoritos dos fãs está agora no mercado aberto. O monster truck Marshall, o hidroavião Dodo e o minissubmarino Kraken estão disponíveis para qualquer aspirante a rei do crime. Além do estreante em GTA Online, o ameaçador Duke O' Death que está agora na Warstock e fazendo os aventureiros retrô terem sonhos pós-apocalípticos e sacanas por San Andreas.","url":"","image":{"path":"sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Open_Market/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1492522656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mercado Aberto",
+    "content": "Uma variedade de veículos favoritos dos fãs está agora no mercado aberto. O monster truck Marshall, o hidroavião Dodo e o minissubmarino Kraken estão disponíveis para qualquer aspirante a rei do crime. Além do estreante em GTA Online, o ameaçador Duke O' Death que está agora na Warstock e fazendo os aventureiros retrô terem sonhos pós-apocalípticos e sacanas por San Andreas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Open_Market/.dds",
+        "filesize": 2048
+    }
+}

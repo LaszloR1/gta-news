@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493818063,"title":"","headline":"GTA Online","subtitle":"Des promotions pour les motards et des GTA$ et RP doublés sur les contrats de QG jusqu'au 15 mai","content":"Jusqu'au 15 mai, les clubs de motards de Los Santos bénéficieront d'un bonus de GTA$ et RP sur les contrats de QG. Et profitez aussi de 25µ% de réduction surµ:<br /><br />• Les QG de motards<br />• Les éléments de personnalisation des QG de motards<br />• Les lieux de production de motards<br />• La Nagasaki Shotaro<br />• La Progen T20<br />• Le Western Company Annihilator<br />• Le pick-up armé Karin<br /><br />Plus d'informations sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Discounts_02_05/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493818063,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Des promotions pour les motards et des GTA$ et RP doublés sur les contrats de QG jusqu'au 15 mai",
+    "content": "Jusqu'au 15 mai, les clubs de motards de Los Santos bénéficieront d'un bonus de GTA$ et RP sur les contrats de QG. Et profitez aussi de 25µ% de réduction surµ:<br /><br />• Les QG de motards<br />• Les éléments de personnalisation des QG de motards<br />• Les lieux de production de motards<br />• La Nagasaki Shotaro<br />• La Progen T20<br />• Le Western Company Annihilator<br />• Le pick-up armé Karin<br /><br />Plus d'informations sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Discounts_02_05/.dds",
+        "filesize": 2048
+    }
+}

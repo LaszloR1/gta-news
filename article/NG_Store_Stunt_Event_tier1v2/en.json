@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488454038,"title":"","headline":"Limited Time Sale Just for You","subtitle":"","content":"Enjoy 50% off the armored Benefactor Schafter sedan and the SuperVolito chopper, as well as 25% off the speedy Pfister 811 Supercar.  Or upgrade your living space with 50% off a magnificent Stilt House property. Act fast, your sale ends March 13.","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488454038,
+    "title": "",
+    "headline": "Limited Time Sale Just for You",
+    "subtitle": "",
+    "content": "Enjoy 50% off the armored Benefactor Schafter sedan and the SuperVolito chopper, as well as 25% off the speedy Pfister 811 Supercar.  Or upgrade your living space with 50% off a magnificent Stilt House property. Act fast, your sale ends March 13.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/.dds",
+        "filesize": 2048
+    }
+}

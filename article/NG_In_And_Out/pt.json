@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1462295196,"title":"","headline":"GTA Online","subtitle":"Entra e Sai","content":"Lute para obter o controle ou proteger múltiplos pacotes neste novo Modo Adversário. Os atacantes devem pegar todos os pacotes e devolvê-los para o ponto de entrega para vencer. Os defensores devem resistir até o fim. Quanto mais pacotes forem pegos, menos alvos os defensores terão para manter em segurança. Furtividade e táticas de equipe podem ser essenciais para a vitória.","url":"","image":{"path":"sc/news/NG_In_And_Out/262272_In_And_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_In_And_Out/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1462295196,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Entra e Sai",
+    "content": "Lute para obter o controle ou proteger múltiplos pacotes neste novo Modo Adversário. Os atacantes devem pegar todos os pacotes e devolvê-los para o ponto de entrega para vencer. Os defensores devem resistir até o fim. Quanto mais pacotes forem pegos, menos alvos os defensores terão para manter em segurança. Furtividade e táticas de equipe podem ser essenciais para a vitória.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_In_And_Out/262272_In_And_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_In_And_Out/.dds",
+        "filesize": 2048
+    }
+}

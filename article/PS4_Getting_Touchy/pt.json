@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416225236,"title":"","headline":"GTAV","subtitle":"Mão na massa","content":"Você pode usar o touch pad no seu controle para realizar diversas ações no Modo História e em GTA Online.<br /><br />Enquanto dirige, deslize para cima e para baixo para mudar as estações de rádio, e deslize para a esquerda e para a direita para passar pelas armas.<br /><br />Enquanto estiver a pé e usando uma arma, deslize para cima para jogar uma Granada rápida contra um inimigo desprevenido.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds","filesize":65664},"landscape":{"path":"sc/news/PS4_Getting_Touchy/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416225236,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Mão na massa",
+    "content": "Você pode usar o touch pad no seu controle para realizar diversas ações no Modo História e em GTA Online.<br /><br />Enquanto dirige, deslize para cima e para baixo para mudar as estações de rádio, e deslize para a esquerda e para a direita para passar pelas armas.<br /><br />Enquanto estiver a pé e usando uma arma, deslize para cima para jogar uma Granada rápida contra um inimigo desprevenido.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/PS4_Getting_Touchy/.dds",
+        "filesize": 2048
+    }
+}

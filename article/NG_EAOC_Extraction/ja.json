@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175129,"title":"","headline":"GTA Online","subtitle":"救出大作戦","content":"要人を乗せたジェット機が街の危険エリアに墜落しました。ボディーガードのチームは「ターゲット」となる味方と連携し、救出ゾーンで合流して避難地点を目指します。暗殺チームはターゲットを先に見つけて排除しましょう。","url":"","image":{"path":"sc/news/NG_EAOC_Extraction/262272_Extraction.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Extraction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175129,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "救出大作戦",
+    "content": "要人を乗せたジェット機が街の危険エリアに墜落しました。ボディーガードのチームは「ターゲット」となる味方と連携し、救出ゾーンで合流して避難地点を目指します。暗殺チームはターゲットを先に見つけて排除しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Extraction/262272_Extraction.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Extraction/.dds",
+        "filesize": 2048
+    }
+}

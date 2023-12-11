@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504030786,"title":"","headline":"GTA Online","subtitle":"載具戰爭","content":"在這個殘酷的競爭模式中，玩家需冒死尋找並奪得戰利品，而且只能成功，不許失敗。最多四支隊伍跳傘降落於戰區中，這個戰區每隔一段時間便會縮小，其中堆滿各式各樣致命的武器、爆裂物與武裝載具。各個團隊必須攜手合作，在逐漸縮小的地圖中浴血奮戰，徹底殲滅所有敵方隊伍，以求取生機並獲得勝利。","url":"","image":{"path":"sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504030786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "載具戰爭",
+    "content": "在這個殘酷的競爭模式中，玩家需冒死尋找並奪得戰利品，而且只能成功，不許失敗。最多四支隊伍跳傘降落於戰區中，這個戰區每隔一段時間便會縮小，其中堆滿各式各樣致命的武器、爆裂物與武裝載具。各個團隊必須攜手合作，在逐漸縮小的地圖中浴血奮戰，徹底殲滅所有敵方隊伍，以求取生機並獲得勝利。",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

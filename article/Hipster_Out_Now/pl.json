@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1402996217,"headline":"Aktualizacja GTA Online","subtitle":"Aktualizacja 'Nie jestem hipsterem' już dostępna","content":"Wyróżnij się z tłumu dzięki aktualizacji ‘‘Nie jestem hipsterem‘‘, wprowadzającej nowe koszulki retro z nadrukami, superciasne spodnie-rurki, fryzury, ironiczne, post-ironiczne i niecałkiem ironiczne tatuaże, zwierzęce maski i inne.<br /><br />Wybieraj też spośród siedmiu nowych pojazdów, w tym wywołujących nostalgię maszyn takich jak Glendale, Blade i Rhapsody.<br /><br />Ammu-Nation także załapało się na tę niecałkiem ironiczną modę dodając do asortymentu pistolet vintage i zabytkowy sztylet.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1402996217,
+    "headline": "Aktualizacja GTA Online",
+    "subtitle": "Aktualizacja 'Nie jestem hipsterem' już dostępna",
+    "content": "Wyróżnij się z tłumu dzięki aktualizacji ‘‘Nie jestem hipsterem‘‘, wprowadzającej nowe koszulki retro z nadrukami, superciasne spodnie-rurki, fryzury, ironiczne, post-ironiczne i niecałkiem ironiczne tatuaże, zwierzęce maski i inne.<br /><br />Wybieraj też spośród siedmiu nowych pojazdów, w tym wywołujących nostalgię maszyn takich jak Glendale, Blade i Rhapsody.<br /><br />Ammu-Nation także załapało się na tę niecałkiem ironiczną modę dodając do asortymentu pistolet vintage i zabytkowy sztylet.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds",
+        "filesize": 65664
+    }
+}

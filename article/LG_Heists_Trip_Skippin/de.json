@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976280,"title":"","headline":"GTA Online","subtitle":"Abkürzung gefällig?","content":"Spielst du manche Raubüberfall-Missionen oder -Finale erneut, kannst du Fahrten zu bestimmten Zielen überspringen.<br /><br />Darüber abstimmen kann man nur, wenn alle Raubüberfall-Mitglieder:<br />- die Mission vorher schon einmal abgeschlossen haben;<br />- das gleiche Ziel haben und im gleichen Fahrzeug sitzen.<br /><br />Sei dir bewusst: Überspringst du die Fahrt, reduziert sich deine Belohnung leicht und du kannst die Elite-Herausforderung nicht abschließen – willst du diese erledigen, darfst du nicht abkürzen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Heists_Trip_Skippin/65664_Trip-Skippin.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Heists_Trip_Skippin/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976280,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Abkürzung gefällig?",
+    "content": "Spielst du manche Raubüberfall-Missionen oder -Finale erneut, kannst du Fahrten zu bestimmten Zielen überspringen.<br /><br />Darüber abstimmen kann man nur, wenn alle Raubüberfall-Mitglieder:<br />- die Mission vorher schon einmal abgeschlossen haben;<br />- das gleiche Ziel haben und im gleichen Fahrzeug sitzen.<br /><br />Sei dir bewusst: Überspringst du die Fahrt, reduziert sich deine Belohnung leicht und du kannst die Elite-Herausforderung nicht abschließen – willst du diese erledigen, darfst du nicht abkürzen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Heists_Trip_Skippin/65664_Trip-Skippin.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Heists_Trip_Skippin/.dds",
+        "filesize": 2048
+    }
+}

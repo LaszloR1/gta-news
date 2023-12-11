@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1673605986,"title":"Vous avez débloqué un nouveau cadeau","headline":"Vous avez débloqué un nouveau cadeau","subtitle":"Le motif Démon de vitesse pour l'Übermacht Cypher","content":"Merci d'avoir terminé une mission de la Première dose en mode difficile et en moins de 10µminutes entre le 12µjanvier et le 8µfévrier. Vous recevrez en cadeau le motif Démon de vitesse pour l'ÜbermachtµCypher avant le 17µfévrier.<br /><br />Consultez régulièrement le Rockstar Newswire pour ne rien manquer des prochains évènements à durée limitée.","url":"","image":{"path":"sc/news/e197a10762d847d69586c186/262272_GTAO332_HardModeScreenShotCarousel_FINAL_BigFeed_5.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1673605986,
+    "title": "Vous avez débloqué un nouveau cadeau",
+    "headline": "Vous avez débloqué un nouveau cadeau",
+    "subtitle": "Le motif Démon de vitesse pour l'Übermacht Cypher",
+    "content": "Merci d'avoir terminé une mission de la Première dose en mode difficile et en moins de 10µminutes entre le 12µjanvier et le 8µfévrier. Vous recevrez en cadeau le motif Démon de vitesse pour l'ÜbermachtµCypher avant le 17µfévrier.<br /><br />Consultez régulièrement le Rockstar Newswire pour ne rien manquer des prochains évènements à durée limitée.",
+    "url": "",
+    "image": {
+        "path": "sc/news/e197a10762d847d69586c186/262272_GTAO332_HardModeScreenShotCarousel_FINAL_BigFeed_5.dds",
+        "filesize": 262272
+    }
+}

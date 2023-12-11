@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294201,"title":"","headline":"GTA Online","subtitle":"Nuevos trabajos vip","content":"Ahora, los vips y sus escoltas pueden acceder a tres nuevas fuentes de financiación ilegal:<br /><br />- Cazatalentos: asesina a objetivos clave del mapa contrarreloj.<br />- Transporte aéreo: libera cargas valiosas custodiadas por guardias armados y asegúralas.<br />- Transporte: sé el primero en entregar un remolque lleno de mercancía libre de impuestos al propietario equivocado.<br /><br />Como vip, puedes acceder desde la sección Trabajos vip del menú Interacción.","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Work/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294201,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuevos trabajos vip",
+    "content": "Ahora, los vips y sus escoltas pueden acceder a tres nuevas fuentes de financiación ilegal:<br /><br />- Cazatalentos: asesina a objetivos clave del mapa contrarreloj.<br />- Transporte aéreo: libera cargas valiosas custodiadas por guardias armados y asegúralas.<br />- Transporte: sé el primero en entregar un remolque lleno de mercancía libre de impuestos al propietario equivocado.<br /><br />Como vip, puedes acceder desde la sección Trabajos vip del menú Interacción.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/.dds",
+        "filesize": 2048
+    }
+}

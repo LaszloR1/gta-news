@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507049482,"title":"","headline":"GTA Online","subtitle":"Descontos e melhorias","content":"Não existe excesso nessa cidade. Pegue a sua recém adquirida máquina voadora e deixe ela ainda mais letal com esses descontos:<br /><br />Oficina do hangar – 25% off<br />Melhorias de motor (todos os veículos) – 25% off<br />Melhorias de blindagem (todos os veículos) – 25% off<br />Melhorias de controle de aeronave – 25% off<br />Melhorias de armas para aeronaves – 25% off<br />Trajes de corrida aérea e uniformes de piloto – 25% off<br /><br />Confira o Boletim da Rockstar para ver os detalhes.","url":"","image":{"path":"sc/news/Disounts_03_10_17/262272_Hangar_On.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507049482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descontos e melhorias",
+    "content": "Não existe excesso nessa cidade. Pegue a sua recém adquirida máquina voadora e deixe ela ainda mais letal com esses descontos:<br /><br />Oficina do hangar – 25% off<br />Melhorias de motor (todos os veículos) – 25% off<br />Melhorias de blindagem (todos os veículos) – 25% off<br />Melhorias de controle de aeronave – 25% off<br />Melhorias de armas para aeronaves – 25% off<br />Trajes de corrida aérea e uniformes de piloto – 25% off<br /><br />Confira o Boletim da Rockstar para ver os detalhes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Disounts_03_10_17/262272_Hangar_On.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1518532405,"title":"","headline":"GTA Online","subtitle":"ハスラー","content":"この世界には2種類の人間がいます。ヴァピッドµハスラーを見て、1930年代風の美しいクーペと、荒々しく頑丈なマッスルカーとの組み合わせに困惑しその場に立ち尽くす人。そして、すぐにアクセル全開で走りだし、ついに自分のマシンを見つけたと喜ぶ人。あなたはどちらでしょう？","url":"","image":{"path":"sc/news/DH_Vapid_Hustler/524416_BIGFEED_2017_1212_V01_E_512x1024_Hustler.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1518532405,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ハスラー",
+    "content": "この世界には2種類の人間がいます。ヴァピッドµハスラーを見て、1930年代風の美しいクーペと、荒々しく頑丈なマッスルカーとの組み合わせに困惑しその場に立ち尽くす人。そして、すぐにアクセル全開で走りだし、ついに自分のマシンを見つけたと喜ぶ人。あなたはどちらでしょう？",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Vapid_Hustler/524416_BIGFEED_2017_1212_V01_E_512x1024_Hustler.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

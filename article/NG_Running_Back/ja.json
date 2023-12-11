@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1448386325,"title":"","headline":"GTA Online","subtitle":"ランニングバック","content":"乗り物系のこの新たな敵対モードで本能が赴くままに動きましょう。オフェンス側はタッチダウンを目指してランナーをラインまで走らせる素晴らしいプレイにチャレンジします。ディフェンス側はそれを阻止するべく、オフェンスをタックルしてランナーのインターセプトに挑みます。","url":"","image":{"path":"sc/news/NG_Running_Back/262272_Running_Back.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Running_Back/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1448386325,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ランニングバック",
+    "content": "乗り物系のこの新たな敵対モードで本能が赴くままに動きましょう。オフェンス側はタッチダウンを目指してランナーをラインまで走らせる素晴らしいプレイにチャレンジします。ディフェンス側はそれを阻止するべく、オフェンスをタックルしてランナーのインターセプトに挑みます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Running_Back/262272_Running_Back.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Running_Back/.dds",
+        "filesize": 2048
+    }
+}

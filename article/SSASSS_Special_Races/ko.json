@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525195306,"title":"","headline":"GTA Online","subtitle":"신규 특수 차량 레이스","content":"로스 산토스의 전시장이 제공하는 모든 콘셉트카와 실험적인 프로토타입을 모두 마스터했다고 생각하실 수 있습니다. 하지만 여러분은 호버링 카와 제트팩, 잠수정 레이싱에서는 아직 아마추어죠. 프로가 되는 방법은 하나밖에 없습니다. 새로 나온 기괴한 특수 차량 레이스에서 최고를 뛰어넘는 여러분의 실력을 증명하세요.","url":"","image":{"path":"sc/news/SSASSS_Special_Races/349672_bigfeed-svc-V3.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525195306,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "신규 특수 차량 레이스",
+    "content": "로스 산토스의 전시장이 제공하는 모든 콘셉트카와 실험적인 프로토타입을 모두 마스터했다고 생각하실 수 있습니다. 하지만 여러분은 호버링 카와 제트팩, 잠수정 레이싱에서는 아직 아마추어죠. 프로가 되는 방법은 하나밖에 없습니다. 새로 나온 기괴한 특수 차량 레이스에서 최고를 뛰어넘는 여러분의 실력을 증명하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Special_Races/349672_bigfeed-svc-V3.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

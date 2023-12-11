@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766143,"title":"","headline":"GTA Online","subtitle":"Besoin de place","content":"Vos garages sont pleins à craquer de voitures trop belles pour être venduesµ? Vos motos parfaitement customisées prennent toute la place dans votre QGµ? Ou alors, vous en avez marre de pouvoir compter vos propriétés avec une seule mainµ? Nous partageons votre douleur, et c'est pourquoi nous avons un remèdeµ: vous pouvez désormais acheter une sixième propriété.","url":"","image":{"path":"sc/news/NG_Bikers_RoomForGrowth/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_RoomForGrowth/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766143,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Besoin de place",
+    "content": "Vos garages sont pleins à craquer de voitures trop belles pour être venduesµ? Vos motos parfaitement customisées prennent toute la place dans votre QGµ? Ou alors, vous en avez marre de pouvoir compter vos propriétés avec une seule mainµ? Nous partageons votre douleur, et c'est pourquoi nous avons un remèdeµ: vous pouvez désormais acheter une sixième propriété.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_RoomForGrowth/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_RoomForGrowth/.dds",
+        "filesize": 2048
+    }
+}

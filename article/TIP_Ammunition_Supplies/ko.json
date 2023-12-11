@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569646,"headline":"온라인 팁","subtitle":"탄약 보급품","content":"당신의 탄약 재고가 얼마 안 남았지만 아뮤네이션 상점을 방문하기는 싫다면, 작업을 시작하기 전에 로비 화면에서 보급품을 채울 수 있습니다.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569646,
+    "headline": "온라인 팁",
+    "subtitle": "탄약 보급품",
+    "content": "당신의 탄약 재고가 얼마 안 남았지만 아뮤네이션 상점을 방문하기는 싫다면, 작업을 시작하기 전에 로비 화면에서 보급품을 채울 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

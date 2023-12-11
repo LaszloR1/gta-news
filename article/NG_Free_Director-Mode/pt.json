@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314859,"title":"","headline":"GTA Online","subtitle":"Modo Diretor","content":"O Editor Rockstar possui o Modo Diretor, que oferece uma variedade de ferramentas para criar vídeos únicos.<br /><br />Antes de gravar as suas partidas, inicie o Modo Diretor para escolher dentro de um elenco enorme de personagens e animais do Modo História, além de definir variáveis como clima, horário, local e até mesmo para inserir trapaças, como socos explosivos.<br /><br />Encontre o Modo Diretor no Editor Rockstar através do Menu de Pausa.","url":"","image":{"path":"sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Director-Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314859,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Modo Diretor",
+    "content": "O Editor Rockstar possui o Modo Diretor, que oferece uma variedade de ferramentas para criar vídeos únicos.<br /><br />Antes de gravar as suas partidas, inicie o Modo Diretor para escolher dentro de um elenco enorme de personagens e animais do Modo História, além de definir variáveis como clima, horário, local e até mesmo para inserir trapaças, como socos explosivos.<br /><br />Encontre o Modo Diretor no Editor Rockstar através do Menu de Pausa.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Director-Mode/.dds",
+        "filesize": 2048
+    }
+}

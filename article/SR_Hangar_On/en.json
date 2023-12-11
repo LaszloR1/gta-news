@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999975,"title":"","headline":"GTA Online","subtitle":"Hangar On","content":"You can tell a lot about an international smuggling baron from the size of their hangar – but don’t panic, we’ve got you covered. Not only is this temple to private aviation fully customizable; not only is it capable of housing almost every type of plane and helicopter known to man; but it’s also the only place you can install your very own Aircraft Workshop, where you can fine tune your squadron’s weapons, looks and performance to your heart’s content.","url":"","image":{"path":"sc/news/SR_Hangar_On/262272_Hangar_On.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hangar On",
+    "content": "You can tell a lot about an international smuggling baron from the size of their hangar – but don’t panic, we’ve got you covered. Not only is this temple to private aviation fully customizable; not only is it capable of housing almost every type of plane and helicopter known to man; but it’s also the only place you can install your very own Aircraft Workshop, where you can fine tune your squadron’s weapons, looks and performance to your heart’s content.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Hangar_On/262272_Hangar_On.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

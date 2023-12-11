@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491817164,"title":"","headline":"GTA Online","subtitle":"Expropiación","content":"Ríndete a los instintos más básicos de cualquier machote americano: dispara al otro tipo en el cuello, apodérate de su territorio y búrlate de sus amigos mientras huyen asustados. Expropiación es el nuevo modo Adversario para todo el que quiera marcar el territorio de la manera más divertida y sangrienta posible.","url":"","image":{"path":"sc/news/NG_CSSVC_Land_Grab/524416_BIGFEED_2017_0410_V03_512x1024.dds","filesize":524416},"landscape":{"path":"sc/news/NG_CSSVC_Land_Grab/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491817164,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Expropiación",
+    "content": "Ríndete a los instintos más básicos de cualquier machote americano: dispara al otro tipo en el cuello, apodérate de su territorio y búrlate de sus amigos mientras huyen asustados. Expropiación es el nuevo modo Adversario para todo el que quiera marcar el territorio de la manera más divertida y sangrienta posible.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CSSVC_Land_Grab/524416_BIGFEED_2017_0410_V03_512x1024.dds",
+        "filesize": 524416
+    },
+    "landscape": {
+        "path": "sc/news/NG_CSSVC_Land_Grab/.dds",
+        "filesize": 2048
+    }
+}

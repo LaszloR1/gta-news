@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1459850770,"title":"","headline":"GTA Online","subtitle":"Agora na Benny's: Declasse Tornado","content":"Benny está aí de novo, desta vez com uma melhoria personalizada de lowrider para o Declasse Tornado. Compre o modelo de fábrica diretamente no site da Benny's e então dirija até a Benny’s Original Motor Works no centro de Strawberry para ver o que ele tem para oferecer.","url":"","image":{"path":"sc/news/NG_Tornado_Out_Now/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Tornado_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1459850770,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Agora na Benny's: Declasse Tornado",
+    "content": "Benny está aí de novo, desta vez com uma melhoria personalizada de lowrider para o Declasse Tornado. Compre o modelo de fábrica diretamente no site da Benny's e então dirija até a Benny’s Original Motor Works no centro de Strawberry para ver o que ele tem para oferecer.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Tornado_Out_Now/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Tornado_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

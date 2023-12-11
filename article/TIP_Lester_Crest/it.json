@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467023,"title":"","headline":"Suggerimento online","subtitle":"Lester Crest","content":"Vuoi mettere una taglia su qualcuno? Corrompere i poliziotti e azzerare il livello di sospetto? Preferisci sparire dal radar per avvicinarti a qualcuno? O magari vuoi solo un mezzo di trasporto? Chiama il bizzarro, inquietante e solitario Lester.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Lester_Crest/262272_LesterCrest.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Lester_Crest/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467023,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Lester Crest",
+    "content": "Vuoi mettere una taglia su qualcuno? Corrompere i poliziotti e azzerare il livello di sospetto? Preferisci sparire dal radar per avvicinarti a qualcuno? O magari vuoi solo un mezzo di trasporto? Chiama il bizzarro, inquietante e solitario Lester.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Lester_Crest/262272_LesterCrest.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Lester_Crest/.dds",
+        "filesize": 2048
+    }
+}

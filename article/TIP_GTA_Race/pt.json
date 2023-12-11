@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469749,"headline":"Dica online","subtitle":"Corrida GTA","content":"Se gosta de correr, mas adora trapacear, tente uma Corrida GTA. Os itens ajudarão você a lidar com qualquer um que tentar ultrapassar você.<br /><br />Transforme qualquer corrida em uma Corrida GTA, ou Corrida GTA de Equipe, através das opções em qualquer lobby de corrida.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469749,
+    "headline": "Dica online",
+    "subtitle": "Corrida GTA",
+    "content": "Se gosta de correr, mas adora trapacear, tente uma Corrida GTA. Os itens ajudarão você a lidar com qualquer um que tentar ultrapassar você.<br /><br />Transforme qualquer corrida em uma Corrida GTA, ou Corrida GTA de Equipe, através das opções em qualquer lobby de corrida.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

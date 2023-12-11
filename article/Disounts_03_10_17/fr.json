@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507049482,"title":"","headline":"GTA Online","subtitle":"Promotions et améliorations","content":"Rendez votre nouvelle machine volante plus puissante en profitant de -25µ% surµ:  <br /><br />- l'atelier du hangar<br />- les améliorations moteurs (tous véhicules)<br />- les améliorations pour blindages (tous véhicules)<br />- les améliorations des manches des appareils aériens<br />- les améliorations des armes des appareils aériens<br />- les tenues de vol et les combinaisons de voltige<br /><br />Consultez le Rockstar Newswire pour plus de détails.","url":"","image":{"path":"sc/news/Disounts_03_10_17/262272_Hangar_On.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507049482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promotions et améliorations",
+    "content": "Rendez votre nouvelle machine volante plus puissante en profitant de -25µ% surµ:  <br /><br />- l'atelier du hangar<br />- les améliorations moteurs (tous véhicules)<br />- les améliorations pour blindages (tous véhicules)<br />- les améliorations des manches des appareils aériens<br />- les améliorations des armes des appareils aériens<br />- les tenues de vol et les combinaisons de voltige<br /><br />Consultez le Rockstar Newswire pour plus de détails.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Disounts_03_10_17/262272_Hangar_On.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

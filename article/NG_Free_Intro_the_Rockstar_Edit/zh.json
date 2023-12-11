@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314657,"title":"","headline":"GTA Online","subtitle":"隆重推出 Rockstar 編輯器","content":"使用Rockstar編輯器錄製和編輯您的 Grand Theft Auto V 和 GTA 線上模式遊戲影片，然後在 YouTube 和 Rockstar Games Social Club 中與好友分享。<br /><br />您必須要完成「富蘭克林和拉瑪」任務才可解鎖「導演模式」。使用「手動」或「動作重播」錄影模式，錄製內容片段，然後透過暫停選單進入Rockstar編輯器，即可開始編輯錄製的片段，製作您的影片。","url":"","image":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314657,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "隆重推出 Rockstar 編輯器",
+    "content": "使用Rockstar編輯器錄製和編輯您的 Grand Theft Auto V 和 GTA 線上模式遊戲影片，然後在 YouTube 和 Rockstar Games Social Club 中與好友分享。<br /><br />您必須要完成「富蘭克林和拉瑪」任務才可解鎖「導演模式」。使用「手動」或「動作重播」錄影模式，錄製內容片段，然後透過暫停選單進入Rockstar編輯器，即可開始編輯錄製的片段，製作您的影片。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds",
+        "filesize": 2048
+    }
+}

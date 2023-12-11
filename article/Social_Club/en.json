@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571726,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"The Social Club website is the place to keep in touch with everything going on, including:<br /><br />Photography - Take snaps on your phone and share your crazy exploits, unfortunate new haircut or massive ego with the world - they’re published on the Social Club instantly.<br />News - Find out about the latest news and Social Club events.<br />Self-Evaluation - Keep track of your vital statistics and see how you compare to the rest of the world on the leaderboards.<br /><br />And much more...","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571726,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "The Social Club website is the place to keep in touch with everything going on, including:<br /><br />Photography - Take snaps on your phone and share your crazy exploits, unfortunate new haircut or massive ego with the world - they’re published on the Social Club instantly.<br />News - Find out about the latest news and Social Club events.<br />Self-Evaluation - Keep track of your vital statistics and see how you compare to the rest of the world on the leaderboards.<br /><br />And much more...",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

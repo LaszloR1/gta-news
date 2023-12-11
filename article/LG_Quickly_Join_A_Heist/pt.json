@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1426615623,"title":"","headline":"GTA Online","subtitle":"Entre rapidamente num Golpe","content":"Use o aplicativo Serviço Rápido no seu celular para entrar rapidamente num Golpe.<br /><br />Selecione 'Disponível' para continuar no modo livre até que o Golpe comece ou 'Entrar no lobby direto' para entrar no lobby e conhecer a equipe.","url":" www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Quickly_Join_A_Heist/65664_Last_gen_ifruit_phone2.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Quickly_Join_A_Heist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1426615623,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Entre rapidamente num Golpe",
+    "content": "Use o aplicativo Serviço Rápido no seu celular para entrar rapidamente num Golpe.<br /><br />Selecione 'Disponível' para continuar no modo livre até que o Golpe comece ou 'Entrar no lobby direto' para entrar no lobby e conhecer a equipe.",
+    "url": " www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Quickly_Join_A_Heist/65664_Last_gen_ifruit_phone2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Quickly_Join_A_Heist/.dds",
+        "filesize": 2048
+    }
+}

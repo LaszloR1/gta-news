@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699542331,"title":"GTA+","headline":"GTA+","subtitle":"Модификации супер-яхты и пентхауса в казино","content":"Подписчики GTA+ могут получить скидку 50% на все модификации для элитных объектов, таких как роскошные супер-яхты от DockTease и просторные пентхаусы в казино-отеле Diamond.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699542331,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Модификации супер-яхты и пентхауса в казино",
+    "content": "Подписчики GTA+ могут получить скидку 50% на все модификации для элитных объектов, таких как роскошные супер-яхты от DockTease и просторные пентхаусы в казино-отеле Diamond.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

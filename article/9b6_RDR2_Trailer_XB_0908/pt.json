@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533838139,"title":"Assista agora","headline":"Assista agora","subtitle":"Vídeo oficial de jogabilidade de Red Dead Redemption 2","content":"Assista a essa introdução à jogabilidade de Red Dead Redemption 2 em 4K, composta exclusivamente por imagens reais do jogo. <br /><br />Red Dead Redemption 2 chega em 26 de outubro de 2018 para Xbox One. Reserve já.","url":"","image":{"path":"sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_BRA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533838139,
+    "title": "Assista agora",
+    "headline": "Assista agora",
+    "subtitle": "Vídeo oficial de jogabilidade de Red Dead Redemption 2",
+    "content": "Assista a essa introdução à jogabilidade de Red Dead Redemption 2 em 4K, composta exclusivamente por imagens reais do jogo. <br /><br />Red Dead Redemption 2 chega em 26 de outubro de 2018 para Xbox One. Reserve já.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_BRA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1449571592,"title":"","headline":"GTA Online","subtitle":"Due colpi e via","content":"Impugnate le pistole da tiratore! È il momento di avviare una lotta all'ultimo sangue contro gli altri cecchini in questa nuova, frenetica modalità Competizione. Hai solo una vita e due proiettili nel caricatore: non sprecarli o ti rimarrà solo l'arma da corpo a corpo!","url":"","image":{"path":"sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Every_Bullet_Counts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1449571592,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Due colpi e via",
+    "content": "Impugnate le pistole da tiratore! È il momento di avviare una lotta all'ultimo sangue contro gli altri cecchini in questa nuova, frenetica modalità Competizione. Hai solo una vita e due proiettili nel caricatore: non sprecarli o ti rimarrà solo l'arma da corpo a corpo!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Every_Bullet_Counts/.dds",
+        "filesize": 2048
+    }
+}

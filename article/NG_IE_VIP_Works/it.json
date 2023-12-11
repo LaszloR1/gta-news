@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543350,"title":"","headline":"GTA Online","subtitle":"Incarichi del boss","content":"Acquistando uno degli otto veicoli speciali disponibili da Warstock Cache and Carry, ti verrà proposto un nuovo Incarico del boss. In qualità di CEO potrai avviare queste missioni, basate sulle particolari caratteristiche di ciascun veicolo, dal menu Interazione.","url":"","image":{"path":"sc/news/NG_IE_VIP_Works/262272_vipworks.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_VIP_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543350,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Incarichi del boss",
+    "content": "Acquistando uno degli otto veicoli speciali disponibili da Warstock Cache and Carry, ti verrà proposto un nuovo Incarico del boss. In qualità di CEO potrai avviare queste missioni, basate sulle particolari caratteristiche di ciascun veicolo, dal menu Interazione.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_VIP_Works/262272_vipworks.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_VIP_Works/.dds",
+        "filesize": 2048
+    }
+}

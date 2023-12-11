@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533838139,"title":"Guarda ora","headline":"Guarda ora","subtitle":"Red Dead Redemption 2: video di gameplay ufficiale","content":"Guarda questa introduzione di Red Dead Redemption 2 in 4K, composta interamente da sequenze tratte dal gioco.<br /><br />Red Dead Redemption 2 uscirà il 26 ottobre 2018 su Xbox One. Prenotalo ora.","url":"","image":{"path":"sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_ITASPA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533838139,
+    "title": "Guarda ora",
+    "headline": "Guarda ora",
+    "subtitle": "Red Dead Redemption 2: video di gameplay ufficiale",
+    "content": "Guarda questa introduzione di Red Dead Redemption 2 in 4K, composta interamente da sequenze tratte dal gioco.<br /><br />Red Dead Redemption 2 uscirà il 26 ottobre 2018 su Xbox One. Prenotalo ora.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_ITASPA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917447,"title":"","headline":"GTA Online","subtitle":"전문가가 필요하십니까?","content":"차원이 다른 무기화된 이동 수단이 등장함에 따라 범죄 기업들도 하루빨리 적응해 나가야 할 때가 되었습니다. 무기 밀매 사업 준비를 모두 마치고, 정기적으로 재보급을 하고 있으면, 이동식 작전을 통해 새로운 사업 기회가 여러분을 찾아올 테니 잘 살펴보십시오.","url":"","image":{"path":"sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Call_in_Specialists/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917447,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "전문가가 필요하십니까?",
+    "content": "차원이 다른 무기화된 이동 수단이 등장함에 따라 범죄 기업들도 하루빨리 적응해 나가야 할 때가 되었습니다. 무기 밀매 사업 준비를 모두 마치고, 정기적으로 재보급을 하고 있으면, 이동식 작전을 통해 새로운 사업 기회가 여러분을 찾아올 테니 잘 살펴보십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

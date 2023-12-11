@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394812920,"title":"","headline":"Suggerimento online","subtitle":"Bersagli amichevoli","content":"Premendo il tasto D giù/le frecce direzionali in giù per visualizzare i giocatori presenti nella sessione in corso di GTA Online vedrai delle lettere sopra il loro ritratto: servono a riconoscere gli (A)mici e i membri della (C)rew.<br /><br />Resta vicino agli amici e ai membri della crew per semplificarti la vita e ricorda che ora puoi impostare la priorità attacco amici nel menu Interazione: serve a evitare di sparare agli amici durante i momenti più concitati.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Friendly_Targets/262272_FriendlyTargets.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Friendly_Targets/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812920,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Bersagli amichevoli",
+    "content": "Premendo il tasto D giù/le frecce direzionali in giù per visualizzare i giocatori presenti nella sessione in corso di GTA Online vedrai delle lettere sopra il loro ritratto: servono a riconoscere gli (A)mici e i membri della (C)rew.<br /><br />Resta vicino agli amici e ai membri della crew per semplificarti la vita e ricorda che ora puoi impostare la priorità attacco amici nel menu Interazione: serve a evitare di sparare agli amici durante i momenti più concitati.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Friendly_Targets/262272_FriendlyTargets.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Friendly_Targets/.dds",
+        "filesize": 2048
+    }
+}

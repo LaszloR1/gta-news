@@ -1,1 +1,20 @@
-{"types":["newswire","transition"],"date":1411060292,"title":"18 novembre","headline":"GTA V e GTA Online","subtitle":"Grand Theft Auto V è in arrivo su nuove piattaforme","content":"Goditi i miglioramenti grafici e tecnici che rendono GTA V e GTA Online più coinvolgenti che mai. Oltre a maggiori risoluzione e profondità di campo, i giocatori potranno aspettarsi:<br /><br />- Nuovi veicoli, armi e attività<br />- Nuovi animali<br />- Traffico più intenso e nuovo sistema per il fogliame<br />- Effetti di danni e clima più realistici e molto altro<br /><br />Chiunque prenoterà il gioco riceverà 1 milione di GTA$ da spendere tra GTA V e GTA Online.<br /><br />Maggiori dettagli su Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1411060292,
+    "title": "18 novembre",
+    "headline": "GTA V e GTA Online",
+    "subtitle": "Grand Theft Auto V è in arrivo su nuove piattaforme",
+    "content": "Goditi i miglioramenti grafici e tecnici che rendono GTA V e GTA Online più coinvolgenti che mai. Oltre a maggiori risoluzione e profondità di campo, i giocatori potranno aspettarsi:<br /><br />- Nuovi veicoli, armi e attività<br />- Nuovi animali<br />- Traffico più intenso e nuovo sistema per il fogliame<br />- Effetti di danni e clima più realistici e molto altro<br /><br />Chiunque prenoterà il gioco riceverà 1 milione di GTA$ da spendere tra GTA V e GTA Online.<br /><br />Maggiori dettagli su Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds",
+        "filesize": 65664
+    }
+}

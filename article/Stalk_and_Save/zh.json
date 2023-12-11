@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149140,"headline":"Newswire","subtitle":"追蹤享折扣","content":"Social Club 會員只要在全都露社群網上追蹤商家粉絲專頁，就能在洛聖都中享受這些商家提供的折扣。<br /><br />追蹤何酷師飛髮地帶專頁，便可在首次到店消費剪髮時享受免費服務。追蹤洛聖都改車王的話，您的車身烤漆便由店家招待一次，或者您也可以按下追蹤，享受必達旅遊和戰爭高手軍火公司線上商店的單次式折扣，以及更多優惠！<br /><br />立刻 (在真實世界) 上網，造訪 www.lifeinvader.com。","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149140,
+    "headline": "Newswire",
+    "subtitle": "追蹤享折扣",
+    "content": "Social Club 會員只要在全都露社群網上追蹤商家粉絲專頁，就能在洛聖都中享受這些商家提供的折扣。<br /><br />追蹤何酷師飛髮地帶專頁，便可在首次到店消費剪髮時享受免費服務。追蹤洛聖都改車王的話，您的車身烤漆便由店家招待一次，或者您也可以按下追蹤，享受必達旅遊和戰爭高手軍火公司線上商店的單次式折扣，以及更多優惠！<br /><br />立刻 (在真實世界) 上網，造訪 www.lifeinvader.com。",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds",
+        "filesize": 65664
+    }
+}

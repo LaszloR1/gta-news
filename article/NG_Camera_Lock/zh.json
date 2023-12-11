@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224412,"title":"","headline":"GTA Online","subtitle":"攝影機鎖定","content":"如果要確認每個人都鎖定使用相同的攝影機類型，您可以在開始任何差事前，於大廳中執行此操作設定。<br /><br />在大廳中變更「鎖定攝影機」選項至您想要使用的模式，並限制所有其他人都必須使用您選擇的視角設定 (可以是第三人稱、第一人稱，也可以兩者皆用)。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224412,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "攝影機鎖定",
+    "content": "如果要確認每個人都鎖定使用相同的攝影機類型，您可以在開始任何差事前，於大廳中執行此操作設定。<br /><br />在大廳中變更「鎖定攝影機」選項至您想要使用的模式，並限制所有其他人都必須使用您選擇的視角設定 (可以是第三人稱、第一人稱，也可以兩者皆用)。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

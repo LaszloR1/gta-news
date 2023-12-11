@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1487085407,"title":"","headline":"GTA Online","subtitle":"Erhöhe deine Gewinne: 25 % Bonus auf Verkäufe von Biker-Unternehmen und Spezialfracht-Lieferungen","content":"Lass dich am Valentinstag mit Liebe überschütten: Bis zum 27.02. gibt es Boni in Höhe von 25 % auf alle Verkäufe von Biker-Unternehmen und Spezialfracht-Lieferungen. Kein Partner? Kein Problem. Gönn dir selbst 50 % Rabatt auf Assistant-Dienstleistungen und 25 % auf:<br /><br />- Bekleidung aus Be My Valentine<br />- Albany Roosevelt & Albany Roosevelt Valor<br />- Gusenberg-Bleispritze<br />- Tattoos aus Import/Export<br />- Upgrades bei Benny's<br />- Ocelot Penetrator<br /><br />Details auf dem Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Valentines_Offers/349672_albany-roosevelt-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Valentines_Offers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1487085407,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Erhöhe deine Gewinne: 25 % Bonus auf Verkäufe von Biker-Unternehmen und Spezialfracht-Lieferungen",
+    "content": "Lass dich am Valentinstag mit Liebe überschütten: Bis zum 27.02. gibt es Boni in Höhe von 25 % auf alle Verkäufe von Biker-Unternehmen und Spezialfracht-Lieferungen. Kein Partner? Kein Problem. Gönn dir selbst 50 % Rabatt auf Assistant-Dienstleistungen und 25 % auf:<br /><br />- Bekleidung aus Be My Valentine<br />- Albany Roosevelt & Albany Roosevelt Valor<br />- Gusenberg-Bleispritze<br />- Tattoos aus Import/Export<br />- Upgrades bei Benny's<br />- Ocelot Penetrator<br /><br />Details auf dem Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_Offers/349672_albany-roosevelt-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_Offers/.dds",
+        "filesize": 2048
+    }
+}

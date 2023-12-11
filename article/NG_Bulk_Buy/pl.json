@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223259,"title":"","headline":"GTA Online","subtitle":"Do pełna, proszę","content":"W Ammu-Nation możesz teraz kupować pełen zapas amunicji do dowolnej broni. Po prostu wybierz broń na ścianie i naciśnij ~INPUT_FRONTEND_X~ przy kupnie amunicji, by przełączyć się na zakup maksymalnej ilości.~n~~n~Możesz też od ręki uzupełnić niedobory ołowiu w swoim arsenale w lobby deathmatchu, akcji ostatnia drużyna wygrywa, zdobywania lub misji.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Bulk_Buy/262272_BulkBuy.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bulk_Buy/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223259,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Do pełna, proszę",
+    "content": "W Ammu-Nation możesz teraz kupować pełen zapas amunicji do dowolnej broni. Po prostu wybierz broń na ścianie i naciśnij ~INPUT_FRONTEND_X~ przy kupnie amunicji, by przełączyć się na zakup maksymalnej ilości.~n~~n~Możesz też od ręki uzupełnić niedobory ołowiu w swoim arsenale w lobby deathmatchu, akcji ostatnia drużyna wygrywa, zdobywania lub misji.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Bulk_Buy/262272_BulkBuy.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bulk_Buy/.dds",
+        "filesize": 2048
+    }
+}

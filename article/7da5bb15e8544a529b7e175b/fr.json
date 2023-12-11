@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Planques quotidiennes","content":"Soyez à l'affût de la nouvelle planque quotidienne qui apparaîtra sur votre carte. Faites le ménage et forcez le coffre pour obtenir des récompenses.<br /><br />Terminez la planque quotidienne chaque jour pour remporter des matières premières pour vos affaires et plus.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds","filesize":524416},"button":"Piller les planques en mode libre"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Planques quotidiennes",
+    "content": "Soyez à l'affût de la nouvelle planque quotidienne qui apparaîtra sur votre carte. Faites le ménage et forcez le coffre pour obtenir des récompenses.<br /><br />Terminez la planque quotidienne chaque jour pour remporter des matières premières pour vos affaires et plus.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds",
+        "filesize": 524416
+    },
+    "button": "Piller les planques en mode libre"
+}

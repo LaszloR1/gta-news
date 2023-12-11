@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175563,"title":"","headline":"GTA Online","subtitle":"Executives and Other Criminals Now Available","content":"This latest update offers you the chance to run your own criminal organizations, hire and fire other players, and face off against rival operations across Freemode. <br /><br />Los Santos living also gets a premium upgrade with the introduction of Stilt Houses for sale in the Vinewood Hills, new Eclipse Penthouse Apartments with customizable interior styles and the debut of the upgradable and fully staffed Super Yachts.<br /><br />The update also comes with new armored vehicles, two new weapons and much more.","url":"","image":{"path":"sc/news/NG_EOC_Out_Now/262272_executive_criminalv2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EOC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175563,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Executives and Other Criminals Now Available",
+    "content": "This latest update offers you the chance to run your own criminal organizations, hire and fire other players, and face off against rival operations across Freemode. <br /><br />Los Santos living also gets a premium upgrade with the introduction of Stilt Houses for sale in the Vinewood Hills, new Eclipse Penthouse Apartments with customizable interior styles and the debut of the upgradable and fully staffed Super Yachts.<br /><br />The update also comes with new armored vehicles, two new weapons and much more.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EOC_Out_Now/262272_executive_criminalv2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EOC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

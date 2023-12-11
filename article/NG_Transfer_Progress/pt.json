@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416245599,"title":"","headline":"GTA Online","subtitle":"Transfira o seu personagem e progresso existentes","content":"Está retornando a Los Santos em um novo console? Continue a sua carreira no crime transferindo seus Personagens e Progresso existentes no GTA Online.<br />Para mais informações, visite www.rockstargames.com/gtaonline/charactertransfer.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Transfer_Progress/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416245599,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Transfira o seu personagem e progresso existentes",
+    "content": "Está retornando a Los Santos em um novo console? Continue a sua carreira no crime transferindo seus Personagens e Progresso existentes no GTA Online.<br />Para mais informações, visite www.rockstargames.com/gtaonline/charactertransfer.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Transfer_Progress/.dds",
+        "filesize": 2048
+    }
+}

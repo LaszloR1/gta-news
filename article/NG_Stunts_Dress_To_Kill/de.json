@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324792,"title":"","headline":"GTA Online","subtitle":"Umwerfend angezogen","content":"Jetzt neu und in ganz Los Santos erhältlich: ein umfangreiches Sortiment an extrem auffälligen, durch Rennen inspirierten Kleidungsstücken und passenden Accessoires.<br /><br />Zeige deine Begeisterung für bestimmte Marken mit entsprechend gebrandeten Rennjacken, decke dich von Kopf bis Fuß mit Rennbekleidung ein, oder gehe mit einem Stuntman-Anzug vollkommen in deiner Rolle auf. Man wird dich zwar nur schemenhaft erkennen, aber das bedeutet nicht, dass du dabei nicht gut aussehen darfst.","url":"","image":{"path":"sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dress_To_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Umwerfend angezogen",
+    "content": "Jetzt neu und in ganz Los Santos erhältlich: ein umfangreiches Sortiment an extrem auffälligen, durch Rennen inspirierten Kleidungsstücken und passenden Accessoires.<br /><br />Zeige deine Begeisterung für bestimmte Marken mit entsprechend gebrandeten Rennjacken, decke dich von Kopf bis Fuß mit Rennbekleidung ein, oder gehe mit einem Stuntman-Anzug vollkommen in deiner Rolle auf. Man wird dich zwar nur schemenhaft erkennen, aber das bedeutet nicht, dass du dabei nicht gut aussehen darfst.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/.dds",
+        "filesize": 2048
+    }
+}

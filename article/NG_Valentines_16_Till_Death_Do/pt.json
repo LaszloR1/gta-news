@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1455273183,"title":"","headline":"GTA Online","subtitle":"Até Que a Morte nos Separe","content":"Abrace forte a sua alma gêmea neste novo Modo Adversário, construído especialmente para casais. Até quatro pares se enfrentam em uma troca de tiros. Entretanto, trabalho em equipe é essencial: se um dos dois morrer, o outro morre também. Você ganhará um bônus de regeneração de saúde ao ficar ao lado de seu parceiro. O último casal de pombinhos que sobreviver vence.","url":"","image":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1455273183,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Até Que a Morte nos Separe",
+    "content": "Abrace forte a sua alma gêmea neste novo Modo Adversário, construído especialmente para casais. Até quatro pares se enfrentam em uma troca de tiros. Entretanto, trabalho em equipe é essencial: se um dos dois morrer, o outro morre também. Você ganhará um bônus de regeneração de saúde ao ficar ao lado de seu parceiro. O último casal de pombinhos que sobreviver vence.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/.dds",
+        "filesize": 2048
+    }
+}

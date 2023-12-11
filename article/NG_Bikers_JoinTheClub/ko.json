@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515581,"title":"","headline":"GTA Online","subtitle":"클럽에 가입하세요","content":"MC에 소속되면 창립자인 두목부터 새파란 신참까지 새로운 일거리가 생깁니다. 신규 도전에서 MC 단원끼리 잔혹한 경쟁을 해 보십시오. 두목의 명령에 따라 방해하는 라이벌을 무찌르고 클럽의 이름을 날려보십시오. 그리고 고가의 불법 제품을 생산하는 사업장을 세워 짭짤한 수익을 맛볼 수도 있습니다. 사업장을 잘 관리하면 여러분의 앞날도 보장될 겁니다.","url":"","image":{"path":"sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_JoinTheClub/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "클럽에 가입하세요",
+    "content": "MC에 소속되면 창립자인 두목부터 새파란 신참까지 새로운 일거리가 생깁니다. 신규 도전에서 MC 단원끼리 잔혹한 경쟁을 해 보십시오. 두목의 명령에 따라 방해하는 라이벌을 무찌르고 클럽의 이름을 날려보십시오. 그리고 고가의 불법 제품을 생산하는 사업장을 세워 짭짤한 수익을 맛볼 수도 있습니다. 사업장을 잘 관리하면 여러분의 앞날도 보장될 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/.dds",
+        "filesize": 2048
+    }
+}

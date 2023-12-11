@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513941004,"title":"","headline":"GTA Online","subtitle":"슬래셔 팀전","content":"GTA 온라인에 등장한 최신 대적 모드에선 공정한 싸움 따위는 없습니다. 한 팀은 샷건을 들고 마음껏 피의 욕망을 채우며, 다른 팀은 손전등 하나만 손에 쥔 채 압도적인 공포에 사로잡힙니다. 좋은 소식은 1분마다 두 팀의 역할이 서로 바뀐다는 거죠. 복수란 아주, 아주 달콤하답니다. 마지막까지 생존하는 팀이 승리합니다.","url":"","image":{"path":"sc/news/DH_Slashers/262272_bigfeed-slashers.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513941004,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "슬래셔 팀전",
+    "content": "GTA 온라인에 등장한 최신 대적 모드에선 공정한 싸움 따위는 없습니다. 한 팀은 샷건을 들고 마음껏 피의 욕망을 채우며, 다른 팀은 손전등 하나만 손에 쥔 채 압도적인 공포에 사로잡힙니다. 좋은 소식은 1분마다 두 팀의 역할이 서로 바뀐다는 거죠. 복수란 아주, 아주 달콤하답니다. 마지막까지 생존하는 팀이 승리합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Slashers/262272_bigfeed-slashers.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436353979,"title":"","headline":"GTA Online","subtitle":"Opération coup de poing","content":"Le poing américain a récemment été ajouté chez Ammu-Nation. Un instrument idéal pour apporter des arguments fracassants à enfoncer dans le crâne de vos adversaires.<br /><br />Également disponible, le pistolet de précision possède une puissance de feu supérieure à celle d'un fusil à pompe.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436353979,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Opération coup de poing",
+    "content": "Le poing américain a récemment été ajouté chez Ammu-Nation. Un instrument idéal pour apporter des arguments fracassants à enfoncer dans le crâne de vos adversaires.<br /><br />Également disponible, le pistolet de précision possède une puissance de feu supérieure à celle d'un fusil à pompe.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

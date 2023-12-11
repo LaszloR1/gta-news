@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1469453441,"title":"","headline":"GTA Online","subtitle":"Vapid Contender, MTL Dune and Sprunk Buffalo","content":"New and exclusive to GTA Online this week: three new vehicles catering to desperate needs you’re just about to have. Let everyone know you mean business in the Vapid Contender, an SUV with enough room for a lot of very dirty secrets; annihilate the competition in the MTL Dune, the bastard child of a military transport and a rally car; or pay your respects to a muscle classic with the new Sprunk liveried Buffalo.","url":"","image":{"path":"sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Update2_26_07/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1469453441,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Contender, MTL Dune and Sprunk Buffalo",
+    "content": "New and exclusive to GTA Online this week: three new vehicles catering to desperate needs you’re just about to have. Let everyone know you mean business in the Vapid Contender, an SUV with enough room for a lot of very dirty secrets; annihilate the competition in the MTL Dune, the bastard child of a military transport and a rally car; or pay your respects to a muscle classic with the new Sprunk liveried Buffalo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/.dds",
+        "filesize": 2048
+    }
+}

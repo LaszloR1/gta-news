@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285760,"title":"GTA+","headline":"GTA+","subtitle":"Бонусы за серию «Битва на арене»","content":"Подписчики GTA+ могут получить вдвое больше GTA $, RP и очков арены за серию «Битва на арене» до 13 сентября.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285760,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Бонусы за серию «Битва на арене»",
+    "content": "Подписчики GTA+ могут получить вдвое больше GTA $, RP и очков арены за серию «Битва на арене» до 13 сентября.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

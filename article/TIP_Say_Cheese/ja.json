@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394812640,"headline":"オンラインのヒント","subtitle":"はい、チーズ","content":"最近のアップデートによって、写真をより魅力的にするスナップマティックのコンテンツが追加されました。撮影した写真を見事に飾るフレームや、写真を生き生きさせるフィルター機能が含まれています。<br /><br />カメラを開いている時に方向パッドを使っていつでもフレームやフィルターを変更できます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812640,
+    "headline": "オンラインのヒント",
+    "subtitle": "はい、チーズ",
+    "content": "最近のアップデートによって、写真をより魅力的にするスナップマティックのコンテンツが追加されました。撮影した写真を見事に飾るフレームや、写真を生き生きさせるフィルター機能が含まれています。<br /><br />カメラを開いている時に方向パッドを使っていつでもフレームやフィルターを変更できます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1498761723,"title":"","headline":"GTA Online","subtitle":"Dawn Raid","content":"How’s your multitasking? Sure, you can operate tracking software to identify contraband. Of course, you can parachute from a chopper into a warzone. Naturally, you can use thermal and night vision in a combat scenario. But can you do all that at once while in competition with bunch of psychos every bit as combat-ready as you? Check out the new Adversary Mode, Dawn Raid, to find out.","url":"","image":{"path":"sc/news/GR_Dawn_Raid/262272_DawnRaid.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1498761723,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dawn Raid",
+    "content": "How’s your multitasking? Sure, you can operate tracking software to identify contraband. Of course, you can parachute from a chopper into a warzone. Naturally, you can use thermal and night vision in a combat scenario. But can you do all that at once while in competition with bunch of psychos every bit as combat-ready as you? Check out the new Adversary Mode, Dawn Raid, to find out.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Dawn_Raid/262272_DawnRaid.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

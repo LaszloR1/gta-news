@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469746,"headline":"Astuce en ligne","subtitle":"Course GTA","content":"Si vous aimez faire la course et tricher en même temps, essayez une course GTA. Les bonus vous aideront à vous débarrasser de tous ceux qui osent essayer de vous battre.<br /><br />Vous pouvez faire de n'importe quelle course une course GTA (chacun pour soi ou en équipe) en changeant les options dans le salon.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469746,
+    "headline": "Astuce en ligne",
+    "subtitle": "Course GTA",
+    "content": "Si vous aimez faire la course et tricher en même temps, essayez une course GTA. Les bonus vous aideront à vous débarrasser de tous ceux qui osent essayer de vous battre.<br /><br />Vous pouvez faire de n'importe quelle course une course GTA (chacun pour soi ou en équipe) en changeant les options dans le salon.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

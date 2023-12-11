@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973241,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Fooligan-Jobs","content":"Du kannst Dax im freien Modus anrufen und Arbeit anfordern. Er ruft dich in Kürze mit einem Fooligan-Job zurück.<br /><br />Hilf ihm dabei, durch das Sabotieren gegnerischer Drogenunternehmungen auf die FIB-Fahndungsliste zu kommen, in dem du Getreide vergiftest, ferngezündete Bomben anbringst und weitere Schachzüge planst.<br /><br />Nachdem du deinen 10.µFooligan-Job abgeschlossen hast, schaltest du eine Verbesserung frei, die die Produktionsgeschwindigkeit des mobilen LSD-Labors und den Produktwert steigert.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/57e0e69ad386490bac3a1cc9/262272_GTAO_LSDW_Fooligan_Jobs_FINALIZED_BigFeed.dds","filesize":262272},"button":"Rufe Dax im freien Modus an"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973241,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Fooligan-Jobs",
+    "content": "Du kannst Dax im freien Modus anrufen und Arbeit anfordern. Er ruft dich in Kürze mit einem Fooligan-Job zurück.<br /><br />Hilf ihm dabei, durch das Sabotieren gegnerischer Drogenunternehmungen auf die FIB-Fahndungsliste zu kommen, in dem du Getreide vergiftest, ferngezündete Bomben anbringst und weitere Schachzüge planst.<br /><br />Nachdem du deinen 10.µFooligan-Job abgeschlossen hast, schaltest du eine Verbesserung frei, die die Produktionsgeschwindigkeit des mobilen LSD-Labors und den Produktwert steigert.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/57e0e69ad386490bac3a1cc9/262272_GTAO_LSDW_Fooligan_Jobs_FINALIZED_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Rufe Dax im freien Modus an"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527855,"title":"","headline":"GTA Online","subtitle":"グロッティ X80プロト","content":"グロッティµX80プロトは、レジェンダリー・モータースポーツが自信を持ってご提供する一台です。これは未来のマシンでしょうか？科学は進歩しすぎたのでしょうか？あまりのスピードに、最高速度に到達する前に失神してしまうのではないでしょうか？答えは全て「イエス」です。今すぐ入手して、刹那的な夢を生きましょう。","url":"","image":{"path":"sc/news/NG_Grotti_X80_Out_Now/349672_GTAONLINE-X80-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Grotti_X80_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527855,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "グロッティ X80プロト",
+    "content": "グロッティµX80プロトは、レジェンダリー・モータースポーツが自信を持ってご提供する一台です。これは未来のマシンでしょうか？科学は進歩しすぎたのでしょうか？あまりのスピードに、最高速度に到達する前に失神してしまうのではないでしょうか？答えは全て「イエス」です。今すぐ入手して、刹那的な夢を生きましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Grotti_X80_Out_Now/349672_GTAONLINE-X80-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Grotti_X80_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

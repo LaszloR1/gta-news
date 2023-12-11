@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394810520,"headline":"Dica online","subtitle":"Tenha olhos na nuca","content":"'Cuide da sua retaguarda' é um conselho a ser levado a sério nas partes mais tensas da cidade. Clique com o direcional analógico direito para olhar para trás. Se usar ~INPUT_FRONTEND_LT~ para mirar enquanto olha para trás, você dará um giro para travar na ameaça.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394810520,
+    "headline": "Dica online",
+    "subtitle": "Tenha olhos na nuca",
+    "content": "'Cuide da sua retaguarda' é um conselho a ser levado a sério nas partes mais tensas da cidade. Clique com o direcional analógico direito para olhar para trás. Se usar ~INPUT_FRONTEND_LT~ para mirar enquanto olha para trás, você dará um giro para travar na ameaça.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds",
+        "filesize": 65664
+    }
+}

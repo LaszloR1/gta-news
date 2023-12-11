@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527662,"title":"","headline":"GTA Online","subtitle":"力量之爭","content":"在全新競爭模式「力量之爭」中您將能使用各種強化能力徹底改寫都會戰爭的規則。玩家們可以用特殊能力強化自己以及隊友，進而獲得最終的勝利。 <br />總共有六種不同的強化能力，效果皆為暫時性的，所以玩家需要拿捏使用的時機。每個玩家在同一時間只能使用一種特殊能力，但若是與隊友配合，將可以創造出極大的優勢。","url":"","image":{"path":"sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Power_Play_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527662,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "力量之爭",
+    "content": "在全新競爭模式「力量之爭」中您將能使用各種強化能力徹底改寫都會戰爭的規則。玩家們可以用特殊能力強化自己以及隊友，進而獲得最終的勝利。 <br />總共有六種不同的強化能力，效果皆為暫時性的，所以玩家需要拿捏使用的時機。每個玩家在同一時間只能使用一種特殊能力，但若是與隊友配合，將可以創造出極大的優勢。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Power_Play_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

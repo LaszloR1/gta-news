@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349212,"title":"","headline":"GTA Online","subtitle":"디렉터 모드에서 새로운 장면 만들기","content":"장면 생성기가 디렉터 모드에 새롭게 추가되었습니다. 이제 Rockstar 편집기 클립 녹화 시 원하는 설정을 만들어서 이용할 수 있습니다. 폭발물을 비롯한 200개 이상의 추가 기물 중 원하는 것을 배치하여, 여러분의 동영상에 딱 어울리는 배경을 만들어 보십시오. 최대 4개의 장면을 저장해 두었다가 언제든지 저장된 설정을 다시 이용할 수 있습니다.<br /><br />디렉터 모드를 사용 중에 플레이어 상호 작용 메뉴를 통해 장면 생성기를 이용할 수 있습니다.","url":"","image":{"path":"sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Create_New_Scenes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349212,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "디렉터 모드에서 새로운 장면 만들기",
+    "content": "장면 생성기가 디렉터 모드에 새롭게 추가되었습니다. 이제 Rockstar 편집기 클립 녹화 시 원하는 설정을 만들어서 이용할 수 있습니다. 폭발물을 비롯한 200개 이상의 추가 기물 중 원하는 것을 배치하여, 여러분의 동영상에 딱 어울리는 배경을 만들어 보십시오. 최대 4개의 장면을 저장해 두었다가 언제든지 저장된 설정을 다시 이용할 수 있습니다.<br /><br />디렉터 모드를 사용 중에 플레이어 상호 작용 메뉴를 통해 장면 생성기를 이용할 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/.dds",
+        "filesize": 2048
+    }
+}

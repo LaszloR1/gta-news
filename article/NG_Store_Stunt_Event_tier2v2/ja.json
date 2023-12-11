@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488453994,"title":"","headline":"期間限定セール","subtitle":"","content":"期間限定で、3つの超高性能マシンを限定割引価格でご提供いたします。宇宙を思わせる「グロッティµX80プロト」、光のような速さを誇るスーパーカー「ペガッシµリーパー」、未来的なスポーツバイク「ナガサキµショータロー」が50%オフでお求めいただけます。<br /><br />レースにぴったりのスポーツカー「デュボーシーµスペクター」も25%オフです。さらに新車を収納するための10台用ガレージも3月13日まで25%オフです。","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488453994,
+    "title": "",
+    "headline": "期間限定セール",
+    "subtitle": "",
+    "content": "期間限定で、3つの超高性能マシンを限定割引価格でご提供いたします。宇宙を思わせる「グロッティµX80プロト」、光のような速さを誇るスーパーカー「ペガッシµリーパー」、未来的なスポーツバイク「ナガサキµショータロー」が50%オフでお求めいただけます。<br /><br />レースにぴったりのスポーツカー「デュボーシーµスペクター」も25%オフです。さらに新車を収納するための10台用ガレージも3月13日まで25%オフです。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/.dds",
+        "filesize": 2048
+    }
+}

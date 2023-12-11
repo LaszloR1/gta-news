@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705124,"title":"GTA+","headline":"GTA+","subtitle":"Эксклюзивная одежда","content":"До 11 октября подписчики GTA+ могут бесплатно получить футболку San Andreas Federal Reserve, футболку «Рейнджеры» и толстовку You Own Los Santos.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/8946945e9efb45899c09fc3e/262272_GTA_Plus_MP18_FreeCloathing_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705124,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Эксклюзивная одежда",
+    "content": "До 11 октября подписчики GTA+ могут бесплатно получить футболку San Andreas Federal Reserve, футболку «Рейнджеры» и толстовку You Own Los Santos.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/8946945e9efb45899c09fc3e/262272_GTA_Plus_MP18_FreeCloathing_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

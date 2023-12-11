@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466874,"title":"","headline":"GTA Online","subtitle":"11月6日まで「GTAオンライン」ハロウィンイベント開催中","content":"ロスサントスにハロウィンがやってきました。戦慄の走るようなボーナスと危険なまでの割引を利用して、近隣住民を震え上がらせましょう。<br /><br />本期間中は、ハロウィンマスク、フェイスペイント、フランケンシュタンゲ、ラーチャー、悪夢のようなLCCµサンクタスやデュークオデスなど、復活ハロウィンコンテンツが全て25%オフでお求めいただけます。<br /><br />詳しくは、ロックスターNewswireをご覧ください。","url":"","image":{"path":"sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466874,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "11月6日まで「GTAオンライン」ハロウィンイベント開催中",
+    "content": "ロスサントスにハロウィンがやってきました。戦慄の走るようなボーナスと危険なまでの割引を利用して、近隣住民を震え上がらせましょう。<br /><br />本期間中は、ハロウィンマスク、フェイスペイント、フランケンシュタンゲ、ラーチャー、悪夢のようなLCCµサンクタスやデュークオデスなど、復活ハロウィンコンテンツが全て25%オフでお求めいただけます。<br /><br />詳しくは、ロックスターNewswireをご覧ください。",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811016,"title":"","headline":"Suggerimento online","subtitle":"Scorciatoie per l'avvio delle attività","content":"Quando ricevi un invito a un'attività, tieni premuto il tasto D su/freccia direzionale in su per accettare senza dover accedere al telefono e aprire l'elenco delle attività.~n~~n~Dalla mappa del menu di pausa puoi avviare qualunque attività sulla mappa selezionandone l'icona e premendo ~INPUT_FRONTEND_X~.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811016,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Scorciatoie per l'avvio delle attività",
+    "content": "Quando ricevi un invito a un'attività, tieni premuto il tasto D su/freccia direzionale in su per accettare senza dover accedere al telefono e aprire l'elenco delle attività.~n~~n~Dalla mappa del menu di pausa puoi avviare qualunque attività sulla mappa selezionandone l'icona e premendo ~INPUT_FRONTEND_X~.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/.dds",
+        "filesize": 2048
+    }
+}

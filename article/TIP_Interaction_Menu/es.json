@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567409,"title":"","headline":"Consejo en línea","subtitle":"Menú Interacción","content":"Puedes acceder a gran cantidad de características y opciones en el menú Interacción, como a la función GPS rápido y a la capacidad de cambiar los accesorios de tu personaje rápidamente. Accede al menú Interacción en el juego manteniendo pulsado ~INPUT_INTERACTION_MENU~ y consulta todas las posibilidades.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Interaction_Menu/262272_Interaction_Menu.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Interaction_Menu/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567409,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Menú Interacción",
+    "content": "Puedes acceder a gran cantidad de características y opciones en el menú Interacción, como a la función GPS rápido y a la capacidad de cambiar los accesorios de tu personaje rápidamente. Accede al menú Interacción en el juego manteniendo pulsado ~INPUT_INTERACTION_MENU~ y consulta todas las posibilidades.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Interaction_Menu/262272_Interaction_Menu.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Interaction_Menu/.dds",
+        "filesize": 2048
+    }
+}

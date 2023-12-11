@@ -1,1 +1,20 @@
-{"types":["newswire","transition"],"date":1410567710,"title":"November 18th","headline":"GTAV and GTA Online","subtitle":"Grand Theft Auto V is Coming to New Platforms","content":"Experience a range of major visual and technical upgrades that make GTAV and GTA Online more immersive than ever. In addition to increased draw distances and higher resolution, players can expect:<br /><br />- New weapons, vehicles and activities<br />- Additional wildlife<br />- Denser traffic and new foliage system<br />- Enhanced damage and weather effects, and much more<br /><br />All players who pre-order the game will get GTA$1M to spend across GTAV and GTA Online.<br /><br />For more details, visit the Rockstar Newswire.<br />","url":"www.rockstargames.com/newswire","image":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1410567710,
+    "title": "November 18th",
+    "headline": "GTAV and GTA Online",
+    "subtitle": "Grand Theft Auto V is Coming to New Platforms",
+    "content": "Experience a range of major visual and technical upgrades that make GTAV and GTA Online more immersive than ever. In addition to increased draw distances and higher resolution, players can expect:<br /><br />- New weapons, vehicles and activities<br />- Additional wildlife<br />- Denser traffic and new foliage system<br />- Enhanced damage and weather effects, and much more<br /><br />All players who pre-order the game will get GTA$1M to spend across GTAV and GTA Online.<br /><br />For more details, visit the Rockstar Newswire.<br />",
+    "url": "www.rockstargames.com/newswire",
+    "image": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds",
+        "filesize": 65664
+    }
+}

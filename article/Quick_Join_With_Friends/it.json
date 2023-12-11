@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991417,"headline":"Suggerimento online","subtitle":"Partita veloce con amici","content":"Quando ti unisci a un'attività, c'è una nuova opzione di accesso veloce chiamata 'Partita veloce con amici' disponibile dal cellulare.<br /><br />Selezionando questa opzione inviterai automaticamente tutti gli amici presenti nella sessione in Freemode attuale, assicurandoti che nessuno si perda per strada.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991417,
+    "headline": "Suggerimento online",
+    "subtitle": "Partita veloce con amici",
+    "content": "Quando ti unisci a un'attività, c'è una nuova opzione di accesso veloce chiamata 'Partita veloce con amici' disponibile dal cellulare.<br /><br />Selezionando questa opzione inviterai automaticamente tutti gli amici presenti nella sessione in Freemode attuale, assicurandoti che nessuno si perda per strada.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds",
+        "filesize": 65664
+    }
+}

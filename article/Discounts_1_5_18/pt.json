@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525254476,"title":"","headline":"GTA Online","subtitle":"Descontos em Veículos Especiais","content":"Para ajudar a garantir o seu lugar como mestre de tudo que é aéreo, submersível e movido a foguete, a Warstock Cache & Carry está oferecendo 25% de desconto em Veículos Especiais selecionados.<br /><br />Mammoth Thruster – 25% off<br />Imponte Deluxo – 25% off<br />Ocelot Stromberg – 25% off<br />Ruiner 2000 – 25% off<br />Rocket Voltic – 25% off<br />Blazer Aqua – 25% off<br /><br />Veja todos os detalhes no Boletim da Rockstar.","url":"","image":{"path":"sc/news/Discounts_1_5_18/349672_Thruster.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525254476,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descontos em Veículos Especiais",
+    "content": "Para ajudar a garantir o seu lugar como mestre de tudo que é aéreo, submersível e movido a foguete, a Warstock Cache & Carry está oferecendo 25% de desconto em Veículos Especiais selecionados.<br /><br />Mammoth Thruster – 25% off<br />Imponte Deluxo – 25% off<br />Ocelot Stromberg – 25% off<br />Ruiner 2000 – 25% off<br />Rocket Voltic – 25% off<br />Blazer Aqua – 25% off<br /><br />Veja todos os detalhes no Boletim da Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_1_5_18/349672_Thruster.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

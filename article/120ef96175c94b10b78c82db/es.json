@@ -1,1 +1,15 @@
-{"types":["store"],"date":1647006573,"title":"Tarjetas Tiburón","headline":"Tarjetas Tiburón","subtitle":"Shark Cards","content":"El dinero manda en esta ciudad. Resuelve tus problemas monetarios y consigue lo que quieras en Los Santos y el condado de Blaine con la compra ocasional de packs de dinero de Grand Theft Auto Online. Todo el dinero que compres se depositará automáticamente en la cuenta bancaria de tu personaje. Gasta con prudencia, o la terapia monetaria será efímera.","url":"","image":{"path":"sc/news/120ef96175c94b10b78c82db/258176_GTAV_GEN9_STORE_DRAFT_BigFeed.dds","filesize":258176}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1647006573,
+    "title": "Tarjetas Tiburón",
+    "headline": "Tarjetas Tiburón",
+    "subtitle": "Shark Cards",
+    "content": "El dinero manda en esta ciudad. Resuelve tus problemas monetarios y consigue lo que quieras en Los Santos y el condado de Blaine con la compra ocasional de packs de dinero de Grand Theft Auto Online. Todo el dinero que compres se depositará automáticamente en la cuenta bancaria de tu personaje. Gasta con prudencia, o la terapia monetaria será efímera.",
+    "url": "",
+    "image": {
+        "path": "sc/news/120ef96175c94b10b78c82db/258176_GTAV_GEN9_STORE_DRAFT_BigFeed.dds",
+        "filesize": 258176
+    }
+}

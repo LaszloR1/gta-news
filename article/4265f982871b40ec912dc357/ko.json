@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677116,"title":"GTA+","headline":"GTA+","subtitle":"매머드 어벤져 할인","content":"GTA+ 회원은 7월 19일까지 모든 어벤져 업그레이드 및 개조 40% 할인을 이용해 메리웨더보다 앞서나갈 수 있습니다.<br /><br />모든 것을 압도하는 파괴력에, 수직이착륙도 가능한 공중요새를 능가하는 것이 있을까요? 바로 무기 작업실과 작전 터미널까지 갖춰진 수직이착륙 가능한 공중요새입니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_ko_kr.dds","filesize":262272},"button":"선택하여 GTA+에 가입하기"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677116,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "매머드 어벤져 할인",
+    "content": "GTA+ 회원은 7월 19일까지 모든 어벤져 업그레이드 및 개조 40% 할인을 이용해 메리웨더보다 앞서나갈 수 있습니다.<br /><br />모든 것을 압도하는 파괴력에, 수직이착륙도 가능한 공중요새를 능가하는 것이 있을까요? 바로 무기 작업실과 작전 터미널까지 갖춰진 수직이착륙 가능한 공중요새입니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "선택하여 GTA+에 가입하기"
+}

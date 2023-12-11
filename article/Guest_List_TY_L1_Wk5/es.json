@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635617,"title":"Beneficios de la lista de invitados","headline":"Beneficios de la lista de invitados","subtitle":"¡Estás en la lista!","content":"Ya están disponibles para ti las recompensas exclusivas de la lista de invitados de esta semana:<br /><br />- 100 000 GTA$ adicionales<br />- Camiseta de Technologie<br />- Vehículo HVY Nightshark gratis<br />- Deportivo Übermacht Revolter armable gratis<br />- Cubiertas ''Camuflaje rosa y verde'' y ''Sessanta Nove multicolor'' para el Nightshark y el Revolter<br /><br />Vuelve la semana que viene para hacerte con más recompensas.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_SPA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635617,
+    "title": "Beneficios de la lista de invitados",
+    "headline": "Beneficios de la lista de invitados",
+    "subtitle": "¡Estás en la lista!",
+    "content": "Ya están disponibles para ti las recompensas exclusivas de la lista de invitados de esta semana:<br /><br />- 100 000 GTA$ adicionales<br />- Camiseta de Technologie<br />- Vehículo HVY Nightshark gratis<br />- Deportivo Übermacht Revolter armable gratis<br />- Cubiertas ''Camuflaje rosa y verde'' y ''Sessanta Nove multicolor'' para el Nightshark y el Revolter<br /><br />Vuelve la semana que viene para hacerte con más recompensas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_SPA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

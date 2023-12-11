@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314255,"title":"","headline":"GTA Online","subtitle":"トリガーを引く","content":"マップ上のジョブ・トリガーは、~INPUT_CONTEXT~を押すことで手動で起動できます。「ホットターゲット」の追跡中や「チェイス・ザ・ケース」で逃げている時に、トリガーを起動せずに通過するには最適です。完全に消したい場合は、アクションメニューの非表示オプションで非表示に設定しましょう。","url":"","image":{"path":"sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Pull-The-Trigger/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314255,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "トリガーを引く",
+    "content": "マップ上のジョブ・トリガーは、~INPUT_CONTEXT~を押すことで手動で起動できます。「ホットターゲット」の追跡中や「チェイス・ザ・ケース」で逃げている時に、トリガーを起動せずに通過するには最適です。完全に消したい場合は、アクションメニューの非表示オプションで非表示に設定しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/.dds",
+        "filesize": 2048
+    }
+}

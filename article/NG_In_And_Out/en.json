@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1462295195,"title":"","headline":"GTA Online","subtitle":"In and Out","content":"Fight to defend or secure multiple packages in this new Adversary Mode. The attackers must grab all packages and return them back to the drop-off to win. The defenders have to hold out till the end. The more packages secured, the less targets the defenders have to lock down. You may have to rely on stealth and utilize team tactics to succeed.","url":"","image":{"path":"sc/news/NG_In_And_Out/262272_In_And_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_In_And_Out/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1462295195,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "In and Out",
+    "content": "Fight to defend or secure multiple packages in this new Adversary Mode. The attackers must grab all packages and return them back to the drop-off to win. The defenders have to hold out till the end. The more packages secured, the less targets the defenders have to lock down. You may have to rely on stealth and utilize team tactics to succeed.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_In_And_Out/262272_In_And_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_In_And_Out/.dds",
+        "filesize": 2048
+    }
+}

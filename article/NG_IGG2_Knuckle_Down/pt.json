@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436354142,"title":"","headline":"GTA Online","subtitle":"Descendo a mão","content":"A Ammu-Nation agora tem uma variedade de socos-ingleses disponíveis para compra - com diversos estilos e aparências para que você possa encantar as pessoas e se comunicar claramente com uma variedade de estilos.<br /><br />Também em estoque há o Trabuco, que tem poder de fogo superior ao de uma escopeta.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436354142,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descendo a mão",
+    "content": "A Ammu-Nation agora tem uma variedade de socos-ingleses disponíveis para compra - com diversos estilos e aparências para que você possa encantar as pessoas e se comunicar claramente com uma variedade de estilos.<br /><br />Também em estoque há o Trabuco, que tem poder de fogo superior ao de uma escopeta.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

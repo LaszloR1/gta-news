@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"CÓMO EMPEZAR","content":"Responde a la llamada de Charlie Reed para aceptar trabajos de mercenario con Los Santos Angels. Esta nueva serie de misiones se inicia desde el terminal de operaciones del Mammoth Avenger. Si aún no tienes un Avenger, cómpralo en Warstock Cache & Carry.<br /><br />Para participar en nuevas oportunidades de negocio, usa el terminal de Free Trade Shipping Co. en tu hangar, o compra un hangar en Maze Bank Foreclosures para acceder a todos los negocios de contrabando aéreo.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "CÓMO EMPEZAR",
+    "content": "Responde a la llamada de Charlie Reed para aceptar trabajos de mercenario con Los Santos Angels. Esta nueva serie de misiones se inicia desde el terminal de operaciones del Mammoth Avenger. Si aún no tienes un Avenger, cómpralo en Warstock Cache & Carry.<br /><br />Para participar en nuevas oportunidades de negocio, usa el terminal de Free Trade Shipping Co. en tu hangar, o compra un hangar en Maze Bank Foreclosures para acceder a todos los negocios de contrabando aéreo.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511201,"title":"","headline":"GTA Online","subtitle":"Retour à la ligne","content":"Découvrez un aperçu du meilleur des mondes dans le nouveau mode rivalité de GTA Online, Retour à la ligne. Voici une vision du futur à laquelle les citoyens de Los Santos ne peuvent qu'adhérerµ: qui ne rêve pas d'une moto sortie d'un film porno SF à gros budget, de traverser la ville à une vitesse phénoménale à la tombée de la nuit et de laisser des traînées d'énergie qui calcinent tous les autres concurrents dans son sillageµ? Un avenir radieux, rapide et incroyablement dangereux.","url":"","image":{"path":"sc/news/NG_Bikers_Deadline/262272_Deadline.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Deadline/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511201,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Retour à la ligne",
+    "content": "Découvrez un aperçu du meilleur des mondes dans le nouveau mode rivalité de GTA Online, Retour à la ligne. Voici une vision du futur à laquelle les citoyens de Los Santos ne peuvent qu'adhérerµ: qui ne rêve pas d'une moto sortie d'un film porno SF à gros budget, de traverser la ville à une vitesse phénoménale à la tombée de la nuit et de laisser des traînées d'énergie qui calcinent tous les autres concurrents dans son sillageµ? Un avenir radieux, rapide et incroyablement dangereux.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Deadline/262272_Deadline.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Deadline/.dds",
+        "filesize": 2048
+    }
+}

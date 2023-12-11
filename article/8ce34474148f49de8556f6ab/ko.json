@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736471,"title":"","headline":"GTA 온라인","subtitle":"고공 질주","content":"충격에 대비하십시오! 신규 공중 및 지상 이동 수단들이 곧 로스 산토스를 강타할 예정입니다. 군수품에서 찾아볼 수 있는 군용급 전멸 이동 수단과 레전더리 모터스포츠에서 만나볼 수 있는 얼굴 주름이 펴질 정도로 재빠른 이동 수단을 포함하여 여러분이 선호할 만한 이 신규 이동 수단들을 곧 웹사이트에서 확인할 수 있습니다.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736471,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "고공 질주",
+    "content": "충격에 대비하십시오! 신규 공중 및 지상 이동 수단들이 곧 로스 산토스를 강타할 예정입니다. 군수품에서 찾아볼 수 있는 군용급 전멸 이동 수단과 레전더리 모터스포츠에서 만나볼 수 있는 얼굴 주름이 펴질 정도로 재빠른 이동 수단을 포함하여 여러분이 선호할 만한 이 신규 이동 수단들을 곧 웹사이트에서 확인할 수 있습니다.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

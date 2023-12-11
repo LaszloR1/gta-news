@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453722,"title":"","headline":"GTA Online","subtitle":"Jamais deux sans proies","content":"La proie est de retour, et elle n'est pas revenue seule. Rien ne pourra les arrêter, si ce n'est une bande de tueurs en série armés jusqu'aux dents et protégés de la tête aux pieds. Pour gagner la partie, les tueurs doivent éliminer les proies avant qu'elles ne parviennent à récupérer toutes les balises.","url":"","image":{"path":"sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds","filesize":262272},"landscape":{"path":"sc/news/NG_BeastvSlasher/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453722,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Jamais deux sans proies",
+    "content": "La proie est de retour, et elle n'est pas revenue seule. Rien ne pourra les arrêter, si ce n'est une bande de tueurs en série armés jusqu'aux dents et protégés de la tête aux pieds. Pour gagner la partie, les tueurs doivent éliminer les proies avant qu'elles ne parviennent à récupérer toutes les balises.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_BeastvSlasher/.dds",
+        "filesize": 2048
+    }
+}

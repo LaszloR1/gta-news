@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999974,"title":"","headline":"GTA Online","subtitle":"L'élégance selon les contrebandiers","content":"Dans ce nouveau monde merveilleux du commerce qui rapporte gros et ne coûte rien, vous devez avoir la classe, et aucun trafiquant qui se respecte ne peut se permettre d'être vu, mort ou vivant, sans les dernières tenues et les derniers tatouages à la mode. Alors, que vous soyez un pirate urbain, un pilote de chasse, ou que vous ayez simplement besoin de jumelles thermiques ou à vision nocturne pour votre prochaine vente, vous trouverez votre bonheur parmi les nouveautés proposées en ville.","url":"","image":{"path":"sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999974,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "L'élégance selon les contrebandiers",
+    "content": "Dans ce nouveau monde merveilleux du commerce qui rapporte gros et ne coûte rien, vous devez avoir la classe, et aucun trafiquant qui se respecte ne peut se permettre d'être vu, mort ou vivant, sans les dernières tenues et les derniers tatouages à la mode. Alors, que vous soyez un pirate urbain, un pilote de chasse, ou que vous ayez simplement besoin de jumelles thermiques ou à vision nocturne pour votre prochaine vente, vous trouverez votre bonheur parmi les nouveautés proposées en ville.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

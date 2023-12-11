@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525272580,"title":"Red Dead Redemption 2","headline":"Red Dead Redemption 2","subtitle":"3-й официальный трейлер","content":"Америка, 1899 год. Эпоха Дикого Запада подходит к концу. Служители закона методично охотятся на остатки банд. Тех, кто не желает сдаться, убивают.<br /><br />Игра Red Dead Redemption 2 от создателей Grand Theft Auto V и Red Dead Redemption – это грандиозное повествование о жизни в Америке на заре современной эпохи. Выход игры запланирован на 26 октября 2018 года.<br /><br />Смотрите новый трейлер на rockstargames.com","url":"","image":{"path":"sc/news/RDR2_T3_Watch_Now/349672_SONY_RDR2_BIGFEED.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525272580,
+    "title": "Red Dead Redemption 2",
+    "headline": "Red Dead Redemption 2",
+    "subtitle": "3-й официальный трейлер",
+    "content": "Америка, 1899 год. Эпоха Дикого Запада подходит к концу. Служители закона методично охотятся на остатки банд. Тех, кто не желает сдаться, убивают.<br /><br />Игра Red Dead Redemption 2 от создателей Grand Theft Auto V и Red Dead Redemption – это грандиозное повествование о жизни в Америке на заре современной эпохи. Выход игры запланирован на 26 октября 2018 года.<br /><br />Смотрите новый трейлер на rockstargames.com",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_T3_Watch_Now/349672_SONY_RDR2_BIGFEED.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

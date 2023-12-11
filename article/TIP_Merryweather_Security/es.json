@@ -1,1 +1,20 @@
-{"types":["store"],"date":1380466701,"title":"","headline":"Consejo en línea","subtitle":"Consultoría de seguridad Merryweather","content":"¿Necesitas munición al instante? ¿Un desalojo amistoso? ¿Un helicóptero? ¿O simplemente mandar al otro barrio a un enemigo que se lo merece? Llama a la consultoría de seguridad Merryweather. El servicio de seguridad/ejército privado en el que puedes confiar.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Merryweather_Security/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1380466701,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Consultoría de seguridad Merryweather",
+    "content": "¿Necesitas munición al instante? ¿Un desalojo amistoso? ¿Un helicóptero? ¿O simplemente mandar al otro barrio a un enemigo que se lo merece? Llama a la consultoría de seguridad Merryweather. El servicio de seguridad/ejército privado en el que puedes confiar.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Merryweather_Security/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

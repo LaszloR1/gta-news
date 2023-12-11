@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367126,"title":"","headline":"GTA Online","subtitle":"Promotions exceptionnelles rien que pour vous","content":"Cette semaine, montez votre club de motards grâce à des promotions exceptionnelles sur les QG de motards et sur les garages à 10µplaces, sans oublier les 25µ% de réduction sur la Western Zombie bobber. Ou alors, si vous recherchez plutôt le frisson de la vitesse venue d'outre-Atlantique, jetez-vous sur la Truffade Adder, disponible à -50µ% jusqu'au 13 février.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promotions exceptionnelles rien que pour vous",
+    "content": "Cette semaine, montez votre club de motards grâce à des promotions exceptionnelles sur les QG de motards et sur les garages à 10µplaces, sans oublier les 25µ% de réduction sur la Western Zombie bobber. Ou alors, si vous recherchez plutôt le frisson de la vitesse venue d'outre-Atlantique, jetez-vous sur la Truffade Adder, disponible à -50µ% jusqu'au 13 février.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/.dds",
+        "filesize": 2048
+    }
+}

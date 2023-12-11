@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408453306,"headline":"Aggiornamento GTA Online","subtitle":"Nuove modalità Versus","content":"Preparati alle nuove modalità Versus del pacchetto Scuola di volo:<br /><br />- Bersagli acquisiti: mantieni il controllo della bandiera per 10 secondi per segnare un punto. Vince la squadra con più punti.<br />- Air Force Zero: l'Air Force Zero fugge scortato dai Difensori; gli Aggressori cercano di abbatterlo prima che giunga alla meta.<br />- G-Rating (Hot/Cold): lotta contro il tempo e gli avversari per recuperare le bandiere il più velocemente possibile. Nella variante Hot le armi sono abilitate.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/New_Versus_Modes/65664_VersusMode.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408453306,
+    "headline": "Aggiornamento GTA Online",
+    "subtitle": "Nuove modalità Versus",
+    "content": "Preparati alle nuove modalità Versus del pacchetto Scuola di volo:<br /><br />- Bersagli acquisiti: mantieni il controllo della bandiera per 10 secondi per segnare un punto. Vince la squadra con più punti.<br />- Air Force Zero: l'Air Force Zero fugge scortato dai Difensori; gli Aggressori cercano di abbatterlo prima che giunga alla meta.<br />- G-Rating (Hot/Cold): lotta contro il tempo e gli avversari per recuperare le bandiere il più velocemente possibile. Nella variante Hot le armi sono abilitate.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/New_Versus_Modes/65664_VersusMode.dds",
+        "filesize": 65664
+    }
+}

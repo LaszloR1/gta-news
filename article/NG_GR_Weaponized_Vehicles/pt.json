@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917265,"title":"","headline":"GTA Online","subtitle":"Veículos armados","content":"É claro que você puxou o gatilho de certas máquinas de poder de fogo móvel antes – mas não desse jeito. Veículos armados oferecem uma nova classe de destruição motorizada nas ruas de Los Santos. O equipamento de nível militar tem o necessário para dar conta de qualquer imprevisto: da versatilidade anfíbia do APC (equipado com canhão) ao trailer antiaéreo móvel que deixará os pilotos se borrando por todo o estado.","url":"","image":{"path":"sc/news/NG_GR_Weaponized_Vehicles/262272_WeaponizedVehicles.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Weaponized_Vehicles/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Veículos armados",
+    "content": "É claro que você puxou o gatilho de certas máquinas de poder de fogo móvel antes – mas não desse jeito. Veículos armados oferecem uma nova classe de destruição motorizada nas ruas de Los Santos. O equipamento de nível militar tem o necessário para dar conta de qualquer imprevisto: da versatilidade anfíbia do APC (equipado com canhão) ao trailer antiaéreo móvel que deixará os pilotos se borrando por todo o estado.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Weaponized_Vehicles/262272_WeaponizedVehicles.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Weaponized_Vehicles/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

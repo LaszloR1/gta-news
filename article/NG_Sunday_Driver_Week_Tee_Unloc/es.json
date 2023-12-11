@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472803518,"title":"","headline":"GTA Online","subtitle":"Semana Sunday Drivers: 2xGTA$ y RP en lista de carreras y una camiseta desbloqueable (2 - 8 sept.)","content":"Gana el doble de GTA$ y RP en una lista de partidas de carreras especial para bólidos desde ahora hasta el jueves 8 de septiembre.<br /><br />Además, date un garbeo por la ciudad convertido en un cartel andante con la camiseta de Bahama Mamas, desbloqueada con tan solo iniciar sesión, y que encontrarás en los artículos especiales de tu armario.<br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Tee_Unloc/262272_NG_Sunday_Drivers_Tee_Unlock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Tee_Unloc/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472803518,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Semana Sunday Drivers: 2xGTA$ y RP en lista de carreras y una camiseta desbloqueable (2 - 8 sept.)",
+    "content": "Gana el doble de GTA$ y RP en una lista de partidas de carreras especial para bólidos desde ahora hasta el jueves 8 de septiembre.<br /><br />Además, date un garbeo por la ciudad convertido en un cartel andante con la camiseta de Bahama Mamas, desbloqueada con tan solo iniciar sesión, y que encontrarás en los artículos especiales de tu armario.<br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Tee_Unloc/262272_NG_Sunday_Drivers_Tee_Unlock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Tee_Unloc/.dds",
+        "filesize": 2048
+    }
+}

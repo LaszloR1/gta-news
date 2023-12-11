@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480010057,"title":"","headline":"GTA Online","subtitle":"Bravado Youga","content":"Absolutna nowość w San Andreas, Bravado Youga, to mały van z ogromnym potencjałem. Niezależnie od tego, czy zależy Ci na dyskretnym przewozie towarów, czy chcesz stworzyć mobilną palarnię albo dźwiękoszczelny loch na kółkach, to maleństwo spełni Twoje oczekiwania.","url":"","image":{"path":"sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Youga/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480010057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bravado Youga",
+    "content": "Absolutna nowość w San Andreas, Bravado Youga, to mały van z ogromnym potencjałem. Niezależnie od tego, czy zależy Ci na dyskretnym przewozie towarów, czy chcesz stworzyć mobilną palarnię albo dźwiękoszczelny loch na kółkach, to maleństwo spełni Twoje oczekiwania.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Youga/.dds",
+        "filesize": 2048
+    }
+}

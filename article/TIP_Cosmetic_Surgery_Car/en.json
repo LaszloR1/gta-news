@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471087,"title":"","headline":"Online Tip","subtitle":"Cosmetic Surgery for your Car","content":"Residents of Los Santos take great pride in their cars. They spend the majority of the day in them. They ignore their families in them. They learn to fear their fellow man in them. And they try to make them look unique. When you're ready to trick out your ride, pay a visit to LS Customs, because nothing says class like chrome. Customized wheels, paint, body kits and much more are available so you can express yourself through spray paint and injection molded plastic.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471087,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Cosmetic Surgery for your Car",
+    "content": "Residents of Los Santos take great pride in their cars. They spend the majority of the day in them. They ignore their families in them. They learn to fear their fellow man in them. And they try to make them look unique. When you're ready to trick out your ride, pay a visit to LS Customs, because nothing says class like chrome. Customized wheels, paint, body kits and much more are available so you can express yourself through spray paint and injection molded plastic.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/.dds",
+        "filesize": 2048
+    }
+}

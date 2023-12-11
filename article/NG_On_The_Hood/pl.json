@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433955146,"title":"","headline":"GTA Online","subtitle":"Na masce","content":"Podczas jazdy samochodem można teraz wybrać dodatkową kamerę, która umieszczona jest na masce pojazdu.<br /><br />Aby ją uaktywnić, w menu pauzy należy przejść do menu Ustawienia > Kamera i włączyć opcję Maska pojazdu w pierwszej osobie, a następnie przełączyć tryb kamery.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_On_The_Hood/262272_OnTheHood.dds","filesize":262272},"landscape":{"path":"sc/news/NG_On_The_Hood/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433955146,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Na masce",
+    "content": "Podczas jazdy samochodem można teraz wybrać dodatkową kamerę, która umieszczona jest na masce pojazdu.<br /><br />Aby ją uaktywnić, w menu pauzy należy przejść do menu Ustawienia > Kamera i włączyć opcję Maska pojazdu w pierwszej osobie, a następnie przełączyć tryb kamery.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_On_The_Hood/262272_OnTheHood.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_On_The_Hood/.dds",
+        "filesize": 2048
+    }
+}

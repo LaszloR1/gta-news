@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527856,"title":"","headline":"GTA Online","subtitle":"그로티 X80 프로토","content":"레전더리 모터스포츠에서 그로티 X80 프로토를 자랑스럽게 소개합니다. 미래가 벌써 현실로 다가온 걸까요? 과학이 선을 넘어 버린 걸까요? 운전자가 최고 속도에 도달하기 전에 오르가슴을 느끼고 기절해 버릴 것 같다고요? 모든 질문의 답은 '예'입니다. 죽기 전에 한순간만이라도 최고가 되고 싶은 분을 위한 자동차입니다.","url":"","image":{"path":"sc/news/NG_Grotti_X80_Out_Now/349672_GTAONLINE-X80-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Grotti_X80_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527856,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "그로티 X80 프로토",
+    "content": "레전더리 모터스포츠에서 그로티 X80 프로토를 자랑스럽게 소개합니다. 미래가 벌써 현실로 다가온 걸까요? 과학이 선을 넘어 버린 걸까요? 운전자가 최고 속도에 도달하기 전에 오르가슴을 느끼고 기절해 버릴 것 같다고요? 모든 질문의 답은 '예'입니다. 죽기 전에 한순간만이라도 최고가 되고 싶은 분을 위한 자동차입니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Grotti_X80_Out_Now/349672_GTAONLINE-X80-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Grotti_X80_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

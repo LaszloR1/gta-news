@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705124,"title":"GTA+","headline":"GTA+","subtitle":"限定の衣料品","content":"GTA+メンバーは10月11日まで「SanµAndreasµFederalµReserve」Tシャツ、宇宙戦隊リパブリカンTシャツ、「YouµOwnµLosµSantos」パーカーを無料で受け取れます。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/8946945e9efb45899c09fc3e/262272_GTA_Plus_MP18_FreeCloathing_FINAL_BigFeed_ja_jp.dds","filesize":262272},"button":"選択してGTA+に登録"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705124,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "限定の衣料品",
+    "content": "GTA+メンバーは10月11日まで「SanµAndreasµFederalµReserve」Tシャツ、宇宙戦隊リパブリカンTシャツ、「YouµOwnµLosµSantos」パーカーを無料で受け取れます。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/8946945e9efb45899c09fc3e/262272_GTA_Plus_MP18_FreeCloathing_FINAL_BigFeed_ja_jp.dds",
+        "filesize": 262272
+    },
+    "button": "選択してGTA+に登録"
+}

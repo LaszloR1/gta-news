@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543129,"title":"","headline":"GTA Online","subtitle":"Espacio","content":"Dices ser un coleccionista de vehículos de lujo, pero admítelo: eres un acaparador. Y no pasa nada; estamos aquí para ayudarte. Por ello, Dynasty8 Executive se complace en presentar una serie de garajes para 60 coches. Sí, lo has leído bien. Puedes añadir estos templos especialmente diseñados para la codicia automovilística como un anexo de varias plantas en cualquiera de tus oficinas de ejecutivo, y personalizarlos para incluir tu propio taller. Solo tienes que firmar aquí.","url":"","image":{"path":"sc/news/NG_IE_Floor_Space/262272_floorspace.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Floor_Space/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543129,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Espacio",
+    "content": "Dices ser un coleccionista de vehículos de lujo, pero admítelo: eres un acaparador. Y no pasa nada; estamos aquí para ayudarte. Por ello, Dynasty8 Executive se complace en presentar una serie de garajes para 60 coches. Sí, lo has leído bien. Puedes añadir estos templos especialmente diseñados para la codicia automovilística como un anexo de varias plantas en cualquiera de tus oficinas de ejecutivo, y personalizarlos para incluir tu propio taller. Solo tienes que firmar aquí.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Floor_Space/262272_floorspace.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Floor_Space/.dds",
+        "filesize": 2048
+    }
+}

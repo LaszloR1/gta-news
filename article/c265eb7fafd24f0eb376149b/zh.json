@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973242,"title":"洛聖都毒梟大戰","headline":"洛聖都毒梟大戰","subtitle":"傑瑞德的包裹","content":"傑瑞德的包裹會在您的地圖上被標示出來。您可以每天到標示地點尋找原物料。<br /><br />靠得夠近之後，仔細尋找紅色閃光並順著嗶嗶聲的方向前進。擊退任何阻礙，這樣就能獲得大量µGTA 遊戲幣、彈藥和零食。<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds","filesize":524416},"button":"在自由模式尋找傑瑞德的包裹"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973242,
+    "title": "洛聖都毒梟大戰",
+    "headline": "洛聖都毒梟大戰",
+    "subtitle": "傑瑞德的包裹",
+    "content": "傑瑞德的包裹會在您的地圖上被標示出來。您可以每天到標示地點尋找原物料。<br /><br />靠得夠近之後，仔細尋找紅色閃光並順著嗶嗶聲的方向前進。擊退任何阻礙，這樣就能獲得大量µGTA 遊戲幣、彈藥和零食。<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds",
+        "filesize": 524416
+    },
+    "button": "在自由模式尋找傑瑞德的包裹"
+}

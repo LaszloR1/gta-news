@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313471,"title":"","headline":"GTA Online","subtitle":"자유 모드에서 편하게 쉬기","content":"평화로운 삶을 원한다면 특정 이벤트나 보조 활동에 참가하지 않도록 자유 모드를 맞춤 설정할 수 있습니다. 상호 작용 메뉴에서 숨기기 옵션에 들어간 다음 각 옵션을 숨길지 표시할지 선택하십시오. 특정 이벤트나 활동을 숨기면 관련된 알림이 전송되지 않으므로 방해받지 않고 편하게 플레이할 수 있습니다. 나중에 심심해지면 언제든지 다시 활성화할 수 있습니다.","url":"","image":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "자유 모드에서 편하게 쉬기",
+    "content": "평화로운 삶을 원한다면 특정 이벤트나 보조 활동에 참가하지 않도록 자유 모드를 맞춤 설정할 수 있습니다. 상호 작용 메뉴에서 숨기기 옵션에 들어간 다음 각 옵션을 숨길지 표시할지 선택하십시오. 특정 이벤트나 활동을 숨기면 관련된 알림이 전송되지 않으므로 방해받지 않고 편하게 플레이할 수 있습니다. 나중에 심심해지면 언제든지 다시 활성화할 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/.dds",
+        "filesize": 2048
+    }
+}

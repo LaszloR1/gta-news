@@ -1,1 +1,20 @@
-{"types":["store"],"date":1481630475,"title":"","headline":"GTA Online Shark Cards","subtitle":"","content":"Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character's bank account. Spend wisely, cash therapy is fleeting.","url":"","image":{"path":"sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Tab_Announce/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1481630475,
+    "title": "",
+    "headline": "GTA Online Shark Cards",
+    "subtitle": "",
+    "content": "Cash is king in this town. Solve your money problem and help get what you want across Los Santos and Blaine County with the occasional purchase of cash packs for Grand Theft Auto Online. All purchased cash is automatically deposited into your character's bank account. Spend wisely, cash therapy is fleeting.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Tab_Announce/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

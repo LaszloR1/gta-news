@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1399990022,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Bezbłędna stylówka","content":"Stworzenie odpowiedniego zestawu odzieży dla swojej postaci może być trudne, więc odrobiliśmy tę pracę domową za was i zebraliśmy kilka gotowych stylowych kompletów.<br /><br />W dowolnym sklepie odzieżowym wystarczy udać się do sprzedawcy i zapytać go o nowe zestawy. Podana cena będzie obejmować wszystkie elementy stroju, więc w kilka sekund możecie zafundować sobie nowy wygląd.<br /><br />Komplety będą zawsze dostępne do szybkiego założenia w szafie w mieszkaniu waszej postaci.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds","filesize":262272},"landscape":{"path":"sc/news/Dressed_to_the_Nines/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990022,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Bezbłędna stylówka",
+    "content": "Stworzenie odpowiedniego zestawu odzieży dla swojej postaci może być trudne, więc odrobiliśmy tę pracę domową za was i zebraliśmy kilka gotowych stylowych kompletów.<br /><br />W dowolnym sklepie odzieżowym wystarczy udać się do sprzedawcy i zapytać go o nowe zestawy. Podana cena będzie obejmować wszystkie elementy stroju, więc w kilka sekund możecie zafundować sobie nowy wygląd.<br /><br />Komplety będą zawsze dostępne do szybkiego założenia w szafie w mieszkaniu waszej postaci.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Dressed_to_the_Nines/.dds",
+        "filesize": 2048
+    }
+}

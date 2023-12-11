@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515825,"title":"","headline":"GTA Online","subtitle":"Öfter mal was Neues","content":"Mehr Stachelhelme, ärmelloser Denim, neue Bandana-Designs, Motorrad-Schutzbrillen, mehr Armketten mit Totenkopf-Accessoires als man sich vorstellen kann und abgenutztes Leder in allen nur erdenklichen Formen – wenn es auf zwei Rädern gut aussieht, ist es ab sofort im Handel erhältlich. Und von den neuen Frisuren und Tattoos haben wir noch gar nicht gesprochen.","url":"","image":{"path":"sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChangeGear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515825,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Öfter mal was Neues",
+    "content": "Mehr Stachelhelme, ärmelloser Denim, neue Bandana-Designs, Motorrad-Schutzbrillen, mehr Armketten mit Totenkopf-Accessoires als man sich vorstellen kann und abgenutztes Leder in allen nur erdenklichen Formen – wenn es auf zwei Rädern gut aussieht, ist es ab sofort im Handel erhältlich. Und von den neuen Frisuren und Tattoos haben wir noch gar nicht gesprochen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChangeGear/.dds",
+        "filesize": 2048
+    }
+}

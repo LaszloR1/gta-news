@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477562017,"title":"","headline":"GTA Online","subtitle":"ロストVSダムド","content":"「GTAオンライン」の新しい敵対モードでは、昼夜の時間帯がカギを握ります。エンジェル側は、明るい時間帯に敵を裁くとボーナスを得られます。デビル側は、暗い時間帯になるまで待って反撃のチャンスを窺いましょう。時間帯は60秒ごとに変わり、最終的に優位に立ったチームが勝利します。さあ、黙示録の幕開けです！","url":"","image":{"path":"sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Lost_Damned/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477562017,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ロストVSダムド",
+    "content": "「GTAオンライン」の新しい敵対モードでは、昼夜の時間帯がカギを握ります。エンジェル側は、明るい時間帯に敵を裁くとボーナスを得られます。デビル側は、暗い時間帯になるまで待って反撃のチャンスを窺いましょう。時間帯は60秒ごとに変わり、最終的に優位に立ったチームが勝利します。さあ、黙示録の幕開けです！",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/.dds",
+        "filesize": 2048
+    }
+}

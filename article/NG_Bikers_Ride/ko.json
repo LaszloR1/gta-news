@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519935,"title":"","headline":"GTA Online","subtitle":"진정한 바이커로 거듭나기","content":"복장, 클럽하우스, 필로폰 제조실, 전투용 도끼까지 전부 장만하셨나요? 하지만 여러분을 진정한 바이커로 만들어 줄 가장 중요한 걸 빼먹으면 안 되겠죠. 완전 미친 스피드로 질주하는 하쿠초우 드래그부터 오프로드에서 위풍당당한 만체스까지, 바퀴 둘 달린 야수들의 새로운 세상을 경험할 수 있습니다. 이제 주어진 각각의 작업에 딱 맞는 놈을 타고 질주해 보십시오.","url":"","image":{"path":"sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Ride/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519935,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "진정한 바이커로 거듭나기",
+    "content": "복장, 클럽하우스, 필로폰 제조실, 전투용 도끼까지 전부 장만하셨나요? 하지만 여러분을 진정한 바이커로 만들어 줄 가장 중요한 걸 빼먹으면 안 되겠죠. 완전 미친 스피드로 질주하는 하쿠초우 드래그부터 오프로드에서 위풍당당한 만체스까지, 바퀴 둘 달린 야수들의 새로운 세상을 경험할 수 있습니다. 이제 주어진 각각의 작업에 딱 맞는 놈을 타고 질주해 보십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Ride/.dds",
+        "filesize": 2048
+    }
+}

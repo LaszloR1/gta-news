@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1397229558,"headline":"GTA Online","subtitle":"Aktualizacja Kreator Zdobywania już dostępna","content":"Dzięki aktualizacji Kreator Zdobywania dla GTA Online społeczność skupiona wokół kreatora będzie mogła tworzyć własne akcje w trybie Zdobywanie.<br /><br />Rozmieść na mapie przedmioty do zebrania, wybierz uzbrojenie, miejsce rozgrywki i inne ustawienia, aby stworzyć wyjątkową akcję w trybie Zdobywanie. Będziemy z uwagą obserwować wasze dzieła i przyznamy najlepszym akcjom status zatwierdzonych przez Rockstar.<br /><br />Aby uruchomić kreator, w menu pauzy w GTA Online wybierz opcję Online > Kreator.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Capture_Creator_Available/65664_Capture_Creator_Portrait2.dds","filesize":65664},"landscape":{"path":"sc/news/Capture_Creator_Available/65664_Capture_Creator_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1397229558,
+    "headline": "GTA Online",
+    "subtitle": "Aktualizacja Kreator Zdobywania już dostępna",
+    "content": "Dzięki aktualizacji Kreator Zdobywania dla GTA Online społeczność skupiona wokół kreatora będzie mogła tworzyć własne akcje w trybie Zdobywanie.<br /><br />Rozmieść na mapie przedmioty do zebrania, wybierz uzbrojenie, miejsce rozgrywki i inne ustawienia, aby stworzyć wyjątkową akcję w trybie Zdobywanie. Będziemy z uwagą obserwować wasze dzieła i przyznamy najlepszym akcjom status zatwierdzonych przez Rockstar.<br /><br />Aby uruchomić kreator, w menu pauzy w GTA Online wybierz opcję Online > Kreator.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Capture_Creator_Available/65664_Capture_Creator_Portrait2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Capture_Creator_Available/65664_Capture_Creator_Landscape2.dds",
+        "filesize": 65664
+    }
+}

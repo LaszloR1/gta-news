@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917447,"title":"","headline":"GTA Online","subtitle":"Вызывайте специалистов","content":"Новый класс боевой техники открывает новые горизонты для преступного бизнеса. Когда вы наладите схему торговли оружием и обеспечите регулярные поставки, у вас появятся новые возможности подзаработать, выполняя мобильные операции.","url":"","image":{"path":"sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Call_in_Specialists/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917447,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Вызывайте специалистов",
+    "content": "Новый класс боевой техники открывает новые горизонты для преступного бизнеса. Когда вы наладите схему торговли оружием и обеспечите регулярные поставки, у вас появятся новые возможности подзаработать, выполняя мобильные операции.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705112,"title":"GTA+","headline":"GTA+","subtitle":"Missili guidati per il Kosatka","content":"Gli abbonati a GTA+ possono riscattare gratuitamente i missili guidati per il sottomarino Kosatka fino all'11 ottobre.<br /><br />Annienta gli avversari comodamente dal tuo sottomarino Kosatka grazie ai missili guidati. Puoi usare questi razzi telecomandati manualmente contro qualsiasi bersaglio, incluse le difese dell'isola di El Rubio durante The Cayo Perico Heist.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per iscriverti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705112,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Missili guidati per il Kosatka",
+    "content": "Gli abbonati a GTA+ possono riscattare gratuitamente i missili guidati per il sottomarino Kosatka fino all'11 ottobre.<br /><br />Annienta gli avversari comodamente dal tuo sottomarino Kosatka grazie ai missili guidati. Puoi usare questi razzi telecomandati manualmente contro qualsiasi bersaglio, incluse le difese dell'isola di El Rubio durante The Cayo Perico Heist.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per iscriverti a GTA+"
+}

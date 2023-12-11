@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477402323,"title":"","headline":"GTA Online","subtitle":"Pegassi Vortex","content":"Non riesci a decidere se vuoi essere un motociclista vintage in giacca di pelle o un amante della velocità ipermoderno? Nessun problema, neanche la Pegassi ha saputo scegliere: la Vortex è perfetta per te, con il suo coraggioso mix di modernità e stile classico. Se questa moto non ti strappa un sorriso enorme come il suo costo, niente altro potrà farlo.","url":"","image":{"path":"sc/news/NG_Nikers_Vortex/262272_Vortex.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Nikers_Vortex/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477402323,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Vortex",
+    "content": "Non riesci a decidere se vuoi essere un motociclista vintage in giacca di pelle o un amante della velocità ipermoderno? Nessun problema, neanche la Pegassi ha saputo scegliere: la Vortex è perfetta per te, con il suo coraggioso mix di modernità e stile classico. Se questa moto non ti strappa un sorriso enorme come il suo costo, niente altro potrà farlo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Nikers_Vortex/262272_Vortex.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Nikers_Vortex/.dds",
+        "filesize": 2048
+    }
+}

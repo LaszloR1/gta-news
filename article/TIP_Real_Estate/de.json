@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470799,"title":"","headline":"Online-Tipp","subtitle":"Immobilien","content":"Auf dynasty8realestate.com findest du viele luxuriöse (oder weniger luxuriöse) Immobilien im ganzen Staat: Such dir dein Traumanwesen aus, den Ort, wo du dich entspannen, erholen und neue Prioritäten für dein Leben setzen kannst. Alle Apartments haben Garagen, in denen du deine Autos sicher unterstellen kannst und die exklusiveren Apartments haben einen großartigen Ausblick.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Real_Estate/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470799,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Immobilien",
+    "content": "Auf dynasty8realestate.com findest du viele luxuriöse (oder weniger luxuriöse) Immobilien im ganzen Staat: Such dir dein Traumanwesen aus, den Ort, wo du dich entspannen, erholen und neue Prioritäten für dein Leben setzen kannst. Alle Apartments haben Garagen, in denen du deine Autos sicher unterstellen kannst und die exklusiveren Apartments haben einen großartigen Ausblick.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Real_Estate/.dds",
+        "filesize": 2048
+    }
+}

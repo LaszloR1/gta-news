@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504030786,"title":"","headline":"GTA Online","subtitle":"Motor Wars","content":"Dieser unerbittliche Gegner-Modus ist eine tödliche Schnitzeljagd, bei der der zweite Platz keine Option ist. Bis zu vier Teams springen mit dem Fallschirm in eine stetig schrumpfende Todeszone, die eine tödliche Auswahl an Waffen, Explosivwaffen und Waffenfahrzeugen bereithält.<br /><br />Arbeitet zusammen und reibt die gegnerischen Truppen auf, die gegeneinander und gegen die kleiner werdende Karte ums Überleben und den Sieg kämpfen.","url":"","image":{"path":"sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504030786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Motor Wars",
+    "content": "Dieser unerbittliche Gegner-Modus ist eine tödliche Schnitzeljagd, bei der der zweite Platz keine Option ist. Bis zu vier Teams springen mit dem Fallschirm in eine stetig schrumpfende Todeszone, die eine tödliche Auswahl an Waffen, Explosivwaffen und Waffenfahrzeugen bereithält.<br /><br />Arbeitet zusammen und reibt die gegnerischen Truppen auf, die gegeneinander und gegen die kleiner werdende Karte ums Überleben und den Sieg kämpfen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

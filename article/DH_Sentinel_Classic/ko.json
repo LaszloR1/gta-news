@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513701282,"title":"","headline":"GTA Online","subtitle":"우베르막트 센티넬 클래식","content":"산 안드레아스의 비포장 도로에 새롭게 등장한 우베르막트 센티넬 클래식은 누구에게나 어필할 수 있는 작은 매력이 있습니다. 빈티지한 스포츠카의 자아를 가진 합법적인 도로 주행용 차입니다. 하지만 진짜로 빛나는 장면을 보고 싶다면, 오프로드로 나가십시오. 실내 장식을 떼어내고 팝업 헤드라이트를 달면 다시는 뒤돌아볼 필요가 없습니다.","url":"","image":{"path":"sc/news/DH_Sentinel_Classic/262272_bigfeed-sentinel-classic-V2.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513701282,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "우베르막트 센티넬 클래식",
+    "content": "산 안드레아스의 비포장 도로에 새롭게 등장한 우베르막트 센티넬 클래식은 누구에게나 어필할 수 있는 작은 매력이 있습니다. 빈티지한 스포츠카의 자아를 가진 합법적인 도로 주행용 차입니다. 하지만 진짜로 빛나는 장면을 보고 싶다면, 오프로드로 나가십시오. 실내 장식을 떼어내고 팝업 헤드라이트를 달면 다시는 뒤돌아볼 필요가 없습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Sentinel_Classic/262272_bigfeed-sentinel-classic-V2.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

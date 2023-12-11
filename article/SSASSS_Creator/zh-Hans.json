@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223124,"title":"","headline":"GTA Online","subtitle":"制作器新增内容","content":"内容制作器即将推出一系列新选项，助您探索创意与施虐之间甜美的灰色地带。除了增加创建标靶射击竞速的功能，所有制作器类型都将得到海量的新设计选项，包含新的道具和载具。","url":"","image":{"path":"sc/news/SSASSS_Creator/349672_GTAO-creator.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223124,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "制作器新增内容",
+    "content": "内容制作器即将推出一系列新选项，助您探索创意与施虐之间甜美的灰色地带。除了增加创建标靶射击竞速的功能，所有制作器类型都将得到海量的新设计选项，包含新的道具和载具。",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Creator/349672_GTAO-creator.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

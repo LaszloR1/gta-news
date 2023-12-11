@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1670958346,"title":"","headline":"GTA 온라인","subtitle":"경험 개선","content":"GTA 온라인을 개선하려는 지속적인 노력의 일환으로, 플레이어의 iFruit 연락책 목록 표시 선택 능력을 포함한 더욱 다양한 경험 개선 업데이트가 추가되었습니다. 상호 작용 메뉴에서 인벤토리를 선택하고 휴대전화 연락처 즐겨찾기로 연락책 목록을 커스텀 하세요.","url":"","image":{"path":"sc/news/e7533516b622454382727bb9/262272_GTAO_LSDW_CellphoneContactsBigFeed_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1670958346,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "경험 개선",
+    "content": "GTA 온라인을 개선하려는 지속적인 노력의 일환으로, 플레이어의 iFruit 연락책 목록 표시 선택 능력을 포함한 더욱 다양한 경험 개선 업데이트가 추가되었습니다. 상호 작용 메뉴에서 인벤토리를 선택하고 휴대전화 연락처 즐겨찾기로 연락책 목록을 커스텀 하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/e7533516b622454382727bb9/262272_GTAO_LSDW_CellphoneContactsBigFeed_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

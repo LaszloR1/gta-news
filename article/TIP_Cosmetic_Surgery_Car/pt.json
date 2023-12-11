@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471090,"title":"","headline":"Dica online","subtitle":"Cirurgia plástica no carro","content":"Os habitantes de Los Santos se orgulham muito dos seus carros. Eles passam a maior parte do dia neles, ignoram as suas famílias neles, aprendem a temer ao próximo neles e tentam fazer que pareçam únicos. Quando estiver pronto para tunar seu carro, vá até a Los Santos Customs, porque nada tem mais classe do que algo cromado. Rodas personalizadas, pintura, acessórios e muito mais disponível para que você possa se expressar através de tinta e plástico modelado.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471090,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Cirurgia plástica no carro",
+    "content": "Os habitantes de Los Santos se orgulham muito dos seus carros. Eles passam a maior parte do dia neles, ignoram as suas famílias neles, aprendem a temer ao próximo neles e tentam fazer que pareçam únicos. Quando estiver pronto para tunar seu carro, vá até a Los Santos Customs, porque nada tem mais classe do que algo cromado. Rodas personalizadas, pintura, acessórios e muito mais disponível para que você possa se expressar através de tinta e plástico modelado.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349603,"title":"","headline":"GTA Online","subtitle":"Qui trouve garde","content":"Des trafiquants ont planqué une sélection d'armes dans tout Los Santos et Blaine County. Vous pouvez garder tout ce que vous trouvez, alors n'hésitez pas. Un peu de puissance de feu supplémentaire ne peut pas faire de mal, surtout pour essayer de remporter la victoire dans les évènements en mode libre.","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349603,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Qui trouve garde",
+    "content": "Des trafiquants ont planqué une sélection d'armes dans tout Los Santos et Blaine County. Vous pouvez garder tout ce que vous trouvez, alors n'hésitez pas. Un peu de puissance de feu supplémentaire ne peut pas faire de mal, surtout pour essayer de remporter la victoire dans les évènements en mode libre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380468160,"headline":"Online-Tipp","subtitle":"Wie im Safe","content":"Die vielen Geldautomaten in Los Santos verwalten dein Geld sicher und ermöglichen dir jederzeit Zugriff darauf. Benutze die Funktion 'Schnelles GPS' im Interaktionsmenü, um den schnellsten Weg zu einem Geldautomaten zu finden. Du kannst auch den Webbrowser deines Handys benutzen, um auf dein Bankkonto zuzugreifen und Geld einzuzahlen oder abzuheben. Gehe dafür auf www.maze-bank.com","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380468160,
+    "headline": "Online-Tipp",
+    "subtitle": "Wie im Safe",
+    "content": "Die vielen Geldautomaten in Los Santos verwalten dein Geld sicher und ermöglichen dir jederzeit Zugriff darauf. Benutze die Funktion 'Schnelles GPS' im Interaktionsmenü, um den schnellsten Weg zu einem Geldautomaten zu finden. Du kannst auch den Webbrowser deines Handys benutzen, um auf dein Bankkonto zuzugreifen und Geld einzuzahlen oder abzuheben. Gehe dafür auf www.maze-bank.com",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

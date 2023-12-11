@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469140,"headline":"Dica online","subtitle":"Exiba seus talentos","content":"Seja qual for a sua melhor habilidade, você ganhará Prêmios exclusivos por completar vários marcos e objetivos. É claro que alguns dos itens mais exclusivos nas lojas de Los Santos só podem ser adquiridos se tiver o direito de comprá-los depois de alcançar essas metas. Afinal, a vida é sempre melhor para as celebridades.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469140,
+    "headline": "Dica online",
+    "subtitle": "Exiba seus talentos",
+    "content": "Seja qual for a sua melhor habilidade, você ganhará Prêmios exclusivos por completar vários marcos e objetivos. É claro que alguns dos itens mais exclusivos nas lojas de Los Santos só podem ser adquiridos se tiver o direito de comprá-los depois de alcançar essas metas. Afinal, a vida é sempre melhor para as celebridades.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

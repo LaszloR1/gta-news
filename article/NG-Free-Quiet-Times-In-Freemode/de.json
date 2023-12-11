@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313472,"title":"","headline":"GTA Online","subtitle":"Die Ruhe vor dem Sturm im Freien Modus","content":"Wenn du das ruhige Leben bevorzugst, kannst du dich von bestimmten Events und Aktivitäten abmelden, indem du deine Spielerfahrung im Freien Modus anpasst. Nutze ''Markierungen ausblenden'' im Interaktionsmenü und wähle, welche Optionen du ausblenden oder anzeigen willst. Das Ausblenden eines Events oder einer Aktivität deaktiviert die Benachrichtigungen und sorgt so für ungestörtes Spielen. Wenn du später das Gefühl hast, etwas zu verpassen, kannst du sie jederzeit wieder einblenden lassen.","url":"","image":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313472,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Die Ruhe vor dem Sturm im Freien Modus",
+    "content": "Wenn du das ruhige Leben bevorzugst, kannst du dich von bestimmten Events und Aktivitäten abmelden, indem du deine Spielerfahrung im Freien Modus anpasst. Nutze ''Markierungen ausblenden'' im Interaktionsmenü und wähle, welche Optionen du ausblenden oder anzeigen willst. Das Ausblenden eines Events oder einer Aktivität deaktiviert die Benachrichtigungen und sorgt so für ungestörtes Spielen. Wenn du später das Gefühl hast, etwas zu verpassen, kannst du sie jederzeit wieder einblenden lassen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/.dds",
+        "filesize": 2048
+    }
+}

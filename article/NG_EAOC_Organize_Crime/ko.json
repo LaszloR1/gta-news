@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174995,"title":"","headline":"GTA Online","subtitle":"진정한 조직 범죄!","content":"상호 작용 메뉴의 시큐어 에이전시를 통해 VIP가 되어 보십시오. 흥미진진하고 수익성 있는 VIP 명령으로 현금과 RP를 획득할 수 있습니다. 아니면 VIP 도전으로 수행원들을 상대로 실력을 시험해보는 건 어떨까요? 조직에서 가장 실력이 뛰어난 사람이 누구인지 보여주십시오!","url":"","image":{"path":"sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Organize_Crime/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174995,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "진정한 조직 범죄!",
+    "content": "상호 작용 메뉴의 시큐어 에이전시를 통해 VIP가 되어 보십시오. 흥미진진하고 수익성 있는 VIP 명령으로 현금과 RP를 획득할 수 있습니다. 아니면 VIP 도전으로 수행원들을 상대로 실력을 시험해보는 건 어떨까요? 조직에서 가장 실력이 뛰어난 사람이 누구인지 보여주십시오!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/.dds",
+        "filesize": 2048
+    }
+}

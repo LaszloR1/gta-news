@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482319891,"title":"","headline":"GTA Online","subtitle":"Pfister Comet Retro personalizado","content":"Recupera ese Comet que lleva años escondido en la parte de atrás de tu garaje para diez coches y prepárate para un milagro navideño. La última afición de Benny es coger el bólido de Pfister que te compras en la crisis de los 40 y convertirlo en un coche urbano de carreras que parece que acaba de darle una paliza a algo pequeño y mullido con una cadena hasta matarlo. Pruébalo si te atreves.","url":"","image":{"path":"sc/news/NG_IE_Pfister_Comet_ON/349672_bigFeed-pfister.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Pfister_Comet_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482319891,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pfister Comet Retro personalizado",
+    "content": "Recupera ese Comet que lleva años escondido en la parte de atrás de tu garaje para diez coches y prepárate para un milagro navideño. La última afición de Benny es coger el bólido de Pfister que te compras en la crisis de los 40 y convertirlo en un coche urbano de carreras que parece que acaba de darle una paliza a algo pequeño y mullido con una cadena hasta matarlo. Pruébalo si te atreves.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Pfister_Comet_ON/349672_bigFeed-pfister.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Pfister_Comet_ON/.dds",
+        "filesize": 2048
+    }
+}

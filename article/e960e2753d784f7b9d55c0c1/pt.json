@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140182,"title":"GTA+","headline":"GTA+","subtitle":"Arsenal da Agência","content":"Membros do GTA+ podem melhorar as comodidades de sua Agência adicionando um Arsenal grátis para comprar armas com desconto, modificar armas com melhorias de Mk II, comprar equipamento essencial como: munição (75% de desconto para membros), coletes balísticos, paraquedas, respiradores e óculos de visão noturna até 8 de novembro.<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_pt_br.dds","filesize":262272},"button":"Selecione para se afiliar ao GTA+."}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140182,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Arsenal da Agência",
+    "content": "Membros do GTA+ podem melhorar as comodidades de sua Agência adicionando um Arsenal grátis para comprar armas com desconto, modificar armas com melhorias de Mk II, comprar equipamento essencial como: munição (75% de desconto para membros), coletes balísticos, paraquedas, respiradores e óculos de visão noturna até 8 de novembro.<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se afiliar ao GTA+."
+}

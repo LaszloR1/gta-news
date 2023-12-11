@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399988782,"headline":"Mise à jour GTA Online","subtitle":"Nouveau véhicule : Enus Huntley S","content":"Alliant le style et la finition d'une voiture de luxe britannique aux capacités d'un SUV haut de gamme, la Huntley S pourrait bien être l'unique exemple de fusion anglo-américaine réussie. À moins qu'il ne s'agisse que d'un vulgaire tas de taule plus polluant qu'une usine à charbon. À vous de décider.<br /><br />Véhicule disponible sur legendarymotorsport.net et présenté dans la nouvelle course 'Une maison dans les collines' de la mise à jour Vie de rêve.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Huntley_S/65664_GTAVhighLife_HUNTLEY.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399988782,
+    "headline": "Mise à jour GTA Online",
+    "subtitle": "Nouveau véhicule : Enus Huntley S",
+    "content": "Alliant le style et la finition d'une voiture de luxe britannique aux capacités d'un SUV haut de gamme, la Huntley S pourrait bien être l'unique exemple de fusion anglo-américaine réussie. À moins qu'il ne s'agisse que d'un vulgaire tas de taule plus polluant qu'une usine à charbon. À vous de décider.<br /><br />Véhicule disponible sur legendarymotorsport.net et présenté dans la nouvelle course 'Une maison dans les collines' de la mise à jour Vie de rêve.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Huntley_S/65664_GTAVhighLife_HUNTLEY.dds",
+        "filesize": 65664
+    }
+}

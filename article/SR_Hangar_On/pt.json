@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999975,"title":"","headline":"GTA Online","subtitle":"Hangares","content":"Pode-se dizer muito sobre um barão do contrabando internacional pelo tamanho de seu hangar – mas não entre em pânico, nós temos o que você precisa. Ele não é só o templo da aviação privada totalmente personalizável; não é só capaz de abrigar quase todo tipo de avião e helicóptero possíveis; mas também é o único lugar onde você pode instalar a sua própria Oficina de Aeronaves, onde pode modificar armas, aparência e desempenho do seu esquadrão como bem quiser.","url":"","image":{"path":"sc/news/SR_Hangar_On/262272_Hangar_On.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hangares",
+    "content": "Pode-se dizer muito sobre um barão do contrabando internacional pelo tamanho de seu hangar – mas não entre em pânico, nós temos o que você precisa. Ele não é só o templo da aviação privada totalmente personalizável; não é só capaz de abrigar quase todo tipo de avião e helicóptero possíveis; mas também é o único lugar onde você pode instalar a sua própria Oficina de Aeronaves, onde pode modificar armas, aparência e desempenho do seu esquadrão como bem quiser.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Hangar_On/262272_Hangar_On.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

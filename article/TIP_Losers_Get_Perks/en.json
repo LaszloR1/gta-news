@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569303,"headline":"Online Tip","subtitle":"Losers Get Perks","content":"If you die three times without getting a kill in a Deathmatch, you will be offered a Loser Perk to help you improve your lot in life.  You can activate Loser Perks on the wasted screen - check the options in the bottom right. At least somebody cares about you. A little.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569303,
+    "headline": "Online Tip",
+    "subtitle": "Losers Get Perks",
+    "content": "If you die three times without getting a kill in a Deathmatch, you will be offered a Loser Perk to help you improve your lot in life.  You can activate Loser Perks on the wasted screen - check the options in the bottom right. At least somebody cares about you. A little.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

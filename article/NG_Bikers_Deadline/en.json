@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511201,"title":"","headline":"GTA Online","subtitle":"Deadline","content":"Get a glimpse of a brave new world in the Adversary Mode, Deadline. It’s a vision of the future the citizens of Los Santos can get behind: scarcely in control of a bike that’s rolled straight out of high-budget sci-fi porn, travelling at incomprehensible speeds though the urban twilight, spitting out an energy trail that turns your competitors into lumps of ash in your wake. The future is bright, and fast, and astonishingly dangerous.","url":"","image":{"path":"sc/news/NG_Bikers_Deadline/262272_Deadline.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Deadline/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511201,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Deadline",
+    "content": "Get a glimpse of a brave new world in the Adversary Mode, Deadline. It’s a vision of the future the citizens of Los Santos can get behind: scarcely in control of a bike that’s rolled straight out of high-budget sci-fi porn, travelling at incomprehensible speeds though the urban twilight, spitting out an energy trail that turns your competitors into lumps of ash in your wake. The future is bright, and fast, and astonishingly dangerous.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Deadline/262272_Deadline.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Deadline/.dds",
+        "filesize": 2048
+    }
+}

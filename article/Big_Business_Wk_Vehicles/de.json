@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530030439,"title":"","headline":"GTA Online","subtitle":"Fahrzeug-Rabatte","content":"Nutze bis zum 2.µJuli einen Rabatt von 30µ% auf eine Auswahl kampf- und renntauglicher Fahrzeuge:<br /><br />• Mammoth Avenger & Renovierungen<br />• Zugmaschinen für die mobile Kommandozentrale & Renovierungen<br />• Vapid GB200<br />• Grotti X80 Proto<br />• Imponte Ruiner 2000<br /><br />Weitere Details findest du im Rockstar Newswire.","url":"","image":{"path":"sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530030439,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fahrzeug-Rabatte",
+    "content": "Nutze bis zum 2.µJuli einen Rabatt von 30µ% auf eine Auswahl kampf- und renntauglicher Fahrzeuge:<br /><br />• Mammoth Avenger & Renovierungen<br />• Zugmaschinen für die mobile Kommandozentrale & Renovierungen<br />• Vapid GB200<br />• Grotti X80 Proto<br />• Imponte Ruiner 2000<br /><br />Weitere Details findest du im Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381833784,"title":"","headline":"온라인 팁","subtitle":"Elitastravel.com","content":"Elitastravel.com은 산 안드레아스에 고급 제트기와 헬리콥터를 제공하는 업체입니다. 이런 이동 수단은 운송 및 레저를 목적으로만 고안되었기에 무장되어 있지 않습니다. 휴대전화의 웹 브라우저에서 웹사이트를 방문해서 개인 비행기를 주문해 보십시오.<br /><br />구입 후에는 휴대전화의 주소록에서 페가수스 배달 서비스를 통해 배달 내용을 확인할 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Elitastravel/262272_Elitastravel.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Elitastravel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381833784,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "Elitastravel.com",
+    "content": "Elitastravel.com은 산 안드레아스에 고급 제트기와 헬리콥터를 제공하는 업체입니다. 이런 이동 수단은 운송 및 레저를 목적으로만 고안되었기에 무장되어 있지 않습니다. 휴대전화의 웹 브라우저에서 웹사이트를 방문해서 개인 비행기를 주문해 보십시오.<br /><br />구입 후에는 휴대전화의 주소록에서 페가수스 배달 서비스를 통해 배달 내용을 확인할 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Elitastravel/262272_Elitastravel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Elitastravel/.dds",
+        "filesize": 2048
+    }
+}

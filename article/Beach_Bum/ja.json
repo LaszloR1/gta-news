@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1385980981,"headline":"GTA Online","subtitle":"「ビーチバム」アップデート版配信中","content":"配信中のこの無料アップデート版では、ビーチレジャー専用の様々な新しいコンテンツを入手できます:<br /><br />・新登場のスピーダーボートを含む、驚くべき4種類のビーチレジャー向けの乗り物。<br />・くつろぐのにぴったりな300種類を超える新しいレジャーウェア、タトゥー、ヘアスタイル。<br />・2種類のリラックスとは程遠い武器。<br />・のんびりするのに飽きた方向けの20種類の特別なジョブ。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1385980981,
+    "headline": "GTA Online",
+    "subtitle": "「ビーチバム」アップデート版配信中",
+    "content": "配信中のこの無料アップデート版では、ビーチレジャー専用の様々な新しいコンテンツを入手できます:<br /><br />・新登場のスピーダーボートを含む、驚くべき4種類のビーチレジャー向けの乗り物。<br />・くつろぐのにぴったりな300種類を超える新しいレジャーウェア、タトゥー、ヘアスタイル。<br />・2種類のリラックスとは程遠い武器。<br />・のんびりするのに飽きた方向けの20種類の特別なジョブ。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds",
+        "filesize": 65664
+    }
+}

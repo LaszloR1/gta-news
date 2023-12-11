@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527854,"title":"","headline":"GTA Online","subtitle":"Grotti X80 Proto","content":"Legendary Motorsport est fier de vous présenter la Grotti X80 Proto. Et si le futur de demain, c'était aujourd'huiµ? La science serait-elle allée trop loinµ? Atteindrez-vous le nirvana avant d'atteindre votre vitesse maximaleµ? Oui, oui et encore oui. Goûtez au rêve pendant un bref instant.","url":"","image":{"path":"sc/news/NG_Grotti_X80_Out_Now/349672_GTAONLINE-X80-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Grotti_X80_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527854,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Grotti X80 Proto",
+    "content": "Legendary Motorsport est fier de vous présenter la Grotti X80 Proto. Et si le futur de demain, c'était aujourd'huiµ? La science serait-elle allée trop loinµ? Atteindrez-vous le nirvana avant d'atteindre votre vitesse maximaleµ? Oui, oui et encore oui. Goûtez au rêve pendant un bref instant.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Grotti_X80_Out_Now/349672_GTAONLINE-X80-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Grotti_X80_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543434,"title":"","headline":"GTA Online","subtitle":"외모지상주의","content":"옷, 문신, 자동차에 더해 친구까지 갈아치웠는데도 뭔가 부족한 것 같다고요? 걱정마세요. 당신이 공허하고 영혼이 텅 빈 사람이라서 그런 게 아닙니다. 우리의 몸은 섹스 파트너를 갈아치우듯이 쉽게 바꿀 수 있어야 하고, 또 이제 그럴 수 있게 되었습니다. 상호 작용 메뉴의 스타일 항목에서 캐릭터의 외모를 바꾸고 정성스럽게 꾸며보세요. 다른 갑부들처럼 마음 속 공허함을 허영과 사치로 채우는 겁니다.","url":"","image":{"path":"sc/news/NG_IE_Skin_Deep/262272_skindeep.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Skin_Deep/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543434,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "외모지상주의",
+    "content": "옷, 문신, 자동차에 더해 친구까지 갈아치웠는데도 뭔가 부족한 것 같다고요? 걱정마세요. 당신이 공허하고 영혼이 텅 빈 사람이라서 그런 게 아닙니다. 우리의 몸은 섹스 파트너를 갈아치우듯이 쉽게 바꿀 수 있어야 하고, 또 이제 그럴 수 있게 되었습니다. 상호 작용 메뉴의 스타일 항목에서 캐릭터의 외모를 바꾸고 정성스럽게 꾸며보세요. 다른 갑부들처럼 마음 속 공허함을 허영과 사치로 채우는 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Skin_Deep/262272_skindeep.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Skin_Deep/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453826,"title":"","headline":"GTA Online","subtitle":"Pada śnieg","content":"Zerkaj w niebo, ponieważ meteorolodzy z San Andreas zapowiadają na Święta i Sylwestra opady śniegu.~n~~n~Nie musisz już opierać się pokusie zanurzenia nosa w śnieg - teraz można lepić kulki śnieżne i nimi rzucać.~n~~n~Wystarczy nacisnąć ~INPUT_DETONATE~, aby ulepić kule, a następnie wycelować i rzucić jak w przypadku każdej innej broni.<br /><br />Koniecznie pamiętaj, żeby zajrzeć dzisiaj pod choinkę w poszukiwaniu wybuchowych prezentów od Mikołaja.","url":"","image":{"path":"sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Let_it_snow_15/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453826,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pada śnieg",
+    "content": "Zerkaj w niebo, ponieważ meteorolodzy z San Andreas zapowiadają na Święta i Sylwestra opady śniegu.~n~~n~Nie musisz już opierać się pokusie zanurzenia nosa w śnieg - teraz można lepić kulki śnieżne i nimi rzucać.~n~~n~Wystarczy nacisnąć ~INPUT_DETONATE~, aby ulepić kule, a następnie wycelować i rzucić jak w przypadku każdej innej broni.<br /><br />Koniecznie pamiętaj, żeby zajrzeć dzisiaj pod choinkę w poszukiwaniu wybuchowych prezentów od Mikołaja.",
+    "url": "",
+    "image": {
+        "path": "sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Let_it_snow_15/.dds",
+        "filesize": 2048
+    }
+}

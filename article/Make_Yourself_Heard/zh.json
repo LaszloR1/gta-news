@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991730,"headline":"線上小訣竅","subtitle":"讓大家聽見您的聲音","content":"戴上耳機，就可以盡情體驗 GTA 線上模式遊戲，並且認識新的罪犯朋友，協助您在洛聖都大開殺戒。<br /><br />玩家名稱旁的喇叭圖示表示該位玩家已連接耳機，不過別擔心。如果您發現自己遇到呼吸聲很大的玩家，或是有不想聽到的內容談話，您可以在 [線上] > [玩家] 選單中選擇「靜音」，讓他們安靜。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991730,
+    "headline": "線上小訣竅",
+    "subtitle": "讓大家聽見您的聲音",
+    "content": "戴上耳機，就可以盡情體驗 GTA 線上模式遊戲，並且認識新的罪犯朋友，協助您在洛聖都大開殺戒。<br /><br />玩家名稱旁的喇叭圖示表示該位玩家已連接耳機，不過別擔心。如果您發現自己遇到呼吸聲很大的玩家，或是有不想聽到的內容談話，您可以在 [線上] > [玩家] 選單中選擇「靜音」，讓他們安靜。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224935,"title":"","headline":"GTAV","subtitle":"Grenades rapides","content":"Lorsque vous êtes à pied, appuyez sur ~INPUT_FRONTEND_LT~ et ~INPUT_FRONTEND_LEFT~ en même temps pour lancer rapidement une grenade qui surprendra vos ennemis.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/XBONE_Quick_Grenades/65664_quick_grenades.dds","filesize":65664},"landscape":{"path":"sc/news/XBONE_Quick_Grenades/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224935,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Grenades rapides",
+    "content": "Lorsque vous êtes à pied, appuyez sur ~INPUT_FRONTEND_LT~ et ~INPUT_FRONTEND_LEFT~ en même temps pour lancer rapidement une grenade qui surprendra vos ennemis.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/XBONE_Quick_Grenades/65664_quick_grenades.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/XBONE_Quick_Grenades/.dds",
+        "filesize": 2048
+    }
+}

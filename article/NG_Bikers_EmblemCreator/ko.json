@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515792,"title":"","headline":"GTA Online","subtitle":"Social Club 상징 생성기","content":"모든 MC에는 명예로운 배지가 있어야 하며, 여러분의 MC도 예외는 아닙니다. Social Club 상징 생성기에 바이커를 주제로 한 모양과 디자인이 잔뜩 추가되었고, 여러분의 작업물을 세밀하게 조정할 수 있는 새로운 옵션도 생겼으니 멋지게 만들어 보십시오. 잊지 마세요, 첫인상이 중요하다는 걸요.","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Social Club 상징 생성기",
+    "content": "모든 MC에는 명예로운 배지가 있어야 하며, 여러분의 MC도 예외는 아닙니다. Social Club 상징 생성기에 바이커를 주제로 한 모양과 디자인이 잔뜩 추가되었고, 여러분의 작업물을 세밀하게 조정할 수 있는 새로운 옵션도 생겼으니 멋지게 만들어 보십시오. 잊지 마세요, 첫인상이 중요하다는 걸요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

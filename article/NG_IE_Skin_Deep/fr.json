@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543433,"title":"","headline":"GTA Online","subtitle":"Sauvez les apparences","content":"Vous avez changé de tenue, de tatouage, de coupe de cheveux, de voiture et, bien sûr, d'amis... Et pourtant ça ne vous suffit pas. Aucun rapport au fait que vous êtes vidé de toute substance ; vous désirez juste pouvoir changer d'anatomie aussi facilement que de partenaire sexuel. C'est maintenant possibleµ! Rendez-vous dans la section Style du menu Interaction pour modifier l'apparence de votre personnage et changer radicalement de look. Comblez ce vide comme tout riche qui se respecte.","url":"","image":{"path":"sc/news/NG_IE_Skin_Deep/262272_skindeep.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Skin_Deep/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543433,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sauvez les apparences",
+    "content": "Vous avez changé de tenue, de tatouage, de coupe de cheveux, de voiture et, bien sûr, d'amis... Et pourtant ça ne vous suffit pas. Aucun rapport au fait que vous êtes vidé de toute substance ; vous désirez juste pouvoir changer d'anatomie aussi facilement que de partenaire sexuel. C'est maintenant possibleµ! Rendez-vous dans la section Style du menu Interaction pour modifier l'apparence de votre personnage et changer radicalement de look. Comblez ce vide comme tout riche qui se respecte.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Skin_Deep/262272_skindeep.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Skin_Deep/.dds",
+        "filesize": 2048
+    }
+}

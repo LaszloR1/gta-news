@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1461074787,"title":"","headline":"GTA Online","subtitle":"班尼車坊現正販售：絕緻渦輪劍齒虎","content":"現在正是在班尼車坊幫絕緻渦輪劍齒虎改裝一下的好時機。將這台極具代表性的肌肉車加到您引以為傲的低底盤車收藏中吧。您可以在洛聖都街頭弄到這輛劍齒虎，或是直接到班尼車坊的網頁購買，然後讓班尼來處理各式改裝事宜。","url":"","image":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1461074787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "班尼車坊現正販售：絕緻渦輪劍齒虎",
+    "content": "現在正是在班尼車坊幫絕緻渦輪劍齒虎改裝一下的好時機。將這台極具代表性的肌肉車加到您引以為傲的低底盤車收藏中吧。您可以在洛聖都街頭弄到這輛劍齒虎，或是直接到班尼車坊的網頁購買，然後讓班尼來處理各式改裝事宜。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

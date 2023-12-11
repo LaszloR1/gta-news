@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491247706,"title":"","headline":"GTA Online","subtitle":"Grotti Turismo Classic","content":"Llámalo anticuado, pero estás harto de hipercoches de la era espacial con salpicaderos más inteligentes que tú. Quieres algo minimalista, tan puro y primario como un ave de presa o una erección mañanera. Ahí es donde entra el Turismo Classic, una belleza automovilística diseñada para llevarte de vuelta a una época en la que la gasolina era barata, la capa de ozono era gruesa y los policías iban tan borrachos como tú.","url":"","image":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491247706,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Grotti Turismo Classic",
+    "content": "Llámalo anticuado, pero estás harto de hipercoches de la era espacial con salpicaderos más inteligentes que tú. Quieres algo minimalista, tan puro y primario como un ave de presa o una erección mañanera. Ahí es donde entra el Turismo Classic, una belleza automovilística diseñada para llevarte de vuelta a una época en la que la gasolina era barata, la capa de ozono era gruesa y los policías iban tan borrachos como tú.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/.dds",
+        "filesize": 2048
+    }
+}

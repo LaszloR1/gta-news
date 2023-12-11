@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1426615367,"title":"","headline":"GTA Online","subtitle":"Rejoindre rapidement un braquage","content":"Utilisez l'application 'Activité rapide' de votre téléphone pour rejoindre directement une mission de braquage.<br /><br />Vous pouvez sélectionner l'option 'Rejoindre en attente' pour rester en mode libre le temps que le braquage commence, ou 'Rejoindre le salon directement' pour entrer dans le salon sans plus attendre et faire connaissance avec votre équipe de braquage.","url":" www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Quickly_Join_A_Heist/262272_Ifruitphone.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Quickly_Join_A_Heist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1426615367,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Rejoindre rapidement un braquage",
+    "content": "Utilisez l'application 'Activité rapide' de votre téléphone pour rejoindre directement une mission de braquage.<br /><br />Vous pouvez sélectionner l'option 'Rejoindre en attente' pour rester en mode libre le temps que le braquage commence, ou 'Rejoindre le salon directement' pour entrer dans le salon sans plus attendre et faire connaissance avec votre équipe de braquage.",
+    "url": " www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Quickly_Join_A_Heist/262272_Ifruitphone.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Quickly_Join_A_Heist/.dds",
+        "filesize": 2048
+    }
+}

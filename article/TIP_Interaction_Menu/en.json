@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567407,"title":"","headline":"Online Tip","subtitle":"Interaction Menu","content":"You can access many useful features and options within the Interaction Menu, including the Quick GPS function and the ability to change your character’s accessories quickly.  View the Interaction Menu in game by holding ~INPUT_INTERACTION_MENU~ to see everything it offers.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Interaction_Menu/262272_Interaction_Menu.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Interaction_Menu/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567407,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Interaction Menu",
+    "content": "You can access many useful features and options within the Interaction Menu, including the Quick GPS function and the ability to change your character’s accessories quickly.  View the Interaction Menu in game by holding ~INPUT_INTERACTION_MENU~ to see everything it offers.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Interaction_Menu/262272_Interaction_Menu.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Interaction_Menu/.dds",
+        "filesize": 2048
+    }
+}

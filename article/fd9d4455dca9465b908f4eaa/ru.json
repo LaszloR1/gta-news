@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285738,"title":"GTA+","headline":"GTA+","subtitle":"Annis ZR380 (апокалипсис)","content":"Подписчики GTA+ могут бесплатно забрать Annis ZR380 (апокалипсис) до 13 сентября.<br /><br />Annis ZR380 (апокалипсис) – это сумасшедшая вариация всеми любимого спорткара Annis, в которой есть всего понемногу: достойная скорость, приличное управление и неуемный аппетит к дизельному топливу и разрушениям. <br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/fd9d4455dca9465b908f4eaa/262272_GTAP_MEP17_Lead_Apocalypse_Annis_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285738,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Annis ZR380 (апокалипсис)",
+    "content": "Подписчики GTA+ могут бесплатно забрать Annis ZR380 (апокалипсис) до 13 сентября.<br /><br />Annis ZR380 (апокалипсис) – это сумасшедшая вариация всеми любимого спорткара Annis, в которой есть всего понемногу: достойная скорость, приличное управление и неуемный аппетит к дизельному топливу и разрушениям. <br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/fd9d4455dca9465b908f4eaa/262272_GTAP_MEP17_Lead_Apocalypse_Annis_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

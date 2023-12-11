@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224788,"title":"","headline":"GTAV","subtitle":"Vista en primera persona","content":"En cualquier momento puedes pasar a la vista en primera persona.<br /><br />Puedes asignar una configuración de controles distinta para esta vista, independiente de los de tercera persona: Menú de pausa > Ajustes > Controles > Tipo de control en primera persona. Y personalizar la sensibilidad al mirar, el campo de visión y elegir si pasar a tercera persona cuando el personaje se encuentre en ciertas situaciones.<br /><br />Prueba con diversos ajustes para encontrar uno que se adapte a tu estilo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_First_Person_Mode/262272_FPSMode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_First_Person_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224788,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Vista en primera persona",
+    "content": "En cualquier momento puedes pasar a la vista en primera persona.<br /><br />Puedes asignar una configuración de controles distinta para esta vista, independiente de los de tercera persona: Menú de pausa > Ajustes > Controles > Tipo de control en primera persona. Y personalizar la sensibilidad al mirar, el campo de visión y elegir si pasar a tercera persona cuando el personaje se encuentre en ciertas situaciones.<br /><br />Prueba con diversos ajustes para encontrar uno que se adapte a tu estilo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_First_Person_Mode/262272_FPSMode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_First_Person_Mode/.dds",
+        "filesize": 2048
+    }
+}

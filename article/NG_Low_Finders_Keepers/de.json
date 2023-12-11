@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349603,"title":"","headline":"GTA Online","subtitle":"Finderlohn","content":"Waffenschmuggler haben eine Auswahl ihrer Artikel in Los Santos und Blaine County versteckt. Du kannst die Waffen und die Munition, die du einsammelst, behalten. Also schnapp dir, soviel du kannst. Die zusätzliche Feuerkraft kann sich als praktisch erweisen und dir einen Last-Minute-Sieg bei einem der Events im Freien Modus bescheren.","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349603,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Finderlohn",
+    "content": "Waffenschmuggler haben eine Auswahl ihrer Artikel in Los Santos und Blaine County versteckt. Du kannst die Waffen und die Munition, die du einsammelst, behalten. Also schnapp dir, soviel du kannst. Die zusätzliche Feuerkraft kann sich als praktisch erweisen und dir einen Last-Minute-Sieg bei einem der Events im Freien Modus bescheren.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

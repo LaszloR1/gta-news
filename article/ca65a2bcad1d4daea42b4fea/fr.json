@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285760,"title":"GTA+","headline":"GTA+","subtitle":"Bonus de Guerre d'arène","content":"Les abonnés à GTA+ peuvent profiter de GTA$, RP et points d'arène doublés dans les Épreuves d'arène jusqu'au 13µseptembre.<br /><br />L'abonnement se renouvelle automatiquement tous les mois et est annulable à tout moment. Plus d’infosµ: rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_fr_fr.dds","filesize":262272},"button":"S'abonner à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285760,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Bonus de Guerre d'arène",
+    "content": "Les abonnés à GTA+ peuvent profiter de GTA$, RP et points d'arène doublés dans les Épreuves d'arène jusqu'au 13µseptembre.<br /><br />L'abonnement se renouvelle automatiquement tous les mois et est annulable à tout moment. Plus d’infosµ: rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "S'abonner à GTA+"
+}

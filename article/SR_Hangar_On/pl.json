@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999975,"title":"","headline":"GTA Online","subtitle":"Hangary","content":"W środowisku baronów międzynarodowego przemytu wielkość hangaru ma znaczenie, ale nie panikuj – pomożemy. Ta świątynia prywatnej awiacji jest nie tylko w pełni modyfikowalna, ale także zdolna pomieścić niemal każdy rodzaj samolotu i śmigłowca znany ludzkości. W hangarze możesz także zainstalować własny warsztat, który pozwoli Ci ulepszyć uzbrojenie, wygląd i osiągi Twojej powietrznej floty.","url":"","image":{"path":"sc/news/SR_Hangar_On/262272_Hangar_On.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hangary",
+    "content": "W środowisku baronów międzynarodowego przemytu wielkość hangaru ma znaczenie, ale nie panikuj – pomożemy. Ta świątynia prywatnej awiacji jest nie tylko w pełni modyfikowalna, ale także zdolna pomieścić niemal każdy rodzaj samolotu i śmigłowca znany ludzkości. W hangarze możesz także zainstalować własny warsztat, który pozwoli Ci ulepszyć uzbrojenie, wygląd i osiągi Twojej powietrznej floty.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Hangar_On/262272_Hangar_On.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

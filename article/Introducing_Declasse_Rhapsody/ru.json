@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402998617,"headline":"Обновление GTA Online","subtitle":"Новая машина: Declasse Rhapsody","content":"Что может быть пост-ироничнее маленького кругленького ретрофутуристического авто с большим застекленным задом, который не только даст всем желающим полюбоваться на вашу самурайскую прическу, но и позволит вам делать панорамные снимки в Snapmatic?<br /><br />Автомобиль можно уже сегодня купить на сайте SouthernSanAndreasSuperAutos.com. Он также представлен в гонке ''Хипстеры всегда в моде'' из обновления ''Я не хипстер''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Declasse_Rhapsody/65664_Rhapsody.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402998617,
+    "headline": "Обновление GTA Online",
+    "subtitle": "Новая машина: Declasse Rhapsody",
+    "content": "Что может быть пост-ироничнее маленького кругленького ретрофутуристического авто с большим застекленным задом, который не только даст всем желающим полюбоваться на вашу самурайскую прическу, но и позволит вам делать панорамные снимки в Snapmatic?<br /><br />Автомобиль можно уже сегодня купить на сайте SouthernSanAndreasSuperAutos.com. Он также представлен в гонке ''Хипстеры всегда в моде'' из обновления ''Я не хипстер''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Declasse_Rhapsody/65664_Rhapsody.dds",
+        "filesize": 65664
+    }
+}

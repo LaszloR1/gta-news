@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223113,"title":"","headline":"GTA Online","subtitle":"250.000 GTA$ in GTA Online","content":"Das große Turnier steht vor der Tür.<br /><br />Melde dich bis zum 11.µJuni in GTA Online an und registriere dich für ein besonderes GTA$-Geldgeschenk zur Feier des Events. Kehre dann nach dem 14.µJuni zurück, um 250.000µGTA$ Bonus-Cash abzustauben. Das Geldgeschenk wird bis spätestens 18.µJuni auf deinem Konto bei der Maze Bank eingehen.","url":"","image":{"path":"sc/news/250K_Giveaway_05_06/349672_GTAO-footie.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223113,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "250.000 GTA$ in GTA Online",
+    "content": "Das große Turnier steht vor der Tür.<br /><br />Melde dich bis zum 11.µJuni in GTA Online an und registriere dich für ein besonderes GTA$-Geldgeschenk zur Feier des Events. Kehre dann nach dem 14.µJuni zurück, um 250.000µGTA$ Bonus-Cash abzustauben. Das Geldgeschenk wird bis spätestens 18.µJuni auf deinem Konto bei der Maze Bank eingehen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/250K_Giveaway_05_06/349672_GTAO-footie.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

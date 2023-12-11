@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349573,"title":"","headline":"GTA Online","subtitle":"Ampliamenti immobiliari","content":"Ora puoi espandere il tuo impero immobiliare e possedere fino a 4 proprietà, tra appartamenti e garage. Ora che c'è Benny’s Original Motor Works in città, vale proprio la pena acquistare dello spazio extra per parcheggiare le nuove auto custom.","url":"","image":{"path":"sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Extra_Storage/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349573,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ampliamenti immobiliari",
+    "content": "Ora puoi espandere il tuo impero immobiliare e possedere fino a 4 proprietà, tra appartamenti e garage. Ora che c'è Benny’s Original Motor Works in città, vale proprio la pena acquistare dello spazio extra per parcheggiare le nuove auto custom.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Extra_Storage/.dds",
+        "filesize": 2048
+    }
+}

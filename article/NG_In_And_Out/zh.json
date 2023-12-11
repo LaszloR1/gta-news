@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1462295196,"title":"","headline":"GTA Online","subtitle":"出生入死","content":"在這個全新競爭模式中，您的目標是奮力保護或取得多個包裹。進攻組必須取得所有包裹，並把包裹都送回投放點才算獲勝。防守組必須堅守己方的包裹，直至回合結束。進攻組奪走的包裹越少，防守組就可以省下更多追趕對方的精力。您也許需要利用潛行及團隊戰術來成功達到目標。","url":"","image":{"path":"sc/news/NG_In_And_Out/262272_In_And_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_In_And_Out/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1462295196,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "出生入死",
+    "content": "在這個全新競爭模式中，您的目標是奮力保護或取得多個包裹。進攻組必須取得所有包裹，並把包裹都送回投放點才算獲勝。防守組必須堅守己方的包裹，直至回合結束。進攻組奪走的包裹越少，防守組就可以省下更多追趕對方的精力。您也許需要利用潛行及團隊戰術來成功達到目標。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_In_And_Out/262272_In_And_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_In_And_Out/.dds",
+        "filesize": 2048
+    }
+}

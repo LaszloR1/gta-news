@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044144,"title":"","headline":"GTA Online","subtitle":"再也不怕小白亂","content":"您是否覺得某些人過度「關懷」，而且甩也甩不掉？不用再擔心了，您現在可以運用新的「幽靈模式」功能輕鬆逃脫。如果其他玩家一而再、再而三地殺死您，而您沒有反擊，就可以選擇啟動短時間的「幽靈」效果，讓您可以全身而退、展開全新生活。","url":"","image":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044144,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "再也不怕小白亂",
+    "content": "您是否覺得某些人過度「關懷」，而且甩也甩不掉？不用再擔心了，您現在可以運用新的「幽靈模式」功能輕鬆逃脫。如果其他玩家一而再、再而三地殺死您，而您沒有反擊，就可以選擇啟動短時間的「幽靈」效果，讓您可以全身而退、展開全新生活。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds",
+        "filesize": 2048
+    }
+}

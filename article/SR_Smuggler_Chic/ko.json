@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999974,"title":"","headline":"GTA Online","subtitle":"밀수 스타일의 멋","content":"세금을 줄이고 수익을 높이는 새로운 사업 세계에서 밀리지 않으려면 적응을 잘 해야 합니다. 최신 의상과 문신으로 자신을 드러내지 않는다면 업계에서 무시당하게 될 가능성이 높습니다. 도시의 해적 또는 최고의 전투기 파일럿이 되거나, 아니면 다음 패키지 판매에 대비해 열 감지기와 야간 투시경 장비를 갖춰 보세요. 여러분을 위한 새로운 아이템이 상점에 준비되어 있습니다.","url":"","image":{"path":"sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999974,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "밀수 스타일의 멋",
+    "content": "세금을 줄이고 수익을 높이는 새로운 사업 세계에서 밀리지 않으려면 적응을 잘 해야 합니다. 최신 의상과 문신으로 자신을 드러내지 않는다면 업계에서 무시당하게 될 가능성이 높습니다. 도시의 해적 또는 최고의 전투기 파일럿이 되거나, 아니면 다음 패키지 판매에 대비해 열 감지기와 야간 투시경 장비를 갖춰 보세요. 여러분을 위한 새로운 아이템이 상점에 준비되어 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

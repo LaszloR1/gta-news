@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399990300,"headline":"GTA Online Update","subtitle":"Welcome to the High Life","content":"New Luxury Condos for sale.<br /><br />You can now add a second property to your real estate portfolio. Visit www.dynasty8realestate.com to see all the stunning Apartments on offer.<br /><br />As well as properties you may already be familiar with, you’ll find a new, very desirable high-end apartment available in many of Los Santos’ most luxurious residences - complete with an additional 10 car Garage to store even more vehicles.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990300,
+    "headline": "GTA Online Update",
+    "subtitle": "Welcome to the High Life",
+    "content": "New Luxury Condos for sale.<br /><br />You can now add a second property to your real estate portfolio. Visit www.dynasty8realestate.com to see all the stunning Apartments on offer.<br /><br />As well as properties you may already be familiar with, you’ll find a new, very desirable high-end apartment available in many of Los Santos’ most luxurious residences - complete with an additional 10 car Garage to store even more vehicles.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds",
+        "filesize": 65664
+    }
+}

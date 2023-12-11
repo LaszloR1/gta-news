@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533047026,"title":"","headline":"GTA Online","subtitle":"테일 오브 어스를 소개합니다","content":"이제 멋진 선율의 테크노를 연주하는 이탈리아의 DJ, 테일 오브 어스를 나이트클럽의 고정 DJ로 고용할 수 있습니다. 잉글리시 데이브가 전화하길 기다렸다가 이동 수단을 확보하고 데리러 가십시오. 그리고 나이트클럽 오피스의 컴퓨터를 이용하면, DJ에 관한 자세한 정보를 알아보고 자기 클럽에서 연주할 고정 DJ를 아무 때나 고용할 수 있습니다.<br /><br />또한 로스 산토스 언더그라운드 라디오에서 솔로먼의 최신 음악도 들어 보세요.","url":"","image":{"path":"sc/news/jau_AH_Tale_Of_Us/349672_GTAO_AfterHours_DJ-Bigfeeds_V02_Tale-Of-Us.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533047026,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "테일 오브 어스를 소개합니다",
+    "content": "이제 멋진 선율의 테크노를 연주하는 이탈리아의 DJ, 테일 오브 어스를 나이트클럽의 고정 DJ로 고용할 수 있습니다. 잉글리시 데이브가 전화하길 기다렸다가 이동 수단을 확보하고 데리러 가십시오. 그리고 나이트클럽 오피스의 컴퓨터를 이용하면, DJ에 관한 자세한 정보를 알아보고 자기 클럽에서 연주할 고정 DJ를 아무 때나 고용할 수 있습니다.<br /><br />또한 로스 산토스 언더그라운드 라디오에서 솔로먼의 최신 음악도 들어 보세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/jau_AH_Tale_Of_Us/349672_GTAO_AfterHours_DJ-Bigfeeds_V02_Tale-Of-Us.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

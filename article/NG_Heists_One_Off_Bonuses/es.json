@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425981139,"title":"","headline":"GTA Online","subtitle":"Extras únicos por los golpes","content":"Hay desafíos especiales por completar los golpes, cada uno de los cuales solo se puede conseguir una vez por persona.<br /><br />Por primera vez: completa el desafío por primera vez para conseguir una recompensa en dinero extra.<br />Todo en orden: completa los 5 golpes en orden para recibir 1 000 000 de $.<br />Lealtad: completa los 5 golpes con el mismo equipo para recibir 1 000 000 de $ adicionales.<br />Papel secundario: completa los 5 golpes como miembro del equipo para recibir 100 000 de $.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_One_Off_Bonuses/262272_One-Off-Heist-Bonuses.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_One_Off_Bonuses/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425981139,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Extras únicos por los golpes",
+    "content": "Hay desafíos especiales por completar los golpes, cada uno de los cuales solo se puede conseguir una vez por persona.<br /><br />Por primera vez: completa el desafío por primera vez para conseguir una recompensa en dinero extra.<br />Todo en orden: completa los 5 golpes en orden para recibir 1 000 000 de $.<br />Lealtad: completa los 5 golpes con el mismo equipo para recibir 1 000 000 de $ adicionales.<br />Papel secundario: completa los 5 golpes como miembro del equipo para recibir 100 000 de $.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_One_Off_Bonuses/262272_One-Off-Heist-Bonuses.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_One_Off_Bonuses/.dds",
+        "filesize": 2048
+    }
+}

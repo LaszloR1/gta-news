@@ -1,1 +1,16 @@
-{"types":["priority"],"date":1676561637,"title":"","headline":"GTAオンライン","subtitle":"イクリプス大通りの複数フロアガレージ","content":"今こそ愛車のコレクションを大きく華やかにアップグレードするときです。ロスサントスのイクリプス大通りにある新たな複数フロアガレージでは、雄大な5フロアにユニークな設備とともに最大50台の乗り物を収容できます。<br /><br />乗り物そして社交の場としてのこの新たな聖域は、「GTAオンライン」のダイナスティー8のゲーム内ウェブサイトから直接購入可能です。また、GTA+メンバーは3月15日までの期間中に無料で手に入れられます。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE","image":{"path":"sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds","filesize":262272},"button":"ダイナスティー８のウェブサイトを訪れる"}
+{
+    "types": [
+        "priority"
+    ],
+    "date": 1676561637,
+    "title": "",
+    "headline": "GTAオンライン",
+    "subtitle": "イクリプス大通りの複数フロアガレージ",
+    "content": "今こそ愛車のコレクションを大きく華やかにアップグレードするときです。ロスサントスのイクリプス大通りにある新たな複数フロアガレージでは、雄大な5フロアにユニークな設備とともに最大50台の乗り物を収容できます。<br /><br />乗り物そして社交の場としてのこの新たな聖域は、「GTAオンライン」のダイナスティー8のゲーム内ウェブサイトから直接購入可能です。また、GTA+メンバーは3月15日までの期間中に無料で手に入れられます。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE",
+    "image": {
+        "path": "sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "ダイナスティー８のウェブサイトを訪れる"
+}

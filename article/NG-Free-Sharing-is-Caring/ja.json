@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442258951,"title":"","headline":"GTA Online","subtitle":"分かち合いは助け合い","content":"フリーモードイベントでは現金とRPが獲得できます。人と協力してデッドドロップの阻止やビーストの撃破に成功した時は、勝利に貢献してくれた人たちを忘れてはいけません。<br /><br />アクションメニュー「所持品」内の「現金」から、前回のジョブの収入を共有することができます。きっと感謝され、もしかすると今後協力してくれる仲間を得られるかもしれません。","url":"","image":{"path":"sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Sharing-is-Caring/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442258951,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "分かち合いは助け合い",
+    "content": "フリーモードイベントでは現金とRPが獲得できます。人と協力してデッドドロップの阻止やビーストの撃破に成功した時は、勝利に貢献してくれた人たちを忘れてはいけません。<br /><br />アクションメニュー「所持品」内の「現金」から、前回のジョブの収入を共有することができます。きっと感謝され、もしかすると今後協力してくれる仲間を得られるかもしれません。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140182,"title":"GTA+","headline":"GTA+","subtitle":"事務所軍械庫","content":"即日起至µ11µ月µ8µ日止，GTA+µ會員可升級事務所設施，免費新增軍械庫以優惠價格購買武器、使用µMkµIIµ升級改造武器、購買彈藥（會員享二五折）、護甲、降落傘、水中呼吸器及夜視鏡等重要裝備。<br /><br />GTA+µ會籍每月將自動續訂，可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_zh_tw.dds","filesize":262272},"button":"選擇以加入µGTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140182,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "事務所軍械庫",
+    "content": "即日起至µ11µ月µ8µ日止，GTA+µ會員可升級事務所設施，免費新增軍械庫以優惠價格購買武器、使用µMkµIIµ升級改造武器、購買彈藥（會員享二五折）、護甲、降落傘、水中呼吸器及夜視鏡等重要裝備。<br /><br />GTA+µ會籍每月將自動續訂，可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_zh_tw.dds",
+        "filesize": 262272
+    },
+    "button": "選擇以加入µGTA+"
+}

@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149370,"headline":"Newswire","subtitle":"Электронное руководство пользователя","content":"Электронное руководство по Grand Theft Auto V содержит инструкции к игре и подробные сведения о районах и достопримечательностях Лос-Сантоса и округа Блэйн. Вы можете загрузить электронное руководство на свой компьютер или на мобильное устройство на базе iOS или Android.<br /><br />Чтобы загрузить руководство, посетите страницу www.rockstargames.com/v/manual или введите поисковый запрос «GTAV Digital Manual» в магазине App Store или Google Play Store.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149370,
+    "headline": "Newswire",
+    "subtitle": "Электронное руководство пользователя",
+    "content": "Электронное руководство по Grand Theft Auto V содержит инструкции к игре и подробные сведения о районах и достопримечательностях Лос-Сантоса и округа Блэйн. Вы можете загрузить электронное руководство на свой компьютер или на мобильное устройство на базе iOS или Android.<br /><br />Чтобы загрузить руководство, посетите страницу www.rockstargames.com/v/manual или введите поисковый запрос «GTAV Digital Manual» в магазине App Store или Google Play Store.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds",
+        "filesize": 65664
+    }
+}

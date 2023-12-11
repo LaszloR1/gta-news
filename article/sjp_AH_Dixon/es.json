@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533654205,"title":"","headline":"GTA Online","subtitle":"Presentamos a Dixon","content":"El prestigioso DJ alemán Dixon, misterioso, ecléctico y de fama mundial, está disponible para pinchar en clubes nocturnos de todo Los Santos. Dave el Inglés te pondrá al tanto de los detalles. Lleva a Dixon sano y salvo hasta tu club para contratarlo como DJ residente. No olvides consultar el ordenador de la oficina del club para ver más información y escoger en todo momento al DJ residente que prefieras.<br /><br />Además, puedes oír lo último de Tale Of Us en Los Santos Underground Radio.","url":"","image":{"path":"sc/news/sjp_AH_Dixon/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Dixon.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533654205,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Presentamos a Dixon",
+    "content": "El prestigioso DJ alemán Dixon, misterioso, ecléctico y de fama mundial, está disponible para pinchar en clubes nocturnos de todo Los Santos. Dave el Inglés te pondrá al tanto de los detalles. Lleva a Dixon sano y salvo hasta tu club para contratarlo como DJ residente. No olvides consultar el ordenador de la oficina del club para ver más información y escoger en todo momento al DJ residente que prefieras.<br /><br />Además, puedes oír lo último de Tale Of Us en Los Santos Underground Radio.",
+    "url": "",
+    "image": {
+        "path": "sc/news/sjp_AH_Dixon/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Dixon.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

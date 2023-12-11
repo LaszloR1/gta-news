@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1455190256,"title":"","headline":"GTA Online","subtitle":"生死相許","content":"在這個專為情侶量身打造的全新競爭模式中，與自己的愛人緊緊相依吧。最多四對玩家將於槍戰中激戰，而團隊合作才是關鍵，假如伴侶死去，另一人也活不了。待在伴侶身邊就能夠加速回復生命值。最後一對活著的伴侶即可獲勝。","url":"","image":{"path":"sc/news/NG_Valentines_16_Vehicle_Valor/262272_Vehicle_Valor_NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Valentines_16_Vehicle_Valor/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1455190256,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "生死相許",
+    "content": "在這個專為情侶量身打造的全新競爭模式中，與自己的愛人緊緊相依吧。最多四對玩家將於槍戰中激戰，而團隊合作才是關鍵，假如伴侶死去，另一人也活不了。待在伴侶身邊就能夠加速回復生命值。最後一對活著的伴侶即可獲勝。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_16_Vehicle_Valor/262272_Vehicle_Valor_NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_16_Vehicle_Valor/.dds",
+        "filesize": 2048
+    }
+}

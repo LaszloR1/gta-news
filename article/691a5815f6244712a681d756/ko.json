@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"로스 산토스 마약 전쟁","headline":"로스 산토스 마약 전쟁","subtitle":"LSD 제조실 획득 방법","content":"첫 투여 임무 6개를 모두 완료해 MTL 브릭케이드 6x6를 무료로 잠금 해제하면 프릭샵에서 완벽 가동 가능한 LSD 제조실로 업그레이드 할 수 있습니다. 또는, 군수품 캐시 앤 캐리 웹사이트에서 MTL 브릭케이드 6x6를 직접 구매하고 바로 LSD 사업에 뛰어들 수도 있습니다.<br /><br />소유한 LSD 제조실은 자유 모드에서 상호 작용 메뉴를 통해 소환하거나, 프릭샵에서 찾을 수 있습니다.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds","filesize":262272},"button":"군수품 캐시 앤 캐리 웹사이트 가기"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "로스 산토스 마약 전쟁",
+    "headline": "로스 산토스 마약 전쟁",
+    "subtitle": "LSD 제조실 획득 방법",
+    "content": "첫 투여 임무 6개를 모두 완료해 MTL 브릭케이드 6x6를 무료로 잠금 해제하면 프릭샵에서 완벽 가동 가능한 LSD 제조실로 업그레이드 할 수 있습니다. 또는, 군수품 캐시 앤 캐리 웹사이트에서 MTL 브릭케이드 6x6를 직접 구매하고 바로 LSD 사업에 뛰어들 수도 있습니다.<br /><br />소유한 LSD 제조실은 자유 모드에서 상호 작용 메뉴를 통해 소환하거나, 프릭샵에서 찾을 수 있습니다.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "군수품 캐시 앤 캐리 웹사이트 가기"
+}

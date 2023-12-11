@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416245598,"title":"","headline":"GTA Online","subtitle":"Trasferire personaggio e progressi preesistenti","content":"Hai intenzione di tornare a Los Santos su una nuova piattaforma? Non ricominciare tutto daccapo! Prosegui la tua carriera criminale trasferendo i tuoi personaggi e progressi preesistenti di GTA Online.  <br />Per ulteriori informazioni, visita www.rockstargames.com/gtaonline/charactertransfer.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Transfer_Progress/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416245598,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Trasferire personaggio e progressi preesistenti",
+    "content": "Hai intenzione di tornare a Los Santos su una nuova piattaforma? Non ricominciare tutto daccapo! Prosegui la tua carriera criminale trasferendo i tuoi personaggi e progressi preesistenti di GTA Online.  <br />Per ulteriori informazioni, visita www.rockstargames.com/gtaonline/charactertransfer.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Transfer_Progress/.dds",
+        "filesize": 2048
+    }
+}

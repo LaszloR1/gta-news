@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533838139,"title":"Ver ahora","headline":"Ver ahora","subtitle":"Red Dead Redemption 2: vídeo oficial del juego","content":"Este vídeo incluye imágenes del juego exclusivamente. Disfruta de esta presentación de Red Dead Redemption 2 en 4K.<br /><br />Red Dead Redemption 2 llegará el 26 de octubre de 2018 a Xbox One. Resérvalo ya.","url":"","image":{"path":"sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_ITASPA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533838139,
+    "title": "Ver ahora",
+    "headline": "Ver ahora",
+    "subtitle": "Red Dead Redemption 2: vídeo oficial del juego",
+    "content": "Este vídeo incluye imágenes del juego exclusivamente. Disfruta de esta presentación de Red Dead Redemption 2 en 4K.<br /><br />Red Dead Redemption 2 llegará el 26 de octubre de 2018 a Xbox One. Resérvalo ya.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_ITASPA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

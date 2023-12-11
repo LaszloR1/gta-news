@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436354142,"title":"","headline":"GTA Online","subtitle":"Verdades como puños","content":"Ahora puedes comprar puños americanos en Ammu-Nation, con una gran variedad de modelos para aumentar tu encanto natural y mejorar la comunicación.<br /><br />También está disponible la pistola de tirador, con más poder de parada que una escopeta con mecanismo de corredera.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436354142,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Verdades como puños",
+    "content": "Ahora puedes comprar puños americanos en Ammu-Nation, con una gran variedad de modelos para aumentar tu encanto natural y mejorar la comunicación.<br /><br />También está disponible la pistola de tirador, con más poder de parada que una escopeta con mecanismo de corredera.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

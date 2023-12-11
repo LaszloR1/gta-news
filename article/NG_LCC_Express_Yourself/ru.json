@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"Выразите себя","content":"Пора обновить свой гардероб, выбрать новую, интересную одежду для следующей встречи с друзьями. Костюмы любителей лоурайдеров, рабочая одежда - в вашем распоряжении множество вариантов. В тату-салонах также доступны новые татуировки, а в парикмахерских можно сделать новую модную прическу.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Выразите себя",
+    "content": "Пора обновить свой гардероб, выбрать новую, интересную одежду для следующей встречи с друзьями. Костюмы любителей лоурайдеров, рабочая одежда - в вашем распоряжении множество вариантов. В тату-салонах также доступны новые татуировки, а в парикмахерских можно сделать новую модную прическу.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

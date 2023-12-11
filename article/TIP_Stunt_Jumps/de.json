@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394813130,"headline":"Online-Tipp","subtitle":"Monster-Stunts","content":"Du musst nicht die Dienste von Pegasus anfordern, um durch die Lüfte zu fliegen - überall in Los Santos gibt es besondere Monster-Stunts, die dich in den Himmel katapultieren.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Stunt_Jumps/87528_Stunt_Jumps.dds","filesize":87528}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394813130,
+    "headline": "Online-Tipp",
+    "subtitle": "Monster-Stunts",
+    "content": "Du musst nicht die Dienste von Pegasus anfordern, um durch die Lüfte zu fliegen - überall in Los Santos gibt es besondere Monster-Stunts, die dich in den Himmel katapultieren.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Stunt_Jumps/87528_Stunt_Jumps.dds",
+        "filesize": 87528
+    }
+}

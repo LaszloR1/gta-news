@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916831,"title":"","headline":"GTA Online","subtitle":"絕佳防守","content":"您的新地堡不僅是您資產中唯一能夠承受直接核彈攻擊的房地產，還能當做營業基地，讓您進入聖安地列斯的終極黑市。CEO、老大和摩托幫首領可以在此發展菁英武器買賣生意：為生意提供原物料、製造武器，並且在µFIBµ或競爭對手插手前把武器賣掉。只有戰時經濟可以提供這種暴利，別忘了做好萬全準備。","url":"","image":{"path":"sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Best_Defence/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916831,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "絕佳防守",
+    "content": "您的新地堡不僅是您資產中唯一能夠承受直接核彈攻擊的房地產，還能當做營業基地，讓您進入聖安地列斯的終極黑市。CEO、老大和摩托幫首領可以在此發展菁英武器買賣生意：為生意提供原物料、製造武器，並且在µFIBµ或競爭對手插手前把武器賣掉。只有戰時經濟可以提供這種暴利，別忘了做好萬全準備。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Best_Defence/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175129,"title":"","headline":"GTA Online","subtitle":"Extraktion","content":"Der Jet einer Führungskraft ist in einem zwielichtigen Teil der Stadt abgestürzt. Ein Team von Leibwächtern arbeitet mit einem weiteren Teammitglied, der Zielperson, zusammen. Ziel ist es, sich im Extraktionsbereich zu sammeln und die Zielperson dann zum Evakuierungspunkt zu bringen.<br /><br />Das Team der Attentäter versucht unterdessen, die Zielperson zuerst zu finden und sie auszuschalten.","url":"","image":{"path":"sc/news/NG_EAOC_Extraction/262272_Extraction.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Extraction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175129,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Extraktion",
+    "content": "Der Jet einer Führungskraft ist in einem zwielichtigen Teil der Stadt abgestürzt. Ein Team von Leibwächtern arbeitet mit einem weiteren Teammitglied, der Zielperson, zusammen. Ziel ist es, sich im Extraktionsbereich zu sammeln und die Zielperson dann zum Evakuierungspunkt zu bringen.<br /><br />Das Team der Attentäter versucht unterdessen, die Zielperson zuerst zu finden und sie auszuschalten.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Extraction/262272_Extraction.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Extraction/.dds",
+        "filesize": 2048
+    }
+}

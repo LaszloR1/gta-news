@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455277,"title":"","headline":"GTA Online","subtitle":"À la nuit tombée","content":"Vous venez de vous associer à un célèbre impresario de la scène underground nocturne pour ouvrir votre propre boîte de nuit. Alors pourquoi ne pas en profiter pour installer les bureaux de votre empire criminel juste en dessousµ? Depuis les serveurs installés dans cet entrepôt souterrain gigantesque, vos techniciens peuvent exploiter tous les filons possible pour accroître les bénéfices de toutes vos autres affaires, et ce, sans que vous ayez jamais à lever le petit doigt.","url":"","image":{"path":"sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455277,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "À la nuit tombée",
+    "content": "Vous venez de vous associer à un célèbre impresario de la scène underground nocturne pour ouvrir votre propre boîte de nuit. Alors pourquoi ne pas en profiter pour installer les bureaux de votre empire criminel juste en dessousµ? Depuis les serveurs installés dans cet entrepôt souterrain gigantesque, vos techniciens peuvent exploiter tous les filons possible pour accroître les bénéfices de toutes vos autres affaires, et ce, sans que vous ayez jamais à lever le petit doigt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442335248,"title":"","headline":"GTA Online","subtitle":"L'aggiornamento eventi Freemode è disponibile!","content":"Godetevi GTA Online in un modo nuovo e lanciatevi in mille avventure più folli che mai, come Caccia alla Bestia e Sotto la cupola! Sono tutte giocabili in modalità Freemode, senza sale d'attesa e schermate di caricamento.<br /><br />Gli eventi potrebbero iniziare in qualunque momento mentre sei in Freemode! Personalizza la tua sessione come preferisci: scegli tu se puntare sulle novità o restare sul classico.<br /><br />Sono incluse anche due nuove modalità Competizione: Oltre la linea e Velocità esplosiva.","url":"","image":{"path":"sc/news/NG_Free_FME_Out_Now/262272_FME-art.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_FME_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442335248,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "L'aggiornamento eventi Freemode è disponibile!",
+    "content": "Godetevi GTA Online in un modo nuovo e lanciatevi in mille avventure più folli che mai, come Caccia alla Bestia e Sotto la cupola! Sono tutte giocabili in modalità Freemode, senza sale d'attesa e schermate di caricamento.<br /><br />Gli eventi potrebbero iniziare in qualunque momento mentre sei in Freemode! Personalizza la tua sessione come preferisci: scegli tu se puntare sulle novità o restare sul classico.<br /><br />Sono incluse anche due nuove modalità Competizione: Oltre la linea e Velocità esplosiva.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_FME_Out_Now/262272_FME-art.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_FME_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

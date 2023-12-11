@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916483,"title":"","headline":"GTA Online","subtitle":"我が家が一番","content":"核戦争対策もバッチリな地下基地では家のようにくつろげないとお思いですか？そんなことはありません。サンアンドレアスの地下基地ではすべてがカスタマイズ可能です。メイズバンクの抵当流れ物件サイトからお好みの物件を選んだら、様々なスタイルを適用できます。射撃練習場や個人スペース、銃器庫や専用の移動手段オプションなどを追加しましょう。爆弾が降り注ぐ中でも、快適に過ごすことができます。","url":"","image":{"path":"sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_No_PLace_Like_Home/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916483,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "我が家が一番",
+    "content": "核戦争対策もバッチリな地下基地では家のようにくつろげないとお思いですか？そんなことはありません。サンアンドレアスの地下基地ではすべてがカスタマイズ可能です。メイズバンクの抵当流れ物件サイトからお好みの物件を選んだら、様々なスタイルを適用できます。射撃練習場や個人スペース、銃器庫や専用の移動手段オプションなどを追加しましょう。爆弾が降り注ぐ中でも、快適に過ごすことができます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

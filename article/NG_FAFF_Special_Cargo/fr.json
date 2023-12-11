@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294450,"title":"","headline":"GTA Online","subtitle":"Réseau de Marchandises spéciales SecuroServ","content":"Votre bureau vous offre un accès privé au Réseau de Marchandises spéciales SecuroServ. Assis confortablement dans votre immense fauteuil de bureau, investissez dans des entrepôts de stockage dans toute la ville, achetez des marchandises spéciales et relevez tous les défis pour mettre la ville entière à vos pieds.","url":"","image":{"path":"sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Special_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294450,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Réseau de Marchandises spéciales SecuroServ",
+    "content": "Votre bureau vous offre un accès privé au Réseau de Marchandises spéciales SecuroServ. Assis confortablement dans votre immense fauteuil de bureau, investissez dans des entrepôts de stockage dans toute la ville, achetez des marchandises spéciales et relevez tous les défis pour mettre la ville entière à vos pieds.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/.dds",
+        "filesize": 2048
+    }
+}

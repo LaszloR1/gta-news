@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1386691811,"headline":"GTA Online","subtitle":"데스매치 및 레이스 생성기 베타 이용 가능","content":"GTA 온라인의 최신 무료 업데이트에는 데스매치 및 레이스 생성기 베타가 포함되어 있습니다.<br /><br />여러분만의 피비린내나는 총격전, 치열한 길거리 레이스를 직접 만들어 보십시오. 그리고 Rockstar Games Social Club을 통해 발행하여 커뮤니티에 있는 모든 플레이어들이 다운로드하고 플레이한 뒤, 평가/공유하게 하십시오.<br /><br />데스매치 및 레이스 생성기 베타를 이용하려면 GTA 온라인 시작 메뉴에서 온라인 > 생성기를 선택하십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds","filesize":131200},"landscape":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds","filesize":131200}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1386691811,
+    "headline": "GTA Online",
+    "subtitle": "데스매치 및 레이스 생성기 베타 이용 가능",
+    "content": "GTA 온라인의 최신 무료 업데이트에는 데스매치 및 레이스 생성기 베타가 포함되어 있습니다.<br /><br />여러분만의 피비린내나는 총격전, 치열한 길거리 레이스를 직접 만들어 보십시오. 그리고 Rockstar Games Social Club을 통해 발행하여 커뮤니티에 있는 모든 플레이어들이 다운로드하고 플레이한 뒤, 평가/공유하게 하십시오.<br /><br />데스매치 및 레이스 생성기 베타를 이용하려면 GTA 온라인 시작 메뉴에서 온라인 > 생성기를 선택하십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds",
+        "filesize": 131200
+    },
+    "landscape": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds",
+        "filesize": 131200
+    }
+}

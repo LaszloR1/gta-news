@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423843,"title":"","headline":"GTA Online","subtitle":"Gratificación inmediata ","content":"Tu vida no está completa sin esa HVY Insurgent, pero colarse en Laboratorios Humane no es tan fácil como parece. Pues tenemos buenas noticias para los cerebros del crimen de Los Santos con mucho dinero y poco tiempo: por un precio exclusivo, ahora tienes acceso instantáneo a cualquier vehículo que se adquiría en un golpe a través de ''Comprar ahora''. Y porque uno nunca se cansa de lo bueno, el Rhino, el Annihilator, el Buzzard y el Dubsta 6x6 ahora tampoco tienen requisitos de nivel.","url":"","image":{"path":"sc/news/NG_CS-SVC_Instant_Gratification/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS-SVC_Instant_Gratification/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423843,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Gratificación inmediata ",
+    "content": "Tu vida no está completa sin esa HVY Insurgent, pero colarse en Laboratorios Humane no es tan fácil como parece. Pues tenemos buenas noticias para los cerebros del crimen de Los Santos con mucho dinero y poco tiempo: por un precio exclusivo, ahora tienes acceso instantáneo a cualquier vehículo que se adquiría en un golpe a través de ''Comprar ahora''. Y porque uno nunca se cansa de lo bueno, el Rhino, el Annihilator, el Buzzard y el Dubsta 6x6 ahora tampoco tienen requisitos de nivel.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Instant_Gratification/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Instant_Gratification/.dds",
+        "filesize": 2048
+    }
+}

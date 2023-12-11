@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917643,"title":"","headline":"GTA Online","subtitle":"Mobilne centrum operacyjne","content":"Mobilne centrum operacyjne oferuje przewagę taktyczną, jaka zarezerwowana jest dla wyszkolonych zabójców i reżimów straszących świat bronią atomową. Jego modułowa budowa sprawia, że jednym kliknięciem możesz dodać kwatery mieszkalne, centrum dowodzenia, przechowalnię pojazdów, warsztat zbrojeniowy i warsztat pojazdów, który zapewnia warunki do modyfikowania pojazdów bojowych. Gdy już nabędziesz swój bunkier, udaj się na stronę Warstock Cache and Carry, aby zaopatrzyć się we własne MCO.","url":"","image":{"path":"sc/news/NG_GR_Mobile_Ops_Center/262272_MobileOperationsCenter.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Mobile_Ops_Center/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917643,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mobilne centrum operacyjne",
+    "content": "Mobilne centrum operacyjne oferuje przewagę taktyczną, jaka zarezerwowana jest dla wyszkolonych zabójców i reżimów straszących świat bronią atomową. Jego modułowa budowa sprawia, że jednym kliknięciem możesz dodać kwatery mieszkalne, centrum dowodzenia, przechowalnię pojazdów, warsztat zbrojeniowy i warsztat pojazdów, który zapewnia warunki do modyfikowania pojazdów bojowych. Gdy już nabędziesz swój bunkier, udaj się na stronę Warstock Cache and Carry, aby zaopatrzyć się we własne MCO.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Mobile_Ops_Center/262272_MobileOperationsCenter.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Mobile_Ops_Center/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

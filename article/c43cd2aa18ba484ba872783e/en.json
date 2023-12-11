@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1658771307,"title":"","headline":"GTA Online","subtitle":"[CLASSIFIED]","content":"Agent, your assignment is as follows: Enroll as a special field operative of [REDACTED]. Gather [REDACTED]. Go head-to-head with [REDACTED]. Put a stop to [REDACTED]. This is Operation Paper Trail. Expect a call.","url":"","image":{"path":"sc/news/c43cd2aa18ba484ba872783e/262272_GTAO_CE_ULPM_9x16_Semi-Flat_Finalized_BF_NoGTAOLogo.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1658771307,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "[CLASSIFIED]",
+    "content": "Agent, your assignment is as follows: Enroll as a special field operative of [REDACTED]. Gather [REDACTED]. Go head-to-head with [REDACTED]. Put a stop to [REDACTED]. This is Operation Paper Trail. Expect a call.",
+    "url": "",
+    "image": {
+        "path": "sc/news/c43cd2aa18ba484ba872783e/262272_GTAO_CE_ULPM_9x16_Semi-Flat_Finalized_BF_NoGTAOLogo.dds",
+        "filesize": 262272
+    }
+}

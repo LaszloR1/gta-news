@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477561765,"title":"","headline":"GTA Online","subtitle":"LCC Sanctus","content":"Hipsterzy, gangsterzy, mistrzowie szosy, entuzjaści jazdy terenowej, doradcy podatkowi w głębokim kryzysie wieku średniego – wszyscy mają do wyboru motocykle, które zaprojektowano właśnie dla nich. A co jeśli jesteś zwykłym, chłepczącym krew, przyozdobionym czachami, przepełnionym nienawiścią apostołem śmierci i zawiodłeś się na rynkowych propozycjach skierowanych do twojej grupy społecznej? Nie ma problemu, Sanctus od LCC będzie idealnym dopełnieniem twoich dotychczasowych życiowych wyborów.","url":"","image":{"path":"sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Sanctus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477561765,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "LCC Sanctus",
+    "content": "Hipsterzy, gangsterzy, mistrzowie szosy, entuzjaści jazdy terenowej, doradcy podatkowi w głębokim kryzysie wieku średniego – wszyscy mają do wyboru motocykle, które zaprojektowano właśnie dla nich. A co jeśli jesteś zwykłym, chłepczącym krew, przyozdobionym czachami, przepełnionym nienawiścią apostołem śmierci i zawiodłeś się na rynkowych propozycjach skierowanych do twojej grupy społecznej? Nie ma problemu, Sanctus od LCC będzie idealnym dopełnieniem twoich dotychczasowych życiowych wyborów.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Sanctus/.dds",
+        "filesize": 2048
+    }
+}

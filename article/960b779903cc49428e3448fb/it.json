@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285749,"title":"GTA+","headline":"GTA+","subtitle":"Abbigliamento gratis","content":"Gli abbonati a GTA+ possono riscattare gratuitamente il completo Il pugno furioso (solo donna), la maglietta Love Fist e la camicia di flanella Love Fist fino al 13 settembre.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per abbonarti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285749,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Abbigliamento gratis",
+    "content": "Gli abbonati a GTA+ possono riscattare gratuitamente il completo Il pugno furioso (solo donna), la maglietta Love Fist e la camicia di flanella Love Fist fino al 13 settembre.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per abbonarti a GTA+"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467815311,"title":"","headline":"GTA Online","subtitle":"Прокатитесь на новой Dewbauchee Seven-70 и сыграйте на новых картах в «Доминирование»","content":"В модельном ряду спорткаров в GTA Online появилась стильная, утонченная новинка – Dewbauchee Seven-70, которая теперь продается в салоне Legendary Motorsport.<br /><br />Кроме того, стали доступны три новые карты для режима «Доминирование»: вы сможете сразиться с соперниками в международном аэропорту Лос-Сантоса и в порту Лос-Сантоса, а также устроить побоище на берегу Аламо-Си.","url":"","image":{"path":"sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Seven_70_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467815311,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Прокатитесь на новой Dewbauchee Seven-70 и сыграйте на новых картах в «Доминирование»",
+    "content": "В модельном ряду спорткаров в GTA Online появилась стильная, утонченная новинка – Dewbauchee Seven-70, которая теперь продается в салоне Legendary Motorsport.<br /><br />Кроме того, стали доступны три новые карты для режима «Доминирование»: вы сможете сразиться с соперниками в международном аэропорту Лос-Сантоса и в порту Лос-Сантоса, а также устроить побоище на берегу Аламо-Си.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Seven_70_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

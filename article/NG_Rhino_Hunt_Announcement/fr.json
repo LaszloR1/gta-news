@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1456487317,"title":"","headline":"GTA Online","subtitle":"Chasse au Rhino","content":"Déjouez tous les pronostics dans ce nouveau mode rivalité motorisé où des chasseurs, équipés uniquement de bombes collantes, doivent détruire des Rhino. Surpassés en nombre, les Rhino doivent, quant à eux, mettre à profit leur puissance et leur résistance pour tenter de survivre assez longtemps afin de remporter la victoire.","url":"","image":{"path":"sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rhino_Hunt_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1456487317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Chasse au Rhino",
+    "content": "Déjouez tous les pronostics dans ce nouveau mode rivalité motorisé où des chasseurs, équipés uniquement de bombes collantes, doivent détruire des Rhino. Surpassés en nombre, les Rhino doivent, quant à eux, mettre à profit leur puissance et leur résistance pour tenter de survivre assez longtemps afin de remporter la victoire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/.dds",
+        "filesize": 2048
+    }
+}

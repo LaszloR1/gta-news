@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1700751675,"title":"","headline":"GTA 線上模式","subtitle":"黑色星期五折扣優惠","content":"一系列黑色星期五折扣優惠等著您，活動至µ11µ月µ28µ日止：<br />巨象復仇者（飛機）：半價<br />銀河超級遊艇：六折<br />銀河超級遊艇升級與改裝項目：六折<br />貝飛特驚駭位元：三折<br />培羅µPR4（開輪式）：半價<br />貝飛特µBR8（開輪式）：半價<br />歐斯洛施特龍貝格（經典跑車）：半價<br />TM-02µ短劍（軍用車輛）：半價<br />喬氏µP-996µ天煞（飛機）：七五折<br />以及更多！詳情請參閱µRockstarµ新聞放送。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds","filesize":262272},"button":"選擇以造訪軍火大亨"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1700751675,
+    "title": "",
+    "headline": "GTA 線上模式",
+    "subtitle": "黑色星期五折扣優惠",
+    "content": "一系列黑色星期五折扣優惠等著您，活動至µ11µ月µ28µ日止：<br />巨象復仇者（飛機）：半價<br />銀河超級遊艇：六折<br />銀河超級遊艇升級與改裝項目：六折<br />貝飛特驚駭位元：三折<br />培羅µPR4（開輪式）：半價<br />貝飛特µBR8（開輪式）：半價<br />歐斯洛施特龍貝格（經典跑車）：半價<br />TM-02µ短劍（軍用車輛）：半價<br />喬氏µP-996µ天煞（飛機）：七五折<br />以及更多！詳情請參閱µRockstarµ新聞放送。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "選擇以造訪軍火大亨"
+}

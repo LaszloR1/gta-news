@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292735,"title":"","headline":"GTA Online","subtitle":"Zusätzlicher Stauraum","content":"Nichts stört eine ansonsten gute Geschäftsbilanz mehr, als vorzeitig nachladen zu müssen. Lasse nicht mehr zu, dass deine Ausdauer deiner Feuerrate in die Quere kommt: Hol dir noch heute Trommel- und Kastenmagazine bei deinem Ammu-Nation um die Ecke.","url":"","image":{"path":"sc/news/NG_FAFF_Extra_Capacity/262272_NG_Extra_Capacity.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Extra_Capacity/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292735,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zusätzlicher Stauraum",
+    "content": "Nichts stört eine ansonsten gute Geschäftsbilanz mehr, als vorzeitig nachladen zu müssen. Lasse nicht mehr zu, dass deine Ausdauer deiner Feuerrate in die Quere kommt: Hol dir noch heute Trommel- und Kastenmagazine bei deinem Ammu-Nation um die Ecke.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Extra_Capacity/262272_NG_Extra_Capacity.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Extra_Capacity/.dds",
+        "filesize": 2048
+    }
+}

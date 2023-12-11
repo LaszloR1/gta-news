@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394809439,"headline":"Online Tip","subtitle":"Get Verified","content":"With the Race and Deathmatch Creators you can turn any part of Los Santos into an action scene of your own creation.<br /><br />If your Job stands out then it may well get Rockstar Verified. Verified Jobs can be accessed alongside our own Jobs in the Rockstar Verified section of the Pause Menu.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Get_Verified/65664_Get_Verified.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809439,
+    "headline": "Online Tip",
+    "subtitle": "Get Verified",
+    "content": "With the Race and Deathmatch Creators you can turn any part of Los Santos into an action scene of your own creation.<br /><br />If your Job stands out then it may well get Rockstar Verified. Verified Jobs can be accessed alongside our own Jobs in the Rockstar Verified section of the Pause Menu.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Get_Verified/65664_Get_Verified.dds",
+        "filesize": 65664
+    }
+}

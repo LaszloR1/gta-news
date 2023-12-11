@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543486,"title":"","headline":"GTA Online","subtitle":"Director de Cunning Stunts","content":"Ya tienes perfectamente planeada tu nueva obra maestra; solo te falta una rampa del tamaño de un edificio de oficinas y un ardiente anillo de la muerte. No busques más: los accesorios de acrobacias ya están disponibles en el modo director, así que ya no tendrás límites para hacer realidad tu visión.","url":"","image":{"path":"sc/news/NG_IE_CS_Directors_Chair/262272_Cunning_Stunts_Directors_Chair.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_CS_Directors_Chair/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543486,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Director de Cunning Stunts",
+    "content": "Ya tienes perfectamente planeada tu nueva obra maestra; solo te falta una rampa del tamaño de un edificio de oficinas y un ardiente anillo de la muerte. No busques más: los accesorios de acrobacias ya están disponibles en el modo director, así que ya no tendrás límites para hacer realidad tu visión.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_CS_Directors_Chair/262272_Cunning_Stunts_Directors_Chair.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_CS_Directors_Chair/.dds",
+        "filesize": 2048
+    }
+}

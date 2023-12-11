@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766812,"title":"","headline":"GTA Online","subtitle":"Biker Bonus Week","content":"Today and through to Monday, Oct 10 is a Bonus Week lined with unlockable rewards and discounts. Unlock the crisp, white Western Logo Tee and Nagasaki Hoodie, free at any clothing store. And for collectors, get the black Western Logo Tee when you pick up the new Western Nightblade. Keep your MC armed and loaded with discounts on Body Armor and Ammo – and pack an extra punch with 25% off high-capacity Drum and Box Magazines. Or add to your MC’s flair with discounts on Weapon Tints.","url":"","image":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766812,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Biker Bonus Week",
+    "content": "Today and through to Monday, Oct 10 is a Bonus Week lined with unlockable rewards and discounts. Unlock the crisp, white Western Logo Tee and Nagasaki Hoodie, free at any clothing store. And for collectors, get the black Western Logo Tee when you pick up the new Western Nightblade. Keep your MC armed and loaded with discounts on Body Armor and Ammo – and pack an extra punch with 25% off high-capacity Drum and Box Magazines. Or add to your MC’s flair with discounts on Weapon Tints.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/.dds",
+        "filesize": 2048
+    }
+}

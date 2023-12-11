@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917446,"title":"","headline":"GTA Online","subtitle":"Il supporto degli specialisti","content":"Questi nuovi tipi di armi semoventi hanno dato vita a nuovi commerci criminali. Quando avrai avviato il tuo traffico d'armi dovrai tenerlo rifornito, e potrai anche sfruttare nuove opportunità per fare affari grazie alle Operazioni mobili.","url":"","image":{"path":"sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Call_in_Specialists/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917446,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Il supporto degli specialisti",
+    "content": "Questi nuovi tipi di armi semoventi hanno dato vita a nuovi commerci criminali. Quando avrai avviato il tuo traffico d'armi dovrai tenerlo rifornito, e potrai anche sfruttare nuove opportunità per fare affari grazie alle Operazioni mobili.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

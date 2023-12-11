@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513701271,"title":"","headline":"GTA Online","subtitle":"Fim de Ano","content":"Chegou aquela época do ano novamente. Quem não se comportou será recompensado com um monte de quinquilharias homicidas, enquanto todos os bons meninos e meninas serão punidos com um lança-fogos bem no meio da testa. Todos os aparatos e equipamentos natalinos estão de volta às lojas, assim como um presentinho extra para todos os donos de um Canhão Espacial. E lembre-se de ficar de olho nos céus de Los Santos.","url":"","image":{"path":"sc/news/DH_Let_It_Snow_V2/262272_bigfeed-gtao-festive-surprise-v1.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513701271,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fim de Ano",
+    "content": "Chegou aquela época do ano novamente. Quem não se comportou será recompensado com um monte de quinquilharias homicidas, enquanto todos os bons meninos e meninas serão punidos com um lança-fogos bem no meio da testa. Todos os aparatos e equipamentos natalinos estão de volta às lojas, assim como um presentinho extra para todos os donos de um Canhão Espacial. E lembre-se de ficar de olho nos céus de Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Let_It_Snow_V2/262272_bigfeed-gtao-festive-surprise-v1.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

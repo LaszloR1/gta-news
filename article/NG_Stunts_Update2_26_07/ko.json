@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1469453442,"title":"","headline":"GTA Online","subtitle":"바피드 컨텐더, MTL 듄, 스프렁크 버팔로","content":"이번 주 GTA 온라인에는 여러분이 그토록 애타게 찾던 3가지 신규 이동 수단이 찾아옵니다. 바피드 컨텐더에 타고 있으면 누가 봐도 여러분을 범상치 않게 생각할 겁니다. 아주 더러운 비밀이 잔뜩 있을 것만 같은 큼직한 여유 공간을 가진 SUV거든요. MTL 듄을 타면 경쟁 상대를 씹어 먹을 수 있습니다. 군용 수송 차량이면서 랠리에도 나갈 수 있는 거친 녀석이죠. 아니면 스프렁크 상징이 있는 버팔로를 타고 클래식 머슬카에 대한 여러분의 애정을 표현할 수도 있습니다.","url":"","image":{"path":"sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Update2_26_07/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1469453442,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "바피드 컨텐더, MTL 듄, 스프렁크 버팔로",
+    "content": "이번 주 GTA 온라인에는 여러분이 그토록 애타게 찾던 3가지 신규 이동 수단이 찾아옵니다. 바피드 컨텐더에 타고 있으면 누가 봐도 여러분을 범상치 않게 생각할 겁니다. 아주 더러운 비밀이 잔뜩 있을 것만 같은 큼직한 여유 공간을 가진 SUV거든요. MTL 듄을 타면 경쟁 상대를 씹어 먹을 수 있습니다. 군용 수송 차량이면서 랠리에도 나갈 수 있는 거친 녀석이죠. 아니면 스프렁크 상징이 있는 버팔로를 타고 클래식 머슬카에 대한 여러분의 애정을 표현할 수도 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/.dds",
+        "filesize": 2048
+    }
+}

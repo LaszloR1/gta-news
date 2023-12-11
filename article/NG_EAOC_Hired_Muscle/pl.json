@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174976,"title":"","headline":"GTA Online","subtitle":"Twardziele do wynajęcia","content":"Do gry wchodzą nowi szefowie, którzy szukają rąk do pracy. Przejdź do sekcji SecuroServ w menu interakcji i ustaw sobie status „Szukanie pracy”, aby poinformować VIP-ów, że chcesz zatrudnić się jako ochroniarz. Gdy ktoś przyjmie cię do organizacji, możesz dowieść swojej wartości, zarabiając dla VIP-a pieniądze w zajęciach gry swobodnej i pomagając organizacji w nowych zadaniach szefa.","url":"","image":{"path":"sc/news/NG_EAOC_Hired_Muscle/262272_Hired_Muscle.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Hired_Muscle/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174976,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Twardziele do wynajęcia",
+    "content": "Do gry wchodzą nowi szefowie, którzy szukają rąk do pracy. Przejdź do sekcji SecuroServ w menu interakcji i ustaw sobie status „Szukanie pracy”, aby poinformować VIP-ów, że chcesz zatrudnić się jako ochroniarz. Gdy ktoś przyjmie cię do organizacji, możesz dowieść swojej wartości, zarabiając dla VIP-a pieniądze w zajęciach gry swobodnej i pomagając organizacji w nowych zadaniach szefa.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Hired_Muscle/262272_Hired_Muscle.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Hired_Muscle/.dds",
+        "filesize": 2048
+    }
+}

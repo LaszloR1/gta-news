@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175058,"title":"","headline":"GTA Online","subtitle":"Vita di mare","content":"È più che uno yacht, è un palazzo galleggiante! I super yacht sono finalmente disponibili da Docktease. Personalizzabili a piacimento e dotati di un proprio molo, di uno o più eliporti e di interni di lusso, possono attraccare in molte pittoresche località di Los Santos e Blaine County.","url":"","image":{"path":"sc/news/NG_EAOC_Life_on_the_Ocean_Wave/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Life_on_the_Ocean_Wave/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175058,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vita di mare",
+    "content": "È più che uno yacht, è un palazzo galleggiante! I super yacht sono finalmente disponibili da Docktease. Personalizzabili a piacimento e dotati di un proprio molo, di uno o più eliporti e di interni di lusso, possono attraccare in molte pittoresche località di Los Santos e Blaine County.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Life_on_the_Ocean_Wave/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Life_on_the_Ocean_Wave/.dds",
+        "filesize": 2048
+    }
+}

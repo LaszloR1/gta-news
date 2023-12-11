@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677116,"title":"GTA+","headline":"GTA+","subtitle":"マンモスµアベンジャーの割引","content":"GTA+メンバーは、7月19日まで40％オフになるアベンジャーの全てのアップグレードと改造を使ってメリーウェザーに有利に戦えます。<br /><br />実験的な武器の改造設備と作戦端末を備えた空飛ぶ垂直離陸式要塞。破壊をもたらす垂直離陸式要塞より理想的なものなど存在するでしょうか？<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_ja_jp.dds","filesize":262272},"button":"選択してGTA+に登録"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677116,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "マンモスµアベンジャーの割引",
+    "content": "GTA+メンバーは、7月19日まで40％オフになるアベンジャーの全てのアップグレードと改造を使ってメリーウェザーに有利に戦えます。<br /><br />実験的な武器の改造設備と作戦端末を備えた空飛ぶ垂直離陸式要塞。破壊をもたらす垂直離陸式要塞より理想的なものなど存在するでしょうか？<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_ja_jp.dds",
+        "filesize": 262272
+    },
+    "button": "選択してGTA+に登録"
+}

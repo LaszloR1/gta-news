@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292734,"title":"","headline":"GTA Online","subtitle":"Extra Capacity","content":"Nothing wrecks an otherwise solid business performance like prematurely needing to reload. Never let your stamina interfere with your rate of fire again: grab some drum and box magazine attachments from your local Ammu-Nation today.","url":"","image":{"path":"sc/news/NG_FAFF_Extra_Capacity/262272_NG_Extra_Capacity.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Extra_Capacity/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292734,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Extra Capacity",
+    "content": "Nothing wrecks an otherwise solid business performance like prematurely needing to reload. Never let your stamina interfere with your rate of fire again: grab some drum and box magazine attachments from your local Ammu-Nation today.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Extra_Capacity/262272_NG_Extra_Capacity.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Extra_Capacity/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916482,"title":"","headline":"GTA Online","subtitle":"Zuhause ist es doch am schönsten","content":"Wer hat denn behauptet, dass du dich in deinem unterirdischen Atomschutzbunker nicht wie zuhause fühlen kannst? <br /><br />In San Andreas gibt es für dein Versteck unter der Erdoberfläche eine ganze Palette von Anpassungsoptionen. Sobald du dir bei Maze Bank Foreclosures eine Immobilie ausgesucht hast, steht dir eine Auswahl an Stilen zur Verfügung. Füge einen Schießstand, Privaträume, einen Waffenschrank und Transportmöglichkeiten hinzu. Wenn es Bomben regnet, willst du nirgendwo anders sein.","url":"","image":{"path":"sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_No_PLace_Like_Home/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zuhause ist es doch am schönsten",
+    "content": "Wer hat denn behauptet, dass du dich in deinem unterirdischen Atomschutzbunker nicht wie zuhause fühlen kannst? <br /><br />In San Andreas gibt es für dein Versteck unter der Erdoberfläche eine ganze Palette von Anpassungsoptionen. Sobald du dir bei Maze Bank Foreclosures eine Immobilie ausgesucht hast, steht dir eine Auswahl an Stilen zur Verfügung. Füge einen Schießstand, Privaträume, einen Waffenschrank und Transportmöglichkeiten hinzu. Wenn es Bomben regnet, willst du nirgendwo anders sein.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

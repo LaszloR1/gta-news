@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543487,"title":"","headline":"GTA Online","subtitle":"«Лихачи и трюкачи» на большом экране","content":"В голове у вас уже созрел гениальный кинофильм – осталось лишь найти трамплин размером с небоскреб и огромное огненное кольцо. Не беспокойтесь: теперь в режиме режиссера доступны все предметы для каскадерских трюков, так что вы сможете без помех реализовать свои режиссерские амбиции.","url":"","image":{"path":"sc/news/NG_IE_CS_Directors_Chair/262272_Cunning_Stunts_Directors_Chair.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_CS_Directors_Chair/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543487,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "«Лихачи и трюкачи» на большом экране",
+    "content": "В голове у вас уже созрел гениальный кинофильм – осталось лишь найти трамплин размером с небоскреб и огромное огненное кольцо. Не беспокойтесь: теперь в режиме режиссера доступны все предметы для каскадерских трюков, так что вы сможете без помех реализовать свои режиссерские амбиции.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_CS_Directors_Chair/262272_Cunning_Stunts_Directors_Chair.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_CS_Directors_Chair/.dds",
+        "filesize": 2048
+    }
+}

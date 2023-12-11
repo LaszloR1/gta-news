@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425975518,"title":"","headline":"GTA Online","subtitle":"Raubüberfälle jetzt verfügbar","content":"In GTA Online sind ab sofort auch Raubüberfälle verfügbar. Sie bieten eine Menge neuer Fahrzeuge, Kleidungsstücke, Waffen und Ausrüstungsgegenstände sowie hochbrisante, adrenalingeladene Missionen, die dich und deine Freunde an eure Grenzen bringen werden.<br /><br />Sobald du Rang 12 erreicht hast und ein Luxus-Apartment besitzt, ruft Lester dich an, um ein Treffen mit dir zu vereinbaren und dich in die Raubüberfälle einzuweisen – begib dich zu seinem Lagerhaus (mit L auf der Karte markiert).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Now_Available/262272_Heists-Now-Available.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425975518,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Raubüberfälle jetzt verfügbar",
+    "content": "In GTA Online sind ab sofort auch Raubüberfälle verfügbar. Sie bieten eine Menge neuer Fahrzeuge, Kleidungsstücke, Waffen und Ausrüstungsgegenstände sowie hochbrisante, adrenalingeladene Missionen, die dich und deine Freunde an eure Grenzen bringen werden.<br /><br />Sobald du Rang 12 erreicht hast und ein Luxus-Apartment besitzt, ruft Lester dich an, um ein Treffen mit dir zu vereinbaren und dich in die Raubüberfälle einzuweisen – begib dich zu seinem Lagerhaus (mit L auf der Karte markiert).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Now_Available/262272_Heists-Now-Available.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

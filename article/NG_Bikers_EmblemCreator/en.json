@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515786,"title":"","headline":"GTA Online","subtitle":"Social Club Emblem Creator","content":"Every MC needs a badge of honor, and yours is no exception. The Social Club Emblem Creator now has a pile of biker-themed shapes and designs to work with, as well as new options for fine-tuning your creations. First impressions matter, so make yours count.","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Social Club Emblem Creator",
+    "content": "Every MC needs a badge of honor, and yours is no exception. The Social Club Emblem Creator now has a pile of biker-themed shapes and designs to work with, as well as new options for fine-tuning your creations. First impressions matter, so make yours count.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

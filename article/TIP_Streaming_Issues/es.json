@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832179,"headline":"Consejo en línea","subtitle":"¿Problemas de streaming?","content":"Si ves cosas raras mientras conduces por Los Santos, como coches u objetos que se mueven de forma extraña, pueden pasar dos cosas: que le estés dando otra vez al jerez de la abuela, o que estés en una sesión con alguien que tiene una conexión de velocidad baja o que tiene problemas de red. Si el problema persiste, puedes cambiar de sesión, no invitar al tipo en cuestión a tus actividades... o dejar de una vez las bebidas espiritosas.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832179,
+    "headline": "Consejo en línea",
+    "subtitle": "¿Problemas de streaming?",
+    "content": "Si ves cosas raras mientras conduces por Los Santos, como coches u objetos que se mueven de forma extraña, pueden pasar dos cosas: que le estés dando otra vez al jerez de la abuela, o que estés en una sesión con alguien que tiene una conexión de velocidad baja o que tiene problemas de red. Si el problema persiste, puedes cambiar de sesión, no invitar al tipo en cuestión a tus actividades... o dejar de una vez las bebidas espiritosas.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

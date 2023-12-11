@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224412,"title":"","headline":"GTA Online","subtitle":"Restringir Câmera","content":"Se quiser garantir que todos estão usando o mesmo tipo de câmera, você pode definir isso no lobby antes de qualquer Serviço.<br /><br />No lobby, mude a opção Restringir Câmera para o modo de sua preferência e submeta todos às suas preferências, quer sejam em terceira pessoa, primeira pessoa ou ambas.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224412,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Restringir Câmera",
+    "content": "Se quiser garantir que todos estão usando o mesmo tipo de câmera, você pode definir isso no lobby antes de qualquer Serviço.<br /><br />No lobby, mude a opção Restringir Câmera para o modo de sua preferência e submeta todos às suas preferências, quer sejam em terceira pessoa, primeira pessoa ou ambas.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

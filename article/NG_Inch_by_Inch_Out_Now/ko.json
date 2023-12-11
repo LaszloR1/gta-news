@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452581,"title":"","headline":"GTA Online","subtitle":"인치 바이 인치","content":"이 새로운 대적 모드에서 여러분의 민첩성을 자랑해 보십시오. 두 팀이 서로 패키지를 차지해 각자 상대의 라인 너머로 전달하려고 경쟁합니다. 패키지를 들고 있을 때는 총을 사용할 수 없기 때문에 상대의 라인을 넘어가려면 팀 동료들의 엄호에 의지해야 합니다. 그 압박감을 견디기 어렵다면 언제든지 패키지를 떨어뜨려 팀 동료가 대신 가져가게 할 수도 있습니다. 가장 높은 점수를 차지하는 팀이 승리합니다.","url":"","image":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "인치 바이 인치",
+    "content": "이 새로운 대적 모드에서 여러분의 민첩성을 자랑해 보십시오. 두 팀이 서로 패키지를 차지해 각자 상대의 라인 너머로 전달하려고 경쟁합니다. 패키지를 들고 있을 때는 총을 사용할 수 없기 때문에 상대의 라인을 넘어가려면 팀 동료들의 엄호에 의지해야 합니다. 그 압박감을 견디기 어렵다면 언제든지 패키지를 떨어뜨려 팀 동료가 대신 가져가게 할 수도 있습니다. 가장 높은 점수를 차지하는 팀이 승리합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Daily Stash House","content":"Be on the lookout for the new Daily Stash House popping up on your map. Clear out the house and crack the safe to earn rewards.<br /><br />Complete the Daily Stash House each day to earn business supplies and more.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds","filesize":524416},"button":"Rob the Daily Stash House in Freemode"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Daily Stash House",
+    "content": "Be on the lookout for the new Daily Stash House popping up on your map. Clear out the house and crack the safe to earn rewards.<br /><br />Complete the Daily Stash House each day to earn business supplies and more.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds",
+        "filesize": 524416
+    },
+    "button": "Rob the Daily Stash House in Freemode"
+}

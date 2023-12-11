@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416245599,"title":"","headline":"GTA Online","subtitle":"これまでのキャラクターと進行状況の転送","content":"新世代機版でロスサントスを再び楽しみたいですか？これまでプレイしてきた「GTAオンライン」キャラクターや進行状況を転送して、犯罪キャリアを積み続けていきましょう。詳しくは、www.rockstargames.com/gtaonline/charactertransferをご確認ください。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Transfer_Progress/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416245599,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "これまでのキャラクターと進行状況の転送",
+    "content": "新世代機版でロスサントスを再び楽しみたいですか？これまでプレイしてきた「GTAオンライン」キャラクターや進行状況を転送して、犯罪キャリアを積み続けていきましょう。詳しくは、www.rockstargames.com/gtaonline/charactertransferをご確認ください。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Transfer_Progress/.dds",
+        "filesize": 2048
+    }
+}

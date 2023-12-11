@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976280,"title":"","headline":"GTA Online","subtitle":"跳過路程","content":"重玩一些搶劫任務和搶劫任務最終階段時，您可以跳過長途開車的部分，直接抵達特定位置。<br /><br />只有在以下的情況下，您才可以選擇跳過路程：<br />-您所有的搶劫任務隊員都已經完成目前的任務<br />-所有要前往相同目標的玩家都在同一輛載具中<br /><br />但是請注意，使用「跳過路程」會稍微減少您的報酬金額，而且也會讓您喪失「精英獎勵挑戰」的資格。如果您想參加這些挑戰，那就沒有捷徑可以走。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Heists_Trip_Skippin/65664_Trip-Skippin.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Heists_Trip_Skippin/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976280,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "跳過路程",
+    "content": "重玩一些搶劫任務和搶劫任務最終階段時，您可以跳過長途開車的部分，直接抵達特定位置。<br /><br />只有在以下的情況下，您才可以選擇跳過路程：<br />-您所有的搶劫任務隊員都已經完成目前的任務<br />-所有要前往相同目標的玩家都在同一輛載具中<br /><br />但是請注意，使用「跳過路程」會稍微減少您的報酬金額，而且也會讓您喪失「精英獎勵挑戰」的資格。如果您想參加這些挑戰，那就沒有捷徑可以走。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Heists_Trip_Skippin/65664_Trip-Skippin.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Heists_Trip_Skippin/.dds",
+        "filesize": 2048
+    }
+}

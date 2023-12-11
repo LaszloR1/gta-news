@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394812639,"headline":"Consejo en línea","subtitle":"Sonríe","content":"En una de las últimas actualizaciones añadimos contenido adicional a Snapmatic para que tus fotos sean más llamativas, como marcos para las fotos y filtros para ayudar a que cobren vida.<br /><br />Para cambiar el borde o el filtro, usa el mando de dirección/botones de dirección cuando la cámara esté abierta.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812639,
+    "headline": "Consejo en línea",
+    "subtitle": "Sonríe",
+    "content": "En una de las últimas actualizaciones añadimos contenido adicional a Snapmatic para que tus fotos sean más llamativas, como marcos para las fotos y filtros para ayudar a que cobren vida.<br /><br />Para cambiar el borde o el filtro, usa el mando de dirección/botones de dirección cuando la cámara esté abierta.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

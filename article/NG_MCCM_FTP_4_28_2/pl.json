@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1484846906,"title":"","headline":"GTA Online","subtitle":"Oferta ograniczona czasowo: premia gotówkowa za kupienie kart Shark","content":"Ekskluzywna oferta: zgarnij 100% premii za zakup karty gotówkowej Great White Shark! To dodatkowy 1 250 000 GTA$ do wydania w Los Santos i hrabstwie Blaine.<br /><br />Oferta ważna do 28 lutego. Wszystkie karty Shark należy wykorzystać do 28 lutego. Dodatkowe środki zostaną przekazane na Twój rachunek w banku Maze w ciągu 72 godzin od wykorzystania karty Shark. <br /><br />Więcej informacji na temat zniżek i premii obowiązujących w tym tygodniu w GTA Online znajduje się na Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_MCCM_FTP_4_28_2/349672_FTP_Offer4.dds","filesize":349672},"landscape":{"path":"sc/news/NG_MCCM_FTP_4_28_2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1484846906,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Oferta ograniczona czasowo: premia gotówkowa za kupienie kart Shark",
+    "content": "Ekskluzywna oferta: zgarnij 100% premii za zakup karty gotówkowej Great White Shark! To dodatkowy 1 250 000 GTA$ do wydania w Los Santos i hrabstwie Blaine.<br /><br />Oferta ważna do 28 lutego. Wszystkie karty Shark należy wykorzystać do 28 lutego. Dodatkowe środki zostaną przekazane na Twój rachunek w banku Maze w ciągu 72 godzin od wykorzystania karty Shark. <br /><br />Więcej informacji na temat zniżek i premii obowiązujących w tym tygodniu w GTA Online znajduje się na Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_MCCM_FTP_4_28_2/349672_FTP_Offer4.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_MCCM_FTP_4_28_2/.dds",
+        "filesize": 2048
+    }
+}

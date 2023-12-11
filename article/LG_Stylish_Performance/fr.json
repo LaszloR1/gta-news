@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433953265,"title":"","headline":"GTA Online","subtitle":"De la puissance, mais avec classe","content":"Rendez-vous aujourd'hui sur LegendaryMotorsport.net pour voir le tout dernier arrivage de splendides véhicules, incluant la plus belle voiture de sport à avoir jamais parcouru les rues de Los Santos : la Pegassi Osiris.<br /><br />En stock également : la nouvelle Enus Windsor, disponible avec plusieurs motifs exceptionnels et exclusifs à cette voiture.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Stylish_Performance/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433953265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "De la puissance, mais avec classe",
+    "content": "Rendez-vous aujourd'hui sur LegendaryMotorsport.net pour voir le tout dernier arrivage de splendides véhicules, incluant la plus belle voiture de sport à avoir jamais parcouru les rues de Los Santos : la Pegassi Osiris.<br /><br />En stock également : la nouvelle Enus Windsor, disponible avec plusieurs motifs exceptionnels et exclusifs à cette voiture.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Stylish_Performance/.dds",
+        "filesize": 2048
+    }
+}

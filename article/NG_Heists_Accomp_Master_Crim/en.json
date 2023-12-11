@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980694,"title":"","headline":"GTA Online","subtitle":"The Accomplished Master Criminal","content":"Each Heist Finale has an Elite Challenge for fulfilling certain criteria, designed to only be achieved by the very best Heist crews.<br /><br />This isn’t only about speed; you must complete all the target objectives to earn the bonus. Teamwork is the key to success.<br /><br />If your crew has what it takes, you could bag yourself some extra loot. Keep an eye out on the end of Heist result screens to see how you fared.  ","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980694,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "The Accomplished Master Criminal",
+    "content": "Each Heist Finale has an Elite Challenge for fulfilling certain criteria, designed to only be achieved by the very best Heist crews.<br /><br />This isn’t only about speed; you must complete all the target objectives to earn the bonus. Teamwork is the key to success.<br /><br />If your crew has what it takes, you could bag yourself some extra loot. Keep an eye out on the end of Heist result screens to see how you fared.  ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

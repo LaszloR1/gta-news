@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530803746,"title":"Benefícios da Lista de Convidados","headline":"Benefícios da Lista de Convidados","subtitle":"Você está na Lista!","content":"Suas recompensas semanais exclusivas da Lista de Convidados já estão disponíveis:<br /><br />- Presente de GTA$100.000<br />- Body malha azul (acesse-o pelo guarda-roupa ou obtenha-o de graça em qualquer loja de roupas de Los Santos)<br /><br />Volte semana que vem para resgatar suas próximas recompensas da Lista de Convidados.","url":"","image":{"path":"sc/news/Guest_List_TY_Additional/349672_bigfeed-guestlist-V3_BRA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530803746,
+    "title": "Benefícios da Lista de Convidados",
+    "headline": "Benefícios da Lista de Convidados",
+    "subtitle": "Você está na Lista!",
+    "content": "Suas recompensas semanais exclusivas da Lista de Convidados já estão disponíveis:<br /><br />- Presente de GTA$100.000<br />- Body malha azul (acesse-o pelo guarda-roupa ou obtenha-o de graça em qualquer loja de roupas de Los Santos)<br /><br />Volte semana que vem para resgatar suas próximas recompensas da Lista de Convidados.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_Additional/349672_bigfeed-guestlist-V3_BRA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

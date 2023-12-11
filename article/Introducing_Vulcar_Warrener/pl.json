@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402997951,"headline":"Aktualizacja GTA Online","subtitle":"Oto nowy Vulcar Warrener","content":"Legendarny szwedzki pięciodrzwiowy sedan. Typowy pudełkowy wygląd Vulcara lat 80., ale bez jego niezawodności. Coś dla miłośników spodni-rurek, mikrobrowarów i kryminałów z lat 70.<br /><br />Dostępny do kupienia w SouthernSanAndreasSuperAutos.com, bierze udział w wyścigu z aktualizacji ,,Nie jestem hipsterem'': ,,W objęciach Ameryki''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Vulcar_Warrener/65664_Warrener.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402997951,
+    "headline": "Aktualizacja GTA Online",
+    "subtitle": "Oto nowy Vulcar Warrener",
+    "content": "Legendarny szwedzki pięciodrzwiowy sedan. Typowy pudełkowy wygląd Vulcara lat 80., ale bez jego niezawodności. Coś dla miłośników spodni-rurek, mikrobrowarów i kryminałów z lat 70.<br /><br />Dostępny do kupienia w SouthernSanAndreasSuperAutos.com, bierze udział w wyścigu z aktualizacji ,,Nie jestem hipsterem'': ,,W objęciach Ameryki''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Vulcar_Warrener/65664_Warrener.dds",
+        "filesize": 65664
+    }
+}

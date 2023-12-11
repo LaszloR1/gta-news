@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408453306,"headline":"Atualização do GTA Online","subtitle":"Novos Modos Competitivos","content":"Prepare-se para os novos modos competitivos adicionados à atualização  Escola de Aviação:<br /><br />- Encontrando alvos - tome a bandeira e mantenha-a por 20s para marcar um ponto para sua equipe. A equipe  com mais pontos ganha. Só há uma bandeira!<br />- Força Aérea Zero - fuja com ajuda dos Defensores, e os Atacantes precisam derrubá-lo antes dele chegar a seu destino.<br />- Dando Bandeira e Dando Ainda Mais Bandeira – corrida contra inimigos de coletar bandeiras. No modo ''Dando Ainda Mais Bandeira'', armas ","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/New_Versus_Modes/65664_VersusMode.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408453306,
+    "headline": "Atualização do GTA Online",
+    "subtitle": "Novos Modos Competitivos",
+    "content": "Prepare-se para os novos modos competitivos adicionados à atualização  Escola de Aviação:<br /><br />- Encontrando alvos - tome a bandeira e mantenha-a por 20s para marcar um ponto para sua equipe. A equipe  com mais pontos ganha. Só há uma bandeira!<br />- Força Aérea Zero - fuja com ajuda dos Defensores, e os Atacantes precisam derrubá-lo antes dele chegar a seu destino.<br />- Dando Bandeira e Dando Ainda Mais Bandeira – corrida contra inimigos de coletar bandeiras. No modo ''Dando Ainda Mais Bandeira'', armas ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/New_Versus_Modes/65664_VersusMode.dds",
+        "filesize": 65664
+    }
+}

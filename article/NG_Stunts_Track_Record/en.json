@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324899,"title":"","headline":"GTA Online","subtitle":"Track Record","content":"It’s a brave new stunt-filled world out there in GTA Online, and you’re going to need some serious horsepower if you’re going to keep up.  Lucky for you, a wave of powerful new vehicles are here to meet your every need: from the avant-garde stylings of the RE-7B to the utter brutality of Vapid’s Trophy Truck, no matter how unhinged your heart’s desires we’ve got you covered.","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324899,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Track Record",
+    "content": "It’s a brave new stunt-filled world out there in GTA Online, and you’re going to need some serious horsepower if you’re going to keep up.  Lucky for you, a wave of powerful new vehicles are here to meet your every need: from the avant-garde stylings of the RE-7B to the utter brutality of Vapid’s Trophy Truck, no matter how unhinged your heart’s desires we’ve got you covered.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

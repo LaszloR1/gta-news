@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880010,"title":"","headline":"GTA Online","subtitle":"レーザー","content":"数々の犯罪者の心を射止めてきた、なめらかで、素早く、危険なレーザー。現代のジェット戦闘機の象徴とも呼ぶべきレーザーが、ついに私有化できるようになりました！","url":"","image":{"path":"sc/news/SR_Lazer/262272_P996Lazer.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "レーザー",
+    "content": "数々の犯罪者の心を射止めてきた、なめらかで、素早く、危険なレーザー。現代のジェット戦闘機の象徴とも呼ぶべきレーザーが、ついに私有化できるようになりました！",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Lazer/262272_P996Lazer.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

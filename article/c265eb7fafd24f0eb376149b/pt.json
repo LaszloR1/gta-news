@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973242,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Pacote do G","content":"O Pacote do G ficará marcado no mapa. Vá até ele todos os dias para buscar suprimentos.<br /><br />Quando você estiver perto de um, fique de olho em uma luz vermelha piscando e bipes. Enfrente concorrentes que aparecerem e uma bolada de GTA$, munições e lanches será sua.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds","filesize":524416},"button":"Encontrar Pacotes do G no Modo Livre"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973242,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Pacote do G",
+    "content": "O Pacote do G ficará marcado no mapa. Vá até ele todos os dias para buscar suprimentos.<br /><br />Quando você estiver perto de um, fique de olho em uma luz vermelha piscando e bipes. Enfrente concorrentes que aparecerem e uma bolada de GTA$, munições e lanches será sua.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds",
+        "filesize": 524416
+    },
+    "button": "Encontrar Pacotes do G no Modo Livre"
+}

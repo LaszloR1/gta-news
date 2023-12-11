@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567804,"headline":"Wskazówka do gry sieciowej","subtitle":"Ścigaj się – z kim chcesz i kiedy chcesz!","content":"Ścigaj się w każdym punkcie San Andreas, wyzywając okolicznych graczy na nagły wyścig – po prostu ustal punkt docelowy lub wybierz jeden z szybkiego GPS-a, by rzucić im wyzwanie.<br /><br />Opcję nagłych wyścigów możesz znaleźć w menu interakcji.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Race_Anytime/65664_Race_Anytime_Anywhere_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567804,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Ścigaj się – z kim chcesz i kiedy chcesz!",
+    "content": "Ścigaj się w każdym punkcie San Andreas, wyzywając okolicznych graczy na nagły wyścig – po prostu ustal punkt docelowy lub wybierz jeden z szybkiego GPS-a, by rzucić im wyzwanie.<br /><br />Opcję nagłych wyścigów możesz znaleźć w menu interakcji.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Race_Anytime/65664_Race_Anytime_Anywhere_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

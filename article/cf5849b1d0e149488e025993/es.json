@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1598555689,"title":"","headline":"GTA Online","subtitle":"Descuentos","content":"Esta semana hay varias ofertas en Los Santos que benefician por igual a los delincuentes de guante blanco y a los de poca monta, como:<br /><br />- 40 % de descuento en clubes de moteros<br />- 40 % de descuento en oficinas de ejecutivo<br />- 40 % de descuento en negocios de motero<br />- 30 % de descuento en personalizaciones de oficinas de ejecutivo<br /><br />¡Y mucho más! Detalles en el Rockstar Newswire.","url":"","image":{"path":"sc/news/cf5849b1d0e149488e025993/349672_NG_FAFF_Date_Announce.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1598555689,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos",
+    "content": "Esta semana hay varias ofertas en Los Santos que benefician por igual a los delincuentes de guante blanco y a los de poca monta, como:<br /><br />- 40 % de descuento en clubes de moteros<br />- 40 % de descuento en oficinas de ejecutivo<br />- 40 % de descuento en negocios de motero<br />- 30 % de descuento en personalizaciones de oficinas de ejecutivo<br /><br />¡Y mucho más! Detalles en el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/cf5849b1d0e149488e025993/349672_NG_FAFF_Date_Announce.dds",
+        "filesize": 349672
+    }
+}

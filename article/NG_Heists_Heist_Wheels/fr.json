@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978549,"title":"","headline":"GTA Online","subtitle":"Véhicules de braquages","content":"La mise à jour Braquages propose un grand nombre de véhicules inédits. Voici les modèles que vous pouvez déjà acheter :<br />- Dinka Enduro - Une nouvelle moto tout-terrain, pour en mettre plein la face à vos poursuivants.<br />- Vapid Guardian - Un 4x4 particulièrement imposant qui sèmera la terreur dans le cœur de vos ennemis.<br /><br />De nombreux autres véhicules seront débloqués à mesure que vous les découvrirez dans les braquages.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Heist_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978549,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Véhicules de braquages",
+    "content": "La mise à jour Braquages propose un grand nombre de véhicules inédits. Voici les modèles que vous pouvez déjà acheter :<br />- Dinka Enduro - Une nouvelle moto tout-terrain, pour en mettre plein la face à vos poursuivants.<br />- Vapid Guardian - Un 4x4 particulièrement imposant qui sèmera la terreur dans le cœur de vos ennemis.<br /><br />De nombreux autres véhicules seront débloqués à mesure que vous les découvrirez dans les braquages.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/.dds",
+        "filesize": 2048
+    }
+}

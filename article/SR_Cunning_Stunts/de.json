@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880017,"title":"","headline":"GTA Online","subtitle":"Cunning Stunts jetzt selbstgemacht","content":"Verwandlungsrennen sind jetzt im Renn-Editor verfügbar und geben dir alles, was du brauchst, um deine eigenen teuflischen Herausforderungen zu bauen, die sich über Land, Luft und Meer erstrecken.<br /><br />Und um dir zu helfen, alles aus Auto, Flugzeug und Boot herauszuholen, ist ein neues Paket mit Stunt-Zusatzelementen ebenfalls verfügbar, das von stylischen Flugtoren bis zu Flugröhren reicht, die selbst Wolkenkratzer winzig aussehen lassen.","url":"","image":{"path":"sc/news/SR_Cunning_Stunts/349672_bigfeed-transform-races-512x1024-V1.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880017,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cunning Stunts jetzt selbstgemacht",
+    "content": "Verwandlungsrennen sind jetzt im Renn-Editor verfügbar und geben dir alles, was du brauchst, um deine eigenen teuflischen Herausforderungen zu bauen, die sich über Land, Luft und Meer erstrecken.<br /><br />Und um dir zu helfen, alles aus Auto, Flugzeug und Boot herauszuholen, ist ein neues Paket mit Stunt-Zusatzelementen ebenfalls verfügbar, das von stylischen Flugtoren bis zu Flugröhren reicht, die selbst Wolkenkratzer winzig aussehen lassen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cunning_Stunts/349672_bigfeed-transform-races-512x1024-V1.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324900,"title":"","headline":"GTA Online","subtitle":"コースの記録","content":"「GTAオンライン」のスタント満載の新世界で取り残されたくなければ、相応の馬力が必要になります。幸いにも皆さんのニーズを満たす乗り物が、新たに追加されました。アバンギャルドなスタイルのRE-7Bから、暴力的なまでのパワーを誇るヴァピッドのトロフィートラックまで、どんなご要望にも応えられるラインアップです。","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "コースの記録",
+    "content": "「GTAオンライン」のスタント満載の新世界で取り残されたくなければ、相応の馬力が必要になります。幸いにも皆さんのニーズを満たす乗り物が、新たに追加されました。アバンギャルドなスタイルのRE-7Bから、暴力的なまでのパワーを誇るヴァピッドのトロフィートラックまで、どんなご要望にも応えられるラインアップです。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

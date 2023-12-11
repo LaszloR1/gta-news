@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"COMMENT VOUS LANCER","content":"Répondez à l'appel de Charlie Reedµ: il vous confiera des missions de mercenaire avec les Los Santos Angels. Il vous faut un Mammoth Avenger pour lancer les nouvelles missions depuis son terminal d'opérations. Si vous n'avez pas d'Avenger, achetez-le sur Warstock Cache & Carry.<br /><br />Pour de nouvelles opportunités de contrebande, utilisez le terminal Free Trade Shipping Co. de votre hangar ou achetez un hangar sur Maze Bank Foreclosures pour vous lancer dans la contrebande de fret.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "COMMENT VOUS LANCER",
+    "content": "Répondez à l'appel de Charlie Reedµ: il vous confiera des missions de mercenaire avec les Los Santos Angels. Il vous faut un Mammoth Avenger pour lancer les nouvelles missions depuis son terminal d'opérations. Si vous n'avez pas d'Avenger, achetez-le sur Warstock Cache & Carry.<br /><br />Pour de nouvelles opportunités de contrebande, utilisez le terminal Free Trade Shipping Co. de votre hangar ou achetez un hangar sur Maze Bank Foreclosures pour vous lancer dans la contrebande de fret.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

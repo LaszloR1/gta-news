@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977617,"title":"","headline":"GTA Online","subtitle":"Mais dicas de Golpes dos Mestres do Crime","content":"Eis mais dicas úteis se estiver com problemas nos Golpes:<br /><br />- Com problemas para voar? Você se considera aeronauticamente deficiente? Melhore suas habilidades de voo na Escola de Aviação de San Andreas, no aeroporto de LS.<br />- Falta poder de fogo? As adições da Ammu-Nation não têm exigências de nível. Veja o estoque na parede direita da Ammu-Nation e equipe-se pro serviço.<br />- Utilize todas as modificações de armas. Os silenciadores, em particular, são necessários para seções furtivas.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_More_Heist_Tips/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977617,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mais dicas de Golpes dos Mestres do Crime",
+    "content": "Eis mais dicas úteis se estiver com problemas nos Golpes:<br /><br />- Com problemas para voar? Você se considera aeronauticamente deficiente? Melhore suas habilidades de voo na Escola de Aviação de San Andreas, no aeroporto de LS.<br />- Falta poder de fogo? As adições da Ammu-Nation não têm exigências de nível. Veja o estoque na parede direita da Ammu-Nation e equipe-se pro serviço.<br />- Utilize todas as modificações de armas. Os silenciadores, em particular, são necessários para seções furtivas.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/.dds",
+        "filesize": 2048
+    }
+}

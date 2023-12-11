@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509377402,"title":"","headline":"GTA Online","subtitle":"Naznaczony","content":"Na kogoś w Los Santos wydano wyrok śmierci – uważajcie, to możecie być Wy. W tym halloweenowym trybie adwersarza jednego pechowca czeka rychła śmierć, chyba że przekaże klątwę komuś innemu, posyłając go na chwilę do grobu. Zwycięża gracz, który przetrwa najdłużej.","url":"","image":{"path":"sc/news/SR_Condemned/349672_condemned-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509377402,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Naznaczony",
+    "content": "Na kogoś w Los Santos wydano wyrok śmierci – uważajcie, to możecie być Wy. W tym halloweenowym trybie adwersarza jednego pechowca czeka rychła śmierć, chyba że przekaże klątwę komuś innemu, posyłając go na chwilę do grobu. Zwycięża gracz, który przetrwa najdłużej.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Condemned/349672_condemned-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

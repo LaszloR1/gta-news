@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285749,"title":"GTA+","headline":"GTA+","subtitle":"免费服装","content":"GTA+µ会员可免费领取爱之拳愤怒套装（仅限女性）、爱之拳µTµ恤，以及爱之拳法兰绒，截至µ9µ月µ13µ日。<br /><br />GTA+µ会员每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解详情。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_zh_hans.dds","filesize":262272},"button":"选择以注册 GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285749,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "免费服装",
+    "content": "GTA+µ会员可免费领取爱之拳愤怒套装（仅限女性）、爱之拳µTµ恤，以及爱之拳法兰绒，截至µ9µ月µ13µ日。<br /><br />GTA+µ会员每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解详情。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_zh_hans.dds",
+        "filesize": 262272
+    },
+    "button": "选择以注册 GTA+"
+}

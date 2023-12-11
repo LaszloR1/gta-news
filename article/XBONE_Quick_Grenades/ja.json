@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224935,"title":"","headline":"GTAV","subtitle":"手榴弾を素早く投てき","content":"徒歩中に~INPUT_FRONTEND_LT~と~INPUT_FRONTEND_LEFT~を同時に押すと、無防備な敵に向けて手榴弾を素早く投げることができます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/XBONE_Quick_Grenades/65664_quick_grenades.dds","filesize":65664},"landscape":{"path":"sc/news/XBONE_Quick_Grenades/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224935,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "手榴弾を素早く投てき",
+    "content": "徒歩中に~INPUT_FRONTEND_LT~と~INPUT_FRONTEND_LEFT~を同時に押すと、無防備な敵に向けて手榴弾を素早く投げることができます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/XBONE_Quick_Grenades/65664_quick_grenades.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/XBONE_Quick_Grenades/.dds",
+        "filesize": 2048
+    }
+}

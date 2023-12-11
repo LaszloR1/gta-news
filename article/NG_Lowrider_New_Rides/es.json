@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349484,"title":"","headline":"GTA Online","subtitle":"Nuevos coches","content":"Se han puesto a la venta dos nuevos bólidos en el nuevo sitio web de Benny, además de una selección de los vehículos modificables favoritos de Benny que pueden ser personalizados en exclusiva en su garaje.<br /><br />Añade bombas hidráulicas cuádruples al Willard Faction para dar unos paseos de muerte, o sube a tu banda en la Declasse Moonbeam y dispara desde las puertas deslizantes.","url":"","image":{"path":"sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_New_Rides/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349484,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuevos coches",
+    "content": "Se han puesto a la venta dos nuevos bólidos en el nuevo sitio web de Benny, además de una selección de los vehículos modificables favoritos de Benny que pueden ser personalizados en exclusiva en su garaje.<br /><br />Añade bombas hidráulicas cuádruples al Willard Faction para dar unos paseos de muerte, o sube a tu banda en la Declasse Moonbeam y dispara desde las puertas deslizantes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_New_Rides/.dds",
+        "filesize": 2048
+    }
+}

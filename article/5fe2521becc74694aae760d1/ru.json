@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699542332,"title":"GTA+","headline":"GTA+","subtitle":"Игровой зал","content":"Подписчики GTA+ могут получить бесплатно Warehouse в Дэвисе до 11 декабря включительно. <br /><br />В этом здании подписчики могут устроить игровой зал и наполнить его игровыми автоматами, купив их на сайте Pixel Emporium, попасть на который можно с помощью ноутбука в офисе зала.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/5fe2521becc74694aae760d1/262272_GTA_MP20_ArcadeBenefits_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699542332,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Игровой зал",
+    "content": "Подписчики GTA+ могут получить бесплатно Warehouse в Дэвисе до 11 декабря включительно. <br /><br />В этом здании подписчики могут устроить игровой зал и наполнить его игровыми автоматами, купив их на сайте Pixel Emporium, попасть на который можно с помощью ноутбука в офисе зала.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/5fe2521becc74694aae760d1/262272_GTA_MP20_ArcadeBenefits_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

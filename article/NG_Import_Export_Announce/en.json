@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480694400,"title":"","headline":"GTA Online","subtitle":"Import/Export Coming December","content":"Import/Export introduces a whole new series of criminal pursuits as CEOs & their organizations boost, modify & resell the most wanted vehicles for big profits. It will take talent, coordination & the tactical use of new Special Vehicles to get the job done.<br /><br />New Vehicle Warehouses will house the results of your operations & you'll be able to add massive Executive Office Garages with up to three floors of storage for as many as 60 vehicles.<br /><br />Check out the Rockstar Newswire for more details.","url":"","image":{"path":"sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds","filesize":699216},"landscape":{"path":"sc/news/NG_Import_Export_Announce/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480694400,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Import/Export Coming December",
+    "content": "Import/Export introduces a whole new series of criminal pursuits as CEOs & their organizations boost, modify & resell the most wanted vehicles for big profits. It will take talent, coordination & the tactical use of new Special Vehicles to get the job done.<br /><br />New Vehicle Warehouses will house the results of your operations & you'll be able to add massive Executive Office Garages with up to three floors of storage for as many as 60 vehicles.<br /><br />Check out the Rockstar Newswire for more details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds",
+        "filesize": 699216
+    },
+    "landscape": {
+        "path": "sc/news/NG_Import_Export_Announce/.dds",
+        "filesize": 2048
+    }
+}

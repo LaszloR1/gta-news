@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1520958682,"title":"","headline":"GTA Online","subtitle":"Promotions dans GTA Online","content":"Profitez de réductions sur une sélection de complexes, des appareils aériens, des supersportives, des véhicules armés et plus, jusqu'au 19µmarsµ:<br /><br />-30µ% sur le complexe de Land Act Reservoir<br />-25µ% sur le Buckingham Alpha-Z1<br />-25µ% sur le RM-10 Bombushka<br />-30µ% sur la Progen T20<br />-25µ% sur la Coil Cyclone<br />-25µ% sur la limousine armée Benefactor<br /><br />Plus d'infos sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/Discounts_13_03_18/262272_Cyclone.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1520958682,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promotions dans GTA Online",
+    "content": "Profitez de réductions sur une sélection de complexes, des appareils aériens, des supersportives, des véhicules armés et plus, jusqu'au 19µmarsµ:<br /><br />-30µ% sur le complexe de Land Act Reservoir<br />-25µ% sur le Buckingham Alpha-Z1<br />-25µ% sur le RM-10 Bombushka<br />-30µ% sur la Progen T20<br />-25µ% sur la Coil Cyclone<br />-25µ% sur la limousine armée Benefactor<br /><br />Plus d'infos sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_13_03_18/262272_Cyclone.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917265,"title":"","headline":"GTA Online","subtitle":"Pojazdy bojowe","content":"Jasne, zdarzało ci się już kiedyś bawić mobilną siłą rażenia, ale nie w ten sposób. Pojazdy bojowe to nowa klasa zmotoryzowanej destrukcji na ulicach Los Santos. Najnowszy wojskowy sprzęt zapewnia szeroki wachlarz możliwości na każdą okazję – od amfibijnych bojowych wozów piechoty uzbrojonych w armatę do naczep przeciwlotniczych, na widok których okoliczni piloci zaczną robić pod siebie.","url":"","image":{"path":"sc/news/NG_GR_Weaponized_Vehicles/262272_WeaponizedVehicles.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Weaponized_Vehicles/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pojazdy bojowe",
+    "content": "Jasne, zdarzało ci się już kiedyś bawić mobilną siłą rażenia, ale nie w ten sposób. Pojazdy bojowe to nowa klasa zmotoryzowanej destrukcji na ulicach Los Santos. Najnowszy wojskowy sprzęt zapewnia szeroki wachlarz możliwości na każdą okazję – od amfibijnych bojowych wozów piechoty uzbrojonych w armatę do naczep przeciwlotniczych, na widok których okoliczni piloci zaczną robić pod siebie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Weaponized_Vehicles/262272_WeaponizedVehicles.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Weaponized_Vehicles/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

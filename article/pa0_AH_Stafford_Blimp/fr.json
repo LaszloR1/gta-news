@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533047026,"title":"","headline":"GTA Online","subtitle":"L'Enus Stafford et le dirigeable","content":"Que vous préfériez susciter l'admiration ou vous faire décerner la palme du mauvais goût, vous trouverez votre bonheur à Los Santos cette semaine avec l'arrivée de deux nouveaux véhiculesµ: l'Enus Stafford est un symbole du complexe de supériorité à quatre portes et sur roues, tandis que le dirigeable, du fait de sa lenteur et de son côté explosif et tape-à-l'œil, est le moyen de publicité dont vous aviez toujours rêvé pour votre boîte de nuit.","url":"","image":{"path":"sc/news/pa0_AH_Stafford_Blimp/349672_Big_Feed_Only_Blimp.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533047026,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "L'Enus Stafford et le dirigeable",
+    "content": "Que vous préfériez susciter l'admiration ou vous faire décerner la palme du mauvais goût, vous trouverez votre bonheur à Los Santos cette semaine avec l'arrivée de deux nouveaux véhiculesµ: l'Enus Stafford est un symbole du complexe de supériorité à quatre portes et sur roues, tandis que le dirigeable, du fait de sa lenteur et de son côté explosif et tape-à-l'œil, est le moyen de publicité dont vous aviez toujours rêvé pour votre boîte de nuit.",
+    "url": "",
+    "image": {
+        "path": "sc/news/pa0_AH_Stafford_Blimp/349672_Big_Feed_Only_Blimp.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Como conseguir o Laboratório de Ácido","content":"Conclua as seis missões de Primeira Dose para desbloquear o MTL Brickade 6x6 gratuitamente, que pode ser melhorado na Freakshop para virar um Laboratório de Ácido. Você também pode entrar no mundo dos negócios de ácido comprando o MTL Brickade 6x6 diretamente no site da Warstock Cache & Carry.<br /><br />Depois de adquiri-lo, você poderá solicitar que ele seja entregue na sua localização no Modo Livre usando o Menu de Interação ou buscá-lo na Freakshop.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds","filesize":262272},"button":"Acessar site da Warstock Cache & Carry"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Como conseguir o Laboratório de Ácido",
+    "content": "Conclua as seis missões de Primeira Dose para desbloquear o MTL Brickade 6x6 gratuitamente, que pode ser melhorado na Freakshop para virar um Laboratório de Ácido. Você também pode entrar no mundo dos negócios de ácido comprando o MTL Brickade 6x6 diretamente no site da Warstock Cache & Carry.<br /><br />Depois de adquiri-lo, você poderá solicitar que ele seja entregue na sua localização no Modo Livre usando o Menu de Interação ou buscá-lo na Freakshop.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Acessar site da Warstock Cache & Carry"
+}

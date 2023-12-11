@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1448386326,"title":"","headline":"GTA Online","subtitle":"런닝 백","content":"차량을 이용한 이 새로운 대적 모드에서는 플레이어가 공 역할을 대신 합니다. 공격 요원은 도망자가 선을 넘어 터치다운할 수 있게 도와야 합니다. 수비 요원은 공격 요원을 밀어내거나 도망자를 방해해서 막아야 합니다.","url":"","image":{"path":"sc/news/NG_Running_Back/262272_Running_Back.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Running_Back/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1448386326,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "런닝 백",
+    "content": "차량을 이용한 이 새로운 대적 모드에서는 플레이어가 공 역할을 대신 합니다. 공격 요원은 도망자가 선을 넘어 터치다운할 수 있게 도와야 합니다. 수비 요원은 공격 요원을 밀어내거나 도망자를 방해해서 막아야 합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Running_Back/262272_Running_Back.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Running_Back/.dds",
+        "filesize": 2048
+    }
+}

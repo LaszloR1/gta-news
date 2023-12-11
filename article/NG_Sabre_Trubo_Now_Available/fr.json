@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1461074787,"title":"","headline":"GTA Online","subtitle":"Dès maintenant chez Benny : la Declasse Sabre Turbo","content":"Il est temps de donner un peu de dynamisme à la Declasse Sabre Turbo, qui peut maintenant être transformée chez Benny. Complétez votre collection de lowriders avec cette grosse cylindrée revisitée. Trouvez-en une dans les rues de Los Santos ou achetez-en une directement sur le site de Benny pour voir ce que vous pouvez en faire.","url":"","image":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1461074787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dès maintenant chez Benny : la Declasse Sabre Turbo",
+    "content": "Il est temps de donner un peu de dynamisme à la Declasse Sabre Turbo, qui peut maintenant être transformée chez Benny. Complétez votre collection de lowriders avec cette grosse cylindrée revisitée. Trouvez-en une dans les rues de Los Santos ou achetez-en une directement sur le site de Benny pour voir ce que vous pouvez en faire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

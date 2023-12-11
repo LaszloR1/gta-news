@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285737,"title":"GTA+","headline":"GTA+","subtitle":"Taller de la arena y descuentos","content":"Los miembros de GTA+ pueden solicitar el taller de la arena gratis hasta el 13 de septiembre.<br /><br />Los miembros pueden solicitar el taller de la arena gratis y llevar vehículos aptos para beneficiarse de un 50% de descuento en una selección de modificaciones de la arena, como blindaje para vehículos, armas, carrocerías, cuchillas, pinchos y jaulas antivuelco, salto vertical y nitro.<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Más información en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_es_es.dds","filesize":262272},"button":"Selecciona para suscribirte a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285737,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Taller de la arena y descuentos",
+    "content": "Los miembros de GTA+ pueden solicitar el taller de la arena gratis hasta el 13 de septiembre.<br /><br />Los miembros pueden solicitar el taller de la arena gratis y llevar vehículos aptos para beneficiarse de un 50% de descuento en una selección de modificaciones de la arena, como blindaje para vehículos, armas, carrocerías, cuchillas, pinchos y jaulas antivuelco, salto vertical y nitro.<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+"
+}

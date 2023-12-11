@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433955146,"title":"","headline":"GTA Online","subtitle":"Sul cofano","content":"Una nuova angolazione della visuale attraverso cui guardare il mondo mentre si guida, per chi preferisce le visuali esterne a quella nell'abitacolo.<br /><br />Per usarla, abilita la visuale andando dal menu di pausa su Impostazioni > Visuale e attivando l'opzione Cofano veicolo (prima persona), dopodiché scorri le visuali fino a trovarla.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_On_The_Hood/262272_OnTheHood.dds","filesize":262272},"landscape":{"path":"sc/news/NG_On_The_Hood/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433955146,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sul cofano",
+    "content": "Una nuova angolazione della visuale attraverso cui guardare il mondo mentre si guida, per chi preferisce le visuali esterne a quella nell'abitacolo.<br /><br />Per usarla, abilita la visuale andando dal menu di pausa su Impostazioni > Visuale e attivando l'opzione Cofano veicolo (prima persona), dopodiché scorri le visuali fino a trovarla.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_On_The_Hood/262272_OnTheHood.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_On_The_Hood/.dds",
+        "filesize": 2048
+    }
+}

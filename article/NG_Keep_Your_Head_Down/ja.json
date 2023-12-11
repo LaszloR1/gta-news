@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416222619,"title":"","headline":"GTAV","subtitle":"頭は下げたまま","content":"フロントガラスを直撃してくるハエよりも少しだけ恐ろしい「何か」が心配？ 運転中、または乗客として乗っている時に、~INPUT_VEH_DUCK~でかがんで身を守ることができます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Keep_Your_Head_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416222619,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "頭は下げたまま",
+    "content": "フロントガラスを直撃してくるハエよりも少しだけ恐ろしい「何か」が心配？ 運転中、または乗客として乗っている時に、~INPUT_VEH_DUCK~でかがんで身を守ることができます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/.dds",
+        "filesize": 2048
+    }
+}

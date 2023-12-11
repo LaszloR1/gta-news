@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294917,"title":"","headline":"GTA Online","subtitle":"Cuartel general","content":"Dynasty8, en asociación con SecuroServ, tiene el honor de presentar una nueva línea de oficinas de lujo para los criminales profesionales más sagaces. Estas obras maestras del diseño ejecutivo incluyen un asistente personal las 24 horas del día y los 7 días de la semana, así como un helipuerto, un servicio de redecoración y diversas opciones de personalización. En cuanto dispongas de una oficina, podrás registrarte como jefe en SecuroServ y acceder a mercancía especial.","url":"","image":{"path":"sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Head_Quarters/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294917,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cuartel general",
+    "content": "Dynasty8, en asociación con SecuroServ, tiene el honor de presentar una nueva línea de oficinas de lujo para los criminales profesionales más sagaces. Estas obras maestras del diseño ejecutivo incluyen un asistente personal las 24 horas del día y los 7 días de la semana, así como un helipuerto, un servicio de redecoración y diversas opciones de personalización. En cuanto dispongas de una oficina, podrás registrarte como jefe en SecuroServ y acceder a mercancía especial.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/.dds",
+        "filesize": 2048
+    }
+}

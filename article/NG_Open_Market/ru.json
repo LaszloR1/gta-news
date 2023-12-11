@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1492522656,"title":"","headline":"GTA Online","subtitle":"Уже в продаже","content":"Несколько любимых всеми видов транспорта поступило в открытую продажу: теперь все могут купить монстер-трак Marshall, гидроплан Dodo и подлодку Kraken. Кроме того, в GTA Online на сайте Warstock Cache & Carry теперь доступен грозный Duke O'Death, который вызывает оргазм у всех любителей ретроапокалипсиса в Сан-Андреасе.","url":"","image":{"path":"sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Open_Market/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1492522656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Уже в продаже",
+    "content": "Несколько любимых всеми видов транспорта поступило в открытую продажу: теперь все могут купить монстер-трак Marshall, гидроплан Dodo и подлодку Kraken. Кроме того, в GTA Online на сайте Warstock Cache & Carry теперь доступен грозный Duke O'Death, который вызывает оргазм у всех любителей ретроапокалипсиса в Сан-Андреасе.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Open_Market/.dds",
+        "filesize": 2048
+    }
+}

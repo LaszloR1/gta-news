@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1463750229,"title":"","headline":"GTA Online","subtitle":"Semaine Capture : captures avec GTA$ et RP x2, t-shirt Pétage de plomb, promos et plus","content":"Donnez tout ce que vous avez dans les activités de capture cette semaine et récoltez le double de RP. De nombreux articles sont en promotion toute la semaine, dont le Luxor Deluxe et la Kuruma (standard et blindée), ainsi qu'une sélection d'éléments de tuning, de munitions et de vêtements.<br /><br />En participant à la semaine Capture, vous avez débloqué le t-shirt exclusif ''Pétage de plomb'', disponible dans votre garde-robe.<br /><br />Plus d'infos sur rockstargames.com/fr/newswire.","url":"","image":{"path":"sc/news/NG_Capture_Week_20_26/262272_captureweek_686x1024v2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Capture_Week_20_26/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1463750229,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Semaine Capture : captures avec GTA$ et RP x2, t-shirt Pétage de plomb, promos et plus",
+    "content": "Donnez tout ce que vous avez dans les activités de capture cette semaine et récoltez le double de RP. De nombreux articles sont en promotion toute la semaine, dont le Luxor Deluxe et la Kuruma (standard et blindée), ainsi qu'une sélection d'éléments de tuning, de munitions et de vêtements.<br /><br />En participant à la semaine Capture, vous avez débloqué le t-shirt exclusif ''Pétage de plomb'', disponible dans votre garde-robe.<br /><br />Plus d'infos sur rockstargames.com/fr/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Capture_Week_20_26/262272_captureweek_686x1024v2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Capture_Week_20_26/.dds",
+        "filesize": 2048
+    }
+}

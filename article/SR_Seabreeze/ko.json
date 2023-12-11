@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466852,"title":"","headline":"GTA Online","subtitle":"시브리즈","content":"유연함이 필요한 임원을 위한 개인용 항공기, 웨스턴 시브리즈를 새롭게 선보입니다. 사막 활주로에 착륙하든, 아니면 개인용 요트 바로 옆에 착수하든, 언제 어디서나 비즈니스 클래스의 안락함을 제공해 드릴 겁니다. 만약에 머신건과 폭탄을 필요로 하는 직업에 종사하고 있더라도 걱정하지 마십시오. 공간은 충분하니까요.","url":"","image":{"path":"sc/news/SR_Seabreeze/262272_Seabreeze.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466852,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "시브리즈",
+    "content": "유연함이 필요한 임원을 위한 개인용 항공기, 웨스턴 시브리즈를 새롭게 선보입니다. 사막 활주로에 착륙하든, 아니면 개인용 요트 바로 옆에 착수하든, 언제 어디서나 비즈니스 클래스의 안락함을 제공해 드릴 겁니다. 만약에 머신건과 폭탄을 필요로 하는 직업에 종사하고 있더라도 걱정하지 마십시오. 공간은 충분하니까요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Seabreeze/262272_Seabreeze.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

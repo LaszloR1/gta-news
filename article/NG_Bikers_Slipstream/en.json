@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519976,"title":"","headline":"GTA Online","subtitle":"Slipstream","content":"It’s time to put all that rugged individualism aside in Slipstream, the latest Adversary Mode to hit the streets of Los Santos. This is a team race with a twist: you and your fellow bikers will need to hit checkpoints together in order to progress. First team to get all its members across the finish line wins, and trust us, slipstreaming is not optional.","url":"","image":{"path":"sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Slipstream/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519976,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Slipstream",
+    "content": "It’s time to put all that rugged individualism aside in Slipstream, the latest Adversary Mode to hit the streets of Los Santos. This is a team race with a twist: you and your fellow bikers will need to hit checkpoints together in order to progress. First team to get all its members across the finish line wins, and trust us, slipstreaming is not optional.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Slipstream/.dds",
+        "filesize": 2048
+    }
+}

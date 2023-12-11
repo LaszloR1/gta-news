@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1508258742,"title":"","headline":"GTA Online","subtitle":"Puedes tenerlo todo","content":"¿Alguna vez has deseado tener la libertad de ir de un punto a otro en caza al iniciar una carrera urbana por el centro? ¿Alguna vez has deseado en lo más hondo de tu ser tirarte de cabeza por Raton Canyon en una Seashark mientras recorrías Vespucci Beach en bici, liderando un pelotón? Pues estás de suerte: las carreras de metamorfosis te harán alternar entre tierra, mar y aire en menos tiempo del que tardarías en mancharte los calzoncillos. Es hora de quitarte esa espinita.","url":"","image":{"path":"sc/news/SR_Transform_Races/349672_bigfeed-transform-races-512x1024-V1.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1508258742,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Puedes tenerlo todo",
+    "content": "¿Alguna vez has deseado tener la libertad de ir de un punto a otro en caza al iniciar una carrera urbana por el centro? ¿Alguna vez has deseado en lo más hondo de tu ser tirarte de cabeza por Raton Canyon en una Seashark mientras recorrías Vespucci Beach en bici, liderando un pelotón? Pues estás de suerte: las carreras de metamorfosis te harán alternar entre tierra, mar y aire en menos tiempo del que tardarías en mancharte los calzoncillos. Es hora de quitarte esa espinita.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Transform_Races/349672_bigfeed-transform-races-512x1024-V1.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

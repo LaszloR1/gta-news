@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980266,"title":"","headline":"GTA Online","subtitle":"Tagesziele","content":"Halte im Interaktionsmenü von GTA Online Ausschau nach drei zufälligen Tageszielen und schließe sie ab, um GTA$ und RP zu verdienen.<br /><br />Du kannst noch größere GTA$- und RP-Boni einstreichen, indem du Tagesziele über mehrere aufeinanderfolgende Tage hinweg abschließt. Schließe sie eine Woche oder einen ganzen Monat lang jeden Tag ab, um riesige Geld- und RP-Boni zu sammeln.<br /><br />Tagesziele werden ab Rang 15 freigeschaltet.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Daily_Objectives/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tagesziele",
+    "content": "Halte im Interaktionsmenü von GTA Online Ausschau nach drei zufälligen Tageszielen und schließe sie ab, um GTA$ und RP zu verdienen.<br /><br />Du kannst noch größere GTA$- und RP-Boni einstreichen, indem du Tagesziele über mehrere aufeinanderfolgende Tage hinweg abschließt. Schließe sie eine Woche oder einen ganzen Monat lang jeden Tag ab, um riesige Geld- und RP-Boni zu sammeln.<br /><br />Tagesziele werden ab Rang 15 freigeschaltet.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/.dds",
+        "filesize": 2048
+    }
+}

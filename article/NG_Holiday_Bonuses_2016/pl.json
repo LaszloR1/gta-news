@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482244341,"title":"","headline":"GTA Online","subtitle":"Premie Świąteczne: Zniżki 25% oraz piżama i bonżurka w paski do odblokowania","content":"Spraw sobie świąteczny prezent korzystając ze zniżki 25% na wybrany asortyment. Promocja potrwa do 2 stycznia i obejmie luksusowe pojazdy w stylu Enusa Super, nieruchomości w rodzaju apartamentów Eclipse Towers i uzbrojenie, takie jak strzelba automatyczna.<br /><br />Logując się do GTA Online, udało ci się także odblokować wyrafinowaną piżamę i bonżurkę w paski. Możesz je odebrać w dowolnym sklepie odzieżowym w Los Santos.<br /><br />Więcej informacji na Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Holiday_Bonuses_2016/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482244341,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Premie Świąteczne: Zniżki 25% oraz piżama i bonżurka w paski do odblokowania",
+    "content": "Spraw sobie świąteczny prezent korzystając ze zniżki 25% na wybrany asortyment. Promocja potrwa do 2 stycznia i obejmie luksusowe pojazdy w stylu Enusa Super, nieruchomości w rodzaju apartamentów Eclipse Towers i uzbrojenie, takie jak strzelba automatyczna.<br /><br />Logując się do GTA Online, udało ci się także odblokować wyrafinowaną piżamę i bonżurkę w paski. Możesz je odebrać w dowolnym sklepie odzieżowym w Los Santos.<br /><br />Więcej informacji na Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/.dds",
+        "filesize": 2048
+    }
+}

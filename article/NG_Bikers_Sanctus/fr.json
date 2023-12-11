@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477561765,"title":"","headline":"GTA Online","subtitle":"LCC Sanctus","content":"Quel est le point commun entre les hipsters, les gangsters, les spécialistes des circuits, les amateurs de hors-piste et les avocats fiscalistes en pleine crise de la quarantaineµ? Ils ont tous une moto qui leur correspond. Vous êtes un apôtre de la mort assoiffé de sang porté par la haine, et amateur de têtes de mortµ? Vous vous sentez à l'écartµ? N'ayez crainteµ: la Sanctus de LCC est la moto qu'il vous faut pour confirmer les bons choix de vie que vous avez faits jusque-là.","url":"","image":{"path":"sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Sanctus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477561765,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "LCC Sanctus",
+    "content": "Quel est le point commun entre les hipsters, les gangsters, les spécialistes des circuits, les amateurs de hors-piste et les avocats fiscalistes en pleine crise de la quarantaineµ? Ils ont tous une moto qui leur correspond. Vous êtes un apôtre de la mort assoiffé de sang porté par la haine, et amateur de têtes de mortµ? Vous vous sentez à l'écartµ? N'ayez crainteµ: la Sanctus de LCC est la moto qu'il vous faut pour confirmer les bons choix de vie que vous avez faits jusque-là.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Sanctus/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472803984,"title":"","headline":"GTA Online","subtitle":"초보 운전 주간: 베니즈에서 업그레이드 50% 할인 등(9월 2-8일)","content":"유행에 뒤처지지 않고 경쟁력을 유지하는 것도 중요하죠. 스트로베리에 있는 베니즈 오리지널 모터 웍스에 가서 업그레이드 50% 할인 등의 혜택을 활용하세요. 유압 장치부터 휠까지 다양한 품목을 특별 할인하고 있습니다.<br /><br />자세한 내용은 http://www.rockstargames.com/V/ko_kr/news을 확인하십시오.<br />","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Discounts/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Discounts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472803984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "초보 운전 주간: 베니즈에서 업그레이드 50% 할인 등(9월 2-8일)",
+    "content": "유행에 뒤처지지 않고 경쟁력을 유지하는 것도 중요하죠. 스트로베리에 있는 베니즈 오리지널 모터 웍스에 가서 업그레이드 50% 할인 등의 혜택을 활용하세요. 유압 장치부터 휠까지 다양한 품목을 특별 할인하고 있습니다.<br /><br />자세한 내용은 http://www.rockstargames.com/V/ko_kr/news을 확인하십시오.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Discounts/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Discounts/.dds",
+        "filesize": 2048
+    }
+}

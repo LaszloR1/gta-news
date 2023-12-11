@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394812924,"title":"","headline":"線上小訣竅","subtitle":"友方目標","content":"按向下方向鍵以顯示您目前的 GTA 線上模式戰局中的玩家時，您可能會發現這些玩家的肖像上會有幾個小字，這些小字可以讓您知道對方是否為朋友 (F) 或幫會成員 (C)。<br /><br />不要離朋友和幫會成員太遠，這樣就不用擔心會遇上麻煩，還有別忘了，您現在可以透過互動選單來設定攻擊好友的優先順序，這樣就可以避免在發生衝突時不慎開槍擊中友方。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Friendly_Targets/262272_FriendlyTargets.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Friendly_Targets/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812924,
+    "title": "",
+    "headline": "線上小訣竅",
+    "subtitle": "友方目標",
+    "content": "按向下方向鍵以顯示您目前的 GTA 線上模式戰局中的玩家時，您可能會發現這些玩家的肖像上會有幾個小字，這些小字可以讓您知道對方是否為朋友 (F) 或幫會成員 (C)。<br /><br />不要離朋友和幫會成員太遠，這樣就不用擔心會遇上麻煩，還有別忘了，您現在可以透過互動選單來設定攻擊好友的優先順序，這樣就可以避免在發生衝突時不慎開槍擊中友方。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Friendly_Targets/262272_FriendlyTargets.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Friendly_Targets/.dds",
+        "filesize": 2048
+    }
+}

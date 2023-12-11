@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467815311,"title":"","headline":"GTA Online","subtitle":"Adquira o novo Dewbauchee Seven-70 e jogue 3 novos mapas de PowerPlay","content":"A classe esportiva em GTA Online teve uma melhoria em estilo e sofisticação esta semana com o novo Dewbauchee Seven-70, agora disponível na Legendary Motorsport. <br /><br />Há também três novos locais adicionados ao modo de batalha PowerPlay em equipe. Brigue no Aeroporto Internacional de Los Santos, no Porto de Los Santos ou enfrente um tremendo caos nas margens do Mar Alamo.","url":"","image":{"path":"sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Seven_70_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467815311,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Adquira o novo Dewbauchee Seven-70 e jogue 3 novos mapas de PowerPlay",
+    "content": "A classe esportiva em GTA Online teve uma melhoria em estilo e sofisticação esta semana com o novo Dewbauchee Seven-70, agora disponível na Legendary Motorsport. <br /><br />Há também três novos locais adicionados ao modo de batalha PowerPlay em equipe. Brigue no Aeroporto Internacional de Los Santos, no Porto de Los Santos ou enfrente um tremendo caos nas margens do Mar Alamo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Seven_70_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

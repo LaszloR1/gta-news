@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525254476,"title":"","headline":"GTA Online","subtitle":"特殊載具優惠折扣","content":"為協助您在空中、水下和火箭推進器等一切競速項目中稱霸，軍火大亨推出了特定特殊載具µ75µ折優惠：<br /><br />巨象噴射飛行器：七五折<br />英奔堤德路克索：七五折<br />歐斯洛施特龍貝格：七五折<br />滅世暴徒µ2000：七五折<br />火箭狂雷：七五折<br />水陸烈焰：七五折<br /><br />詳情請見µRockstarµ新聞放送。","url":"","image":{"path":"sc/news/Discounts_1_5_18/349672_Thruster.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525254476,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "特殊載具優惠折扣",
+    "content": "為協助您在空中、水下和火箭推進器等一切競速項目中稱霸，軍火大亨推出了特定特殊載具µ75µ折優惠：<br /><br />巨象噴射飛行器：七五折<br />英奔堤德路克索：七五折<br />歐斯洛施特龍貝格：七五折<br />滅世暴徒µ2000：七五折<br />火箭狂雷：七五折<br />水陸烈焰：七五折<br /><br />詳情請見µRockstarµ新聞放送。",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_1_5_18/349672_Thruster.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

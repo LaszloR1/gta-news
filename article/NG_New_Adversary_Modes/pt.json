@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349349,"title":"","headline":"GTA Online","subtitle":"Novos Modos de Adversários","content":"Coloque lowriders em ação com 3 novos Modos de Adversário:<br />Revezamento - Um corredor dirige enquanto o outro aguarda na linha de partida. A cada volta, os papéis são revezados.<br /><br />Defesa e Ataque - Um Fugitivo coletando checkpoints em um lowrider deve trabalhar junto com o seu Bloqueador, que protege o Fugitivo e acaba com os oponentes.<br /><br />Mantenha o Ritmo - Fique acima de uma velocidade mínima enquanto corre entre pistas cheias de saltos e obstáculos. Se diminuir demais, você explode.","url":"","image":{"path":"sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349349,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novos Modos de Adversários",
+    "content": "Coloque lowriders em ação com 3 novos Modos de Adversário:<br />Revezamento - Um corredor dirige enquanto o outro aguarda na linha de partida. A cada volta, os papéis são revezados.<br /><br />Defesa e Ataque - Um Fugitivo coletando checkpoints em um lowrider deve trabalhar junto com o seu Bloqueador, que protege o Fugitivo e acaba com os oponentes.<br /><br />Mantenha o Ritmo - Fique acima de uma velocidade mínima enquanto corre entre pistas cheias de saltos e obstáculos. Se diminuir demais, você explode.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

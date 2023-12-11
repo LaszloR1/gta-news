@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175108,"title":"","headline":"GTA Online","subtitle":"SecuroServ","content":"Vous ne savez plus quoi faire de votre argent ? Le service de protection pour gros bonnets SecuroServ est fait pour vous. Enregistrez-vous comme gros bonnet via le menu Interaction dès aujourd'hui, et vous pourrez recruter vos propres gardes du corps, qui feront toutes les sales besognes. Donnez un nom à votre organisation, lancez des missions et des défis de gros bonnet et profitez des avantages que procure toute une armée de gardes du corps pour vous faire un tas d'argent.","url":"","image":{"path":"sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_SecuroServ/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175108,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SecuroServ",
+    "content": "Vous ne savez plus quoi faire de votre argent ? Le service de protection pour gros bonnets SecuroServ est fait pour vous. Enregistrez-vous comme gros bonnet via le menu Interaction dès aujourd'hui, et vous pourrez recruter vos propres gardes du corps, qui feront toutes les sales besognes. Donnez un nom à votre organisation, lancez des missions et des défis de gros bonnet et profitez des avantages que procure toute une armée de gardes du corps pour vous faire un tas d'argent.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_SecuroServ/.dds",
+        "filesize": 2048
+    }
+}

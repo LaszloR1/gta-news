@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313471,"title":"","headline":"GTA Online","subtitle":"自由模式中的安靜時間","content":"如果您比較喜歡安安靜靜地過生活，那麼您可以自訂體驗自由模式的方式，選擇不參加特定自由模式活動或其他活動。在互動選單中存取「隱藏選項」，然後選擇隱藏或顯示每個選項。隱藏特定自由模式活動或其他活動後，系統就不會再顯示通知，這樣您就可以專心玩遊戲。如果之後您覺得好像錯過了某些樂趣，您隨時都可以重新啟用這些選項。","url":"","image":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "自由模式中的安靜時間",
+    "content": "如果您比較喜歡安安靜靜地過生活，那麼您可以自訂體驗自由模式的方式，選擇不參加特定自由模式活動或其他活動。在互動選單中存取「隱藏選項」，然後選擇隱藏或顯示每個選項。隱藏特定自由模式活動或其他活動後，系統就不會再顯示通知，這樣您就可以專心玩遊戲。如果之後您覺得好像錯過了某些樂趣，您隨時都可以重新啟用這些選項。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/.dds",
+        "filesize": 2048
+    }
+}

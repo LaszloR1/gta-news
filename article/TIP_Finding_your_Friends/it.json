@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470201,"title":"","headline":"Suggerimento online","subtitle":"Trova gli amici","content":"In genere vieni automaticamente inserito in qualsiasi partita aperta in cui ci sono anche i tuoi amici: se ti trovi in una senza di loro è perché forse sono già impegnati in un'attività. Se non ami stare da solo e non vuoi conoscere gente nuova, puoi unirti facilmente agli amici nella loro attività tramite la scheda Amici nel menu di pausa: scegli un amico online e premi Unisciti a partita.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Finding_your_Friends/262272_FindingFreinds.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Finding_your_Friends/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470201,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Trova gli amici",
+    "content": "In genere vieni automaticamente inserito in qualsiasi partita aperta in cui ci sono anche i tuoi amici: se ti trovi in una senza di loro è perché forse sono già impegnati in un'attività. Se non ami stare da solo e non vuoi conoscere gente nuova, puoi unirti facilmente agli amici nella loro attività tramite la scheda Amici nel menu di pausa: scegli un amico online e premi Unisciti a partita.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Finding_your_Friends/262272_FindingFreinds.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Finding_your_Friends/.dds",
+        "filesize": 2048
+    }
+}

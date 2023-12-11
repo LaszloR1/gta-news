@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224090,"title":"","headline":"GTA Online","subtitle":"新プラットフォームに新ジョブ登場","content":"対応プレイヤー数の増加に伴い、30人でプレイ可能な新ジョブが追加されました。最大30人まで参加できるレース、デスマッチ、ラスト・チーム・アライブやキャプチャーだけでなく、最大16人がプレイできるパラシュートジョブも収録。<br /><br />また、白熱した状況を制する自信がある方用に、最大30人までプレイ可能なアクション満載のプレイリストも用意しています。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Jobs_New_Platforms/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224090,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新プラットフォームに新ジョブ登場",
+    "content": "対応プレイヤー数の増加に伴い、30人でプレイ可能な新ジョブが追加されました。最大30人まで参加できるレース、デスマッチ、ラスト・チーム・アライブやキャプチャーだけでなく、最大16人がプレイできるパラシュートジョブも収録。<br /><br />また、白熱した状況を制する自信がある方用に、最大30人までプレイ可能なアクション満載のプレイリストも用意しています。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/.dds",
+        "filesize": 2048
+    }
+}

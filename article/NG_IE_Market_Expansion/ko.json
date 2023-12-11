@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543065,"title":"","headline":"GTA Online","subtitle":"시장 확장","content":"여러분의 오피스는 돈다발로 가득 차 있고, 창고에는 스페셜 패키지가 넘쳐납니다. 그렇다고 은퇴할 건가요? 아직 아니죠. 욕심은 끝이 없으니까요. 로스 산토스에서 활동하는 CEO 여러분께 부당한 이득이 기다리는 새로운 시장을 개척할 기회를 드리겠습니다. 도시 내 고급 차량 시장을 장악하려면 여러분 안에 있는 야망과 잔혹성을 모두 끄집어내야 할 겁니다.","url":"","image":{"path":"sc/news/NG_IE_Market_Expansion/262272_marketexpansion.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Market_Expansion/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543065,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "시장 확장",
+    "content": "여러분의 오피스는 돈다발로 가득 차 있고, 창고에는 스페셜 패키지가 넘쳐납니다. 그렇다고 은퇴할 건가요? 아직 아니죠. 욕심은 끝이 없으니까요. 로스 산토스에서 활동하는 CEO 여러분께 부당한 이득이 기다리는 새로운 시장을 개척할 기회를 드리겠습니다. 도시 내 고급 차량 시장을 장악하려면 여러분 안에 있는 야망과 잔혹성을 모두 끄집어내야 할 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Market_Expansion/262272_marketexpansion.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Market_Expansion/.dds",
+        "filesize": 2048
+    }
+}

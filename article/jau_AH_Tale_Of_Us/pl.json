@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533047026,"title":"","headline":"GTA Online","subtitle":"Przedstawiamy: Tale Of Us","content":"Tale Of Us to włoscy mistrzowie bogatego, melodyjnego techno, których teraz można zatrudnić na stałe w swoim klubie nocnym. Czekaj na telefon od English Dave’a, który powie, skąd trzeba ich odebrać. Zajrzyj także do swojego komputera w biurze klubu nocnego, aby dowiedzieć się więcej i w dowolnym momencie zarezerwować występy w klubie wybranego DJ-a.<br /><br />Nie zapomnij też włączyć radio Los Santos Undergroud i odsłuchać najnowszego setu Solomuna.","url":"","image":{"path":"sc/news/jau_AH_Tale_Of_Us/349672_GTAO_AfterHours_DJ-Bigfeeds_V02_Tale-Of-Us.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533047026,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Przedstawiamy: Tale Of Us",
+    "content": "Tale Of Us to włoscy mistrzowie bogatego, melodyjnego techno, których teraz można zatrudnić na stałe w swoim klubie nocnym. Czekaj na telefon od English Dave’a, który powie, skąd trzeba ich odebrać. Zajrzyj także do swojego komputera w biurze klubu nocnego, aby dowiedzieć się więcej i w dowolnym momencie zarezerwować występy w klubie wybranego DJ-a.<br /><br />Nie zapomnij też włączyć radio Los Santos Undergroud i odsłuchać najnowszego setu Solomuna.",
+    "url": "",
+    "image": {
+        "path": "sc/news/jau_AH_Tale_Of_Us/349672_GTAO_AfterHours_DJ-Bigfeeds_V02_Tale-Of-Us.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

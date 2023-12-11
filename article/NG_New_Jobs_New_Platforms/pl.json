@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224090,"title":"","headline":"GTA Online","subtitle":"Nowe akcje na nowych platformach","content":"By jak najlepiej wykorzystać podwyższone ilości graczy, dodaliśmy zestaw nowych akcji dla 30 graczy. Mamy teraz wyścigi dla 30 graczy, deathmatche, akcje ostatnia drużyna wygrywa, akcje zdobywanie i, dodatkowo, skoki spadochronowe dla 16 osób.<br /><br />Co więcej, macie teraz do wyboru nowe, szalone listy gier dla 30 graczy, jeżeli tylko podołacie takiej dzikiej jeździe!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Jobs_New_Platforms/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224090,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nowe akcje na nowych platformach",
+    "content": "By jak najlepiej wykorzystać podwyższone ilości graczy, dodaliśmy zestaw nowych akcji dla 30 graczy. Mamy teraz wyścigi dla 30 graczy, deathmatche, akcje ostatnia drużyna wygrywa, akcje zdobywanie i, dodatkowo, skoki spadochronowe dla 16 osób.<br /><br />Co więcej, macie teraz do wyboru nowe, szalone listy gier dla 30 graczy, jeżeli tylko podołacie takiej dzikiej jeździe!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/.dds",
+        "filesize": 2048
+    }
+}

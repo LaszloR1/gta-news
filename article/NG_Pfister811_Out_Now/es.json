@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467132162,"title":"","headline":"GTA Online","subtitle":"Pfister 811","content":"El Pfister 811, nuevo y exclusivo de legendarymotorsport.net, es una obra de tecnología híbrida que hace lo que se supone que tiene que hacer: mejorar minuciosamente el rendimiento de otros vehículos menos eficientes en lo que respecta a la emisión de gases, para poder ir más deprisa que los demás. Bienvenido a la vanguardia.","url":"","image":{"path":"sc/news/NG_Pfister811_Out_Now/262272_NG_Legendarymotorsport.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Pfister811_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467132162,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pfister 811",
+    "content": "El Pfister 811, nuevo y exclusivo de legendarymotorsport.net, es una obra de tecnología híbrida que hace lo que se supone que tiene que hacer: mejorar minuciosamente el rendimiento de otros vehículos menos eficientes en lo que respecta a la emisión de gases, para poder ir más deprisa que los demás. Bienvenido a la vanguardia.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Pfister811_Out_Now/262272_NG_Legendarymotorsport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Pfister811_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455263,"title":"","headline":"GTA Online","subtitle":"Wojny handlowe","content":"W Los Santos wybucha nowy rodzaj wojny o teren. Bitwy handlowe są wyjątkową okazją do zdobycia odrobiny towaru i upłynnienia go. Chyba że masz własny klub nocny – wtedy dobra idealnie pasować będą do Twojego magazynu. Uważaj jednak, bo tę samą okazję zwęszy każdy bandzior i cwaniak w mieście, więc rywalizacja może zrobić się naprawdę gorąca.","url":"","image":{"path":"sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455263,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wojny handlowe",
+    "content": "W Los Santos wybucha nowy rodzaj wojny o teren. Bitwy handlowe są wyjątkową okazją do zdobycia odrobiny towaru i upłynnienia go. Chyba że masz własny klub nocny – wtedy dobra idealnie pasować będą do Twojego magazynu. Uważaj jednak, bo tę samą okazję zwęszy każdy bandzior i cwaniak w mieście, więc rywalizacja może zrobić się naprawdę gorąca.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

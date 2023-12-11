@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452382,"title":"","headline":"GTA Online","subtitle":"班尼車坊現正販售：威皮迷你廂型車","content":"班尼車坊引進了新款低底盤車，這次您有機會為威皮迷你廂型車改裝門面了。媽媽們開這款平庸的車，載著孩子去踢足球時，您可能連看都不想多看一眼，但是加上合適的改裝配件之後，這輛不起眼的師奶級廂型車輛就會變成萬眾矚目的焦點。","url":"","image":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452382,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "班尼車坊現正販售：威皮迷你廂型車",
+    "content": "班尼車坊引進了新款低底盤車，這次您有機會為威皮迷你廂型車改裝門面了。媽媽們開這款平庸的車，載著孩子去踢足球時，您可能連看都不想多看一眼，但是加上合適的改裝配件之後，這輛不起眼的師奶級廂型車輛就會變成萬眾矚目的焦點。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1498761721,"title":"","headline":"GTA Online","subtitle":"浪子瓦格納","content":"瓦格納是震憾超級跑車市場的最新浪子原型車。技術上來說它仍在實驗階段，主要原因是測試車手將車子性能推到極限之後，極少有人能恢復神智或保持手腳健全。","url":"","image":{"path":"sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1498761721,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "浪子瓦格納",
+    "content": "瓦格納是震憾超級跑車市場的最新浪子原型車。技術上來說它仍在實驗階段，主要原因是測試車手將車子性能推到極限之後，極少有人能恢復神智或保持手腳健全。",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

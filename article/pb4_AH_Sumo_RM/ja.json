@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1538496527,"title":"","headline":"GTA Online","subtitle":"Theµ相撲(Remix)","content":"「GTAオンライン」にクラシックな敵対モードが帰ってきました！ですが、以前のままというわけにはいきません。炎上を防ぐ唯一の方法がセーフゾーンであることは変わりませんが、今回は時間切れになる度にセーフゾーンの位置が変わります。その上、コースの一部がランダムで消えたりすることも。これぞ新時代のカオスです。","url":"","image":{"path":"sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1538496527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Theµ相撲(Remix)",
+    "content": "「GTAオンライン」にクラシックな敵対モードが帰ってきました！ですが、以前のままというわけにはいきません。炎上を防ぐ唯一の方法がセーフゾーンであることは変わりませんが、今回は時間切れになる度にセーフゾーンの位置が変わります。その上、コースの一部がランダムで消えたりすることも。これぞ新時代のカオスです。",
+    "url": "",
+    "image": {
+        "path": "sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

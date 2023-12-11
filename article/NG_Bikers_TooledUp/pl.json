@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515908,"title":"","headline":"GTA Online","subtitle":"Nowe narzędzia","content":"Witaj w nowej epoce odchudzonego, surowego i zminiaturyzowanego uzbrojenia, które jest idealnym instrumentem w symfonii terroru. Z wygodnego siedzenia motocykla możesz siać zniszczenie kieszonkowym granatnikiem, a gdy z niego zsiądziesz, może Ci się przydać brutalny, ciężki klucz. A wszystko dzięki Ammu-Nation.","url":"","image":{"path":"sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_TooledUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515908,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nowe narzędzia",
+    "content": "Witaj w nowej epoce odchudzonego, surowego i zminiaturyzowanego uzbrojenia, które jest idealnym instrumentem w symfonii terroru. Z wygodnego siedzenia motocykla możesz siać zniszczenie kieszonkowym granatnikiem, a gdy z niego zsiądziesz, może Ci się przydać brutalny, ciężki klucz. A wszystko dzięki Ammu-Nation.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_TooledUp/.dds",
+        "filesize": 2048
+    }
+}

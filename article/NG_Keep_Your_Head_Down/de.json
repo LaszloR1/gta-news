@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416222618,"title":"","headline":"GTAV","subtitle":"Kopf runter!","content":"Machst du dir Gedanken, dass etwas gegen deine Windschutzscheibe knallt, das gefährlicher ist als ein paar Fliegen? Drücke ~INPUT_FRONTEND_ACCEPT~, wenn du fährst oder als Beifahrer in einem Fahrzeug sitzt, um dich zu ducken und so für zusätzliche Sicherheit zu sorgen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Keep_Your_Head_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416222618,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Kopf runter!",
+    "content": "Machst du dir Gedanken, dass etwas gegen deine Windschutzscheibe knallt, das gefährlicher ist als ein paar Fliegen? Drücke ~INPUT_FRONTEND_ACCEPT~, wenn du fährst oder als Beifahrer in einem Fahrzeug sitzt, um dich zu ducken und so für zusätzliche Sicherheit zu sorgen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/.dds",
+        "filesize": 2048
+    }
+}

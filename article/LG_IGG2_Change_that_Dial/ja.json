@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356205,"title":"","headline":"GTA Online","subtitle":"チャンネルを変えろ","content":"大変嬉しいニュースをお知らせします。ロスサントスの電波に新たなラジオ局が追加されました。<br /><br />このラジオ局「The Lab」では、DJを務めるDr. No and the Chemical Broが様々なジャンルの新しい楽曲を紹介します。あなたの通勤時間の運転に新たな刺激を約束します。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Change_that_Dial/262272_TheLab.dds","filesize":262272},"landscape":{"path":"sc/news/LG_IGG2_Change_that_Dial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356205,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "チャンネルを変えろ",
+    "content": "大変嬉しいニュースをお知らせします。ロスサントスの電波に新たなラジオ局が追加されました。<br /><br />このラジオ局「The Lab」では、DJを務めるDr. No and the Chemical Broが様々なジャンルの新しい楽曲を紹介します。あなたの通勤時間の運転に新たな刺激を約束します。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Change_that_Dial/262272_TheLab.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Change_that_Dial/.dds",
+        "filesize": 2048
+    }
+}

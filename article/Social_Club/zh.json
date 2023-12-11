@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571730,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"您可以在 Social Club 網站查看各種最新消息，包括：<br /><br />照片：使用手機拍照，然後與全世界分享您的瘋狂事蹟、超爛髮型或豪情時刻，這些內容全部都會立即在 Social Club 上發佈。<br />最新消息：查看最新消息和 Social Club 活動。<br />自我評估：持續追蹤您的重要統計資料，並在排行榜上看看您和全世界比較的結果。<br />另外還有更多","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571730,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "您可以在 Social Club 網站查看各種最新消息，包括：<br /><br />照片：使用手機拍照，然後與全世界分享您的瘋狂事蹟、超爛髮型或豪情時刻，這些內容全部都會立即在 Social Club 上發佈。<br />最新消息：查看最新消息和 Social Club 活動。<br />自我評估：持續追蹤您的重要統計資料，並在排行榜上看看您和全世界比較的結果。<br />另外還有更多",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1696600561,"title":"GTA 온라인","headline":"GTA 온라인","subtitle":"로스 산토스에서 시작되는 할로윈 시즌","content":"피에 굶주린 캐릭터 무리가 강림한 GTA 온라인의 남부 산 안드레아스에 공포가 엄습합니다. 앞으로 4주 동안 끊임없이 펼쳐지는 혼돈 속에서 슬래셔, 광대, FIB 요원과 같은 가장 끔찍한 적들과 싸워 보세요.<br /><br />할로윈이 조금씩 다가옴에 따라, 한 달 동안 오싹한 신규 이벤트, 초자연적인 보조 활동, 섬뜩한 수집품 등이 제공됩니다.","url":"","image":{"path":"sc/news/22554ec6e3c24f6a9014674a/262272_GTAO_370_LeadAssetHalloweenMonth_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1696600561,
+    "title": "GTA 온라인",
+    "headline": "GTA 온라인",
+    "subtitle": "로스 산토스에서 시작되는 할로윈 시즌",
+    "content": "피에 굶주린 캐릭터 무리가 강림한 GTA 온라인의 남부 산 안드레아스에 공포가 엄습합니다. 앞으로 4주 동안 끊임없이 펼쳐지는 혼돈 속에서 슬래셔, 광대, FIB 요원과 같은 가장 끔찍한 적들과 싸워 보세요.<br /><br />할로윈이 조금씩 다가옴에 따라, 한 달 동안 오싹한 신규 이벤트, 초자연적인 보조 활동, 섬뜩한 수집품 등이 제공됩니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/22554ec6e3c24f6a9014674a/262272_GTAO_370_LeadAssetHalloweenMonth_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

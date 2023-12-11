@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507657544,"title":"","headline":"GTA Online","subtitle":"Pyro","content":"No solo quieres surcar los cielos a velocidades de vértigo, con ametralladoras montadas en el ala escupiendo balas y aplastar a tus rivales del sector; lo que quieres es que el último pensamiento que les pase por la cabecita antes de perderla sea: ''Vaya, el diseño de ese caza es flipante''. Y para alguien que busca esa mezcla de miedo y asombro, solo hay una palabra: Pyro.","url":"","image":{"path":"sc/news/SR_Pyro/262272_Pyro.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507657544,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pyro",
+    "content": "No solo quieres surcar los cielos a velocidades de vértigo, con ametralladoras montadas en el ala escupiendo balas y aplastar a tus rivales del sector; lo que quieres es que el último pensamiento que les pase por la cabecita antes de perderla sea: ''Vaya, el diseño de ese caza es flipante''. Y para alguien que busca esa mezcla de miedo y asombro, solo hay una palabra: Pyro.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Pyro/262272_Pyro.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

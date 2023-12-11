@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1412256185,"headline":"GTA 線上模式更新","subtitle":"團隊生存遊戲內容更新現已開放","content":"團隊生存遊戲內容更新提供威力強大的武器、精良的裝備、高效能的載具，以及全新的製作器內容。<br /><br />運用團隊生存遊戲的製作器模式，現在您可以在這個充滿謀略又致命的模式中，設計原創性十足的獨特 GTA 線上模式差事，讓團隊盡情廝殺，片甲不留。<br /><br />此次更新重點包括 10 個新的團隊生存遊戲差事，以及許多 GTA 線上模式的追加變更與微調。您只有一條命，好好利用它。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds","filesize":65664},"landscape":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1412256185,
+    "headline": "GTA 線上模式更新",
+    "subtitle": "團隊生存遊戲內容更新現已開放",
+    "content": "團隊生存遊戲內容更新提供威力強大的武器、精良的裝備、高效能的載具，以及全新的製作器內容。<br /><br />運用團隊生存遊戲的製作器模式，現在您可以在這個充滿謀略又致命的模式中，設計原創性十足的獨特 GTA 線上模式差事，讓團隊盡情廝殺，片甲不留。<br /><br />此次更新重點包括 10 個新的團隊生存遊戲差事，以及許多 GTA 線上模式的追加變更與微調。您只有一條命，好好利用它。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds",
+        "filesize": 65664
+    }
+}

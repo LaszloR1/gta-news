@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488453994,"title":"","headline":"Закрытая распродажа только для вас","subtitle":"","content":"Мы предлагаем вам эксклюзивную скидку 50% на три модели высокоскоростного транспорта: вы сможете приобрести за полцены космическую Grotti X80 Proto и стремительную Pegassi Reaper, а также футуристический спортбайк Nagasaki Shotaro.<br /><br />Кроме того, для вас действует скидка 25% на спорткар Dewbauchee Specter. А разместить свои приобретения вы сможете в новом гараже на 10 мест, которые до 13 марта будут стоить на 25% дешевле.","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488453994,
+    "title": "",
+    "headline": "Закрытая распродажа только для вас",
+    "subtitle": "",
+    "content": "Мы предлагаем вам эксклюзивную скидку 50% на три модели высокоскоростного транспорта: вы сможете приобрести за полцены космическую Grotti X80 Proto и стремительную Pegassi Reaper, а также футуристический спортбайк Nagasaki Shotaro.<br /><br />Кроме того, для вас действует скидка 25% на спорткар Dewbauchee Specter. А разместить свои приобретения вы сможете в новом гараже на 10 мест, которые до 13 марта будут стоить на 25% дешевле.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/.dds",
+        "filesize": 2048
+    }
+}

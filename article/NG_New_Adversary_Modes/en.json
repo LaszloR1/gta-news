@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349348,"title":"","headline":"GTA Online","subtitle":"New Adversary Modes","content":"Put Lowriders into the thick of the action with 3 new Adversary modes:<br />Relay - One racer drives while the other waits ready on the starting line. With each lap, the roles are reversed.<br /> <br />Offense Defense - A Runner collecting checkpoints in a lowrider must work together with their Blocker, who protects the Runner and takes out opponents for them.<br /> <br />Keep The Pace - Stay above a minimum speed while racing around courses littered with jumps and obstacles. If you slow down too much, you’ll explode.","url":"","image":{"path":"sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349348,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "New Adversary Modes",
+    "content": "Put Lowriders into the thick of the action with 3 new Adversary modes:<br />Relay - One racer drives while the other waits ready on the starting line. With each lap, the roles are reversed.<br /> <br />Offense Defense - A Runner collecting checkpoints in a lowrider must work together with their Blocker, who protects the Runner and takes out opponents for them.<br /> <br />Keep The Pace - Stay above a minimum speed while racing around courses littered with jumps and obstacles. If you slow down too much, you’ll explode.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

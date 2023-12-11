@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569304,"headline":"Online-Tipp","subtitle":"Verlierer bekommen einen Bonus","content":"Wenn du in einem Deathmatch dreimal stirbst, ohne selbst einen Gegner zu erledigen, bekommst du einen Verlierer-Bonus angeboten, der dir dein Leben sehr erleichtern und verlängern kann. Du kannst einen Verlierer-Bonus auf dem Bildschirm 'Außer Gefecht' aktivieren; schau dir dort einfach die Optionen unten rechts an. Es gibt also doch jemanden, der sich um dich sorgt. Zumindest ein bisschen.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569304,
+    "headline": "Online-Tipp",
+    "subtitle": "Verlierer bekommen einen Bonus",
+    "content": "Wenn du in einem Deathmatch dreimal stirbst, ohne selbst einen Gegner zu erledigen, bekommst du einen Verlierer-Bonus angeboten, der dir dein Leben sehr erleichtern und verlängern kann. Du kannst einen Verlierer-Bonus auf dem Bildschirm 'Außer Gefecht' aktivieren; schau dir dort einfach die Optionen unten rechts an. Es gibt also doch jemanden, der sich um dich sorgt. Zumindest ein bisschen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

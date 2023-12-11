@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Street Dealers","content":"Find Street Dealers to sell your drug supplies from various businesses. <br /><br />Keep an eye out as these dealers will appear in new spots each day on the map when you're near to them.<br /><br />TIP: Each Street Dealer has a drug of choice that they will offer a premium price for, so strike while the iron’s hot to maximize your profits.<br /><br /><br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds","filesize":262272},"button":" Find the Street Dealers in Freemode"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Street Dealers",
+    "content": "Find Street Dealers to sell your drug supplies from various businesses. <br /><br />Keep an eye out as these dealers will appear in new spots each day on the map when you're near to them.<br /><br />TIP: Each Street Dealer has a drug of choice that they will offer a premium price for, so strike while the iron’s hot to maximize your profits.<br /><br /><br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": " Find the Street Dealers in Freemode"
+}

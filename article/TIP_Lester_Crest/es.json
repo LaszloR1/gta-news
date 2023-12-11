@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467023,"title":"","headline":"Consejo en línea","subtitle":"Lester Crest","content":"¿Quieres poner precio a la cabeza de alguien? ¿Sobornar a los polis para eliminar tu nivel de búsqueda? ¿Un poco de anonimato en el radar para compartir un momento íntimo con alguien? ¿O simplemente necesitas un medio de transporte? Llama al siniestro, solitario y extraño Lester.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Lester_Crest/262272_LesterCrest.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Lester_Crest/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467023,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Lester Crest",
+    "content": "¿Quieres poner precio a la cabeza de alguien? ¿Sobornar a los polis para eliminar tu nivel de búsqueda? ¿Un poco de anonimato en el radar para compartir un momento íntimo con alguien? ¿O simplemente necesitas un medio de transporte? Llama al siniestro, solitario y extraño Lester.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Lester_Crest/262272_LesterCrest.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Lester_Crest/.dds",
+        "filesize": 2048
+    }
+}

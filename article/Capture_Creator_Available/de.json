@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1397229557,"headline":"GTA Online","subtitle":"Editor-Update für Capture-Modus jetzt verfügbar","content":"Ab sofort ist es durch das Capture-Editor-Update  der Editor-Community möglich, eigene Capture-Jobs für GTA Online zu erstellen.<br /><br />Platziere aufnehmbare Objekte und lege Waffen, Ort sowie viele andere Parameter fest, um deinen eigenen Capture-Job zu erstellen. Wir gehen außerdem eure selbsterstellten Capture-Kreationen durch und kennzeichnen außergewöhnliche Spielerlebnisse als 'von Rockstar verifiziert'.<br /><br />Greife auf den Editor zu, indem du Online > Editor im Pausen-Menü von GTA Online wählst.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Capture_Creator_Available/65664_Capture_Creator_Portrait2.dds","filesize":65664},"landscape":{"path":"sc/news/Capture_Creator_Available/65664_Capture_Creator_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1397229557,
+    "headline": "GTA Online",
+    "subtitle": "Editor-Update für Capture-Modus jetzt verfügbar",
+    "content": "Ab sofort ist es durch das Capture-Editor-Update  der Editor-Community möglich, eigene Capture-Jobs für GTA Online zu erstellen.<br /><br />Platziere aufnehmbare Objekte und lege Waffen, Ort sowie viele andere Parameter fest, um deinen eigenen Capture-Job zu erstellen. Wir gehen außerdem eure selbsterstellten Capture-Kreationen durch und kennzeichnen außergewöhnliche Spielerlebnisse als 'von Rockstar verifiziert'.<br /><br />Greife auf den Editor zu, indem du Online > Editor im Pausen-Menü von GTA Online wählst.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Capture_Creator_Available/65664_Capture_Creator_Portrait2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Capture_Creator_Available/65664_Capture_Creator_Landscape2.dds",
+        "filesize": 65664
+    }
+}

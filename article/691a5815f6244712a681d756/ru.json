@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Как получить кислотную лабораторию","content":"Чтобы бесплатно получить MTL Brickade 6x6, завершите все шесть заданий «Первой дозы», а затем улучшите его во «Фрикшопе» до мобильной кислотной лаборатории. Или же зайдите на сайт Warstock Cache & Carry и купите MTL Brickade 6x6 прямо оттуда, чтобы сразу приступить к кислотному бизнесу.<br /><br />Как только он станет вашим, вы сможете управлять им через меню взаимодействия в свободном режиме, а также найдете его во «Фрикшопе».","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds","filesize":262272},"button":"Заглянуть в Warstock Cache & Carry"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Как получить кислотную лабораторию",
+    "content": "Чтобы бесплатно получить MTL Brickade 6x6, завершите все шесть заданий «Первой дозы», а затем улучшите его во «Фрикшопе» до мобильной кислотной лаборатории. Или же зайдите на сайт Warstock Cache & Carry и купите MTL Brickade 6x6 прямо оттуда, чтобы сразу приступить к кислотному бизнесу.<br /><br />Как только он станет вашим, вы сможете управлять им через меню взаимодействия в свободном режиме, а также найдете его во «Фрикшопе».",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Заглянуть в Warstock Cache & Carry"
+}

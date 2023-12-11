@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258266,"title":"","headline":"GTA Online","subtitle":"The Terrorbyte","content":"If malware had six wheels, heavy armor and comfy seats, this is what it would look like. It can launch source and resupply missions for every business you own, mine the data of every other reprobate in the city, launch exclusive Client Job Missions, and that’s before you get to the upgrades: a Multi Lock missile launcher, a drone station, a Mk II weapon workshop, and the only vehicle workshop in the world capable of customizing the Oppressor Mk II.","url":"","image":{"path":"sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "The Terrorbyte",
+    "content": "If malware had six wheels, heavy armor and comfy seats, this is what it would look like. It can launch source and resupply missions for every business you own, mine the data of every other reprobate in the city, launch exclusive Client Job Missions, and that’s before you get to the upgrades: a Multi Lock missile launcher, a drone station, a Mk II weapon workshop, and the only vehicle workshop in the world capable of customizing the Oppressor Mk II.",
+    "url": "",
+    "image": {
+        "path": "sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631575,"title":"","headline":"GTA Online","subtitle":"Pegassi Infernus Classic","content":"Конечно, расход топлива у этой красотки был признан преступлением против человечества, а стандарты безопасности у нее не выше, чем у кассетной бомбы. Но вы видели, какая она лапочка? Встретив Infernus Classic, все остальные машины свернут на проселочную дорогу, сгорая от стыда.","url":"","image":{"path":"sc/news/NG_CS_SVC_Pegassi_Infernus/262272_InfernusClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Pegassi_Infernus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631575,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Infernus Classic",
+    "content": "Конечно, расход топлива у этой красотки был признан преступлением против человечества, а стандарты безопасности у нее не выше, чем у кассетной бомбы. Но вы видели, какая она лапочка? Встретив Infernus Classic, все остальные машины свернут на проселочную дорогу, сгорая от стыда.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Pegassi_Infernus/262272_InfernusClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Pegassi_Infernus/.dds",
+        "filesize": 2048
+    }
+}

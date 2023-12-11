@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677125,"title":"GTA+","headline":"GTA+","subtitle":"Der Vinewood Car Club","content":"Der Vinewood Car Club ist eine neue Location, in der Mitglieder bei GTA+ Zugriff auf eine kuratierte Auswahl an Fahrzeugen haben, um sie Probe zu fahren, im freien Modus zu bestellen und zu vergünstigten Preisen zu kaufen. Hin und wieder erhalten Mitglieder auch ein kostenloses Premiumfahrzeug.<br /><br />GTA+ verlängert sich monatlich und kann jederzeit gekündigt werden. Mehr auf rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/bc5d1b6d158d43acb6ccfb13/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds","filesize":262272},"button":"Auswählen, um GTA+ zu abonnieren"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677125,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Der Vinewood Car Club",
+    "content": "Der Vinewood Car Club ist eine neue Location, in der Mitglieder bei GTA+ Zugriff auf eine kuratierte Auswahl an Fahrzeugen haben, um sie Probe zu fahren, im freien Modus zu bestellen und zu vergünstigten Preisen zu kaufen. Hin und wieder erhalten Mitglieder auch ein kostenloses Premiumfahrzeug.<br /><br />GTA+ verlängert sich monatlich und kann jederzeit gekündigt werden. Mehr auf rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/bc5d1b6d158d43acb6ccfb13/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Auswählen, um GTA+ zu abonnieren"
+}

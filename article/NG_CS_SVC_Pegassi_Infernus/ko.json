@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631575,"title":"","headline":"GTA Online","subtitle":"페가시 인퍼너스 클래식","content":"인류의 생존을 위협할 만큼 무시무시할 정도로 연료를 소비하고, 폭탄을 타고 달리는 것과 마찬가지일 정도로 위험하다는 바로 그 차입니다. 하지만 이 차가 얼마나 예쁜지 보셨습니까? 인퍼너스 클래식을 타고 도로로 나가면 다른 차들은 창피해서 갓길로 비킬 겁니다. 그 정도로 아름답다는 말입니다.","url":"","image":{"path":"sc/news/NG_CS_SVC_Pegassi_Infernus/262272_InfernusClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Pegassi_Infernus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631575,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "페가시 인퍼너스 클래식",
+    "content": "인류의 생존을 위협할 만큼 무시무시할 정도로 연료를 소비하고, 폭탄을 타고 달리는 것과 마찬가지일 정도로 위험하다는 바로 그 차입니다. 하지만 이 차가 얼마나 예쁜지 보셨습니까? 인퍼너스 클래식을 타고 도로로 나가면 다른 차들은 창피해서 갓길로 비킬 겁니다. 그 정도로 아름답다는 말입니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Pegassi_Infernus/262272_InfernusClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Pegassi_Infernus/.dds",
+        "filesize": 2048
+    }
+}

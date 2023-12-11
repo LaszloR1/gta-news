@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452581,"title":"","headline":"GTA Online","subtitle":"Un paquet très convoité","content":"Prouvez votre dextérité dans un nouveau mode rivalité. Deux équipes s'affrontent pour récupérer un paquet et essayer de le livrer dans le camp adverse. Lorsque vous portez un paquet, vous ne pouvez pas porter d'arme et êtes donc obligé de compter sur vos équipiers pour vous couvrir pendant que vous foncez vers l'objectif. Si vous ne parvenez pas à gérer la pression, vous pouvez aussi lâcher le paquet et laisser vos équipiers s'occuper de la suite. Le meilleur score l'emporte.","url":"","image":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Un paquet très convoité",
+    "content": "Prouvez votre dextérité dans un nouveau mode rivalité. Deux équipes s'affrontent pour récupérer un paquet et essayer de le livrer dans le camp adverse. Lorsque vous portez un paquet, vous ne pouvez pas porter d'arme et êtes donc obligé de compter sur vos équipiers pour vous couvrir pendant que vous foncez vers l'objectif. Si vous ne parvenez pas à gérer la pression, vous pouvez aussi lâcher le paquet et laisser vos équipiers s'occuper de la suite. Le meilleur score l'emporte.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

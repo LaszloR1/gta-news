@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314657,"title":"","headline":"GTA Online","subtitle":"Rockstar 편집기를 소개합니다","content":"Rockstar 편집기로 Grand Theft Auto V와 Grand Theft Auto 온라인 플레이를 동영상으로 녹화, 편집하고 YouTube와 Rockstar Games Social Club에서 친구들과 공유하십시오.<br /><br />디렉터 모드를 사용하려면 '프랭클린과 라마' 임무를 완료해야 합니다. 수동으로 녹화하거나 액션 리플레이 모드로 클립을 녹화한 후 일시 중지 메뉴의 Rockstar 편집기에서 녹화된 클립 동영상을 편집하여 새롭게 만드십시오.","url":"","image":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314657,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Rockstar 편집기를 소개합니다",
+    "content": "Rockstar 편집기로 Grand Theft Auto V와 Grand Theft Auto 온라인 플레이를 동영상으로 녹화, 편집하고 YouTube와 Rockstar Games Social Club에서 친구들과 공유하십시오.<br /><br />디렉터 모드를 사용하려면 '프랭클린과 라마' 임무를 완료해야 합니다. 수동으로 녹화하거나 액션 리플레이 모드로 클립을 녹화한 후 일시 중지 메뉴의 Rockstar 편집기에서 녹화된 클립 동영상을 편집하여 새롭게 만드십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds",
+        "filesize": 2048
+    }
+}

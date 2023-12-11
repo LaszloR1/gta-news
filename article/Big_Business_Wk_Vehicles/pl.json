@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530030439,"title":"","headline":"GTA Online","subtitle":"Zniżki na pojazdy","content":"Do 2 lipca obowiązuje także zniżka 30% na wybrane pojazdy bojowe i wyścigowe:<br /><br />MAMMOTH AVENGER I JEGO ODNOWY<br />KABINY MCO I ODNOWY MCO<br />VAPID GB200<br />GROTTI X80 PROTO<br />IMPONTE RUINER 2000<br /><br />Więcej informacji znajdziecie na Rockstar Newswire.","url":"","image":{"path":"sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530030439,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zniżki na pojazdy",
+    "content": "Do 2 lipca obowiązuje także zniżka 30% na wybrane pojazdy bojowe i wyścigowe:<br /><br />MAMMOTH AVENGER I JEGO ODNOWY<br />KABINY MCO I ODNOWY MCO<br />VAPID GB200<br />GROTTI X80 PROTO<br />IMPONTE RUINER 2000<br /><br />Więcej informacji znajdziecie na Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

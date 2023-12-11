@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467860,"title":"","headline":"Online-Tipp","subtitle":"Auf Jobsuche?","content":"Schau in die Job-Liste im Handy oder ruf einen deiner Kontakte an, wenn du Arbeit suchst. Je mehr Jobs du für Leute aus deiner Kontakteliste erledigst, desto mehr Kontakte bekommst du und desto mehr Jobs werden dir angeboten. Wenn du in der Hierarchie aufsteigst, kannst du schon bald prima von dieser Arbeit leben.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Need_a_Job/262272_NeedAJob.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Need_a_Job/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467860,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Auf Jobsuche?",
+    "content": "Schau in die Job-Liste im Handy oder ruf einen deiner Kontakte an, wenn du Arbeit suchst. Je mehr Jobs du für Leute aus deiner Kontakteliste erledigst, desto mehr Kontakte bekommst du und desto mehr Jobs werden dir angeboten. Wenn du in der Hierarchie aufsteigst, kannst du schon bald prima von dieser Arbeit leben.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Need_a_Job/262272_NeedAJob.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Need_a_Job/.dds",
+        "filesize": 2048
+    }
+}

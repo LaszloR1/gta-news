@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442257610,"title":"","headline":"GTA Online","subtitle":"Novos Modos Adversários","content":"Se os Eventos de Modo Livre não saciaram seu desejo de destruição, experimente os novos Modos Adversários desbloqueados no Nível 12:<br /><br />- Cruze a Linha – Use tática e poder de fogo para que sua equipe inteira atravesse a linha inimiga e garanta a vitória.<br /><br />- Na Cola – Um veículo carregado de explosivos corre pela cidade. Uma equipe luta para mantê-lo em movimento, enquanto a outra tenta pará-lo. Se a velocidade cair demais, as consequências serão terríveis.","url":"","image":{"path":"sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free-New-Adversary-Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442257610,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novos Modos Adversários",
+    "content": "Se os Eventos de Modo Livre não saciaram seu desejo de destruição, experimente os novos Modos Adversários desbloqueados no Nível 12:<br /><br />- Cruze a Linha – Use tática e poder de fogo para que sua equipe inteira atravesse a linha inimiga e garanta a vitória.<br /><br />- Na Cola – Um veículo carregado de explosivos corre pela cidade. Uma equipe luta para mantê-lo em movimento, enquanto a outra tenta pará-lo. Se a velocidade cair demais, as consequências serão terríveis.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/.dds",
+        "filesize": 2048
+    }
+}

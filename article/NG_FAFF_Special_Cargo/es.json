@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294450,"title":"","headline":"GTA Online","subtitle":"Red de mercancía especial de SecuroServ","content":"Las oficinas para ejecutivos incluyen acceso privado a la red de mercancía especial de SecuroServ. Desde la comodidad de tu enorme silla giratoria podrás invertir en almacenes, comprar mercancía especial, y hacer lo que sea necesario para doblegar la ciudad a tu antojo.","url":"","image":{"path":"sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Special_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294450,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Red de mercancía especial de SecuroServ",
+    "content": "Las oficinas para ejecutivos incluyen acceso privado a la red de mercancía especial de SecuroServ. Desde la comodidad de tu enorme silla giratoria podrás invertir en almacenes, comprar mercancía especial, y hacer lo que sea necesario para doblegar la ciudad a tu antojo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/.dds",
+        "filesize": 2048
+    }
+}

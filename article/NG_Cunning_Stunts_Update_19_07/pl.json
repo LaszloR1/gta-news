@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468921869,"title":"","headline":"GTA Online","subtitle":"Ocelot Lynx, Declasse Tampa Drift i Western Cliffhanger","content":"W tym tygodniu na ulice Los Santos wyjadą trzy nowe i olśniewające pojazdy. Sięgniecie po szybkiego i wyrafinowanego Ocelota Lynxa? Czy olejecie stylistykę i weźmiecie surowego Tampę Drifta? A może lubicie uczucie potęgi między nogami i kupicie Westerna Cliffhangera, na którego wystarczy krótkoterminowa pożyczka? W każdym razie pamiętajcie, że nikt nie zabrania Wam kupienia wszystkiego.","url":"","image":{"path":"sc/news/NG_Cunning_Stunts_Update_19_07/262272_Legendary_Ocelot.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Cunning_Stunts_Update_19_07/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468921869,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ocelot Lynx, Declasse Tampa Drift i Western Cliffhanger",
+    "content": "W tym tygodniu na ulice Los Santos wyjadą trzy nowe i olśniewające pojazdy. Sięgniecie po szybkiego i wyrafinowanego Ocelota Lynxa? Czy olejecie stylistykę i weźmiecie surowego Tampę Drifta? A może lubicie uczucie potęgi między nogami i kupicie Westerna Cliffhangera, na którego wystarczy krótkoterminowa pożyczka? W każdym razie pamiętajcie, że nikt nie zabrania Wam kupienia wszystkiego.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Cunning_Stunts_Update_19_07/262272_Legendary_Ocelot.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Cunning_Stunts_Update_19_07/.dds",
+        "filesize": 2048
+    }
+}

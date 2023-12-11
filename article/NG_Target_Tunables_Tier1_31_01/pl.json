@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367126,"title":"","headline":"GTA Online","subtitle":"Specjalna, ograniczona czasowo oferta","content":"W tym tygodniu rozkręć swój motocyklowy klub dzięki specjalnym promocjom na siedziby klubu i 10-miejscowe garaże oraz zniżce 25% na choppera Western Zombie Bobber. Jeśli jednak wolisz szybsze przejażdżki, to do 13 lutego superauto Truffade Adder można nabyć za pół ceny.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Specjalna, ograniczona czasowo oferta",
+    "content": "W tym tygodniu rozkręć swój motocyklowy klub dzięki specjalnym promocjom na siedziby klubu i 10-miejscowe garaże oraz zniżce 25% na choppera Western Zombie Bobber. Jeśli jednak wolisz szybsze przejażdżki, to do 13 lutego superauto Truffade Adder można nabyć za pół ceny.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224788,"title":"","headline":"GTAV","subtitle":"Tryb pierwszoosobowy","content":"W każdym momencie możesz przełączyć kamerę w tryb pierwszej osoby.<br /><br />Do trybu pierwszoosobowego możesz przypisać odmienny schemat sterowania, niezależny od trybu trzeciej osoby, otwierając menu pauzy > ustawienia > sterowanie > rodzaj sterowania z pierwszej osoby. Tu też możesz ustawiać niestandardowe czułości rozglądania się, pole widzenia lub ustalić przechodzenie w tryb trzeciej osoby w określonych sytuacjach.<br /><br />Eksperymentuj i znajdź konfigurację odpowiadającą Twojemu stylowi gry.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_First_Person_Mode/262272_FPSMode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_First_Person_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224788,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Tryb pierwszoosobowy",
+    "content": "W każdym momencie możesz przełączyć kamerę w tryb pierwszej osoby.<br /><br />Do trybu pierwszoosobowego możesz przypisać odmienny schemat sterowania, niezależny od trybu trzeciej osoby, otwierając menu pauzy > ustawienia > sterowanie > rodzaj sterowania z pierwszej osoby. Tu też możesz ustawiać niestandardowe czułości rozglądania się, pole widzenia lub ustalić przechodzenie w tryb trzeciej osoby w określonych sytuacjach.<br /><br />Eksperymentuj i znajdź konfigurację odpowiadającą Twojemu stylowi gry.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_First_Person_Mode/262272_FPSMode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_First_Person_Mode/.dds",
+        "filesize": 2048
+    }
+}

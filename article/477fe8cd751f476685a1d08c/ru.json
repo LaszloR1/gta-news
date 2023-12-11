@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1637155000,"title":"","headline":"GTA Online","subtitle":"GTA Online для PlayStation 3 прекратит работу 16 декабря 2021","content":"Версия GTA Online для PlayStation 3, а также функция отслеживания статистики этой игры на сайте Social Club, официально прекратят работу 16 декабря 2021 года.<br /><br />Обратите внимание, что эти изменения относятся только к версии GTA Online для PlayStation 3; они не повлияют на доступ к сюжетному режиму Grand Theft Auto V и на данные о его прохождении.<br /><br />Подробности о том, как это скажется на вашем прогрессе и покупках в GTA Online для PlayStation 3, можно узнать на сайте службы поддержки Rockstar.","url":"","image":{"path":"sc/news/477fe8cd751f476685a1d08c/65664_GTAO_serverEmail_BigFeed_256x512.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1637155000,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online для PlayStation 3 прекратит работу 16 декабря 2021",
+    "content": "Версия GTA Online для PlayStation 3, а также функция отслеживания статистики этой игры на сайте Social Club, официально прекратят работу 16 декабря 2021 года.<br /><br />Обратите внимание, что эти изменения относятся только к версии GTA Online для PlayStation 3; они не повлияют на доступ к сюжетному режиму Grand Theft Auto V и на данные о его прохождении.<br /><br />Подробности о том, как это скажется на вашем прогрессе и покупках в GTA Online для PlayStation 3, можно узнать на сайте службы поддержки Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/477fe8cd751f476685a1d08c/65664_GTAO_serverEmail_BigFeed_256x512.dds",
+        "filesize": 65664
+    }
+}

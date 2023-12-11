@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430365,"title":"","headline":"GTA Online","subtitle":"Bonus della settimana di GTA Online: gara stunt premium (9 - 15 settembre)","content":"La gara stunt premium di questa settimana, pensata per le Banshee 900R, sarà la popolare ''Giro in centro''. Come dice il nome, questa gara premium nel centro di Los Santos è ricca di giri della morte, avvitamenti e salti. Ci sono premi in palio per i primi tre classificati e RP tripli per tutti i partecipanti. Per gareggiare, usa l'app ''Partita veloce'', o entra nel luogo di attivazione, indicato dall'icona gialla, delle gare premium a Legion Square.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430365,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonus della settimana di GTA Online: gara stunt premium (9 - 15 settembre)",
+    "content": "La gara stunt premium di questa settimana, pensata per le Banshee 900R, sarà la popolare ''Giro in centro''. Come dice il nome, questa gara premium nel centro di Los Santos è ricca di giri della morte, avvitamenti e salti. Ci sono premi in palio per i primi tre classificati e RP tripli per tutti i partecipanti. Per gareggiare, usa l'app ''Partita veloce'', o entra nel luogo di attivazione, indicato dall'icona gialla, delle gare premium a Legion Square.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/.dds",
+        "filesize": 2048
+    }
+}

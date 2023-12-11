@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175129,"title":"","headline":"GTA Online","subtitle":"生死救援","content":"一架專機迫降在了不該降落的地點。一隊保鏢需要和目標在救援區會合，並將他帶到撤離點。與此同時，殺手們要試圖率先找到目標，並將其幹掉。","url":"","image":{"path":"sc/news/NG_EAOC_Extraction/262272_Extraction.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Extraction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175129,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "生死救援",
+    "content": "一架專機迫降在了不該降落的地點。一隊保鏢需要和目標在救援區會合，並將他帶到撤離點。與此同時，殺手們要試圖率先找到目標，並將其幹掉。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Extraction/262272_Extraction.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Extraction/.dds",
+        "filesize": 2048
+    }
+}

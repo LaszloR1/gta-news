@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436353979,"title":"","headline":"GTA Online","subtitle":"Verdades como puños","content":"Los puños americanos han llegado a Ammu-Nation. La herramienta ideal para una mejor y más clara comunicación (en una pelea cuerpo a cuerpo).<br /><br />También está disponible la pistola de tirador, con más poder de parada que una escopeta con mecanismo de corredera.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436353979,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Verdades como puños",
+    "content": "Los puños americanos han llegado a Ammu-Nation. La herramienta ideal para una mejor y más clara comunicación (en una pelea cuerpo a cuerpo).<br /><br />También está disponible la pistola de tirador, con más poder de parada que una escopeta con mecanismo de corredera.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

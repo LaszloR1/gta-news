@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"CARRETERA Y MANTA","content":"¿Demasiados ojos en el cielo? Quédate en tierra firma y trafica bienes por tierra con las nuevas misiones de obtención y venta de mercancía, disponibles ahora para propietarios de negocios de mercancía de transporte aéreo.<br /><br />Organiza entregas y recogidas con Free Trade Shipping Co. en la oficina del hangar o llama a Ron para establecer tu próximo objetivo.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR","image":{"path":"sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "CARRETERA Y MANTA",
+    "content": "¿Demasiados ojos en el cielo? Quédate en tierra firma y trafica bienes por tierra con las nuevas misiones de obtención y venta de mercancía, disponibles ahora para propietarios de negocios de mercancía de transporte aéreo.<br /><br />Organiza entregas y recogidas con Free Trade Shipping Co. en la oficina del hangar o llama a Ron para establecer tu próximo objetivo.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR",
+    "image": {
+        "path": "sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

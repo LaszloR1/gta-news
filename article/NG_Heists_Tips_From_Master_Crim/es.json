@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977033,"title":"","headline":"GTA Online","subtitle":"Consejos sobre golpes de genios del crimen","content":"Aquí tienes algunos consejos para ayudarte a lidiar con los golpes:<br /><br />- Asegúrate de hablar con tu equipo. Poder comunicarte aumentará enormemente tus posibilidades.<br />- Ya puedes llevar varios chalecos de blindaje: pertréchate en Ammu-Nation y ponte un chaleco nuevo mediante el menú Interacción.<br />- Para recuperar salud al instante, pica algún aperitivo mientras estás a cubierto. Todos los beneficios en la mitad de tiempo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977033,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Consejos sobre golpes de genios del crimen",
+    "content": "Aquí tienes algunos consejos para ayudarte a lidiar con los golpes:<br /><br />- Asegúrate de hablar con tu equipo. Poder comunicarte aumentará enormemente tus posibilidades.<br />- Ya puedes llevar varios chalecos de blindaje: pertréchate en Ammu-Nation y ponte un chaleco nuevo mediante el menú Interacción.<br />- Para recuperar salud al instante, pica algún aperitivo mientras estás a cubierto. Todos los beneficios en la mitad de tiempo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380560618,"headline":"Newswire","subtitle":"Benvenuto a GTA Online","content":"Grand Theft Auto Online porta con sé le meccaniche principali di Grand Theft Auto, come la libertà di movimento, le missioni e una vasta gamma di attività secondarie, e le rende disponibili per più giocatori in un mondo online dettagliato e fluido.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds","filesize":65664},"landscape":{"path":"sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380560618,
+    "headline": "Newswire",
+    "subtitle": "Benvenuto a GTA Online",
+    "content": "Grand Theft Auto Online porta con sé le meccaniche principali di Grand Theft Auto, come la libertà di movimento, le missioni e una vasta gamma di attività secondarie, e le rende disponibili per più giocatori in un mondo online dettagliato e fluido.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds",
+        "filesize": 65664
+    }
+}

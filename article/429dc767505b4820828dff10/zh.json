@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA 線上模式","subtitle":"如何開始","content":"接起查理．里德打來的電話，跟「洛聖都天使」一起出一些傭兵的任務。您需要擁有巨象復仇者，才能使用復仇者作戰終端機進行新的系列任務。如果您還沒有復仇者，可透過軍火大亨取得。<br /><br />如果要進行新的生意機會，造訪您機庫的「自由貿易運貨」公司終端機，或是透過花園銀行法拍地產購買機庫，進行犯罪走私生意。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA 線上模式",
+    "subtitle": "如何開始",
+    "content": "接起查理．里德打來的電話，跟「洛聖都天使」一起出一些傭兵的任務。您需要擁有巨象復仇者，才能使用復仇者作戰終端機進行新的系列任務。如果您還沒有復仇者，可透過軍火大亨取得。<br /><br />如果要進行新的生意機會，造訪您機庫的「自由貿易運貨」公司終端機，或是透過花園銀行法拍地產購買機庫，進行犯罪走私生意。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

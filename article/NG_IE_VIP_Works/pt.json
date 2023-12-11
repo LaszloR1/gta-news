@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543351,"title":"","headline":"GTA Online","subtitle":"Trabalhos de Magnata","content":"Depois que você comprar um dos oito veículos especiais da Warstock Cache & Carry, um novo trabalho de Magnata ficará disponível para a sua organização. Podendo ser iniciadas pelo Chefe por meio de seu Menu de Interação, essas missões giram em torno das habilidades únicas de cada veículo.","url":"","image":{"path":"sc/news/NG_IE_VIP_Works/262272_vipworks.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_VIP_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543351,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Trabalhos de Magnata",
+    "content": "Depois que você comprar um dos oito veículos especiais da Warstock Cache & Carry, um novo trabalho de Magnata ficará disponível para a sua organização. Podendo ser iniciadas pelo Chefe por meio de seu Menu de Interação, essas missões giram em torno das habilidades únicas de cada veículo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_VIP_Works/262272_vipworks.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_VIP_Works/.dds",
+        "filesize": 2048
+    }
+}

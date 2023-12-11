@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999337,"title":"","headline":"Suggerimento online","subtitle":"Ricompense speciali per il grado 100","content":"Nuovi fantastici premi sono stati aggiunti con l'aggiornamento 'Non sono un Hipster' per chi riesce a diventare un boss del crimine e raggiungere il rango 100.<br /><br />Per voi anche l'esclusiva Dubsta 6x6, un imponente veicolo perfetto per muoversi nell'ambiente del crimine urbano moderno. Disponibile solo per pochi prescelti su warstock-cache-and-carry.com.<br /><br />Disponibile da Los Santos Customs l'esclusiva vernice dorata, per aggiungere un po' di lusso ai vostri veicoli.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Rank_100_Rewards/65664_Dubsta2.dds","filesize":65664},"landscape":{"path":"sc/news/Rank_100_Rewards/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999337,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Ricompense speciali per il grado 100",
+    "content": "Nuovi fantastici premi sono stati aggiunti con l'aggiornamento 'Non sono un Hipster' per chi riesce a diventare un boss del crimine e raggiungere il rango 100.<br /><br />Per voi anche l'esclusiva Dubsta 6x6, un imponente veicolo perfetto per muoversi nell'ambiente del crimine urbano moderno. Disponibile solo per pochi prescelti su warstock-cache-and-carry.com.<br /><br />Disponibile da Los Santos Customs l'esclusiva vernice dorata, per aggiungere un po' di lusso ai vostri veicoli.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Rank_100_Rewards/65664_Dubsta2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Rank_100_Rewards/.dds",
+        "filesize": 2048
+    }
+}

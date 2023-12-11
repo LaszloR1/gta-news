@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515579,"title":"","headline":"GTA Online","subtitle":"Unisciti al club","content":"Far parte di un MC apre nuove opportunità per tutti, dal fondatore all'ultimo arrivato. Competi contro i tuoi fratelli e le tue sorelle in nuove, brutali sfide. Rispondi all'appello del tuo presidente e difendi l'onore del tuo club dalle bande rivali. Datti alle attività più proficue e produci merce di grande valore ma dalla dubbia legalità. Prenditi cura dei tuoi affari e i tuoi affari si prenderanno cura di te.","url":"","image":{"path":"sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_JoinTheClub/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515579,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Unisciti al club",
+    "content": "Far parte di un MC apre nuove opportunità per tutti, dal fondatore all'ultimo arrivato. Competi contro i tuoi fratelli e le tue sorelle in nuove, brutali sfide. Rispondi all'appello del tuo presidente e difendi l'onore del tuo club dalle bande rivali. Datti alle attività più proficue e produci merce di grande valore ma dalla dubbia legalità. Prenditi cura dei tuoi affari e i tuoi affari si prenderanno cura di te.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/.dds",
+        "filesize": 2048
+    }
+}

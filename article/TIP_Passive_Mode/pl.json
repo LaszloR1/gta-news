@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380568682,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Uruchom tryb pasywny","content":"Jeśli potrzebujesz trochę czasu na spokojne zwiedzanie bez irytujących niespodzianek, przejdź w tryb pasywny. Pozwoli ci on uniknąć jakiejkolwiek agresji ze strony graczy, a jednocześnie uniemożliwi ich atakowanie. Strasznie dziwna sytuacja.<br /><br />Tryb pasywny można uruchomić w menu interakcji.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Passive_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380568682,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Uruchom tryb pasywny",
+    "content": "Jeśli potrzebujesz trochę czasu na spokojne zwiedzanie bez irytujących niespodzianek, przejdź w tryb pasywny. Pozwoli ci on uniknąć jakiejkolwiek agresji ze strony graczy, a jednocześnie uniemożliwi ich atakowanie. Strasznie dziwna sytuacja.<br /><br />Tryb pasywny można uruchomić w menu interakcji.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Passive_Mode/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455482,"title":"","headline":"GTA Online","subtitle":"Vender, vender, vender","content":"Por supuesto que hay riesgos, pero nada como la emoción de tener tus negocios libres de impuestos en paraísos fiscales, tus concesiones ilícitas, tus fábricas ocultas y tus granjas sospechosas bajo el mismo techo. Desde tu nuevo almacén podrás vender al por mayor tus diferentes artículos, o gestionar estrategias individuales para cada tipo de producto. Presta atención a los compradores especiales: estos clientes exclusivos son exigentes, pero cuentan con importantes capitales.","url":"","image":{"path":"sc/news/AH_Sell/349672_Big_Feed_Only_Sell_Missions.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vender, vender, vender",
+    "content": "Por supuesto que hay riesgos, pero nada como la emoción de tener tus negocios libres de impuestos en paraísos fiscales, tus concesiones ilícitas, tus fábricas ocultas y tus granjas sospechosas bajo el mismo techo. Desde tu nuevo almacén podrás vender al por mayor tus diferentes artículos, o gestionar estrategias individuales para cada tipo de producto. Presta atención a los compradores especiales: estos clientes exclusivos son exigentes, pero cuentan con importantes capitales.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Sell/349672_Big_Feed_Only_Sell_Missions.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

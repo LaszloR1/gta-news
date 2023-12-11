@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140184,"title":"GTA+","headline":"GTA+","subtitle":"알바니 브리검","content":"할로윈이 도시를 섬뜩한 빛으로 뒤덮는 가운데 GTA+ 회원은 11월 8일까지 바인우드 카 클럽에서 신규 알바니 브리검(머슬카)을 획득해 할로윈 시즌 분위기를 마음껏 뽐내며 즐겨볼 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하십시오.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/ec7fc9de37e74ae78074c59d/262272_GTAOPLUS_MP19_AlbanyBrighamLead_FINAL_BigFeed_ko_kr.dds","filesize":262272},"button":"GTA+에 가입하려면 선택하기"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140184,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "알바니 브리검",
+    "content": "할로윈이 도시를 섬뜩한 빛으로 뒤덮는 가운데 GTA+ 회원은 11월 8일까지 바인우드 카 클럽에서 신규 알바니 브리검(머슬카)을 획득해 할로윈 시즌 분위기를 마음껏 뽐내며 즐겨볼 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하십시오.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ec7fc9de37e74ae78074c59d/262272_GTAOPLUS_MP19_AlbanyBrighamLead_FINAL_BigFeed_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "GTA+에 가입하려면 선택하기"
+}

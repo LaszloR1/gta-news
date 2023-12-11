@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258266,"title":"","headline":"GTA Online","subtitle":"Apresentando: Black Madonna","content":"Embaixadora mundial do house, techno e do disco, Black Madonna vai trazer o ritmo para Los Santos. Fique no aguardo da ligação do English Dave, pegue-a e leve-a para fazer um show na sua boate. Acesse o computador do escritório da sua boate para mais informações e lembre-se: você pode contratar o DJ residente que quiser, quando quiser.<br /><br />E não esqueça de ouvir as últimas músicas de Solomun, Tale Of Us e Dixon na Rádio Los Santos Underground.","url":"","image":{"path":"sc/news/kls_AH_Black_Madonna/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Black-Madonna.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Apresentando: Black Madonna",
+    "content": "Embaixadora mundial do house, techno e do disco, Black Madonna vai trazer o ritmo para Los Santos. Fique no aguardo da ligação do English Dave, pegue-a e leve-a para fazer um show na sua boate. Acesse o computador do escritório da sua boate para mais informações e lembre-se: você pode contratar o DJ residente que quiser, quando quiser.<br /><br />E não esqueça de ouvir as últimas músicas de Solomun, Tale Of Us e Dixon na Rádio Los Santos Underground.",
+    "url": "",
+    "image": {
+        "path": "sc/news/kls_AH_Black_Madonna/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Black-Madonna.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

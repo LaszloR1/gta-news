@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1660300231,"title":"","headline":"GTA Online","subtitle":"FLY-DRIVE","content":"Passport? Check. Boarding pass? Check. Travel Insurance to cover accidental maiming during high speed, reckless, drug-fueled races over the island of a notorious narcotrafficker? Check. The Cayo Perico Series is now available.","url":"","image":{"path":"sc/news/3ef53ce66e5a4b2fa1d0b373/262272_GTAO310_CayoPerico_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1660300231,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "FLY-DRIVE",
+    "content": "Passport? Check. Boarding pass? Check. Travel Insurance to cover accidental maiming during high speed, reckless, drug-fueled races over the island of a notorious narcotrafficker? Check. The Cayo Perico Series is now available.",
+    "url": "",
+    "image": {
+        "path": "sc/news/3ef53ce66e5a4b2fa1d0b373/262272_GTAO310_CayoPerico_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867541,"title":"GTA+","headline":"GTA+","subtitle":"페노 라 쿠흐즈","content":"GTA+ 회원은 8월 16일까지 페노 라 쿠흐즈 스포츠카를 획득할 수 있습니다.<br /><br />프렌치 프라이와 프렌치 토스트에 이어 다음은 페노 라 쿠흐즈입니다. 이 세 가지는 미국 땅에서 흔히 소비되는 대표적인 프랑스산 수입품이지만, 그렇다고 고급스러운 유럽식 분위기를 우습게 봐선 안 됩니다. 이 차는 손쉽게 제한 속도를 돌파할 수 있기 때문이죠.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_ko_kr.dds","filesize":262272},"button":"GTA+에 가입하려면 선택하기"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867541,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "페노 라 쿠흐즈",
+    "content": "GTA+ 회원은 8월 16일까지 페노 라 쿠흐즈 스포츠카를 획득할 수 있습니다.<br /><br />프렌치 프라이와 프렌치 토스트에 이어 다음은 페노 라 쿠흐즈입니다. 이 세 가지는 미국 땅에서 흔히 소비되는 대표적인 프랑스산 수입품이지만, 그렇다고 고급스러운 유럽식 분위기를 우습게 봐선 안 됩니다. 이 차는 손쉽게 제한 속도를 돌파할 수 있기 때문이죠.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "GTA+에 가입하려면 선택하기"
+}

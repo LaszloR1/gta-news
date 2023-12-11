@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766817,"title":"","headline":"GTA Online","subtitle":"Semana de bonificación de Moteros","content":"Desde hoy y hasta el lunes 10 de octubre celebraremos una semana de bonificación con recompensas desbloqueables y descuentos. Consigue gratis en cualquier tienda una camiseta logo Western blanca y una sudadera Nagasaki. Y si eres coleccionista, conseguirás la camiseta logo Western negra al comprar la Western Nightblade. Mantén tu club equipado con descuentos en blindaje y munición, y disfruta de un -25% en cargadores de tambor y caja. Puedes añadir estilo con descuentos en tintes para armas.","url":"","image":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766817,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Semana de bonificación de Moteros",
+    "content": "Desde hoy y hasta el lunes 10 de octubre celebraremos una semana de bonificación con recompensas desbloqueables y descuentos. Consigue gratis en cualquier tienda una camiseta logo Western blanca y una sudadera Nagasaki. Y si eres coleccionista, conseguirás la camiseta logo Western negra al comprar la Western Nightblade. Mantén tu club equipado con descuentos en blindaje y munición, y disfruta de un -25% en cargadores de tambor y caja. Puedes añadir estilo con descuentos en tintes para armas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/.dds",
+        "filesize": 2048
+    }
+}

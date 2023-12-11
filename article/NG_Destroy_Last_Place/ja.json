@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349449,"title":"","headline":"GTA Online","subtitle":"最下位を破壊","content":"この大きなプレッシャーがのしかかるクラシックなレースでは、「最下位」は爆発を意味します。一定の間隔で、最下位のプレイヤーは爆発して脱落していきます。レースのホストは任意のレースロビーで「最下位を破壊」オプションを選択して、この脱落までの間隔を設定し、お気に入りのレースにさらなる緊迫感を与えることができます。","url":"","image":{"path":"sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Destroy_Last_Place/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "最下位を破壊",
+    "content": "この大きなプレッシャーがのしかかるクラシックなレースでは、「最下位」は爆発を意味します。一定の間隔で、最下位のプレイヤーは爆発して脱落していきます。レースのホストは任意のレースロビーで「最下位を破壊」オプションを選択して、この脱落までの間隔を設定し、お気に入りのレースにさらなる緊迫感を与えることができます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Destroy_Last_Place/.dds",
+        "filesize": 2048
+    }
+}

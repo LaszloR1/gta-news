@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292575,"title":"","headline":"GTA Online","subtitle":"Klasa biznesowa","content":"Gustujecie w morderczej szybkości czy zabójczej skuteczności? A może wolicie zwyczajną masakrę? W każdym razie, najnowsza gama dostępnych w Los Santos opcji transportowych na pewno spełni wasze oczekiwania. Od olbrzymich HVY Brickade z Warstock Cache and Carry do superszybkiego Buckinghama Nimbusa z Elitas Travel - teraz dotarcie z punktu A do punktu B będzie jeszcze przyjemniejsze.","url":"","image":{"path":"sc/news/NG_FAFF_Business_Class/262272_NG_Business_Class.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Business_Class/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292575,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Klasa biznesowa",
+    "content": "Gustujecie w morderczej szybkości czy zabójczej skuteczności? A może wolicie zwyczajną masakrę? W każdym razie, najnowsza gama dostępnych w Los Santos opcji transportowych na pewno spełni wasze oczekiwania. Od olbrzymich HVY Brickade z Warstock Cache and Carry do superszybkiego Buckinghama Nimbusa z Elitas Travel - teraz dotarcie z punktu A do punktu B będzie jeszcze przyjemniejsze.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Business_Class/262272_NG_Business_Class.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Business_Class/.dds",
+        "filesize": 2048
+    }
+}

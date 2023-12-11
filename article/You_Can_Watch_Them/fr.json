@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999847,"title":"","headline":"Astuce en ligne","subtitle":"Un peu de voyeurisme","content":"Los Santos est plein d'évènements dramatiques et spectaculaires à savourer.<br /><br />Installez-vous confortablement et regardez vos amis vivre leurs propres aventures avec l'option 'Regarder ami'. Il vous suffit pour cela de choisir un joueur en ligne dans l'onglet Amis et de sélectionner 'Regarder Ami'.<br /><br />Autorisez ou non vos amis à vous regarder dans le menu En ligne > Options.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds","filesize":262272},"landscape":{"path":"sc/news/You_Can_Watch_Them/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999847,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Un peu de voyeurisme",
+    "content": "Los Santos est plein d'évènements dramatiques et spectaculaires à savourer.<br /><br />Installez-vous confortablement et regardez vos amis vivre leurs propres aventures avec l'option 'Regarder ami'. Il vous suffit pour cela de choisir un joueur en ligne dans l'onglet Amis et de sélectionner 'Regarder Ami'.<br /><br />Autorisez ou non vos amis à vous regarder dans le menu En ligne > Options.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/You_Can_Watch_Them/.dds",
+        "filesize": 2048
+    }
+}

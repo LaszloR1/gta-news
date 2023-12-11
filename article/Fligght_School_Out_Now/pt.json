@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1408460749,"headline":"Atualização do GTA Online","subtitle":" Atualização Escola de Aviação de San Andreasjá disponível","content":"Sinta a emoção de ser um herói da pátria com a Atualização da Escola de Aviação de San Andreas.<br /><br />Alcance a superioridade aérea absoluta em 10 novas missões que irão deixá-lo tranquilo em qualquer situação tensa de piloto. Vá ao Aeroporto internacional de Los Santos para se inscrever.<br /><br />Depois, use seu tempo livre na coleção de novos veículos terrestres e aéreos, com o jato Western Besra, o helicóptero Swift, o jato de 16 lugares Buckingham Miljet e o carro esporte Invetero Coquette Clássico.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1408460749,
+    "headline": "Atualização do GTA Online",
+    "subtitle": " Atualização Escola de Aviação de San Andreasjá disponível",
+    "content": "Sinta a emoção de ser um herói da pátria com a Atualização da Escola de Aviação de San Andreas.<br /><br />Alcance a superioridade aérea absoluta em 10 novas missões que irão deixá-lo tranquilo em qualquer situação tensa de piloto. Vá ao Aeroporto internacional de Los Santos para se inscrever.<br /><br />Depois, use seu tempo livre na coleção de novos veículos terrestres e aéreos, com o jato Western Besra, o helicóptero Swift, o jato de 16 lugares Buckingham Miljet e o carro esporte Invetero Coquette Clássico.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds",
+        "filesize": 65664
+    }
+}

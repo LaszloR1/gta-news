@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"Exprimez-vous","content":"Il est temps de refaire votre garde-robe avec de nouvelles tenues qui feront leur petit effet lors de votre prochaine réunion de voitures. Découvrez tout un tas de nouveaux looks et trouvez celui qui vous convient le mieux. Sachez que de nouveaux motifs de tatouage sont disponibles dans les boutiques de tatouage de Los Santos, ainsi que de nouvelles coupes de cheveux.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Exprimez-vous",
+    "content": "Il est temps de refaire votre garde-robe avec de nouvelles tenues qui feront leur petit effet lors de votre prochaine réunion de voitures. Découvrez tout un tas de nouveaux looks et trouvez celui qui vous convient le mieux. Sachez que de nouveaux motifs de tatouage sont disponibles dans les boutiques de tatouage de Los Santos, ainsi que de nouvelles coupes de cheveux.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

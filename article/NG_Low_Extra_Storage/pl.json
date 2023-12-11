@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349573,"title":"","headline":"GTA Online","subtitle":"Dodatkowa przestrzeń garażowa","content":"Możesz teraz posiadać do 4 posiadłości bądź garaży. W mieście pojawił się warsztat Benny’s Original Motor Works, więc to chyba najlepszy moment, aby kupić sobie trochę miejsca na nowe wozy.","url":"","image":{"path":"sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Extra_Storage/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349573,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dodatkowa przestrzeń garażowa",
+    "content": "Możesz teraz posiadać do 4 posiadłości bądź garaży. W mieście pojawił się warsztat Benny’s Original Motor Works, więc to chyba najlepszy moment, aby kupić sobie trochę miejsca na nowe wozy.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Extra_Storage/.dds",
+        "filesize": 2048
+    }
+}

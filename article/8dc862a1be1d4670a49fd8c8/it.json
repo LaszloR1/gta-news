@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705086,"title":"GTA+","headline":"GTA+","subtitle":"Bravado Hotring Hellfire","content":"Gli abbonati a GTA+ possono riscattare la nuova auto sportiva Bravado Hotring Hellfire grazie ai vantaggi disponibili fino all'11 ottobre.<br /><br />La Bravado Hotring Hellfire (sportiva) fa galoppare i suoi cavalli con i motori turbo progettati per mettere alla prova anche i piloti più spericolati. <br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/8dc862a1be1d4670a49fd8c8/262272_GTA_Plus_MP18_LeadAsset_HortingHellfire_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per iscriverti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705086,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Bravado Hotring Hellfire",
+    "content": "Gli abbonati a GTA+ possono riscattare la nuova auto sportiva Bravado Hotring Hellfire grazie ai vantaggi disponibili fino all'11 ottobre.<br /><br />La Bravado Hotring Hellfire (sportiva) fa galoppare i suoi cavalli con i motori turbo progettati per mettere alla prova anche i piloti più spericolati. <br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/8dc862a1be1d4670a49fd8c8/262272_GTA_Plus_MP18_LeadAsset_HortingHellfire_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per iscriverti a GTA+"
+}

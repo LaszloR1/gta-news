@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527661,"title":"","headline":"GTA Online","subtitle":"Powerplay","content":"Cambia le regole del gioco e conquista la vittoria nella nuova modalità Competizione Powerplay grazie ad abilità speciali che ti permetteranno di potenziare te stesso e i tuoi alleati.<br /><br />Sebbene ogni giocatore ne possa usare solo uno alla volta,<br />potrai sfruttare sei potenziamenti temporanei da usare al momento giusto e  coordinare la tua squadra in modo da combinarne gli effetti e non lasciare scampo agli avversari.","url":"","image":{"path":"sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Power_Play_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527661,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Powerplay",
+    "content": "Cambia le regole del gioco e conquista la vittoria nella nuova modalità Competizione Powerplay grazie ad abilità speciali che ti permetteranno di potenziare te stesso e i tuoi alleati.<br /><br />Sebbene ogni giocatore ne possa usare solo uno alla volta,<br />potrai sfruttare sei potenziamenti temporanei da usare al momento giusto e  coordinare la tua squadra in modo da combinarne gli effetti e non lasciare scampo agli avversari.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Power_Play_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

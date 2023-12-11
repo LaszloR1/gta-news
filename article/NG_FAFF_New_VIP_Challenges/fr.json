@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465293992,"title":"","headline":"GTA Online","subtitle":"Nouveaux défis de gros bonnet","content":"Toutes les organisations de gros bonnets peuvent désormais mettre leurs talents à l'épreuve dans deux nouveaux défisµ: <br /><br />- Redistribution des richessesµ: remplissez-vous les poches lors de la dernière vague de fraudes aux distributeurs de billets qui sévit dans les rues de Los Santos.<br />- Flots monétairesµ: explorez le fond de l'océan à la recherche d'une cargaison perdue.<br /><br />Les gros bonnets peuvent lancer ces défis depuis la section Défis de gros bonnet du menu Interaction.","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465293992,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouveaux défis de gros bonnet",
+    "content": "Toutes les organisations de gros bonnets peuvent désormais mettre leurs talents à l'épreuve dans deux nouveaux défisµ: <br /><br />- Redistribution des richessesµ: remplissez-vous les poches lors de la dernière vague de fraudes aux distributeurs de billets qui sévit dans les rues de Los Santos.<br />- Flots monétairesµ: explorez le fond de l'océan à la recherche d'une cargaison perdue.<br /><br />Les gros bonnets peuvent lancer ces défis depuis la section Défis de gros bonnet du menu Interaction.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/.dds",
+        "filesize": 2048
+    }
+}

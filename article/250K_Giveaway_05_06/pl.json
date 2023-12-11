@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223113,"title":"","headline":"GTA Online","subtitle":"250 000 GTA$ w GTA Online","content":"Zbliżają się Mistrzostwa Świata. Zaloguj się do GTA Online w dowolnym momencie do 11 czerwca, aby zapisać się na listę chętnych do otrzymania specjalnej nagrody gotówkowej. Następnie wróć po 14 czerwca, aby otrzymać premię w wysokości 250µ000µGTA$. Nagroda gotówkowa zostanie przelana na rachunek w banku Maze najpóźniej 18 czerwca.","url":"","image":{"path":"sc/news/250K_Giveaway_05_06/349672_GTAO-footie.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223113,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "250 000 GTA$ w GTA Online",
+    "content": "Zbliżają się Mistrzostwa Świata. Zaloguj się do GTA Online w dowolnym momencie do 11 czerwca, aby zapisać się na listę chętnych do otrzymania specjalnej nagrody gotówkowej. Następnie wróć po 14 czerwca, aby otrzymać premię w wysokości 250µ000µGTA$. Nagroda gotówkowa zostanie przelana na rachunek w banku Maze najpóźniej 18 czerwca.",
+    "url": "",
+    "image": {
+        "path": "sc/news/250K_Giveaway_05_06/349672_GTAO-footie.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

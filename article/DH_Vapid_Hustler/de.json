@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1518532405,"title":"","headline":"GTA Online","subtitle":"Hustler","content":"Es gibt zwei verschiedene Arten von Menschen. Die einen sehen einen Vapid Hustler und erstarren in vollständiger Verwirrung, weil sie sich die Kombination aus dem Glamour eines 1930er Coupés und der Ungezähmtheit eines gepanzerten Muscle-Cars nicht erklären können. <br />Und die anderen, die bereits eine Meile Vorsprung haben, Vollgas geben und manisch lachen angesichts der Erkenntnis, endlich zuhause zu sein. <br /><br />Es ist Zeit zu entscheiden, auf welcher Seite du stehst.","url":"","image":{"path":"sc/news/DH_Vapid_Hustler/524416_BIGFEED_2017_1212_V01_E_512x1024_Hustler.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1518532405,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hustler",
+    "content": "Es gibt zwei verschiedene Arten von Menschen. Die einen sehen einen Vapid Hustler und erstarren in vollständiger Verwirrung, weil sie sich die Kombination aus dem Glamour eines 1930er Coupés und der Ungezähmtheit eines gepanzerten Muscle-Cars nicht erklären können. <br />Und die anderen, die bereits eine Meile Vorsprung haben, Vollgas geben und manisch lachen angesichts der Erkenntnis, endlich zuhause zu sein. <br /><br />Es ist Zeit zu entscheiden, auf welcher Seite du stehst.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Vapid_Hustler/524416_BIGFEED_2017_1212_V01_E_512x1024_Hustler.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

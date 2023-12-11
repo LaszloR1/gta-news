@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349348,"title":"","headline":"GTA Online","subtitle":"Nouveaux modes rivalité","content":"Trois nouveaux modes rivalité dédiés aux lowriders vous attendent :<br />Course de relais : à tour de rôle, deux coéquipiers doivent faire un tour de circuit.<br /><br />Défense offensive : un fuyard doit récupérer des balises depuis un lowrider, avec l'aide d'un bloqueur dont le but est de protéger le fuyard en repoussant les adversaires.<br /><br />Marche forcée : ne descendez pas en dessous d'une certaine vitesse sur un parcours parsemé de rampes et d'obstacles. Ralentissez un peu trop et vous exploserez.","url":"","image":{"path":"sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349348,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouveaux modes rivalité",
+    "content": "Trois nouveaux modes rivalité dédiés aux lowriders vous attendent :<br />Course de relais : à tour de rôle, deux coéquipiers doivent faire un tour de circuit.<br /><br />Défense offensive : un fuyard doit récupérer des balises depuis un lowrider, avec l'aide d'un bloqueur dont le but est de protéger le fuyard en repoussant les adversaires.<br /><br />Marche forcée : ne descendez pas en dessous d'une certaine vitesse sur un parcours parsemé de rampes et d'obstacles. Ralentissez un peu trop et vous exploserez.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

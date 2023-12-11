@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466852,"title":"","headline":"GTA Online","subtitle":"Seabreeze","content":"Nowy Western Seabreeze jest prywatnym odrzutowcem dla elastycznych prezesów. Lądowanie w obłokach kurzu na pustyni bądź z pluskiem w wodzie obok luksusowego jachtu – klasa biznesowa na każdą okazję i na każdy teren. A jeśli twój interes wymaga zamontowania karabinu maszynowego czy luku bombowego, to też nie ma problemu, miejsca jest w bród.","url":"","image":{"path":"sc/news/SR_Seabreeze/262272_Seabreeze.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466852,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Seabreeze",
+    "content": "Nowy Western Seabreeze jest prywatnym odrzutowcem dla elastycznych prezesów. Lądowanie w obłokach kurzu na pustyni bądź z pluskiem w wodzie obok luksusowego jachtu – klasa biznesowa na każdą okazję i na każdy teren. A jeśli twój interes wymaga zamontowania karabinu maszynowego czy luku bombowego, to też nie ma problemu, miejsca jest w bród.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Seabreeze/262272_Seabreeze.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

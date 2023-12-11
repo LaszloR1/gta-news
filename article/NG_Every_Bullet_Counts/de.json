@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1449571592,"title":"","headline":"GTA Online","subtitle":"Jede Kugel zählt","content":"Schnapp dir deine Präzisionspistole – es ist an der Zeit, in diesem nervenzerreißenden neuen Gegner-Modus dein einziges Leben gegen das anderer Scharfschützen aufs Spiel zu setzen. Du hast nur zwei Kugeln für deine Pistole, also verschwende sie nicht … ansonsten bleibt dir nur noch deine Klinge!","url":"","image":{"path":"sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Every_Bullet_Counts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1449571592,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Jede Kugel zählt",
+    "content": "Schnapp dir deine Präzisionspistole – es ist an der Zeit, in diesem nervenzerreißenden neuen Gegner-Modus dein einziges Leben gegen das anderer Scharfschützen aufs Spiel zu setzen. Du hast nur zwei Kugeln für deine Pistole, also verschwende sie nicht … ansonsten bleibt dir nur noch deine Klinge!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Every_Bullet_Counts/.dds",
+        "filesize": 2048
+    }
+}

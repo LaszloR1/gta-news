@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168427,"title":"","headline":"GTA Online","subtitle":"GTA 온라인 할인","content":"여러분이 보유한 이동 수단의 파괴력을 크게 높일 수 있는 일부 이동 수단 업그레이드 및 FH-1 헌터 파격 할인을 만끽하십시오. 그리고 다음 할인 혜택도 놓치지 마세요: <br /><br />포트 잔쿠도 격납고 A2 - 50% 할인<br />스페셜 패키지 창고 - 50% 할인<br />아쿠아리우스 요트 - 30% 할인<br />아르카디어스 비즈니스 센터 - 30% 할인<br /><br />그 외 다양한 혜택이 있습니다. 자세한 모든 내용을 보려면 Rockstar 뉴스와이어를 방문하십시오.","url":"","image":{"path":"sc/news/SSASSS_Discounts_27_03/262272_Hunter_REAL.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168427,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA 온라인 할인",
+    "content": "여러분이 보유한 이동 수단의 파괴력을 크게 높일 수 있는 일부 이동 수단 업그레이드 및 FH-1 헌터 파격 할인을 만끽하십시오. 그리고 다음 할인 혜택도 놓치지 마세요: <br /><br />포트 잔쿠도 격납고 A2 - 50% 할인<br />스페셜 패키지 창고 - 50% 할인<br />아쿠아리우스 요트 - 30% 할인<br />아르카디어스 비즈니스 센터 - 30% 할인<br /><br />그 외 다양한 혜택이 있습니다. 자세한 모든 내용을 보려면 Rockstar 뉴스와이어를 방문하십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Discounts_27_03/262272_Hunter_REAL.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

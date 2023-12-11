@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168342,"title":"","headline":"GTA Online","subtitle":"페가시 테저랙트","content":"드디어 모습을 드러낸 인간에 더 가까운 자동차, 페가시 테저랙트가 음속으로 도로를 할큅니다. 조심스럽게 다루십시오. 이런 차는 처음일 테니까요.","url":"","image":{"path":"sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168342,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "페가시 테저랙트",
+    "content": "드디어 모습을 드러낸 인간에 더 가까운 자동차, 페가시 테저랙트가 음속으로 도로를 할큅니다. 조심스럽게 다루십시오. 이런 차는 처음일 테니까요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

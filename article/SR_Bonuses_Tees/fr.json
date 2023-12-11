@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504113883,"title":"","headline":"GTA Online","subtitle":"Nouveaux t-shirts Rockstar dans GTA Online","content":"Comme on dit, jamais deux sans trois. Simplement en vous connectant à GTA Online, vous avez débloqué le t-shirt camouflage Rockstar noir, le t-shirt camouflage Rockstar blanc et le t-shirt lame de rasoir, désormais disponibles dans votre garde-robe.","url":"","image":{"path":"sc/news/SR_Bonuses_Tees/349672_tshirts-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504113883,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouveaux t-shirts Rockstar dans GTA Online",
+    "content": "Comme on dit, jamais deux sans trois. Simplement en vous connectant à GTA Online, vous avez débloqué le t-shirt camouflage Rockstar noir, le t-shirt camouflage Rockstar blanc et le t-shirt lame de rasoir, désormais disponibles dans votre garde-robe.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Bonuses_Tees/349672_tshirts-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

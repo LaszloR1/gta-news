@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999974,"title":"","headline":"GTA Online","subtitle":"Smuggler Chic","content":"In this brave new world of low-duty high-profit trade you have to look the part - and no self-respecting smuggler would be seen dead or alive this season without the latest clothes and tattoos. So whether you’re an urban pirate, a fighter ace, or you just need some thermal and night-vision headgear for your next cargo sale, there’s something new in town for you. ","url":"","image":{"path":"sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999974,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Smuggler Chic",
+    "content": "In this brave new world of low-duty high-profit trade you have to look the part - and no self-respecting smuggler would be seen dead or alive this season without the latest clothes and tattoos. So whether you’re an urban pirate, a fighter ace, or you just need some thermal and night-vision headgear for your next cargo sale, there’s something new in town for you. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

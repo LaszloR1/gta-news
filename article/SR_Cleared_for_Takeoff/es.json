@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999984,"title":"","headline":"GTA Online","subtitle":"Permiso para despegar","content":"El cielo de Los Santos va a recibir mucho tráfico. Hay disponibles cazas clásicos, helicópteros en miniatura o bombarderos de la Guerra Fría (y a un precio especial para los contrabandistas consagrados). Puedes guardar estas magníficas máquinas voladoras en tu hangar privado e invertir en un taller de aeronaves si quieres personalizarlas. Incluso puedes convertir y almacenar cualquier aeronave Pegasus como vehículo personal sin coste adicional. Sé creativo y conquista los cielos.","url":"","image":{"path":"sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Permiso para despegar",
+    "content": "El cielo de Los Santos va a recibir mucho tráfico. Hay disponibles cazas clásicos, helicópteros en miniatura o bombarderos de la Guerra Fría (y a un precio especial para los contrabandistas consagrados). Puedes guardar estas magníficas máquinas voladoras en tu hangar privado e invertir en un taller de aeronaves si quieres personalizarlas. Incluso puedes convertir y almacenar cualquier aeronave Pegasus como vehículo personal sin coste adicional. Sé creativo y conquista los cielos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

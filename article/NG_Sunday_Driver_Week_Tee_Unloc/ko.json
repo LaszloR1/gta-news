@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472803518,"title":"","headline":"GTA Online","subtitle":"초보 운전 주간: GTA$와 RP 2배 레이스 플레이 목록, 티셔츠 잠금 해제(9월 2-8일)","content":"오늘부터 9월 8일 목요일까지 특별한 머슬카 레이스 플레이 목록에서 GTA$와 RP를 2배로 획득할 수 있습니다. <br /><br />로그인 시 옷장의 스페셜 아이템에서 찾아볼 수 있는 바하마 마마스 티셔츠를 입고 인간 광고판처럼 뛰어다니십시오!<br /><br />자세한 내용은 http://www.rockstargames.com/V/ko_kr/news을 확인하십시오.","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Tee_Unloc/262272_NG_Sunday_Drivers_Tee_Unlock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Tee_Unloc/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472803518,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "초보 운전 주간: GTA$와 RP 2배 레이스 플레이 목록, 티셔츠 잠금 해제(9월 2-8일)",
+    "content": "오늘부터 9월 8일 목요일까지 특별한 머슬카 레이스 플레이 목록에서 GTA$와 RP를 2배로 획득할 수 있습니다. <br /><br />로그인 시 옷장의 스페셜 아이템에서 찾아볼 수 있는 바하마 마마스 티셔츠를 입고 인간 광고판처럼 뛰어다니십시오!<br /><br />자세한 내용은 http://www.rockstargames.com/V/ko_kr/news을 확인하십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Tee_Unloc/262272_NG_Sunday_Drivers_Tee_Unlock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Tee_Unloc/.dds",
+        "filesize": 2048
+    }
+}

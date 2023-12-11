@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292370,"title":"","headline":"GTA Online","subtitle":"Zamiana miejsc","content":"W świecie skrajności ten tryb adwersarza da wam szansę szybko wspiąć się po drabince społecznej. Zwycięska drużyna jest skazana na sukces, a przegranych czeka rynsztok. Między tymi sprzecznościami można przemieścić się w jeden sposób: brutalnie mordując zwycięzcę i zajmując jego miejsce. To wasza szansa, aby w końcu wykorzystać swoje umiejętności do zrobienia kariery.","url":"","image":{"path":"sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Trading_Places/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zamiana miejsc",
+    "content": "W świecie skrajności ten tryb adwersarza da wam szansę szybko wspiąć się po drabince społecznej. Zwycięska drużyna jest skazana na sukces, a przegranych czeka rynsztok. Między tymi sprzecznościami można przemieścić się w jeden sposób: brutalnie mordując zwycięzcę i zajmując jego miejsce. To wasza szansa, aby w końcu wykorzystać swoje umiejętności do zrobienia kariery.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Trading_Places/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465293992,"title":"","headline":"GTA Online","subtitle":"Nuevos desafíos vip","content":"Ahora, todas las organizaciones vip pueden competir en dos nuevos desafíos:<br /><br />- Sacando pasta: sé el líder de la manada en la última oleada de fraudes contra cajeros automáticos que azota las calles de Los Santos.<br />- Saqueo: compite para recuperar el máximo de carga posible del suelo oceánico.<br /><br />Como vip, puedes acceder desde la sección Desafíos vip del menú Interacción.","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465293992,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuevos desafíos vip",
+    "content": "Ahora, todas las organizaciones vip pueden competir en dos nuevos desafíos:<br /><br />- Sacando pasta: sé el líder de la manada en la última oleada de fraudes contra cajeros automáticos que azota las calles de Los Santos.<br />- Saqueo: compite para recuperar el máximo de carga posible del suelo oceánico.<br /><br />Como vip, puedes acceder desde la sección Desafíos vip del menú Interacción.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/.dds",
+        "filesize": 2048
+    }
+}

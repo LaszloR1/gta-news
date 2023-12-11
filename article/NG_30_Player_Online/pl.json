@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223045,"title":"","headline":"GTA Online","subtitle":"Do 30 graczy w GTA Online","content":"Rozgrywki Grand Theft Auto Online przyjmują teraz do 30 graczy w trybie swobodnej rozgrywki i kompatybilnych akcjach. Oznacza to, że więcej graczy stanie za Tobą murem. Albo kołkiem w gardle, to zależy.<br /><br />Chcesz mieć na oku ten niespotykany wcześniej tłumek? Wypróbuj tryb obserwatora, dzięki któremu dwójka graczy może przyglądać się reszcie z wygody domowego zacisza.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_30_Player_Online/262272_30Players.dds","filesize":262272},"landscape":{"path":"sc/news/NG_30_Player_Online/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223045,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Do 30 graczy w GTA Online",
+    "content": "Rozgrywki Grand Theft Auto Online przyjmują teraz do 30 graczy w trybie swobodnej rozgrywki i kompatybilnych akcjach. Oznacza to, że więcej graczy stanie za Tobą murem. Albo kołkiem w gardle, to zależy.<br /><br />Chcesz mieć na oku ten niespotykany wcześniej tłumek? Wypróbuj tryb obserwatora, dzięki któremu dwójka graczy może przyglądać się reszcie z wygody domowego zacisza.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_30_Player_Online/262272_30Players.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_30_Player_Online/.dds",
+        "filesize": 2048
+    }
+}

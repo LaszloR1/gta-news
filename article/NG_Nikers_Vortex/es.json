@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477402323,"title":"","headline":"GTA Online","subtitle":"Pegassi Vortex","content":"¿No consigues decidir si te identificas con el corredor vintage embutido en cuero o con el loco de la velocidad hipermoderno? Por suerte para ti, en Pegassi tampoco lograban decidirse, y con su nueva Vortex han logrado transformar todas tus dudas en una atrevida fusión de lo viejo y lo nuevo. Si esto no te provoca una sonrisa grande y cara, nada lo hará.","url":"","image":{"path":"sc/news/NG_Nikers_Vortex/262272_Vortex.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Nikers_Vortex/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477402323,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Vortex",
+    "content": "¿No consigues decidir si te identificas con el corredor vintage embutido en cuero o con el loco de la velocidad hipermoderno? Por suerte para ti, en Pegassi tampoco lograban decidirse, y con su nueva Vortex han logrado transformar todas tus dudas en una atrevida fusión de lo viejo y lo nuevo. Si esto no te provoca una sonrisa grande y cara, nada lo hará.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Nikers_Vortex/262272_Vortex.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Nikers_Vortex/.dds",
+        "filesize": 2048
+    }
+}

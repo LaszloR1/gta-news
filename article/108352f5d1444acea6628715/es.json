@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTA Online","subtitle":"OPERACIONES DE LSA","content":"Acepta tres contratos privados con los formidables Los Santos Angels para realizar arriesgadas operaciones. Las misiones se inician desde el nuevo terminal o llamando a Charlie y cada una de ellas te ofrecerá una indumentaria al completarla por primera vez, además de una rotación de objetivos opcionales en cada repetición para obtener un buen botín adicional.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "OPERACIONES DE LSA",
+    "content": "Acepta tres contratos privados con los formidables Los Santos Angels para realizar arriesgadas operaciones. Las misiones se inician desde el nuevo terminal o llamando a Charlie y cada una de ellas te ofrecerá una indumentaria al completarla por primera vez, además de una rotación de objetivos opcionales en cada repetición para obtener un buen botín adicional.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

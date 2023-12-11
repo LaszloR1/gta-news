@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465308369,"title":"","headline":"GTA Online","subtitle":"Further Adventures in Finance and Felony Now Available","content":"Continue your mission to become the ultimate criminal kingpin of Los Santos and Blaine County in Further Adventures in Finance and Felony. As CEO, you'll enjoy all the special abilities of being a VIP, plus access to a whole new frontier of black market opportunities with SecuroServ’s patented Special Cargo Network, allowing you to buy and sell illegal goods across a city-wide empire.<br /><br />Check out rockstargames.com/newswire for all the details.","url":"","image":{"path":"sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds","filesize":349672},"landscape":{"path":"sc/news/NG_FAFF_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465308369,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Further Adventures in Finance and Felony Now Available",
+    "content": "Continue your mission to become the ultimate criminal kingpin of Los Santos and Blaine County in Further Adventures in Finance and Felony. As CEO, you'll enjoy all the special abilities of being a VIP, plus access to a whole new frontier of black market opportunities with SecuroServ’s patented Special Cargo Network, allowing you to buy and sell illegal goods across a city-wide empire.<br /><br />Check out rockstargames.com/newswire for all the details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314859,"title":"","headline":"GTA Online","subtitle":"ディレクターモード","content":"ロックスターエディターでは、ユニークなビデオ作成に役立つ様々なツールを搭載したディレクターモードを使用できます。<br /><br />ゲームプレイを録画する前に、ディレクターモードを起動して多数のストーリーモードのキャラクターや動物を選びましょう。天候、時間帯、ロケーションなどを設定できるほか、爆発パンチなどのチートも使用できます。<br /><br />ディレクターモードは、ポーズメニューの「ロックスターエディター」内から起動可能です。","url":"","image":{"path":"sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Director-Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314859,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ディレクターモード",
+    "content": "ロックスターエディターでは、ユニークなビデオ作成に役立つ様々なツールを搭載したディレクターモードを使用できます。<br /><br />ゲームプレイを録画する前に、ディレクターモードを起動して多数のストーリーモードのキャラクターや動物を選びましょう。天候、時間帯、ロケーションなどを設定できるほか、爆発パンチなどのチートも使用できます。<br /><br />ディレクターモードは、ポーズメニューの「ロックスターエディター」内から起動可能です。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Director-Mode/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1479491081,"title":"","headline":"GTA Online","subtitle":"Bravado Youga","content":"Hot into San Andreas is the Bravado Youga - the little van with a whole lot of potential. Whether you’re after a discreet commercial transport, a mobile hotbox, or a soundproof dungeon on wheels, this little beauty can be whatever you need it to be.","url":"","image":{"path":"sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Youga/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1479491081,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bravado Youga",
+    "content": "Hot into San Andreas is the Bravado Youga - the little van with a whole lot of potential. Whether you’re after a discreet commercial transport, a mobile hotbox, or a soundproof dungeon on wheels, this little beauty can be whatever you need it to be.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Youga/.dds",
+        "filesize": 2048
+    }
+}

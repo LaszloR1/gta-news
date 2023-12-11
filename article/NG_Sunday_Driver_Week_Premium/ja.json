@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472804167,"title":"","headline":"GTA Online","subtitle":"サンデードライバーズウィーク：新たなプレミアムスタントレース(9月2日～8日)","content":"今週のプレミアムスタントレースは「ハイウォール2」です。期間中いっぱい、このグランド・セノーラ砂漠を舞台にしたマッスルカー限定のコースに挑戦するだけで、RPを通常の3倍獲得できます。さらに表彰台フィニッシュを果たせば、1位は10万ドル、2位は3万ドル、3位は2万ドルのGTAマネーを獲得できます。携帯電話の「クイックジョブ」アプリを使うか、リージャン・スクエアにあるプレミアムレースの黄色いアイコンに入ってレースに参加しましょう。","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472804167,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "サンデードライバーズウィーク：新たなプレミアムスタントレース(9月2日～8日)",
+    "content": "今週のプレミアムスタントレースは「ハイウォール2」です。期間中いっぱい、このグランド・セノーラ砂漠を舞台にしたマッスルカー限定のコースに挑戦するだけで、RPを通常の3倍獲得できます。さらに表彰台フィニッシュを果たせば、1位は10万ドル、2位は3万ドル、3位は2万ドルのGTAマネーを獲得できます。携帯電話の「クイックジョブ」アプリを使うか、リージャン・スクエアにあるプレミアムレースの黄色いアイコンに入ってレースに参加しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Premium/.dds",
+        "filesize": 2048
+    }
+}

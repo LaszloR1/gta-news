@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380566407,"headline":"オンラインのヒント","subtitle":"開始位置","content":"初期設定では「GTAオンライン」を開始すると、前回ゲームを終了した地点からのスタートとなります。出現位置の変更は「ONLINE」の「オプション」から行えます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Launch_Location/65664_Launch_Location_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380566407,
+    "headline": "オンラインのヒント",
+    "subtitle": "開始位置",
+    "content": "初期設定では「GTAオンライン」を開始すると、前回ゲームを終了した地点からのスタートとなります。出現位置の変更は「ONLINE」の「オプション」から行えます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Launch_Location/65664_Launch_Location_portrait.dds",
+        "filesize": 65664
+    }
+}

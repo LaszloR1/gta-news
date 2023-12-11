@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979449,"title":"","headline":"GTA Online","subtitle":"Southern SA Super Autos-Update","content":"Southern SA Super Autos hat sein Angebot erweitert und führt nun auch einige der beliebtesten Automodelle von Los Santos, wie:<br />- Ocelot Jackal<br />- Ubermacht Oracle XS<br />- Benefactor Schafter<br /><br />... und viele andere mehr. Wenn du während eines Raubüberfalls auf ein neues Fahrzeug stößt, wird es zum Kauf freigeschaltet. Schau dir also immer wieder mal das Angebot auf SouthernSanAndreasSuperAutos.com an.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Southern_SA_Autos/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Southern SA Super Autos-Update",
+    "content": "Southern SA Super Autos hat sein Angebot erweitert und führt nun auch einige der beliebtesten Automodelle von Los Santos, wie:<br />- Ocelot Jackal<br />- Ubermacht Oracle XS<br />- Benefactor Schafter<br /><br />... und viele andere mehr. Wenn du während eines Raubüberfalls auf ein neues Fahrzeug stößt, wird es zum Kauf freigeschaltet. Schau dir also immer wieder mal das Angebot auf SouthernSanAndreasSuperAutos.com an.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/.dds",
+        "filesize": 2048
+    }
+}

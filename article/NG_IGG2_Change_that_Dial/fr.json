@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356420,"title":"","headline":"GTA Online","subtitle":"Change de station","content":"Nous sommes très heureux de vous annoncer l'arrivée sur les ondes de Los Santos d'une toute nouvelle station de radio.<br /><br />The Lab diffusera des chansons de tout genre sous l'égide de Dr. No and the Chemical Bro, qui devraient ajouter un peu de piment à vos virées quotidiennes (armées ou non).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Change_that_Dial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356420,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Change de station",
+    "content": "Nous sommes très heureux de vous annoncer l'arrivée sur les ondes de Los Santos d'une toute nouvelle station de radio.<br /><br />The Lab diffusera des chansons de tout genre sous l'égide de Dr. No and the Chemical Bro, qui devraient ajouter un peu de piment à vos virées quotidiennes (armées ou non).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/.dds",
+        "filesize": 2048
+    }
+}

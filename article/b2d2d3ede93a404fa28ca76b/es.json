@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677117,"title":"GTA+","headline":"GTA+","subtitle":"Ropa exclusiva","content":"En Los Santos, la imagen es muy importante. Mejora la tuya con estas prendas exclusivas que obtendrás gratis con tu suscripción a GTA+ hasta el 19 de julio:<br /><br />- Pantalones cortos de chándal Hinterland<br />- Camiseta Hinterland<br />- Máscara Señorita libertad verde brillante<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Detalles en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_es_es.dds","filesize":262272},"button":"Selecciona para registrarte en GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677117,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Ropa exclusiva",
+    "content": "En Los Santos, la imagen es muy importante. Mejora la tuya con estas prendas exclusivas que obtendrás gratis con tu suscripción a GTA+ hasta el 19 de julio:<br /><br />- Pantalones cortos de chándal Hinterland<br />- Camiseta Hinterland<br />- Máscara Señorita libertad verde brillante<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Detalles en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para registrarte en GTA+"
+}

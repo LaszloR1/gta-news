@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1658771317,"title":"","headline":"GTAµOnline","subtitle":"RECHARGEMENT EN MASSE","content":"Ne perdez plus de temps à parcourir les munitions arme par arme. Achetez toutes vos munitions d'un coup depuis le menu Interaction. Sélectionnez toutes les munitions, faites le plein et reprenez le combat.","url":"","image":{"path":"sc/news/5c4eafe26d8e490ba964f78d/262272_GTAO_CE_Load_it_Up_BF.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1658771317,
+    "title": "",
+    "headline": "GTAµOnline",
+    "subtitle": "RECHARGEMENT EN MASSE",
+    "content": "Ne perdez plus de temps à parcourir les munitions arme par arme. Achetez toutes vos munitions d'un coup depuis le menu Interaction. Sélectionnez toutes les munitions, faites le plein et reprenez le combat.",
+    "url": "",
+    "image": {
+        "path": "sc/news/5c4eafe26d8e490ba964f78d/262272_GTAO_CE_Load_it_Up_BF.dds",
+        "filesize": 262272
+    }
+}

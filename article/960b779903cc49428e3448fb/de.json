@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285749,"title":"GTA+","headline":"GTA+","subtitle":"Kostenlose Kleidung","content":"Mitglieder bei GTA+ können sich bis zum 13.µSeptember das Outfit ''Furioses Fisten'' (nur für weibliche Spielcharaktere), das Love-Fist-T-Shirt und das Love-Fist-Flannellhemd kostenlos abholen.<br /><br />Die Mitgliedschaft bei GTA+ verlängert sich automatisch jeden Monat. Kündigung jederzeit möglich. Weitere Informationen auf rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_de_de.dds","filesize":262272},"button":"Auswählen, um GTA+ zu abonnieren"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285749,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Kostenlose Kleidung",
+    "content": "Mitglieder bei GTA+ können sich bis zum 13.µSeptember das Outfit ''Furioses Fisten'' (nur für weibliche Spielcharaktere), das Love-Fist-T-Shirt und das Love-Fist-Flannellhemd kostenlos abholen.<br /><br />Die Mitgliedschaft bei GTA+ verlängert sich automatisch jeden Monat. Kündigung jederzeit möglich. Weitere Informationen auf rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_de_de.dds",
+        "filesize": 262272
+    },
+    "button": "Auswählen, um GTA+ zu abonnieren"
+}

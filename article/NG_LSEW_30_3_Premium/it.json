@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241233,"title":"","headline":"GTA Online","subtitle":"Bonus di GTA Online: gara stunt premium (30 settembre - 3 ottobre)","content":"La gara stunt premium di questo fine settimana è davvero rovente. A partire da oggi, partecipa alla gara ''Postbruciatore'' per sole moto e otterrai RP triplicati, oltre alla possibilità di vincere una pioggia di GTA$. Per partecipare, entra nel cerchio giallo delle gare premium a Legion Square o usa l'app ''Partita veloce''.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241233,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonus di GTA Online: gara stunt premium (30 settembre - 3 ottobre)",
+    "content": "La gara stunt premium di questo fine settimana è davvero rovente. A partire da oggi, partecipa alla gara ''Postbruciatore'' per sole moto e otterrai RP triplicati, oltre alla possibilità di vincere una pioggia di GTA$. Per partecipare, entra nel cerchio giallo delle gare premium a Legion Square o usa l'app ''Partita veloce''.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/.dds",
+        "filesize": 2048
+    }
+}

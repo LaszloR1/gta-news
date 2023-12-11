@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916829,"title":"","headline":"GTA Online","subtitle":"Die beste Verteidigung","content":"Dein neuer Bunker ist nicht nur die einzige Immobilie in deinem Portfolio, die einem Atomschlag standhalten kann, sondern dient auch als Schaltzentrale für den Einstieg in den schwärzesten Markt im ganzen Staat. CEOs, VIPs und MC-Presidents können hier einen erstklassigen Waffenhandel aufbauen: Sorge für Nachschub, produziere Waffen und verkaufe sie, bevor die Behörden oder Konkurrenten dazwischenfunken. Mach dich bereit für die exorbitanten Gewinne, die nur die Kriegswirtschaft zu bieten hat.","url":"","image":{"path":"sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Best_Defence/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916829,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Die beste Verteidigung",
+    "content": "Dein neuer Bunker ist nicht nur die einzige Immobilie in deinem Portfolio, die einem Atomschlag standhalten kann, sondern dient auch als Schaltzentrale für den Einstieg in den schwärzesten Markt im ganzen Staat. CEOs, VIPs und MC-Presidents können hier einen erstklassigen Waffenhandel aufbauen: Sorge für Nachschub, produziere Waffen und verkaufe sie, bevor die Behörden oder Konkurrenten dazwischenfunken. Mach dich bereit für die exorbitanten Gewinne, die nur die Kriegswirtschaft zu bieten hat.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Best_Defence/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

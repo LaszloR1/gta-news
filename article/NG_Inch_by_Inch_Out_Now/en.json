@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452581,"title":"","headline":"GTA Online","subtitle":"Inch by Inch","content":"Show off your agility in a brand new Adversary Mode. Two teams fight over possession of the package and attempt to deliver it over each other’s line. When holding the package, you won’t have room for a gun so you’ll be relying on your teammates covering fire for that dash to the line. If you can’t handle the pressure, you can always drop the package and let your teammate take over. Highest score wins.","url":"","image":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Inch by Inch",
+    "content": "Show off your agility in a brand new Adversary Mode. Two teams fight over possession of the package and attempt to deliver it over each other’s line. When holding the package, you won’t have room for a gun so you’ll be relying on your teammates covering fire for that dash to the line. If you can’t handle the pressure, you can always drop the package and let your teammate take over. Highest score wins.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

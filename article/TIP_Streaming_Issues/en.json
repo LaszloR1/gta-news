@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832177,"headline":"Online Tip","subtitle":"Streaming Issues?","content":"If you see some items which look odd while driving around Los Santos, such as cars or objects moving around strangely, then either you’ve been at Granny’s sherry again or you are in a session with someone with a poor connection speed or having some network problems.  If it persists you can change session or avoid inviting the offender on your Jobs, or lay off the fortified wines.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832177,
+    "headline": "Online Tip",
+    "subtitle": "Streaming Issues?",
+    "content": "If you see some items which look odd while driving around Los Santos, such as cars or objects moving around strangely, then either you’ve been at Granny’s sherry again or you are in a session with someone with a poor connection speed or having some network problems.  If it persists you can change session or avoid inviting the offender on your Jobs, or lay off the fortified wines.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

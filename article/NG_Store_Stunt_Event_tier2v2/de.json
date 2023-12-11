@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488453994,"title":"","headline":"Zeitlich begrenzte Angebote nur für dich!","subtitle":"","content":"Erhalte diese Woche exklusive Rabatte auf drei eindrucksvolle Hochleistungsfahrzeuge: Spare 50µ% beim Kauf des avantgardistischen Grotti X80 Proto, des unfassbar schnellen Pegassi Reaper und des futuristischen Sportmotorrads Nagasaki Shotaro. Auf den rennbereiten Sportwagen Dewbauchee Specter gibt es außerdem 25µ% Rabatt.<br /><br />Bringe deine wachsende Flotte in einer neuen 10er-Garage unter – diese gibt es bis 13. März ebenfalls mit 25 % Rabatt","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488453994,
+    "title": "",
+    "headline": "Zeitlich begrenzte Angebote nur für dich!",
+    "subtitle": "",
+    "content": "Erhalte diese Woche exklusive Rabatte auf drei eindrucksvolle Hochleistungsfahrzeuge: Spare 50µ% beim Kauf des avantgardistischen Grotti X80 Proto, des unfassbar schnellen Pegassi Reaper und des futuristischen Sportmotorrads Nagasaki Shotaro. Auf den rennbereiten Sportwagen Dewbauchee Specter gibt es außerdem 25µ% Rabatt.<br /><br />Bringe deine wachsende Flotte in einer neuen 10er-Garage unter – diese gibt es bis 13. März ebenfalls mit 25 % Rabatt",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/.dds",
+        "filesize": 2048
+    }
+}

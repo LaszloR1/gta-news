@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349737,"title":"","headline":"GTA Online","subtitle":"GTA Online: Lowriders maintenant disponible","content":"Découvrez Benny's Original Motor Works, le seul garage spécialisé dans la customisation de lowriders. La mise à jour inclut également deux nouvelles voitures, ainsi que des armes, vêtements et tatouages inédits, et bien plus encore.<br /><br />Aidez Lamar à devenir le nouveau roi de la scène des lowriders de Los Santos en exécutant 8 nouvelles missions de contact, ou faites équipe pour réussir les trois nouveaux modes rivalité.<br /><br />Pour plus de détails, rendez-vous sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowriders_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349737,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Lowriders maintenant disponible",
+    "content": "Découvrez Benny's Original Motor Works, le seul garage spécialisé dans la customisation de lowriders. La mise à jour inclut également deux nouvelles voitures, ainsi que des armes, vêtements et tatouages inédits, et bien plus encore.<br /><br />Aidez Lamar à devenir le nouveau roi de la scène des lowriders de Los Santos en exécutant 8 nouvelles missions de contact, ou faites équipe pour réussir les trois nouveaux modes rivalité.<br /><br />Pour plus de détails, rendez-vous sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowriders_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

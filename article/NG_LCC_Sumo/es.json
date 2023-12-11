@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044119,"title":"","headline":"GTA Online","subtitle":"Sumo","content":"Aplasta, empuja y esquiva a los rivales en este nuevo modo Adversario en el que tendrás que trabajar en equipo para expulsar a los rivales de la arena. El tamaño, la velocidad y el control son las claves; elige un vehículo que se adapte a tu estilo e intenta que tu equipo sea el último que quede dentro de la arena antes de que se acabe el tiempo.","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumo",
+    "content": "Aplasta, empuja y esquiva a los rivales en este nuevo modo Adversario en el que tendrás que trabajar en equipo para expulsar a los rivales de la arena. El tamaño, la velocidad y el control son las claves; elige un vehículo que se adapte a tu estilo e intenta que tu equipo sea el último que quede dentro de la arena antes de que se acabe el tiempo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

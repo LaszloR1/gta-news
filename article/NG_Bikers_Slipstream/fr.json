@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519976,"title":"","headline":"GTA Online","subtitle":"Aspirations collectives","content":"Mettez ce satané individualisme au placard dans Aspirations collectives, le dernier mode rivalité à sévir dans les rues de Los Santos. Il s'agit d'une course en équipe un peu particulièreµ: pour progresser, vos amis motards et vous-mêmes devez franchir les points de passage ensemble. La première équipe à franchir la ligne d'arrivée l'emporte. Et vous pouvez nous croire, l'aspiration n'est pas en option.","url":"","image":{"path":"sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Slipstream/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519976,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Aspirations collectives",
+    "content": "Mettez ce satané individualisme au placard dans Aspirations collectives, le dernier mode rivalité à sévir dans les rues de Los Santos. Il s'agit d'une course en équipe un peu particulièreµ: pour progresser, vos amis motards et vous-mêmes devez franchir les points de passage ensemble. La première équipe à franchir la ligne d'arrivée l'emporte. Et vous pouvez nous croire, l'aspiration n'est pas en option.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Slipstream/.dds",
+        "filesize": 2048
+    }
+}

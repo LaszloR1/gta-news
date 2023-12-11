@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174949,"title":"","headline":"GTA Online","subtitle":"Dur comme l'acier","content":"Prenez le contrôle des rues pour votre organisation grâce à deux nouvelles armes. Équipez-vous de l'imposant revolver lourd, la définition même du gros calibre efficace, ou préférez le cran d'arrêt pour les combats rapprochés. Devenez un gros bonnet ou un garde du corps pour avoir accès à des variations exclusives de ces armes.","url":"","image":{"path":"sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Cold_Steel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174949,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dur comme l'acier",
+    "content": "Prenez le contrôle des rues pour votre organisation grâce à deux nouvelles armes. Équipez-vous de l'imposant revolver lourd, la définition même du gros calibre efficace, ou préférez le cran d'arrêt pour les combats rapprochés. Devenez un gros bonnet ou un garde du corps pour avoir accès à des variations exclusives de ces armes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/.dds",
+        "filesize": 2048
+    }
+}

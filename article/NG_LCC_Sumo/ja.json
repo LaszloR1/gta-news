@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044119,"title":"","headline":"GTA Online","subtitle":"The 相撲","content":"チームで力を合わせて対戦相手をアリーナから押し出す新しい敵対モードです。激しくぶつかり合い、ライバルをかわしましょう。サイズ、スピード、コントロールなど、自分に合うスタイルの乗り物を選び、制限時間終了までに最後までアリーナに残ったチームの勝利となります。","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "The 相撲",
+    "content": "チームで力を合わせて対戦相手をアリーナから押し出す新しい敵対モードです。激しくぶつかり合い、ライバルをかわしましょう。サイズ、スピード、コントロールなど、自分に合うスタイルの乗り物を選び、制限時間終了までに最後までアリーナに残ったチームの勝利となります。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

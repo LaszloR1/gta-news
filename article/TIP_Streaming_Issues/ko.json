@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832181,"headline":"온라인 팁","subtitle":"스트리밍 이슈?","content":"로스 산토스 이곳저곳을 드라이브하다가 자동차나 물건들이 이상하게 움직인다거나 하는 황당한 일을 목격했다면 당신은 많이 취했거나, 아주 느린 연결 또는 네트워크 문제가 있는 플레이어와 같은 세션에 있는 겁니다. 그런 현상이 계속된다면 세션을 변경하거나, 작업에서 아무나 초대하는 걸 피하거나, 술잔을 내려놓으십시오.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832181,
+    "headline": "온라인 팁",
+    "subtitle": "스트리밍 이슈?",
+    "content": "로스 산토스 이곳저곳을 드라이브하다가 자동차나 물건들이 이상하게 움직인다거나 하는 황당한 일을 목격했다면 당신은 많이 취했거나, 아주 느린 연결 또는 네트워크 문제가 있는 플레이어와 같은 세션에 있는 겁니다. 그런 현상이 계속된다면 세션을 변경하거나, 작업에서 아무나 초대하는 걸 피하거나, 술잔을 내려놓으십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

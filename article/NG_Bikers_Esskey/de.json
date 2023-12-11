@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511556,"title":"","headline":"GTA Online","subtitle":"Pegassi Esskey","content":"Die Pegassi Esskey ist jetzt bei Händlern in San Andreas erhältlich und ist deine Eintrittskarte in eine Welt voller Klasse und Glaubwürdigkeit, von der du niemals gedacht hättest, dass du sie nur mit einem Tastendruck würdest kaufen können.<br /><br />Schwing dich auf den Rücken dieser Schönheit und lass dich in eine Zeit entführen, in der Benzin günstig, dein Vater cool und deine Mutter heiß waren.","url":"","image":{"path":"sc/news/NG_Bikers_Esskey/262272_Esskey.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Esskey/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511556,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Esskey",
+    "content": "Die Pegassi Esskey ist jetzt bei Händlern in San Andreas erhältlich und ist deine Eintrittskarte in eine Welt voller Klasse und Glaubwürdigkeit, von der du niemals gedacht hättest, dass du sie nur mit einem Tastendruck würdest kaufen können.<br /><br />Schwing dich auf den Rücken dieser Schönheit und lass dich in eine Zeit entführen, in der Benzin günstig, dein Vater cool und deine Mutter heiß waren.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Esskey/262272_Esskey.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Esskey/.dds",
+        "filesize": 2048
+    }
+}

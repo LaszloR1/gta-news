@@ -1,1 +1,16 @@
-{"types":["priority"],"date":1676561637,"title":"","headline":"GTA Online","subtitle":"Wielopiętrowy garaż przy Eclipse Blvd","content":"Czas powiększyć i upiększyć twoją kolekcję. Na Eclipse Boulevard w Los Santos można teraz nabyć nowy, wielopoziomowy garaż, który zapewnia miejsce na 50 pojazdów oraz oferuje 5 wielkich pięter z wyjątkowym wyposażeniem.<br /><br />To nowe wykwintne sanktuarium motoryzacyjno-towarzyskie jest już dostępne do kupienia w GTA Online bezpośrednio na stronie Dynasty 8 w grze. Członkowie GTA+ mogą odebrać je za darmo do 15 marca.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE","image":{"path":"sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds","filesize":262272},"button":"Zajrzyj na stronę Dynasty 8"}
+{
+    "types": [
+        "priority"
+    ],
+    "date": 1676561637,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wielopiętrowy garaż przy Eclipse Blvd",
+    "content": "Czas powiększyć i upiększyć twoją kolekcję. Na Eclipse Boulevard w Los Santos można teraz nabyć nowy, wielopoziomowy garaż, który zapewnia miejsce na 50 pojazdów oraz oferuje 5 wielkich pięter z wyjątkowym wyposażeniem.<br /><br />To nowe wykwintne sanktuarium motoryzacyjno-towarzyskie jest już dostępne do kupienia w GTA Online bezpośrednio na stronie Dynasty 8 w grze. Członkowie GTA+ mogą odebrać je za darmo do 15 marca.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE",
+    "image": {
+        "path": "sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Zajrzyj na stronę Dynasty 8"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453862,"title":"","headline":"GTA Online","subtitle":"드롭 존","content":"최대 4팀이 ''드롭 존''을 차지하기 위해 카고밥에서 뛰어내려 빠르게 지상으로 강하합니다. 드롭 존을 먼저 확보하여 점령 시간을 끝까지 채우는 팀이 승리합니다. 제한 시간 안에 승리하는 팀이 없으면 서든 데스가 시작됩니다.","url":"","image":{"path":"sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drop_Zone/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453862,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "드롭 존",
+    "content": "최대 4팀이 ''드롭 존''을 차지하기 위해 카고밥에서 뛰어내려 빠르게 지상으로 강하합니다. 드롭 존을 먼저 확보하여 점령 시간을 끝까지 채우는 팀이 승리합니다. 제한 시간 안에 승리하는 팀이 없으면 서든 데스가 시작됩니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drop_Zone/.dds",
+        "filesize": 2048
+    }
+}

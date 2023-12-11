@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513941004,"title":"","headline":"GTA Online","subtitle":"スラッシャーズ","content":"「GTAオンライン」の最新敵対モードに、正々堂々とした戦いなど存在しません。片方のチームがショットガンで存分に残虐性を発揮する間、もう一方のチームはフラッシュライトのみをお供に完全なパニックに陥ります。ただし、その役割は1分ごとに入れ替わるため、甘美な復讐の蜜の味を楽しむことができるでしょう。最後まで生き延びたチームが勝利を手にします。","url":"","image":{"path":"sc/news/DH_Slashers/262272_bigfeed-slashers.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513941004,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "スラッシャーズ",
+    "content": "「GTAオンライン」の最新敵対モードに、正々堂々とした戦いなど存在しません。片方のチームがショットガンで存分に残虐性を発揮する間、もう一方のチームはフラッシュライトのみをお供に完全なパニックに陥ります。ただし、その役割は1分ごとに入れ替わるため、甘美な復讐の蜜の味を楽しむことができるでしょう。最後まで生き延びたチームが勝利を手にします。",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Slashers/262272_bigfeed-slashers.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

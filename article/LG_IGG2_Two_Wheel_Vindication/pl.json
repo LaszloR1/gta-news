@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356730,"title":"","headline":"GTA Online","subtitle":"Dwukołowy potwór","content":"Najnowszy motocykl Dinka – Vindicator – jest już dostępny do kupienia na legendarymotorsport.net.<br /><br />Ta dwukołowa bestia wykorzystuje technologię KERS i wzbudzi zazdrość wszystkich. Rusz na jednym kole i zobacz, jak wszystkim opadają szczęki.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356730,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dwukołowy potwór",
+    "content": "Najnowszy motocykl Dinka – Vindicator – jest już dostępny do kupienia na legendarymotorsport.net.<br /><br />Ta dwukołowa bestia wykorzystuje technologię KERS i wzbudzi zazdrość wszystkich. Rusz na jednym kole i zobacz, jak wszystkim opadają szczęki.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/.dds",
+        "filesize": 2048
+    }
+}

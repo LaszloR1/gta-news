@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174994,"title":"","headline":"GTA Online","subtitle":"Organize Crime!","content":"As a VIP, earn cash and RP for you and your Bodyguards by tackling exciting and profitable VIP Work modes - available in the SecuroServ section of the Player Interaction Menu. Or test your mettle against your Bodyguards by starting a VIP Challenge and discover your Organization’s most important employee.","url":"","image":{"path":"sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Organize_Crime/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174994,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Organize Crime!",
+    "content": "As a VIP, earn cash and RP for you and your Bodyguards by tackling exciting and profitable VIP Work modes - available in the SecuroServ section of the Player Interaction Menu. Or test your mettle against your Bodyguards by starting a VIP Challenge and discover your Organization’s most important employee.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314859,"title":"","headline":"GTA Online","subtitle":"Mode Réalisateur","content":"L'Éditeur Rockstar propose un mode Réalisateur, qui offre toute une série d'outils pour vous aider à créer des vidéos tout à fait uniques.<br /><br />Avant d'enregistrer une séquence de jeu, lancez le mode Réalisateur pour choisir parmi une pléthore de personnages et d'animaux du mode Histoire, pour définir la météo, la période de la journée, le lieu et même pour activer des fonctionnalités comme les coups explosifs.<br /><br />Retrouvez le mode Réalisateur dans l'Éditeur Rockstar en passant par le menu Pause.","url":"","image":{"path":"sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Director-Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314859,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mode Réalisateur",
+    "content": "L'Éditeur Rockstar propose un mode Réalisateur, qui offre toute une série d'outils pour vous aider à créer des vidéos tout à fait uniques.<br /><br />Avant d'enregistrer une séquence de jeu, lancez le mode Réalisateur pour choisir parmi une pléthore de personnages et d'animaux du mode Histoire, pour définir la météo, la période de la journée, le lieu et même pour activer des fonctionnalités comme les coups explosifs.<br /><br />Retrouvez le mode Réalisateur dans l'Éditeur Rockstar en passant par le menu Pause.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Director-Mode/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530803746,"title":"Gästeliste-Vorteile","headline":"Gästeliste-Vorteile","subtitle":"Du stehst auf der Gästeliste!","content":"Deine exklusiven Gästeliste-Belohnungen sind jetzt verfügbar:<br /><br />- Geldgeschenk in Höhe von 100.000µGTA$<br />- Blauer Drahtmodell-Bodysuit (verfügbar in deinem Kleiderschrank oder kostenlos in jedem Bekleidungsgeschäft in Los Santos)<br /><br />Schau nächste Woche wieder rein, um deine nächsten Gästeliste-Belohnungen abzuholen.","url":"","image":{"path":"sc/news/Guest_List_TY_Additional/349672_bigfeed-guestlist-V3_GER.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530803746,
+    "title": "Gästeliste-Vorteile",
+    "headline": "Gästeliste-Vorteile",
+    "subtitle": "Du stehst auf der Gästeliste!",
+    "content": "Deine exklusiven Gästeliste-Belohnungen sind jetzt verfügbar:<br /><br />- Geldgeschenk in Höhe von 100.000µGTA$<br />- Blauer Drahtmodell-Bodysuit (verfügbar in deinem Kleiderschrank oder kostenlos in jedem Bekleidungsgeschäft in Los Santos)<br /><br />Schau nächste Woche wieder rein, um deine nächsten Gästeliste-Belohnungen abzuholen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_Additional/349672_bigfeed-guestlist-V3_GER.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

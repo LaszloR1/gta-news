@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1510680628,"title":"","headline":"GTA Online","subtitle":"Cyclone","content":"En lo que al motor de tu coche se refiere, uno podría pensar que la electricidad es para los débiles y aquellos excesivamente preocupados por el medioambiente. Bueno, pues el Coil Cyclone está aquí para hacerte cambiar de opinión más rápido que una descarga de 1000 voltios directa a la sien. Créenos cuando te decimos que, si los hechos valen más que las palabras, una aceleración así no tiene precio.","url":"","image":{"path":"sc/news/SR_Cyclone_V2/262272_Cyclone.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1510680628,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cyclone",
+    "content": "En lo que al motor de tu coche se refiere, uno podría pensar que la electricidad es para los débiles y aquellos excesivamente preocupados por el medioambiente. Bueno, pues el Coil Cyclone está aquí para hacerte cambiar de opinión más rápido que una descarga de 1000 voltios directa a la sien. Créenos cuando te decimos que, si los hechos valen más que las palabras, una aceleración así no tiene precio.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cyclone_V2/262272_Cyclone.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

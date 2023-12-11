@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1506609933,"title":"RED DEAD REDEMPTION II","headline":"RED DEAD REDEMPTION II","subtitle":"Regardez la nouvelle bande-annonce","content":"Regardez la toute nouvelle bande-annonce pour Red Dead Redemption 2. Découvrez l'histoire d'Arthur Morgan et de la bande de Van der Linde alors qu'ils parcourent les vastes terres sauvages d'Amérique en commettant méfaits sur méfaits dans un seul et unique but : survivre. Sortie au printemps 2018.<br /><br />Rendez-vous sur rockstargames.com/fr/.","url":"","image":{"path":"sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-FRE.dds","filesize":349672},"style":"rdr"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1506609933,
+    "title": "RED DEAD REDEMPTION II",
+    "headline": "RED DEAD REDEMPTION II",
+    "subtitle": "Regardez la nouvelle bande-annonce",
+    "content": "Regardez la toute nouvelle bande-annonce pour Red Dead Redemption 2. Découvrez l'histoire d'Arthur Morgan et de la bande de Van der Linde alors qu'ils parcourent les vastes terres sauvages d'Amérique en commettant méfaits sur méfaits dans un seul et unique but : survivre. Sortie au printemps 2018.<br /><br />Rendez-vous sur rockstargames.com/fr/.",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-FRE.dds",
+        "filesize": 349672
+    },
+    "style": "rdr"
+}

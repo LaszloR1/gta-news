@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522771252,"title":"","headline":"GTA Online","subtitle":"Vapid Caracara","content":"Ask any connoisseur of military-grade, weaponized trucks and they will confirm that bigger is, in fact, better. And if you want to see them wipe the drool off their wide-open chin, just whisper the word “Caracara”. It’s official: wildly disproportionate force has a new name.","url":"","image":{"path":"sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522771252,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Caracara",
+    "content": "Ask any connoisseur of military-grade, weaponized trucks and they will confirm that bigger is, in fact, better. And if you want to see them wipe the drool off their wide-open chin, just whisper the word “Caracara”. It’s official: wildly disproportionate force has a new name.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

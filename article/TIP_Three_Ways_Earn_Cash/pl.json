@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380570241,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Trzy sposoby na szybki zarobek","content":"Jeśli kiedykolwiek zabraknie ci kasy przed akcją, pamiętaj, że jest wiele sposobów, by szybko się dorobić:<br /><br />- Napadaj na sklepy zaznaczone na radarze. Jeśli nosisz maskę, możesz uniknąć rozpoznania przy ponownych wizytach.<br />- Simeon często potrzebuje konkretnych pojazdów. Jeśli możesz znaleźć potrzebne mu modele, zapłaci ci za nie (przejrzyj swoje SMS-y).<br />- Zwykłe wozy można sprzedawać w Los Santos Customs.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Three_Ways_Earn_Cash/262272_3WaystoEarnCash.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Three_Ways_Earn_Cash/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380570241,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Trzy sposoby na szybki zarobek",
+    "content": "Jeśli kiedykolwiek zabraknie ci kasy przed akcją, pamiętaj, że jest wiele sposobów, by szybko się dorobić:<br /><br />- Napadaj na sklepy zaznaczone na radarze. Jeśli nosisz maskę, możesz uniknąć rozpoznania przy ponownych wizytach.<br />- Simeon często potrzebuje konkretnych pojazdów. Jeśli możesz znaleźć potrzebne mu modele, zapłaci ci za nie (przejrzyj swoje SMS-y).<br />- Zwykłe wozy można sprzedawać w Los Santos Customs.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Three_Ways_Earn_Cash/262272_3WaystoEarnCash.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Three_Ways_Earn_Cash/.dds",
+        "filesize": 2048
+    }
+}

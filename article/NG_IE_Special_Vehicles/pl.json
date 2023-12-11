@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543271,"title":"","headline":"GTA Online","subtitle":"Pojazdy specjalne","content":"Gdy już udowodnicie, że potraficie z wprawą i zaangażowaniem dostarczać niemal legalne pojazdy, SecuroServ odezwie się z nieco bardziej ekskluzywnymi zadaniami. Zdobycie tych rzadkich, niecodziennych i zabronionych na szczeblu federalnym pojazdów jest dość trudne, ale warto się pomęczyć. A jeśli pokażecie, że wam się należą, SecuroServ zapewni zniżkę na zakup własnych egzemplarzy.","url":"","image":{"path":"sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Special_Vehicles/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543271,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pojazdy specjalne",
+    "content": "Gdy już udowodnicie, że potraficie z wprawą i zaangażowaniem dostarczać niemal legalne pojazdy, SecuroServ odezwie się z nieco bardziej ekskluzywnymi zadaniami. Zdobycie tych rzadkich, niecodziennych i zabronionych na szczeblu federalnym pojazdów jest dość trudne, ale warto się pomęczyć. A jeśli pokażecie, że wam się należą, SecuroServ zapewni zniżkę na zakup własnych egzemplarzy.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Special_Vehicles/.dds",
+        "filesize": 2048
+    }
+}

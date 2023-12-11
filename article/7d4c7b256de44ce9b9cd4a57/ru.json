@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867528,"title":"GTA+","headline":"GTA+","subtitle":"Скидки на улучшения HSW","content":"Подписчики GTA+ могут получить скидку 50% на улучшения HSW до 16 августа включительно.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/7d4c7b256de44ce9b9cd4a57/262272_GTA_PlusTab_Mp16_AdditionalBenefits_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867528,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Скидки на улучшения HSW",
+    "content": "Подписчики GTA+ могут получить скидку 50% на улучшения HSW до 16 августа включительно.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/7d4c7b256de44ce9b9cd4a57/262272_GTA_PlusTab_Mp16_AdditionalBenefits_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

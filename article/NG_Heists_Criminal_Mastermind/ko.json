@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425982371,"title":"","headline":"GTA Online","subtitle":"지능 범죄 도전","content":"모든 습격을 완료한 후에는 두둑한 보상을 주는 엘리트 보너스 및 도전이 남아 있습니다.<br />하지만 단 하나, 가장 악독한 천재 범죄자만이 해낼 수 있는 도전이 있는데... 바로 지능 범죄 도전입니다:<br />같은 플레이어들과 함께 어려운 난이도에서, 5가지 습격을 모든 준비 과정을 포함하여 순서대로 진행하고, 단 한차례도 팀 생명을 잃지 말고 완료하십시오.<br />이 도전을 해내면 각 플레이어는 보너스로 무려 $10,000,000를 받습니다(한 번만 달성 가능).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Criminal_Mastermind/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425982371,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "지능 범죄 도전",
+    "content": "모든 습격을 완료한 후에는 두둑한 보상을 주는 엘리트 보너스 및 도전이 남아 있습니다.<br />하지만 단 하나, 가장 악독한 천재 범죄자만이 해낼 수 있는 도전이 있는데... 바로 지능 범죄 도전입니다:<br />같은 플레이어들과 함께 어려운 난이도에서, 5가지 습격을 모든 준비 과정을 포함하여 순서대로 진행하고, 단 한차례도 팀 생명을 잃지 말고 완료하십시오.<br />이 도전을 해내면 각 플레이어는 보너스로 무려 $10,000,000를 받습니다(한 번만 달성 가능).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/.dds",
+        "filesize": 2048
+    }
+}

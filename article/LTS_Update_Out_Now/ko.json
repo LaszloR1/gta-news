@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1412256185,"headline":"GTA 온라인 업데이트","subtitle":"라스트 팀 스탠딩 업데이트 이용 가능","content":"라스트 팀 스탠딩 업데이트에서 강력한 무기, 전략적인 장비, 고성능 이동 수단과 새로운 생성기 기능을 소개합니다.<br /><br />이제 여러분은 오직 한 번의 기회만 가지고 다른 팀을 상대하는 이 전략적이고 치명적인 모드에서 고유의 GTA 온라인 작업을 설계할 수 있습니다. <br /><br />이 업데이트에는 10개의 새로운 라스트 팀 스탠딩 작업과 GTA 온라인의 다양한 추가 변경 및 수정 사항이 있습니다. 목숨은 하나뿐이니 현명하게 행동하십시오. ","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds","filesize":65664},"landscape":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1412256185,
+    "headline": "GTA 온라인 업데이트",
+    "subtitle": "라스트 팀 스탠딩 업데이트 이용 가능",
+    "content": "라스트 팀 스탠딩 업데이트에서 강력한 무기, 전략적인 장비, 고성능 이동 수단과 새로운 생성기 기능을 소개합니다.<br /><br />이제 여러분은 오직 한 번의 기회만 가지고 다른 팀을 상대하는 이 전략적이고 치명적인 모드에서 고유의 GTA 온라인 작업을 설계할 수 있습니다. <br /><br />이 업데이트에는 10개의 새로운 라스트 팀 스탠딩 작업과 GTA 온라인의 다양한 추가 변경 및 수정 사항이 있습니다. 목숨은 하나뿐이니 현명하게 행동하십시오. ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds",
+        "filesize": 65664
+    }
+}

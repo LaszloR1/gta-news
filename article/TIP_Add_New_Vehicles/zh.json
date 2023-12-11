@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394809166,"headline":"線上小訣竅","subtitle":"在您製作的競速中加入新載具","content":"當 GTA 線上模式加入新款載具後，這些載具並不會自動於您過去製作的競速中開放選擇使用。~n~~n~不過，您可以快速編輯並重新發佈任何競速，以加入新款載具。您可以透過製作器的「可使用的載具」選單執行此操作 - 只要進入選單，然後使用 ~INPUT_FRONTEND_X~，即可修改所選載具類型中允許使用的載具。然後您可以指定被允許的載具，並加入任何已經新推出的載具。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809166,
+    "headline": "線上小訣竅",
+    "subtitle": "在您製作的競速中加入新載具",
+    "content": "當 GTA 線上模式加入新款載具後，這些載具並不會自動於您過去製作的競速中開放選擇使用。~n~~n~不過，您可以快速編輯並重新發佈任何競速，以加入新款載具。您可以透過製作器的「可使用的載具」選單執行此操作 - 只要進入選單，然後使用 ~INPUT_FRONTEND_X~，即可修改所選載具類型中允許使用的載具。然後您可以指定被允許的載具，並加入任何已經新推出的載具。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["priority"],"date":1676561637,"title":"","headline":"GTA Online","subtitle":"Le garage à plusieurs étages d'Eclipse Boulevard","content":"Il est temps d'agrandir et de mettre en valeur votre collection de véhicules. Un tout nouveau garage à plusieurs étages situé sur Eclipse Boulevard, à Los Santos, permet d'accueillir jusqu’à 50µvéhicules et propose des services uniques sur ses cinq étages spacieux.<br /><br />Ce nouveau sanctuaire automobile et social somptueux est désormais disponible à l'achat dans GTAµOnline depuis le site de Dynastyµ8. Les abonnés à GTA+ peuvent récupérer le leur gratuitement jusqu'au 15µmars.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE","image":{"path":"sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds","filesize":262272},"button":"Se rendre sur le site de Dynasty 8"}
+{
+    "types": [
+        "priority"
+    ],
+    "date": 1676561637,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le garage à plusieurs étages d'Eclipse Boulevard",
+    "content": "Il est temps d'agrandir et de mettre en valeur votre collection de véhicules. Un tout nouveau garage à plusieurs étages situé sur Eclipse Boulevard, à Los Santos, permet d'accueillir jusqu’à 50µvéhicules et propose des services uniques sur ses cinq étages spacieux.<br /><br />Ce nouveau sanctuaire automobile et social somptueux est désormais disponible à l'achat dans GTAµOnline depuis le site de Dynastyµ8. Les abonnés à GTA+ peuvent récupérer le leur gratuitement jusqu'au 15µmars.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE",
+    "image": {
+        "path": "sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Se rendre sur le site de Dynasty 8"
+}

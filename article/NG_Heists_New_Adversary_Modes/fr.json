@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979851,"title":"","headline":"GTA Online","subtitle":"Nouveaux modes rivalité","content":"La mise à jour Braquages propose de nouveaux modes rivalité pour vous divertir un peu entre deux braquages. Tous ces modes sont accessibles à partir du rang 12.<br /><br />Siège éjectable - Défendez votre territoire coûte que coûte ! Endurance, détermination et armes lourdes sont de rigueur.<br />Hasta La Vista - Échappez aux camions de la mort ! Vous pouvez vous passer de moteur... n'est-ce pas ?<br />Chasse à l'homme - Une équipe doit atteindre sa destination à pied sans se faire attraper par des chasseurs.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979851,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouveaux modes rivalité",
+    "content": "La mise à jour Braquages propose de nouveaux modes rivalité pour vous divertir un peu entre deux braquages. Tous ces modes sont accessibles à partir du rang 12.<br /><br />Siège éjectable - Défendez votre territoire coûte que coûte ! Endurance, détermination et armes lourdes sont de rigueur.<br />Hasta La Vista - Échappez aux camions de la mort ! Vous pouvez vous passer de moteur... n'est-ce pas ?<br />Chasse à l'homme - Une équipe doit atteindre sa destination à pied sans se faire attraper par des chasseurs.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

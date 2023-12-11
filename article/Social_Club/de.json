@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571727,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"Die Webseite des Social Clubs hält dich über alles auf dem Laufenden. Zum Beispiel:<br /><br />Fotos - Mach mit dem Handy Fotos und teile deine verrückten Heldentaten, deine verkorksten neuen Haarschnitte und dein fettes Ego mit der ganzen Welt. Sie sind sofort im Social Club zu sehen.<br />Neuigkeiten - Hier findest du die neuesten Infos und Social-Club-Ereignisse.<br />Selbstbewertung - Schau dir deine Statistiken an und vergleiche sie auf den Bestenlisten mit dem Rest der Welt.<br />Und vieles mehr …","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571727,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "Die Webseite des Social Clubs hält dich über alles auf dem Laufenden. Zum Beispiel:<br /><br />Fotos - Mach mit dem Handy Fotos und teile deine verrückten Heldentaten, deine verkorksten neuen Haarschnitte und dein fettes Ego mit der ganzen Welt. Sie sind sofort im Social Club zu sehen.<br />Neuigkeiten - Hier findest du die neuesten Infos und Social-Club-Ereignisse.<br />Selbstbewertung - Schau dir deine Statistiken an und vergleiche sie auf den Bestenlisten mit dem Rest der Welt.<br />Und vieles mehr …",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

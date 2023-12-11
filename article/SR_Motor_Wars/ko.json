@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504030786,"title":"","headline":"GTA Online","subtitle":"모터워즈","content":"이 무자비한 대적 모드는 2등 따위는 허락하지 않는 치명적인 사냥 게임입니다. 최대 4팀이 낙하산을 타고 점점 작아지는 교전 지역으로 들어가며, 여기엔 치명적인 각종 총기류, 폭발물 그리고 강력한 무기화된 이동 수단이 흩어져 있습니다. 점점 작아지는 맵에서 협동하여 상대 팀을 완전히 전멸시키고 살아남아 승리하십시오. ","url":"","image":{"path":"sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504030786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "모터워즈",
+    "content": "이 무자비한 대적 모드는 2등 따위는 허락하지 않는 치명적인 사냥 게임입니다. 최대 4팀이 낙하산을 타고 점점 작아지는 교전 지역으로 들어가며, 여기엔 치명적인 각종 총기류, 폭발물 그리고 강력한 무기화된 이동 수단이 흩어져 있습니다. 점점 작아지는 맵에서 협동하여 상대 팀을 완전히 전멸시키고 살아남아 승리하십시오. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

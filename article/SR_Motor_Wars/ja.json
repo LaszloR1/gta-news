@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504030786,"title":"","headline":"GTA Online","subtitle":"車両乱戦","content":"2位では許されない、命がけの借り物競争を行う敵対モード。最大4チームが、一定時間ごとに狭くなる、武器、爆薬、戦闘用車両が散らばった戦闘エリアにパラシュートで降下する。チームメイトと協力して、縮むマップと敵チームに挑み生き残れば勝利だ。","url":"","image":{"path":"sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504030786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "車両乱戦",
+    "content": "2位では許されない、命がけの借り物競争を行う敵対モード。最大4チームが、一定時間ごとに狭くなる、武器、爆薬、戦闘用車両が散らばった戦闘エリアにパラシュートで降下する。チームメイトと協力して、縮むマップと敵チームに挑み生き残れば勝利だ。",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Motor_Wars/349672_GTAO-MW-bigfeed-V2A-FINAL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

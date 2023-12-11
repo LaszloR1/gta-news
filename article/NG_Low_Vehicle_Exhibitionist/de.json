@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349544,"title":"","headline":"GTA Online","subtitle":"Fahrzeug-Exhibitionist","content":"Du hast nun die Möglichkeit den aufgemotzten Motorblock, detaillierten Innenraum und vieles mehr deines persönlichen Fahrzeugs zu präsentieren und kannst dabei alle Türen steuern.<br /><br />Wähle dazu die Option ''Fahrzeugtüren'' im Interaktionsmenü aus, während du im Schlitten sitzt oder in dessen Nähe stehst. Entblöße deinen neuen Motorblock oder aufgemotzten Kofferraum in aller Öffentlichkeit.<br /><br />Du kannst sogar per Fernsteuerung die Neonlampen einschalten oder deinen Lieblingsradiosender aufdrehen.","url":"","image":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349544,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fahrzeug-Exhibitionist",
+    "content": "Du hast nun die Möglichkeit den aufgemotzten Motorblock, detaillierten Innenraum und vieles mehr deines persönlichen Fahrzeugs zu präsentieren und kannst dabei alle Türen steuern.<br /><br />Wähle dazu die Option ''Fahrzeugtüren'' im Interaktionsmenü aus, während du im Schlitten sitzt oder in dessen Nähe stehst. Entblöße deinen neuen Motorblock oder aufgemotzten Kofferraum in aller Öffentlichkeit.<br /><br />Du kannst sogar per Fernsteuerung die Neonlampen einschalten oder deinen Lieblingsradiosender aufdrehen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/.dds",
+        "filesize": 2048
+    }
+}

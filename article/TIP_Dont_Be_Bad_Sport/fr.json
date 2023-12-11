@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394809813,"title":"","headline":"Astuce en ligne","subtitle":"Un peu de fair-play !","content":"Les mauvais joueurs finissent toujours par être pénalisés... Le statut de 'mauvais joueur' est là pour ça.<br /><br />Si un joueur se montre particulièrement agaçant, vous pouvez le signaler en accédant à sa fiche de joueur (via En ligne > Joueurs dans le menu Pause) et en sélectionnant 'Signaler'. Vous pouvez également préciser vos raisons, le tout en seulement quelques clics.<br /><br />Les joueurs fréquemment signalés seront contraints de porter un bonnet d'âne et de jouer entre eux.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809813,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Un peu de fair-play !",
+    "content": "Les mauvais joueurs finissent toujours par être pénalisés... Le statut de 'mauvais joueur' est là pour ça.<br /><br />Si un joueur se montre particulièrement agaçant, vous pouvez le signaler en accédant à sa fiche de joueur (via En ligne > Joueurs dans le menu Pause) et en sélectionnant 'Signaler'. Vous pouvez également préciser vos raisons, le tout en seulement quelques clics.<br /><br />Les joueurs fréquemment signalés seront contraints de porter un bonnet d'âne et de jouer entre eux.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/.dds",
+        "filesize": 2048
+    }
+}

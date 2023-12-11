@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149369,"headline":"Newswire","subtitle":"Descarga el manual digital","content":"Descarga el manual digital de Grand Theft Auto V para obtener una guía de juego, además de información detallada sobre los múltiples vecindarios y lugares emblemáticos de Los Santos y el condado de Blaine, todo en tu dispositivo iOS o Android o sencillamente en tu Escritorio.<br /><br />Dirígete a www.rockstargames.com/v/manual para obtener el enlace de descarga, o busca 'Manual digital de GTAV' en App Store o Google Play Store.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149369,
+    "headline": "Newswire",
+    "subtitle": "Descarga el manual digital",
+    "content": "Descarga el manual digital de Grand Theft Auto V para obtener una guía de juego, además de información detallada sobre los múltiples vecindarios y lugares emblemáticos de Los Santos y el condado de Blaine, todo en tu dispositivo iOS o Android o sencillamente en tu Escritorio.<br /><br />Dirígete a www.rockstargames.com/v/manual para obtener el enlace de descarga, o busca 'Manual digital de GTAV' en App Store o Google Play Store.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds",
+        "filesize": 65664
+    }
+}

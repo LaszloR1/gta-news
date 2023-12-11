@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTA Online","subtitle":"ОПЕРАЦИИ LSA","content":"Присоединитесь к грозной банде Las Santos Angels и возьмите в работу три частных контракта из категории «Операции LSA», которые можно запустить из нового командного терминала или позвонив Чарли. За выполнение каждого из этих контрактов в первый раз, вы можете получить костюм, а при повторном выполнении вас будут ждать различные дополнительные задания с денежными бонусами.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ОПЕРАЦИИ LSA",
+    "content": "Присоединитесь к грозной банде Las Santos Angels и возьмите в работу три частных контракта из категории «Операции LSA», которые можно запустить из нового командного терминала или позвонив Чарли. За выполнение каждого из этих контрактов в первый раз, вы можете получить костюм, а при повторном выполнении вас будут ждать различные дополнительные задания с денежными бонусами.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

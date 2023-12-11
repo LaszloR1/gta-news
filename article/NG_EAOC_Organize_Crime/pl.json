@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174995,"title":"","headline":"GTA Online","subtitle":"Zorganizuj przestępczość!","content":"Jako VIP zarabiasz pieniądze i RP dla siebie oraz ochroniarzy, gdy rozgrywasz ekscytujące, dochodowe zadania VIP-a (dostępne w sekcji SecuroServ w menu interakcji). Możesz też sprawdzić się w walce z własnymi ochroniarzami, uruchamiając wyzwania VIP-a, dzięki czemu sprawdzisz, kto w twojej organizacji najlepiej zna się na swojej robocie.","url":"","image":{"path":"sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Organize_Crime/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174995,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zorganizuj przestępczość!",
+    "content": "Jako VIP zarabiasz pieniądze i RP dla siebie oraz ochroniarzy, gdy rozgrywasz ekscytujące, dochodowe zadania VIP-a (dostępne w sekcji SecuroServ w menu interakcji). Możesz też sprawdzić się w walce z własnymi ochroniarzami, uruchamiając wyzwania VIP-a, dzięki czemu sprawdzisz, kto w twojej organizacji najlepiej zna się na swojej robocie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/.dds",
+        "filesize": 2048
+    }
+}

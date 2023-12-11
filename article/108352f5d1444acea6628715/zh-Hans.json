@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTAµ在线模式","subtitle":"洛圣都天使行动","content":"在“洛圣都天使行动”中，与强大的洛圣都天使成员签订三份私人合约。通过新的操作终端或致电查理以开始，首次完成这些合约中的任意一份都有机会获得一件套装奖励，并在每次重玩时通过轮换的可选附加目标获得额外的报酬。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTAµ在线模式",
+    "subtitle": "洛圣都天使行动",
+    "content": "在“洛圣都天使行动”中，与强大的洛圣都天使成员签订三份私人合约。通过新的操作终端或致电查理以开始，首次完成这些合约中的任意一份都有机会获得一件套装奖励，并在每次重玩时通过轮换的可选附加目标获得额外的报酬。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515786,"title":"","headline":"GTA Online","subtitle":"Creatore di simboli del Social Club","content":"Ogni MC ha bisogno di un simbolo che gli faccia onore e il tuo non fa eccezione. Il Creatore di simboli del Social Club mette ora a disposizione una serie di forme e design di stampo motociclistico, oltre che nuove opzioni per modificare le tue creazioni. La prima impressione conta, quindi assicurati che il tuo simbolo colpisca al primo sguardo.","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Creatore di simboli del Social Club",
+    "content": "Ogni MC ha bisogno di un simbolo che gli faccia onore e il tuo non fa eccezione. Il Creatore di simboli del Social Club mette ora a disposizione una serie di forme e design di stampo motociclistico, oltre che nuove opzioni per modificare le tue creazioni. La prima impressione conta, quindi assicurati che il tuo simbolo colpisca al primo sguardo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

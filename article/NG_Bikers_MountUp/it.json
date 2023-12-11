@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515687,"title":"","headline":"GTA Online","subtitle":"In sella","content":"Sfrecciare in moto offre ora vantaggi extra. Guida in formazione con gli altri membri del tuo MC per rigenerare la tua salute e riparare la tua moto più velocemente. Al momento di combattere, potrai prendere la situazione in pugno aggiungendo ai tuoi attacchi corpo a corpo la spinta di 200 cavalli vapore. Duella con altri motociclisti o aspetta che siano a piedi per eliminarli: a te la scelta.","url":"","image":{"path":"sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_MountUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515687,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "In sella",
+    "content": "Sfrecciare in moto offre ora vantaggi extra. Guida in formazione con gli altri membri del tuo MC per rigenerare la tua salute e riparare la tua moto più velocemente. Al momento di combattere, potrai prendere la situazione in pugno aggiungendo ai tuoi attacchi corpo a corpo la spinta di 200 cavalli vapore. Duella con altri motociclisti o aspetta che siano a piedi per eliminarli: a te la scelta.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_MountUp/.dds",
+        "filesize": 2048
+    }
+}

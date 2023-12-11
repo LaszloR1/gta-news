@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467860,"title":"","headline":"Suggerimento online","subtitle":"Cerchi lavoro? ","content":"Controlla l'elenco attività dal telefono o chiama uno dei tuoi contatti per un'attività. Più attività svolgerai per i contatti, più contatti conoscerai e maggiori saranno le attività che ti verranno proposte. Continua la tua scalata e presto potrai toglierti molte soddisfazioni.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Need_a_Job/262272_NeedAJob.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Need_a_Job/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467860,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Cerchi lavoro? ",
+    "content": "Controlla l'elenco attività dal telefono o chiama uno dei tuoi contatti per un'attività. Più attività svolgerai per i contatti, più contatti conoscerai e maggiori saranno le attività che ti verranno proposte. Continua la tua scalata e presto potrai toglierti molte soddisfazioni.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Need_a_Job/262272_NeedAJob.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Need_a_Job/.dds",
+        "filesize": 2048
+    }
+}

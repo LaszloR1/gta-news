@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174950,"title":"","headline":"GTA Online","subtitle":"Zimna stal","content":"Przejmij ze swoją organizacją panowanie nad ulicami dzięki dwóm nowym modelom uzbrojenia. Chwyć masywny i groźny ciężki rewolwer o potężnej sile obalającej bądź podejdź do przeciwnika na wyciągnięcie ręki i posiekaj go nożem sprężynowym. Zostań VIP-em bądź ochroniarzem, aby uzyskać dostęp do ekskluzywnych odmian tych broni.","url":"","image":{"path":"sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Cold_Steel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174950,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zimna stal",
+    "content": "Przejmij ze swoją organizacją panowanie nad ulicami dzięki dwóm nowym modelom uzbrojenia. Chwyć masywny i groźny ciężki rewolwer o potężnej sile obalającej bądź podejdź do przeciwnika na wyciągnięcie ręki i posiekaj go nożem sprężynowym. Zostań VIP-em bądź ochroniarzem, aby uzyskać dostęp do ekskluzywnych odmian tych broni.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/.dds",
+        "filesize": 2048
+    }
+}

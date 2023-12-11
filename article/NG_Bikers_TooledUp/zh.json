@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515909,"title":"","headline":"GTA Online","subtitle":"全副武裝","content":"歡迎來到簡化、鋸短的小型武器年代。這類武器最適合您一面騎乘愛車，一面從事恐怖血腥的暴力勾當。無論是小而猛的精簡榴彈發射器，還是殘暴的管鉗扳手，武裝國度都為您準備妥當了。","url":"","image":{"path":"sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_TooledUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515909,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "全副武裝",
+    "content": "歡迎來到簡化、鋸短的小型武器年代。這類武器最適合您一面騎乘愛車，一面從事恐怖血腥的暴力勾當。無論是小而猛的精簡榴彈發射器，還是殘暴的管鉗扳手，武裝國度都為您準備妥當了。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_TooledUp/.dds",
+        "filesize": 2048
+    }
+}

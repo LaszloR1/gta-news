@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402997950,"headline":"Actualización de GTA Online","subtitle":"Presentamos el nuevo Vulcar Warrener","content":"El legendario sedán sueco de cuatro puertas. Todo el diseño rectangular de un Vulcar de los 80 y nada de su fiabilidad. Para los amantes de los vaqueros estrechos, las microcervecerías y las series policíacas de los 70.<br /><br />Disponible para su compra en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un hipster'': ''Abrazar América''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Vulcar_Warrener/65664_Warrener.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402997950,
+    "headline": "Actualización de GTA Online",
+    "subtitle": "Presentamos el nuevo Vulcar Warrener",
+    "content": "El legendario sedán sueco de cuatro puertas. Todo el diseño rectangular de un Vulcar de los 80 y nada de su fiabilidad. Para los amantes de los vaqueros estrechos, las microcervecerías y las series policíacas de los 70.<br /><br />Disponible para su compra en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un hipster'': ''Abrazar América''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Vulcar_Warrener/65664_Warrener.dds",
+        "filesize": 65664
+    }
+}

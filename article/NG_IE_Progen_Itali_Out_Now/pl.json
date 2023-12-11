@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1483970057,"title":"","headline":"GTA Online","subtitle":"Progen Itali GTB","content":"Trzeba prawdziwego wizjonera, aby spojrzeć na sylwetkę i klasę Itali GTB od Progena i dostrzec jeszcze miejsce do poprawek. I cokolwiek myślisz o jego uzależnieniu od opiatów na receptę, to nikt nie podważy kreatywności Benny'ego. Błyskawicznie rozbierze tę maszynę do bielizny z włókna węglowego, dorzuci gigantyczny spojler i pośle na tor jak przykazała Matka Natura.","url":"","image":{"path":"sc/news/NG_IE_Progen_Itali_Out_Now/349672_PROGEN-ITALI-GTB-BIGFEED-V2B-LOGO2.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Progen_Itali_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1483970057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Progen Itali GTB",
+    "content": "Trzeba prawdziwego wizjonera, aby spojrzeć na sylwetkę i klasę Itali GTB od Progena i dostrzec jeszcze miejsce do poprawek. I cokolwiek myślisz o jego uzależnieniu od opiatów na receptę, to nikt nie podważy kreatywności Benny'ego. Błyskawicznie rozbierze tę maszynę do bielizny z włókna węglowego, dorzuci gigantyczny spojler i pośle na tor jak przykazała Matka Natura.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Progen_Itali_Out_Now/349672_PROGEN-ITALI-GTB-BIGFEED-V2B-LOGO2.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Progen_Itali_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1523980370,"title":"","headline":"GTA Online","subtitle":"The Vespucci Job","content":"The battle between predator and prey is one of nature’s most stirring sights: wolf chases elk, lion chases antelope, fleet of police cruisers chase diminutive vintage car. Two teams take to the streets in The Vespucci Job: either you’re the lunatic on the run in an Issi Classic, trying to hit every checkpoint in time - or you’re a squad car right behind and looking to blow a lot more than the doors off.","url":"","image":{"path":"sc/news/SSASSS_Vespucci_Job/349672_GTAO_VespucciJob_Layout_Bigfeed_V01.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1523980370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "The Vespucci Job",
+    "content": "The battle between predator and prey is one of nature’s most stirring sights: wolf chases elk, lion chases antelope, fleet of police cruisers chase diminutive vintage car. Two teams take to the streets in The Vespucci Job: either you’re the lunatic on the run in an Issi Classic, trying to hit every checkpoint in time - or you’re a squad car right behind and looking to blow a lot more than the doors off.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Vespucci_Job/349672_GTAO_VespucciJob_Layout_Bigfeed_V01.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

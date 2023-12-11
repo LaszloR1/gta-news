@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394809813,"title":"","headline":"オンラインのヒント","subtitle":"負け犬にならないこと","content":"負け犬の成功は長続きしません。そんなプレイヤーは「負け犬セッション」に行き着くからです。<br /><br />ゲームの楽しさを奪う有害なプレイヤーに遭遇した際は、そのプレイヤーのプレイヤー・カードを閲覧(ポーズメニューの「オンライン」から「プレイヤー」を選択)して「報告」を選択すれば報告が可能です。簡単な操作で報告の理由を具体的に伝えることもできます。<br /><br />頻繁に報告を受けたプレイヤーはチーターキャップを被らされ、他の無法者たちと一緒に負け犬セッションでのプレイを強制されます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809813,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "負け犬にならないこと",
+    "content": "負け犬の成功は長続きしません。そんなプレイヤーは「負け犬セッション」に行き着くからです。<br /><br />ゲームの楽しさを奪う有害なプレイヤーに遭遇した際は、そのプレイヤーのプレイヤー・カードを閲覧(ポーズメニューの「オンライン」から「プレイヤー」を選択)して「報告」を選択すれば報告が可能です。簡単な操作で報告の理由を具体的に伝えることもできます。<br /><br />頻繁に報告を受けたプレイヤーはチーターキャップを被らされ、他の無法者たちと一緒に負け犬セッションでのプレイを強制されます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/.dds",
+        "filesize": 2048
+    }
+}

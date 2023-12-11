@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471716,"title":"","headline":"Suggerimento online","subtitle":"Auto che scotta?","content":"Nessun meccanico ti permetterebbe di personalizzare un'auto che è stata presa in prestito dal legittimo proprietario. I veicoli più tecnologici e di lusso devono essere acquistati legalmente: meglio essere furbi negli acquisti e usare Internet.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Hot_Wheels/65664_HotWheels.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Hot_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471716,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Auto che scotta?",
+    "content": "Nessun meccanico ti permetterebbe di personalizzare un'auto che è stata presa in prestito dal legittimo proprietario. I veicoli più tecnologici e di lusso devono essere acquistati legalmente: meglio essere furbi negli acquisti e usare Internet.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Hot_Wheels/65664_HotWheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Hot_Wheels/.dds",
+        "filesize": 2048
+    }
+}

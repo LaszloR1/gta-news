@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425975518,"title":"","headline":"GTA Online","subtitle":"I colpi sono ora disponibili","content":"I colpi sono ora disponibili in GTA Online: tanti nuovi veicoli, capi d'abbigliamento, armi ed equipaggiamento tattico da usare anche nelle nuovissime adrenaliniche missioni che spremeranno al massimo le capacità tue e dei tuoi amici.<br /><br />Quando avrai raggiunto almeno il rango 12 e possiederai un appartamento di lusso, sarà Lester a chiamarti e a introdurti ai colpi, chiedendoti di recarti al suo magazzino (contrassegnato sulla mappa da una L).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Now_Available/262272_Heists-Now-Available.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425975518,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "I colpi sono ora disponibili",
+    "content": "I colpi sono ora disponibili in GTA Online: tanti nuovi veicoli, capi d'abbigliamento, armi ed equipaggiamento tattico da usare anche nelle nuovissime adrenaliniche missioni che spremeranno al massimo le capacità tue e dei tuoi amici.<br /><br />Quando avrai raggiunto almeno il rango 12 e possiederai un appartamento di lusso, sarà Lester a chiamarti e a introdurti ai colpi, chiedendoti di recarti al suo magazzino (contrassegnato sulla mappa da una L).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Now_Available/262272_Heists-Now-Available.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

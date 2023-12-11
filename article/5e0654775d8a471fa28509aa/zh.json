@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973237,"title":"洛聖都毒梟大戰","headline":"洛聖都毒梟大戰","subtitle":"如何使用迷幻劑藥廠","content":"迷幻劑藥廠可讓您自己製造和販賣迷幻藥。在這輛載具中，您可以開始進行補給任務。有足夠存貨的時候，您也可以開始進行販賣任務。如果您想賺點快錢，您還可以向自由模式的街頭毒販販賣迷幻劑。<br /><br />即便在完成「第一劑」後，您最好還是與您的新聯絡人：達克斯保持聯絡。繼續閱讀以了解原因。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_PROPERTY arg=JUGGALO_HIDEOUT","image":{"path":"sc/news/5e0654775d8a471fa28509aa/262272_GTAPLUS_Period10_AcidLabs_FINAL_BigFeed.dds","filesize":262272},"button":"開始管理您的迷幻劑生意"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973237,
+    "title": "洛聖都毒梟大戰",
+    "headline": "洛聖都毒梟大戰",
+    "subtitle": "如何使用迷幻劑藥廠",
+    "content": "迷幻劑藥廠可讓您自己製造和販賣迷幻藥。在這輛載具中，您可以開始進行補給任務。有足夠存貨的時候，您也可以開始進行販賣任務。如果您想賺點快錢，您還可以向自由模式的街頭毒販販賣迷幻劑。<br /><br />即便在完成「第一劑」後，您最好還是與您的新聯絡人：達克斯保持聯絡。繼續閱讀以了解原因。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_PROPERTY arg=JUGGALO_HIDEOUT",
+    "image": {
+        "path": "sc/news/5e0654775d8a471fa28509aa/262272_GTAPLUS_Period10_AcidLabs_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "開始管理您的迷幻劑生意"
+}

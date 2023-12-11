@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292369,"title":"","headline":"GTA Online","subtitle":"Qui va à la chasse...","content":"Dans le pays des riches et des pauvres, profitez de ce mode rivalité pour vous lancer dans une ascension sociale agressive. L'équipe des gagnants connaîtra la réussite, l'équipe des perdants connaîtra l'échec, et il n'y a qu'un seul moyen de passer de l'une à l'autreµ: assassiner sauvagement l'un des gagnants et prendre sa place. Pour obtenir des compétences transférables qui valent le coup, c'est maintenant ou jamais.","url":"","image":{"path":"sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Trading_Places/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292369,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Qui va à la chasse...",
+    "content": "Dans le pays des riches et des pauvres, profitez de ce mode rivalité pour vous lancer dans une ascension sociale agressive. L'équipe des gagnants connaîtra la réussite, l'équipe des perdants connaîtra l'échec, et il n'y a qu'un seul moyen de passer de l'une à l'autreµ: assassiner sauvagement l'un des gagnants et prendre sa place. Pour obtenir des compétences transférables qui valent le coup, c'est maintenant ou jamais.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Trading_Places/.dds",
+        "filesize": 2048
+    }
+}

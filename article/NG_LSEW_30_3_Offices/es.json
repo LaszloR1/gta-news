@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241101,"title":"","headline":"GTA Online","subtitle":"Bonificaciones de GTA Online: almacenes y oficinas de ejecutivo al 50% y más (del 30/9 al 3/10)","content":"Consigue este fin de semana todas las herramientas necesarias para controlar los imperios empresariales de Los Santos gracias a esta colección de descuentos colosales en GTA Online. Desde ahora y hasta el lunes 3 de octubre, aprovéchate de unas ofertas suculentas que incluyen un 50% de descuento en almacenes, oficinas de ejecutivo, y servicios de Lester, Pegasus y Merryweather.<br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Offices/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241101,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonificaciones de GTA Online: almacenes y oficinas de ejecutivo al 50% y más (del 30/9 al 3/10)",
+    "content": "Consigue este fin de semana todas las herramientas necesarias para controlar los imperios empresariales de Los Santos gracias a esta colección de descuentos colosales en GTA Online. Desde ahora y hasta el lunes 3 de octubre, aprovéchate de unas ofertas suculentas que incluyen un 50% de descuento en almacenes, oficinas de ejecutivo, y servicios de Lester, Pegasus y Merryweather.<br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/.dds",
+        "filesize": 2048
+    }
+}

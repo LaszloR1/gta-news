@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699551881,"title":"GTA+","headline":"GTA+","subtitle":"Capi d'abbigliamento esclusivi","content":"Gli abbonati a GTA+ possono riscattare la felpa e i pantaloncini Bleedin' Tasty, e la felpa e i pantaloni Cluckin' Bell fino all’11 dicembre.<br /><br />GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rsg.ms/gtaplus per saperne di più.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/7debbc7f28984cdf8dc3455a/262272_GTAP_MP20_FreeClothing_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per abbonarti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699551881,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Capi d'abbigliamento esclusivi",
+    "content": "Gli abbonati a GTA+ possono riscattare la felpa e i pantaloncini Bleedin' Tasty, e la felpa e i pantaloni Cluckin' Bell fino all’11 dicembre.<br /><br />GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rsg.ms/gtaplus per saperne di più.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/7debbc7f28984cdf8dc3455a/262272_GTAP_MP20_FreeClothing_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per abbonarti a GTA+"
+}

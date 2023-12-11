@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455263,"title":"","headline":"GTA Online","subtitle":"비즈니스 배틀","content":"로스 산토스에 새로운 방식의 영역 싸움이 생겼습니다. 비즈니스 배틀은 약간의 추가 제품을 손에 넣은 다음 현금으로 바꾸는 특별한 기회를 제공합니다. 나이트클럽 창고를 가지고 있으면 재고품에 추가할 수도 있고요. 단, 도시의 모든 악당과 깡패도 똑같이 기회를 받으니 조심하세요. 이 바닥에서 협력이란 있을 수 없으니까요.","url":"","image":{"path":"sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455263,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "비즈니스 배틀",
+    "content": "로스 산토스에 새로운 방식의 영역 싸움이 생겼습니다. 비즈니스 배틀은 약간의 추가 제품을 손에 넣은 다음 현금으로 바꾸는 특별한 기회를 제공합니다. 나이트클럽 창고를 가지고 있으면 재고품에 추가할 수도 있고요. 단, 도시의 모든 악당과 깡패도 똑같이 기회를 받으니 조심하세요. 이 바닥에서 협력이란 있을 수 없으니까요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

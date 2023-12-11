@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223580,"title":"","headline":"GTAV","subtitle":"Driveby Controls","content":"There are new controls for Driveby shooting – you can now use  ~INPUT_FRONTEND_LB~ to aim and ~INPUT_FRONTEND_RB~ to fire for extra precision, even when driving. Try switching to first person and ice your foes with deadly accuracy while cruising by.~n~~n~You can revert to the old control scheme via Pause Menu > Settings > Controls > Driveby Control Type.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drive-By_Controls/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223580,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Driveby Controls",
+    "content": "There are new controls for Driveby shooting – you can now use  ~INPUT_FRONTEND_LB~ to aim and ~INPUT_FRONTEND_RB~ to fire for extra precision, even when driving. Try switching to first person and ice your foes with deadly accuracy while cruising by.~n~~n~You can revert to the old control scheme via Pause Menu > Settings > Controls > Driveby Control Type.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drive-By_Controls/.dds",
+        "filesize": 2048
+    }
+}

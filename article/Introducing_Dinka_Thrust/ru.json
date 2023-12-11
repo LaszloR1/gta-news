@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399988982,"headline":"Обновление GTA Online","subtitle":"Новая машина: Dinka Thrust","content":"Dinka Thrust. Нескромно. Недешево. Небезопасно. Словом, то, что вам нужно! <br /><br />Автомобиль продается на сайте legendarymotorsport.net, а также представлен в гонке 'Стальной конь' из обновления 'Высший свет'. Оцените его в деле - удовольствие гарантировано!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Dinka_Thrust/65664_GTAVhighLife_THRUST.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399988982,
+    "headline": "Обновление GTA Online",
+    "subtitle": "Новая машина: Dinka Thrust",
+    "content": "Dinka Thrust. Нескромно. Недешево. Небезопасно. Словом, то, что вам нужно! <br /><br />Автомобиль продается на сайте legendarymotorsport.net, а также представлен в гонке 'Стальной конь' из обновления 'Высший свет'. Оцените его в деле - удовольствие гарантировано!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Dinka_Thrust/65664_GTAVhighLife_THRUST.dds",
+        "filesize": 65664
+    }
+}

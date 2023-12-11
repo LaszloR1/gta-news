@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1630603108,"title":"","headline":"GTA Online","subtitle":"Teste carros novos e inéditos na Pista de Teste","content":"A Pista de Teste é o local perfeito para dar uma voltinha com seu novo veículo tunado ou, quem sabe, para fazer um test drive do novo Übermacht Cypher, do inédito Karin Previon ou do Vapid Dominator GTT antes de decidir comprá-los. Fique à vontade para desafiar seus amigos para uma Correria ou corra contra o tempo em um Desafio Contra o Relógio.","url":"","image":{"path":"sc/news/4d121ce09684498fb7e9dee2/262272_GTAO264_TestDrive_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1630603108,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Teste carros novos e inéditos na Pista de Teste",
+    "content": "A Pista de Teste é o local perfeito para dar uma voltinha com seu novo veículo tunado ou, quem sabe, para fazer um test drive do novo Übermacht Cypher, do inédito Karin Previon ou do Vapid Dominator GTT antes de decidir comprá-los. Fique à vontade para desafiar seus amigos para uma Correria ou corra contra o tempo em um Desafio Contra o Relógio.",
+    "url": "",
+    "image": {
+        "path": "sc/news/4d121ce09684498fb7e9dee2/262272_GTAO264_TestDrive_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

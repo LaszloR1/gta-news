@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979851,"title":"","headline":"GTA Online","subtitle":"New Adversary Modes","content":"Included in the Heists Update are some exciting new Adversary modes so you can take part in some blood sports before taking down the next big score. All the new modes unlock at Rank 12.<br /><br />Siege Mentality – Protect your turf at all costs, using grit, determination and heavy weapons.<br />Hasta La Vista – Outrun the opposition who are driving looming trucks of death – you won’t need an engine...right?<br />Come out to Play – One team must reach their destination on foot whilst the hunters chase them down.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979851,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "New Adversary Modes",
+    "content": "Included in the Heists Update are some exciting new Adversary modes so you can take part in some blood sports before taking down the next big score. All the new modes unlock at Rank 12.<br /><br />Siege Mentality – Protect your turf at all costs, using grit, determination and heavy weapons.<br />Hasta La Vista – Outrun the opposition who are driving looming trucks of death – you won’t need an engine...right?<br />Come out to Play – One team must reach their destination on foot whilst the hunters chase them down.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294917,"title":"","headline":"GTA Online","subtitle":"Siedziba","content":"Dynasty 8 Real Estate we współpracy z SecuroServ PLC prezentuje nowe ekskluzywne biura dla wybrednych zatwardziałych kryminalistów. W cenę tych architektonicznych arcydzieł wliczone są całodobowe usługi asystenta, lądowisko dla helikopterów, usługa zmiany wystroju wnętrza i cała gama modyfikacji. Po zakupie biura należy zarejestrować się jako prezes w sieci SecuroServ, co zapewni dostęp do nielegalnych specjalnych ładunków na terenie całego miasta.","url":"","image":{"path":"sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Head_Quarters/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294917,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Siedziba",
+    "content": "Dynasty 8 Real Estate we współpracy z SecuroServ PLC prezentuje nowe ekskluzywne biura dla wybrednych zatwardziałych kryminalistów. W cenę tych architektonicznych arcydzieł wliczone są całodobowe usługi asystenta, lądowisko dla helikopterów, usługa zmiany wystroju wnętrza i cała gama modyfikacji. Po zakupie biura należy zarejestrować się jako prezes w sieci SecuroServ, co zapewni dostęp do nielegalnych specjalnych ładunków na terenie całego miasta.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/.dds",
+        "filesize": 2048
+    }
+}

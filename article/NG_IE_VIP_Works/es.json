@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543351,"title":"","headline":"GTA Online","subtitle":"Trabajos vip","content":"En cuanto compres uno de los ocho vehículos especiales de Warstock Cache and Carry, tendrás disponible un nuevo trabajo vip en tu organización. Estas misiones, que los jefes pueden iniciar a través del menú Interacción, están relacionadas con las habilidades únicas de cada vehículo.","url":"","image":{"path":"sc/news/NG_IE_VIP_Works/262272_vipworks.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_VIP_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543351,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Trabajos vip",
+    "content": "En cuanto compres uno de los ocho vehículos especiales de Warstock Cache and Carry, tendrás disponible un nuevo trabajo vip en tu organización. Estas misiones, que los jefes pueden iniciar a través del menú Interacción, están relacionadas con las habilidades únicas de cada vehículo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_VIP_Works/262272_vipworks.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_VIP_Works/.dds",
+        "filesize": 2048
+    }
+}

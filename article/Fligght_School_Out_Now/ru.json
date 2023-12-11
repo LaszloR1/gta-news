@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1408460749,"headline":"Обновление GTA Online","subtitle":"Вышел набор «Летная школа Сан-Андреаса»","content":"Насладитесь ролью героя-патриота – запишитесь в летную школу Сан-Андреаса.<br /><br />Установите превосходство в воздухе в 10 новых заданиях для одного игрока и выучитесь самым опасным воздушным трюкам. Чтобы записаться в школу, отправляйтесь в аэропорт Лос-Сантоса.<br /><br />А потом возьмите увольнительную и опробуйте новую воздушную и наземную технику: учебный самолет Western Besra, роскошный вертолет Swift, 16-местный самолет Buckingham Miljet и изящный родстер Invetero Coquette Classic.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1408460749,
+    "headline": "Обновление GTA Online",
+    "subtitle": "Вышел набор «Летная школа Сан-Андреаса»",
+    "content": "Насладитесь ролью героя-патриота – запишитесь в летную школу Сан-Андреаса.<br /><br />Установите превосходство в воздухе в 10 новых заданиях для одного игрока и выучитесь самым опасным воздушным трюкам. Чтобы записаться в школу, отправляйтесь в аэропорт Лос-Сантоса.<br /><br />А потом возьмите увольнительную и опробуйте новую воздушную и наземную технику: учебный самолет Western Besra, роскошный вертолет Swift, 16-местный самолет Buckingham Miljet и изящный родстер Invetero Coquette Classic.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423790,"title":"","headline":"GTA Online","subtitle":"Cunning Stunts: Circuito especial","content":"Has ejecutado saltos, bucles, giros y caídas en todas las carreras acrobáticas de San Andreas. Te has propulsado, tirado en paracaídas y surfeado en todos los vehículos especiales de tu garaje subterráneo. ¿Y ahora, qué? Ponte tu mono y prepárate para 20 nuevas carreras acrobáticas diseñadas expresamente para vehículos que el gobierno prohibiría si pudiese.","url":"","image":{"path":"sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423790,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cunning Stunts: Circuito especial",
+    "content": "Has ejecutado saltos, bucles, giros y caídas en todas las carreras acrobáticas de San Andreas. Te has propulsado, tirado en paracaídas y surfeado en todos los vehículos especiales de tu garaje subterráneo. ¿Y ahora, qué? Ponte tu mono y prepárate para 20 nuevas carreras acrobáticas diseñadas expresamente para vehículos que el gobierno prohibiría si pudiese.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

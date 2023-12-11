@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1484841670,"title":"","headline":"GTA Online","subtitle":"Offre à durée limitéeµ: obtenez un bonus d'argent en jeu à chaque achat de paquet de dollars","content":"Offre exclusiveµ: obtenez 100µ% de GTA$ bonus pour l'achat d'un paquet de dollars Great White Shark. Soit un bonus de 1µ250µ000µGTA$µ!<br /><br />Offre valable jusqu'au 01/02. Tous les paquets de dollars doivent être activés avant le 01/02. L'argent bonus sera crédité sur votre compte Maze Bank en jeu dans les 72µheures après l'activation de chaque paquet de dollars. <br /><br />Pour plus d'infos sur les autres réductions et bonus disponibles cette semaine dans GTA Online, consultez le Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_MCCM_FTP_4_1_2/349672_FTP_Offer4.dds","filesize":349672},"landscape":{"path":"sc/news/NG_MCCM_FTP_4_1_2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1484841670,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Offre à durée limitéeµ: obtenez un bonus d'argent en jeu à chaque achat de paquet de dollars",
+    "content": "Offre exclusiveµ: obtenez 100µ% de GTA$ bonus pour l'achat d'un paquet de dollars Great White Shark. Soit un bonus de 1µ250µ000µGTA$µ!<br /><br />Offre valable jusqu'au 01/02. Tous les paquets de dollars doivent être activés avant le 01/02. L'argent bonus sera crédité sur votre compte Maze Bank en jeu dans les 72µheures après l'activation de chaque paquet de dollars. <br /><br />Pour plus d'infos sur les autres réductions et bonus disponibles cette semaine dans GTA Online, consultez le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_MCCM_FTP_4_1_2/349672_FTP_Offer4.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_MCCM_FTP_4_1_2/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530640003,"title":"","headline":"GTA Online","subtitle":"День независимости 2018: скидки","content":"В GTA Online возвращается звездно-полосатый контент из набора «День независимости». Всю неделю, до 9 июля включительно, будет действовать скидка 40% на следующие товары:<br /><br />– Vapid Liberator<br />– Western Motorcycle Company Sovereign<br />– Мушкет<br />– Пиротехника и фейерверки<br /><br />...и многое другое. Все подробности в новостной ленте Rockstar.","url":"","image":{"path":"sc/news/Indep_Day_Discounts/524416_BIGFEED_2018_0704_V01A_512x1024.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530640003,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "День независимости 2018: скидки",
+    "content": "В GTA Online возвращается звездно-полосатый контент из набора «День независимости». Всю неделю, до 9 июля включительно, будет действовать скидка 40% на следующие товары:<br /><br />– Vapid Liberator<br />– Western Motorcycle Company Sovereign<br />– Мушкет<br />– Пиротехника и фейерверки<br /><br />...и многое другое. Все подробности в новостной ленте Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Indep_Day_Discounts/524416_BIGFEED_2018_0704_V01A_512x1024.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

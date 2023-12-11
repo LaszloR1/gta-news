@@ -1,1 +1,20 @@
-{"types":["store"],"date":1380466699,"title":"","headline":"Online Tip","subtitle":"Merryweather Security Consulting","content":"Need some ammunition in a hurry? A friendly evacuation? Helicopter support? Or maybe you just want to rain down death upon a deserving foe? Once you reach Rank 12 you can dial up Merryweather Security Consulting. The security service / privatized army you can trust.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Merryweather_Security/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1380466699,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Merryweather Security Consulting",
+    "content": "Need some ammunition in a hurry? A friendly evacuation? Helicopter support? Or maybe you just want to rain down death upon a deserving foe? Once you reach Rank 12 you can dial up Merryweather Security Consulting. The security service / privatized army you can trust.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Merryweather_Security/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

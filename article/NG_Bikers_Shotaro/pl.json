@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511527,"title":"","headline":"GTA Online","subtitle":"Nagasaki Shotaro","content":"Przyszłość nie czeka tuż za rogiem. Już dawno śmignęła obok i teraz trzeba ją gonić. Fakt, że Shotaro potrafi przedrzeć się przez całe Vinewood szybciej niż wirusowe zapalenie wątroby, nie jest najważniejszy. Przy takim wzornictwie będziesz jeść, spać i szaleć na nim przez 24 godziny na dobę, 7 dni w tygodniu. Zakup możliwy po rozegraniu rundy w nowym trybie adwersarza, Linia śmierci.","url":"","image":{"path":"sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Shotaro/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nagasaki Shotaro",
+    "content": "Przyszłość nie czeka tuż za rogiem. Już dawno śmignęła obok i teraz trzeba ją gonić. Fakt, że Shotaro potrafi przedrzeć się przez całe Vinewood szybciej niż wirusowe zapalenie wątroby, nie jest najważniejszy. Przy takim wzornictwie będziesz jeść, spać i szaleć na nim przez 24 godziny na dobę, 7 dni w tygodniu. Zakup możliwy po rozegraniu rundy w nowym trybie adwersarza, Linia śmierci.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Shotaro/.dds",
+        "filesize": 2048
+    }
+}

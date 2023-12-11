@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493818063,"title":"","headline":"GTA Online","subtitle":"Biker-Rabatte und doppelte GTA$ & RP auf Clubhaus-Missionen bis zum 15. Mai","content":"Bis zum 15. Mai kommen die Motorradclubs von Los Santos bei allen Clubhaus-Missionen in den Genuss doppelter GTA$ & RP und 25 % Rabatt auf:<br /><br />• Biker-Clubhäuser<br />• Biker-Clubhaus-Modifikationen<br />• Biker-Unternehmen<br />• Nagasaki Shotaro<br />• Progen T20<br />• Western Company Annihilator<br />• Karin Technical<br /><br />Weitere Details findest du auf dem Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Discounts_02_05/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493818063,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Biker-Rabatte und doppelte GTA$ & RP auf Clubhaus-Missionen bis zum 15. Mai",
+    "content": "Bis zum 15. Mai kommen die Motorradclubs von Los Santos bei allen Clubhaus-Missionen in den Genuss doppelter GTA$ & RP und 25 % Rabatt auf:<br /><br />• Biker-Clubhäuser<br />• Biker-Clubhaus-Modifikationen<br />• Biker-Unternehmen<br />• Nagasaki Shotaro<br />• Progen T20<br />• Western Company Annihilator<br />• Karin Technical<br /><br />Weitere Details findest du auf dem Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Discounts_02_05/.dds",
+        "filesize": 2048
+    }
+}

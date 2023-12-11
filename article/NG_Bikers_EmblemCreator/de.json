@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515786,"title":"","headline":"GTA Online","subtitle":"Emblem-Editor im Social Club","content":"Jeder MC benötigt ein Ehrenabzeichen und deiner bildet da keine Ausnahme. Der Emblem-Editor im Social Club bietet nun jede Menge Formen und Designs zum Thema Biker, mit denen du arbeiten kannst.<br /><br />Außerdem gibt es neue Optionen, um deinen Kreationen den letzten Schliff zu verleihen. Der erste Eindruck zählt. Stelle sicher, dass das bei dir auch so ist.","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Emblem-Editor im Social Club",
+    "content": "Jeder MC benötigt ein Ehrenabzeichen und deiner bildet da keine Ausnahme. Der Emblem-Editor im Social Club bietet nun jede Menge Formen und Designs zum Thema Biker, mit denen du arbeiten kannst.<br /><br />Außerdem gibt es neue Optionen, um deinen Kreationen den letzten Schliff zu verleihen. Der erste Eindruck zählt. Stelle sicher, dass das bei dir auch so ist.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

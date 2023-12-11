@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394809164,"headline":"Online-Tipp","subtitle":"Neue Fahrzeuge für deine Rennen","content":"Wenn neue Fahrzeuge zu GTA Online hinzugefügt werden, sind diese nicht automatisch in zuvor erstellten Rennen verfügbar.~n~~n~Du kannst aber jedes Rennen schnell bearbeiten und erneut veröffentlichen, um neue Fahrzeuge hinzuzufügen. Wähle dazu einfach das Menü 'Verfügbare Fahrzeuge' im Editor und drücke ~INPUT_FRONTEND_X~, um die Fahrzeuge der gewählten Klasse zu ändern. Nun kannst du festlegen, welche Fahrzeuge verfügbar sein sollen und neu veröffentlichte Fahrzeuge hinzufügen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809164,
+    "headline": "Online-Tipp",
+    "subtitle": "Neue Fahrzeuge für deine Rennen",
+    "content": "Wenn neue Fahrzeuge zu GTA Online hinzugefügt werden, sind diese nicht automatisch in zuvor erstellten Rennen verfügbar.~n~~n~Du kannst aber jedes Rennen schnell bearbeiten und erneut veröffentlichen, um neue Fahrzeuge hinzuzufügen. Wähle dazu einfach das Menü 'Verfügbare Fahrzeuge' im Editor und drücke ~INPUT_FRONTEND_X~, um die Fahrzeuge der gewählten Klasse zu ändern. Nun kannst du festlegen, welche Fahrzeuge verfügbar sein sollen und neu veröffentlichte Fahrzeuge hinzufügen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds",
+        "filesize": 65664
+    }
+}

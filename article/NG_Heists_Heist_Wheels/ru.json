@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978549,"title":"","headline":"GTA Online","subtitle":"Транспорт","content":"Также в это обновление включена большая подборка новых машин, которые можно приобрести за доллары GTA. Доступны следующие транспортные средства:<br />- Dinka Enduro - новенький внедорожный мотоцикл, на котором вы легко уйдете от погони;<br />- Vapid Guardian - большой и грозный четырехместный внедорожник, который вселит страх в сердца ваших противников.<br /><br />По мере прохождения «Ограблений» вы также получите доступ ко множеству других транспортных средств.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Heist_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978549,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Транспорт",
+    "content": "Также в это обновление включена большая подборка новых машин, которые можно приобрести за доллары GTA. Доступны следующие транспортные средства:<br />- Dinka Enduro - новенький внедорожный мотоцикл, на котором вы легко уйдете от погони;<br />- Vapid Guardian - большой и грозный четырехместный внедорожник, который вселит страх в сердца ваших противников.<br /><br />По мере прохождения «Ограблений» вы также получите доступ ко множеству других транспортных средств.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/.dds",
+        "filesize": 2048
+    }
+}

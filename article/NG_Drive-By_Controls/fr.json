@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223581,"title":"","headline":"GTAV","subtitle":"Commandes de fusillade en véhicule","content":"Il y a de nouvelles commandes disponibles pour tirer depuis un véhicule : visez avec ~INPUT_FRONTEND_LB~ et tirez avec ~INPUT_FRONTEND_RB~ pour gagner en précision tout en conduisant. Essayez de passer en mode à la première personne pour refroidir vos ennemis avec une précision mortelle tout en continuant d'avancer. ~n~~n~Vous pouvez revenir aux anciennes commandes en allant dans le menu Pause > Paramètres > Commandes > Type de commande de fusillade en véhicule.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drive-By_Controls/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223581,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Commandes de fusillade en véhicule",
+    "content": "Il y a de nouvelles commandes disponibles pour tirer depuis un véhicule : visez avec ~INPUT_FRONTEND_LB~ et tirez avec ~INPUT_FRONTEND_RB~ pour gagner en précision tout en conduisant. Essayez de passer en mode à la première personne pour refroidir vos ennemis avec une précision mortelle tout en continuant d'avancer. ~n~~n~Vous pouvez revenir aux anciennes commandes en allant dans le menu Pause > Paramètres > Commandes > Type de commande de fusillade en véhicule.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drive-By_Controls/.dds",
+        "filesize": 2048
+    }
+}

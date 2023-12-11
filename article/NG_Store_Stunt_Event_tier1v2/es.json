@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488454038,"title":"","headline":"Oferta por tiempo limitado solo para ti","subtitle":"","content":"Disfruta de un 50% de descuento en el sedán Benefactor Schafter blindado y los helicópteros SuperVolito, además de un 25% en el veloz supercoche Pfister 811. O mejora tu calidad de vida con una casa sobre pilotes, ahora con un descuento del 50%. Date prisa, la oferta termina el 13 de marzo.","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488454038,
+    "title": "",
+    "headline": "Oferta por tiempo limitado solo para ti",
+    "subtitle": "",
+    "content": "Disfruta de un 50% de descuento en el sedán Benefactor Schafter blindado y los helicópteros SuperVolito, además de un 25% en el veloz supercoche Pfister 811. O mejora tu calidad de vida con una casa sobre pilotes, ahora con un descuento del 50%. Date prisa, la oferta termina el 13 de marzo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/.dds",
+        "filesize": 2048
+    }
+}

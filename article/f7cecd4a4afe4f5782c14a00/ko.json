@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736474,"title":"","headline":"GTA 온라인","subtitle":"곧 출시","content":"도전을 더 크게 만들고 싶으십니까? 그럼 진짜로 작아지면 됩니다! 원격 조종기를 챙기고 배터리를 충전하십시오. 모든 신규 RC 타임 트라이얼에서 혼란을 일으키고, 기록을 경신하고, 경쟁자를 제압할 시간입니다. <br /><br />작은 고추가 매운 법입니다. 매일 이용 가능합니다.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736474,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "곧 출시",
+    "content": "도전을 더 크게 만들고 싶으십니까? 그럼 진짜로 작아지면 됩니다! 원격 조종기를 챙기고 배터리를 충전하십시오. 모든 신규 RC 타임 트라이얼에서 혼란을 일으키고, 기록을 경신하고, 경쟁자를 제압할 시간입니다. <br /><br />작은 고추가 매운 법입니다. 매일 이용 가능합니다.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

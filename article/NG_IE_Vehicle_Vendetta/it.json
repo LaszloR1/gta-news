@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482320395,"title":"","headline":"GTA Online","subtitle":"Vendetta su ruote","content":"Hai fatto sfracelli nei panni della Bestia e seminato il terrore in quelli del Maniaco, ma hai mai portato un Rhino a quasi 100 km/h solo per farti annientare da qualcuno su una Shotaro mentre sei in Trance? Beh, è la tua occasione. Questa nuova modalità Competizione mette te e i tuoi compagni di squadra contro un altro gruppo di fanatici motorizzati, con lo scopo di arraffare dei potenziamenti che da soli possono ribaltare le sorti dello scontro. Allaccia le cinture.","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Vendetta/349672_bigFeed-VehicleVendetta.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Vehicle_Vendetta/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482320395,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vendetta su ruote",
+    "content": "Hai fatto sfracelli nei panni della Bestia e seminato il terrore in quelli del Maniaco, ma hai mai portato un Rhino a quasi 100 km/h solo per farti annientare da qualcuno su una Shotaro mentre sei in Trance? Beh, è la tua occasione. Questa nuova modalità Competizione mette te e i tuoi compagni di squadra contro un altro gruppo di fanatici motorizzati, con lo scopo di arraffare dei potenziamenti che da soli possono ribaltare le sorti dello scontro. Allaccia le cinture.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Vendetta/349672_bigFeed-VehicleVendetta.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Vendetta/.dds",
+        "filesize": 2048
+    }
+}

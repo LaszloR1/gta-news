@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349404,"title":"","headline":"GTA Online","subtitle":"Benny’s Original Motor Works","content":"Nuove eccitanti opzioni di modifica dei veicoli sono disponibili da Benny’s Original Motor Works. Visita www.bennysoriginalmotorworks.com, o usa l'app sul cellulare di gioco per vedere gli ultimi progetti di Benny. <br /><br />Acquista l'auto da modificare e portala da Benny, nel cuore di Los Santos. Dopo una modifica di base, avrai accesso a tutta una serie di nuove modifiche, tra cui interni personalizzati e impianti idraulici da sballo.<br />Lamar ti darà una mano a entrare in contatto con Benny.","url":"","image":{"path":"sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bennys_Motor_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349404,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Benny’s Original Motor Works",
+    "content": "Nuove eccitanti opzioni di modifica dei veicoli sono disponibili da Benny’s Original Motor Works. Visita www.bennysoriginalmotorworks.com, o usa l'app sul cellulare di gioco per vedere gli ultimi progetti di Benny. <br /><br />Acquista l'auto da modificare e portala da Benny, nel cuore di Los Santos. Dopo una modifica di base, avrai accesso a tutta una serie di nuove modifiche, tra cui interni personalizzati e impianti idraulici da sballo.<br />Lamar ti darà una mano a entrare in contatto con Benny.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bennys_Motor_Works/.dds",
+        "filesize": 2048
+    }
+}

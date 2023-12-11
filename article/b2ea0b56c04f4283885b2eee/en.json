@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608659660,"title":"","headline":"GTA Online","subtitle":"Making Musik","content":"Head over to The Music Locker to hear the Berlin collective Keinemusik, and go on a journey from the sounds of open-air beach parties to the darkest European nights.","url":"","image":{"path":"sc/news/b2ea0b56c04f4283885b2eee/262272_GTAO_IslandHeist_BigFeed_KeineMusik.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608659660,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Making Musik",
+    "content": "Head over to The Music Locker to hear the Berlin collective Keinemusik, and go on a journey from the sounds of open-air beach parties to the darkest European nights.",
+    "url": "",
+    "image": {
+        "path": "sc/news/b2ea0b56c04f4283885b2eee/262272_GTAO_IslandHeist_BigFeed_KeineMusik.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952126,"title":"","headline":"GTA Online","subtitle":"Золотые крылья","content":"В коллекции Elitas Travel появилось два новых воздушных транспорта - Luxor Deluxe и Swift Deluxe, - которые смогут позволить себе лишь самые зажиточные жители Лос-Сантоса. Роскошную золотую облицовку дополняет не менее роскошный салон, где можно сесть, расслабиться и насладиться полетом, попивая шампанское. Удерживайте ~INPUT_ENTER~, чтобы сразу сесть на пассажирское место.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Золотые крылья",
+    "content": "В коллекции Elitas Travel появилось два новых воздушных транспорта - Luxor Deluxe и Swift Deluxe, - которые смогут позволить себе лишь самые зажиточные жители Лос-Сантоса. Роскошную золотую облицовку дополняет не менее роскошный салон, где можно сесть, расслабиться и насладиться полетом, попивая шампанское. Удерживайте ~INPUT_ENTER~, чтобы сразу сесть на пассажирское место.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

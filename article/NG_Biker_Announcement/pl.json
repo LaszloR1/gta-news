@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1474282375,"title":"","headline":"GTA Online","subtitle":"GTA Online: Motocykliści przybędą 4 października","content":"Kolejna aktualizacja do GTA Online, Motocykliści, przynosi gorąco oczekiwaną opcję stworzenia własnego klubu motocyklowego w Los Santos, dla maksymalnie 8 graczy. Motocykliści wprowadzają nowe role - od nowo przyjętych żółtodziobów po prezydentów, a także mnóstwo nowej zabawy w trybach rywalizacji i współpracy. To także szereg nowych motocykli i budynków (a wśród nich siedziby klubu z własnym mechanikiem) oraz okazji do interesów. <br /><br />Więcej informacji na rockstargames.com/V/pl_pl/news.","url":"","image":{"path":"sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Biker_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1474282375,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Motocykliści przybędą 4 października",
+    "content": "Kolejna aktualizacja do GTA Online, Motocykliści, przynosi gorąco oczekiwaną opcję stworzenia własnego klubu motocyklowego w Los Santos, dla maksymalnie 8 graczy. Motocykliści wprowadzają nowe role - od nowo przyjętych żółtodziobów po prezydentów, a także mnóstwo nowej zabawy w trybach rywalizacji i współpracy. To także szereg nowych motocykli i budynków (a wśród nich siedziby klubu z własnym mechanikiem) oraz okazji do interesów. <br /><br />Więcej informacji na rockstargames.com/V/pl_pl/news.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Biker_Announcement/.dds",
+        "filesize": 2048
+    }
+}

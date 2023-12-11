@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044033,"title":"","headline":"GTA Online","subtitle":"Now at Benny’s: Three New Cars and Upgrades","content":"Expand your Lowrider collection with new stock from Benny’s Original Motorworks. Check out two more upgradeable muscle cars, the Vapid Slamvan and the brand new Dundreary Virgo Classic. If that wasn’t enough, Benny is revisiting one of his favorite rides, the Faction, to offer a new upgrade style that will have you towering over the residents of Los Santos in your very own Custom Donk.","url":"","image":{"path":"sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Now_At_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044033,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Now at Benny’s: Three New Cars and Upgrades",
+    "content": "Expand your Lowrider collection with new stock from Benny’s Original Motorworks. Check out two more upgradeable muscle cars, the Vapid Slamvan and the brand new Dundreary Virgo Classic. If that wasn’t enough, Benny is revisiting one of his favorite rides, the Faction, to offer a new upgrade style that will have you towering over the residents of Los Santos in your very own Custom Donk.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/.dds",
+        "filesize": 2048
+    }
+}

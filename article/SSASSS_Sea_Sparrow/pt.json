@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1523980379,"title":"","headline":"GTA Online","subtitle":"Sea Sparrow","content":"Todos os problemas podem ser resolvidos com as ferramentas certas, mas só tem uma ferramenta que pode resolver todos os problemas. Que ferramenta é essa? Ora, um helicóptero em miniatura que pode ser armado, é claro.","url":"","image":{"path":"sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1523980379,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sea Sparrow",
+    "content": "Todos os problemas podem ser resolvidos com as ferramentas certas, mas só tem uma ferramenta que pode resolver todos os problemas. Que ferramenta é essa? Ora, um helicóptero em miniatura que pode ser armado, é claro.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

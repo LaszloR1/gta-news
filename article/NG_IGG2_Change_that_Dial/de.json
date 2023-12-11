@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356420,"title":"","headline":"GTA Online","subtitle":"Schalt doch mal um","content":"Wir freuen uns sehr, einen brandneuen Sender in der Radiolandschaft von Los Santos begrüßen zu dürfen.<br /><br />The Lab spielt eine genreübergreifende Sammlung neuer Musik und wird von Dr. No and the Chemical Bro moderiert. Der Sender wird das tägliche Drive-by-Shooting auf dem Weg zur Arbeit sicherlich bereichern.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Change_that_Dial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356420,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Schalt doch mal um",
+    "content": "Wir freuen uns sehr, einen brandneuen Sender in der Radiolandschaft von Los Santos begrüßen zu dürfen.<br /><br />The Lab spielt eine genreübergreifende Sammlung neuer Musik und wird von Dr. No and the Chemical Bro moderiert. Der Sender wird das tägliche Drive-by-Shooting auf dem Weg zur Arbeit sicherlich bereichern.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/.dds",
+        "filesize": 2048
+    }
+}

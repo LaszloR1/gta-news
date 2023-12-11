@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294917,"title":"","headline":"GTA Online","subtitle":"Quartel General","content":"A imobiliária Dynasty 8, em parceria com a SecuroServ PLC, tem o orgulho de apresentar uma nova linha escritórios de luxo para criminosos de carreiras notórias. Essas obras-primas de design executivo vêm com assistente 24 horas por dia, 7 dias por semana, heliporto, serviço de redecoração e várias opções de personalização. Após adquirir um escritório, você poderá se registrar como Chefe através da SecuroServ, dando-lhe acesso a acordos ilícitos de Muamba por toda a cidade.","url":"","image":{"path":"sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Head_Quarters/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294917,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Quartel General",
+    "content": "A imobiliária Dynasty 8, em parceria com a SecuroServ PLC, tem o orgulho de apresentar uma nova linha escritórios de luxo para criminosos de carreiras notórias. Essas obras-primas de design executivo vêm com assistente 24 horas por dia, 7 dias por semana, heliporto, serviço de redecoração e várias opções de personalização. Após adquirir um escritório, você poderá se registrar como Chefe através da SecuroServ, dando-lhe acesso a acordos ilícitos de Muamba por toda a cidade.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/.dds",
+        "filesize": 2048
+    }
+}

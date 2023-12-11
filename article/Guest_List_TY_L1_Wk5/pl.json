@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635617,"title":"Nagrody dla gości","headline":"Nagrody dla gości","subtitle":"Jesteś na liście!","content":"Nagrody dla gości dostępne w tym tygodniu to:<br /><br />– Prezent w postaci 100 000 GTA$<br />– Koszulka Technologie<br />– Bezpłatny pojazd opancerzony HVY Nightshark<br />– Bezpłatny bojowy samochód sportowy Übermacht Revolter<br />– Ekskluzywne oznaczenia „Różowo-zielone moro” oraz „Wielokolorowe Sessanta Nove” dla Nightsharka i Revoltera<br /><br />Dziękujemy za dołączenie do listy gości. Zapraszamy na Rockstar Newswire, aby dowiedzieć się więcej o nadchodzących ekskluzywnych wydarzeniach w Los Santos.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_POL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635617,
+    "title": "Nagrody dla gości",
+    "headline": "Nagrody dla gości",
+    "subtitle": "Jesteś na liście!",
+    "content": "Nagrody dla gości dostępne w tym tygodniu to:<br /><br />– Prezent w postaci 100 000 GTA$<br />– Koszulka Technologie<br />– Bezpłatny pojazd opancerzony HVY Nightshark<br />– Bezpłatny bojowy samochód sportowy Übermacht Revolter<br />– Ekskluzywne oznaczenia „Różowo-zielone moro” oraz „Wielokolorowe Sessanta Nove” dla Nightsharka i Revoltera<br /><br />Dziękujemy za dołączenie do listy gości. Zapraszamy na Rockstar Newswire, aby dowiedzieć się więcej o nadchodzących ekskluzywnych wydarzeniach w Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_POL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455282,"title":"","headline":"GTA Online","subtitle":"Życie po godzinach","content":"Los Santos to miasto jaskrawych świateł, długich nocy i brudnych tajemnic, a w GTA Online: Życie po godzinach będzie jeszcze jaskrawiej, dłużej i brudniej. Otwórz najbardziej ekskluzywny klub nocny, w którym zagrają światowej klasy DJ-e, a następnie wykorzystaj go, aby stworzyć najbardziej skoncentrowaną sieć przestępczą, jaka kiedykolwiek działała w San Andreas.","url":"","image":{"path":"sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455282,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Życie po godzinach",
+    "content": "Los Santos to miasto jaskrawych świateł, długich nocy i brudnych tajemnic, a w GTA Online: Życie po godzinach będzie jeszcze jaskrawiej, dłużej i brudniej. Otwórz najbardziej ekskluzywny klub nocny, w którym zagrają światowej klasy DJ-e, a następnie wykorzystaj go, aby stworzyć najbardziej skoncentrowaną sieć przestępczą, jaka kiedykolwiek działała w San Andreas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

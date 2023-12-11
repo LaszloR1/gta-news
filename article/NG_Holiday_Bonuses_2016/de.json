@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482244341,"title":"","headline":"GTA Online","subtitle":"Weihnachtsboni: 25 % Rabatt, gestreifte Hausjacke & Pyjama im Set zum Freischalten","content":"Schenk dir selbst etwas besonders Schönes mit Rabatten in Höhe von 25µ% auf ausgewählte Artikel bis zum 2. Januar, darunter Luxusfahrzeuge wie der Enus Super Diamond, Immobilien wie die Penthouses in den Eclipse Towers & Waffen wie die automatische Schrotflinte.<br /><br />Du hast außerdem beim Einloggen die kultivierte breit gestreifte Hausjacke samt Pyjama freigeschaltet. Du kannst das kostenlose Set in jedem Bekleidungsgeschäft in Los Santos abholen.<br /><br />Weitere Details auf dem Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Holiday_Bonuses_2016/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482244341,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Weihnachtsboni: 25 % Rabatt, gestreifte Hausjacke & Pyjama im Set zum Freischalten",
+    "content": "Schenk dir selbst etwas besonders Schönes mit Rabatten in Höhe von 25µ% auf ausgewählte Artikel bis zum 2. Januar, darunter Luxusfahrzeuge wie der Enus Super Diamond, Immobilien wie die Penthouses in den Eclipse Towers & Waffen wie die automatische Schrotflinte.<br /><br />Du hast außerdem beim Einloggen die kultivierte breit gestreifte Hausjacke samt Pyjama freigeschaltet. Du kannst das kostenlose Set in jedem Bekleidungsgeschäft in Los Santos abholen.<br /><br />Weitere Details auf dem Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/.dds",
+        "filesize": 2048
+    }
+}

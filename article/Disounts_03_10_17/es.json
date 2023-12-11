@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507049482,"title":"","headline":"GTA Online","subtitle":"Descuentos y mejoras","content":"Esta ciudad no conoce el exceso, así que coge esa máquina voladora que acabas de comprarte y conviértela en una mucho más mortífera gracias a estos descuentos:<br /><br />Taller del hangar: -25µ%<br />Mejoras de motor (todos los vehículos): -25µ%<br />Mejoras de blindaje (todos los vehículos): -25µ%<br />Mejoras de maniobrabilidad de aeronaves: -25µ%<br />Mejoras de armas de aeronaves: -25µ%<br />Trajes de piloto y monos de carreras aéreas: -25µ%<br /><br />Visita el Rockstar Newswire para más información.","url":"","image":{"path":"sc/news/Disounts_03_10_17/262272_Hangar_On.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507049482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos y mejoras",
+    "content": "Esta ciudad no conoce el exceso, así que coge esa máquina voladora que acabas de comprarte y conviértela en una mucho más mortífera gracias a estos descuentos:<br /><br />Taller del hangar: -25µ%<br />Mejoras de motor (todos los vehículos): -25µ%<br />Mejoras de blindaje (todos los vehículos): -25µ%<br />Mejoras de maniobrabilidad de aeronaves: -25µ%<br />Mejoras de armas de aeronaves: -25µ%<br />Trajes de piloto y monos de carreras aéreas: -25µ%<br /><br />Visita el Rockstar Newswire para más información.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Disounts_03_10_17/262272_Hangar_On.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

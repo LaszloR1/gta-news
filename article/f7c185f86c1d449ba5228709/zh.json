@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973254,"title":"洛聖都毒梟大戰","headline":"洛聖都毒梟大戰","subtitle":"體驗µ11µ個故事任務，解鎖全新迷幻劑藥廠，以及更多免費獎勵","content":"接聽小羅的來電，並前往布雷恩郡完成他的請求並展開旅程。當您認識愚樂幫以後，前往怪咖工坊以遊玩所有故事任務。<br /><br />過程中您可解鎖全新的獎勵和機會，例如迷幻劑藥廠，供您創立您自己的新事業，販賣自己的迷幻藥；免費曼切茲偵察µC，在您運送貨物時助您一臂之力；免費歐斯洛美德超級跑車，以及更多。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds","filesize":262272},"button":"遊玩「洛聖都毒梟大戰」"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973254,
+    "title": "洛聖都毒梟大戰",
+    "headline": "洛聖都毒梟大戰",
+    "subtitle": "體驗µ11µ個故事任務，解鎖全新迷幻劑藥廠，以及更多免費獎勵",
+    "content": "接聽小羅的來電，並前往布雷恩郡完成他的請求並展開旅程。當您認識愚樂幫以後，前往怪咖工坊以遊玩所有故事任務。<br /><br />過程中您可解鎖全新的獎勵和機會，例如迷幻劑藥廠，供您創立您自己的新事業，販賣自己的迷幻藥；免費曼切茲偵察µC，在您運送貨物時助您一臂之力；免費歐斯洛美德超級跑車，以及更多。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds",
+        "filesize": 262272
+    },
+    "button": "遊玩「洛聖都毒梟大戰」"
+}

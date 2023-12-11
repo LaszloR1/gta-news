@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408452757,"headline":"Aktualizacja GTA Online","subtitle":"Szkoła latania jest już dostępna","content":"Jeśli uważasz, że drzemie w tobie talent do pilotowania myśliwców, spróbuj swoich sił w Szkole latania.<br /><br />Czeka na ciebie 10 podniebnych wyzwań – od wyczynów kaskaderskich do trudnych lądowań. Spróbuj zdobyć złoto w każdej konkurencji i wejdź do lotniczej elity.<br /><br />Szkoła latania znajduje się przy wejściu do terminalu lotniska w Los Santos (oznaczona jest na mapie ikoną samolotu).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Flight_School_Open/65664_FlightSchool.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452757,
+    "headline": "Aktualizacja GTA Online",
+    "subtitle": "Szkoła latania jest już dostępna",
+    "content": "Jeśli uważasz, że drzemie w tobie talent do pilotowania myśliwców, spróbuj swoich sił w Szkole latania.<br /><br />Czeka na ciebie 10 podniebnych wyzwań – od wyczynów kaskaderskich do trudnych lądowań. Spróbuj zdobyć złoto w każdej konkurencji i wejdź do lotniczej elity.<br /><br />Szkoła latania znajduje się przy wejściu do terminalu lotniska w Los Santos (oznaczona jest na mapie ikoną samolotu).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Flight_School_Open/65664_FlightSchool.dds",
+        "filesize": 65664
+    }
+}

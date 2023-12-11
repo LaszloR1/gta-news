@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044119,"title":"","headline":"GTA Online","subtitle":"Sumotorisé","content":"Chargez, repoussez et esquivez vos adversaires dans ce nouveau mode rivalité qui vous demandera de coopérer avec votre équipe pour expulser vos concurrents de l'arène. Taille, vitesse, maniabilité, choisissez un véhicule qui correspond à votre style et aidez votre équipe à être la dernière dans l'arène, avant la fin du temps imparti, pour l'emporter.","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumotorisé",
+    "content": "Chargez, repoussez et esquivez vos adversaires dans ce nouveau mode rivalité qui vous demandera de coopérer avec votre équipe pour expulser vos concurrents de l'arène. Taille, vitesse, maniabilité, choisissez un véhicule qui correspond à votre style et aidez votre équipe à être la dernière dans l'arène, avant la fin du temps imparti, pour l'emporter.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

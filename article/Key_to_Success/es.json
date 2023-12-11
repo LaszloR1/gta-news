@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999545,"title":"","headline":"Consejo en línea","subtitle":"La clave del éxito","content":"El extenso mapa de Los Santos es una útil herramienta que te ayudará a mantenerte en cabeza en el modo Libre: los iconos te permitirán determinar qué jugadores son amigos o enemigos (o incluso presas). Recuerda bien esta clave para no llevarte sorpresas desagradables.<br /><br />1 – Compañeros de Crew<br />2 – Tus amigos<br />3 – Amigos que también son compañeros de Crew<br />4 – Jugadores con una recompensa por su cabeza<br />5 – Jugadores con estado mental alto<br />6 – Amigos o jugadores en un apartamento","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Key_to_Success/262272_KeyToSuccess.dds","filesize":262272},"landscape":{"path":"sc/news/Key_to_Success/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999545,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "La clave del éxito",
+    "content": "El extenso mapa de Los Santos es una útil herramienta que te ayudará a mantenerte en cabeza en el modo Libre: los iconos te permitirán determinar qué jugadores son amigos o enemigos (o incluso presas). Recuerda bien esta clave para no llevarte sorpresas desagradables.<br /><br />1 – Compañeros de Crew<br />2 – Tus amigos<br />3 – Amigos que también son compañeros de Crew<br />4 – Jugadores con una recompensa por su cabeza<br />5 – Jugadores con estado mental alto<br />6 – Amigos o jugadores en un apartamento",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Key_to_Success/262272_KeyToSuccess.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Key_to_Success/.dds",
+        "filesize": 2048
+    }
+}

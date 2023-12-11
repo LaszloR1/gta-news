@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1403000037,"title":"","headline":"온라인 팁","subtitle":"무충돌 스포츠","content":"무충돌 레이스 옵션이 추가되어 레이스를 다시 신사적인 스포츠로 즐길 수 있습니다.<br /><br />어떤 레이스에서든, 호스트는 로비 옵션에서 레이스 종류를 무충돌로 변경할 수 있습니다. 무충돌 레이스에서는 플레이어의 이동 수단이 상대방의 이동 수단을 그냥 통과하며 슬립스트림이 불가능합니다.<br /><br />하지만 로스 산토스의 일반 차량들은 조심해야 합니다. 그들의 이동 수단은 여전히 여러분과 부딪힐 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Non_Contact_Sport/262272_NonContactSport.dds","filesize":262272},"landscape":{"path":"sc/news/Non_Contact_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1403000037,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "무충돌 스포츠",
+    "content": "무충돌 레이스 옵션이 추가되어 레이스를 다시 신사적인 스포츠로 즐길 수 있습니다.<br /><br />어떤 레이스에서든, 호스트는 로비 옵션에서 레이스 종류를 무충돌로 변경할 수 있습니다. 무충돌 레이스에서는 플레이어의 이동 수단이 상대방의 이동 수단을 그냥 통과하며 슬립스트림이 불가능합니다.<br /><br />하지만 로스 산토스의 일반 차량들은 조심해야 합니다. 그들의 이동 수단은 여전히 여러분과 부딪힐 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Non_Contact_Sport/262272_NonContactSport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Non_Contact_Sport/.dds",
+        "filesize": 2048
+    }
+}

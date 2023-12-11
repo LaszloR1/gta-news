@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677125,"title":"GTA+","headline":"GTA+","subtitle":"Club de coches de Vinewood","content":"Presentamos el club de coches de Vinewood, una nueva ubicación en la que los miembros de GTA+ pueden acceder a una cuidada selección de vehículos peculiares para probarlos, solicitarlos en modo Libre y comprarlos a precio rebajado. Además, los miembros recibirán un vehículo prémium de regalo de vez en cuando.<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Detalles en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/bc5d1b6d158d43acb6ccfb13/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds","filesize":262272},"button":"Selecciona para registrarte en GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677125,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Club de coches de Vinewood",
+    "content": "Presentamos el club de coches de Vinewood, una nueva ubicación en la que los miembros de GTA+ pueden acceder a una cuidada selección de vehículos peculiares para probarlos, solicitarlos en modo Libre y comprarlos a precio rebajado. Además, los miembros recibirán un vehículo prémium de regalo de vez en cuando.<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Detalles en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/bc5d1b6d158d43acb6ccfb13/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para registrarte en GTA+"
+}

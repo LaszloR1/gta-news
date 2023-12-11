@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044144,"title":"","headline":"GTA Online","subtitle":"''Гриферы'' побоку","content":"Никак не можете избавиться от чьего-то назойливого внимания? В этом вам поможет новая функция. Если какой-то игрок постоянно убивает вас при том, что вы не сопротивляетесь, вы на короткое время можете стать ''призрачным'' для него и скрыться.","url":"","image":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044144,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "''Гриферы'' побоку",
+    "content": "Никак не можете избавиться от чьего-то назойливого внимания? В этом вам поможет новая функция. Если какой-то игрок постоянно убивает вас при том, что вы не сопротивляетесь, вы на короткое время можете стать ''призрачным'' для него и скрыться.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds",
+        "filesize": 2048
+    }
+}

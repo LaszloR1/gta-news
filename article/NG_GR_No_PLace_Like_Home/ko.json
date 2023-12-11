@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916483,"title":"","headline":"GTA Online","subtitle":"역시 집이 최고죠","content":"방사능 낙진도 막아주는 튼튼한 지하 벙커가 집처럼 아늑하고 편안할 수 있을까요? 산 안드레아스에서는 가능합니다. 여러분의 지하 소굴에 각종 편의 시설을 옵션으로 맞춤 제공하거든요. 메이즈 은행 담보 매물에서 원하는 부동산을 선택한 다음, 마음에 드는 스타일을 고르세요. 사격장, 개인 편의 시설, 무기 캐비닛, 맞춤형 운송 수단 옵션도 추가하시고요. 폭탄이 떨어지기 시작하면, 여기 말고 다른 데는 생각도 안 날 겁니다.","url":"","image":{"path":"sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_No_PLace_Like_Home/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916483,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "역시 집이 최고죠",
+    "content": "방사능 낙진도 막아주는 튼튼한 지하 벙커가 집처럼 아늑하고 편안할 수 있을까요? 산 안드레아스에서는 가능합니다. 여러분의 지하 소굴에 각종 편의 시설을 옵션으로 맞춤 제공하거든요. 메이즈 은행 담보 매물에서 원하는 부동산을 선택한 다음, 마음에 드는 스타일을 고르세요. 사격장, 개인 편의 시설, 무기 캐비닛, 맞춤형 운송 수단 옵션도 추가하시고요. 폭탄이 떨어지기 시작하면, 여기 말고 다른 데는 생각도 안 날 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

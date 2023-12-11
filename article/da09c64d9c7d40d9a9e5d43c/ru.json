@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1625765791,"title":"","headline":"GTA Online","subtitle":"Скидки","content":"Подумайте над расширением своей коллекции автомобилей: действуют скидки 40% на все виды гаражей. Кроме того по сниженной цене доступен целый ряд транспортных средств для суши, воды и воздуха:<br /><br />- P-45 Nokota – скидка 30%<br />- RM-10 Bombushka – скидка 30%<br />- Übermacht Revolter – скидка 30%<br />- Western Cargobob – скидка 40%<br /><br />И не только! Все подробности – в новостной ленте Rockstar.","url":"","image":{"path":"sc/news/da09c64d9c7d40d9a9e5d43c/262272_P45Nokota.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1625765791,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Скидки",
+    "content": "Подумайте над расширением своей коллекции автомобилей: действуют скидки 40% на все виды гаражей. Кроме того по сниженной цене доступен целый ряд транспортных средств для суши, воды и воздуха:<br /><br />- P-45 Nokota – скидка 30%<br />- RM-10 Bombushka – скидка 30%<br />- Übermacht Revolter – скидка 30%<br />- Western Cargobob – скидка 40%<br /><br />И не только! Все подробности – в новостной ленте Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/da09c64d9c7d40d9a9e5d43c/262272_P45Nokota.dds",
+        "filesize": 262272
+    }
+}

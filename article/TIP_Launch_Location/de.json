@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380566406,"headline":"Online-Tipp","subtitle":"Startposition","content":"Wenn du GTA Online startest, beginnst du standardmäßig da, wo du das Spiel auch verlassen hast. Wenn du eine Immobilie besitzt, kannst du wahlweise auch dort anfangen. Deinen 'Spawnpunkt' kannst du im Optionenmenü von GTA Online einstellen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Launch_Location/65664_Launch_Location_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380566406,
+    "headline": "Online-Tipp",
+    "subtitle": "Startposition",
+    "content": "Wenn du GTA Online startest, beginnst du standardmäßig da, wo du das Spiel auch verlassen hast. Wenn du eine Immobilie besitzt, kannst du wahlweise auch dort anfangen. Deinen 'Spawnpunkt' kannst du im Optionenmenü von GTA Online einstellen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Launch_Location/65664_Launch_Location_portrait.dds",
+        "filesize": 65664
+    }
+}

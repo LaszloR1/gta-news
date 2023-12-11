@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543397,"title":"","headline":"GTA Online","subtitle":"Dressed to Kill","content":"With massive expansions to your criminal empire, you’re going to need equally extensive expansions to your criminal wardrobe. As well as the huge line of new clothing options in stores, check out the all-new tattoos and a new range of weird, wonderful and vomit-inducing masks. And of course, this wave of cutting-edge fashion also includes new CEO styles, available to distribute to your whole organization via the interaction menu.","url":"","image":{"path":"sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Dressed_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543397,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dressed to Kill",
+    "content": "With massive expansions to your criminal empire, you’re going to need equally extensive expansions to your criminal wardrobe. As well as the huge line of new clothing options in stores, check out the all-new tattoos and a new range of weird, wonderful and vomit-inducing masks. And of course, this wave of cutting-edge fashion also includes new CEO styles, available to distribute to your whole organization via the interaction menu.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Dressed_Kill/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511556,"title":"","headline":"GTA Online","subtitle":"Pegassi Esskey","content":"Nowość w salonach San Andreas, Pegassi Esskey, to Twój bilet wstępu do świata klasy i oryginalności, jakiego się nie spodziewasz – a wystarczy kliknąć w przycisk i kupić to cacko. Wskakuj na siedzenie i przenieś się w czasy, kiedy wacha była tania, Twój ojciec był spoko, a matka seksowna.","url":"","image":{"path":"sc/news/NG_Bikers_Esskey/262272_Esskey.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Esskey/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511556,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Esskey",
+    "content": "Nowość w salonach San Andreas, Pegassi Esskey, to Twój bilet wstępu do świata klasy i oryginalności, jakiego się nie spodziewasz – a wystarczy kliknąć w przycisk i kupić to cacko. Wskakuj na siedzenie i przenieś się w czasy, kiedy wacha była tania, Twój ojciec był spoko, a matka seksowna.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Esskey/262272_Esskey.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Esskey/.dds",
+        "filesize": 2048
+    }
+}

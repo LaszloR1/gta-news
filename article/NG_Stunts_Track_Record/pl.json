@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324900,"title":"","headline":"GTA Online","subtitle":"Zabawki na tor","content":"GTA Online to teraz nowy świat dla odważnych kaskaderów, więc przyda się Wam pod maską nieco więcej mocy. Na szczęście do akcji wkracza też kolekcja potężnych pojazdów, które zaspokoją wszystkie Wasze potrzeby: od awangardowej stylistyki RE-7B do nieskrępowanej brutalności Vapida Trophy. Nieważne, jak bardzo pokręcone są Wasze marzenia: u nas każdy znajdzie coś dla siebie.","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zabawki na tor",
+    "content": "GTA Online to teraz nowy świat dla odważnych kaskaderów, więc przyda się Wam pod maską nieco więcej mocy. Na szczęście do akcji wkracza też kolekcja potężnych pojazdów, które zaspokoją wszystkie Wasze potrzeby: od awangardowej stylistyki RE-7B do nieskrępowanej brutalności Vapida Trophy. Nieważne, jak bardzo pokręcone są Wasze marzenia: u nas każdy znajdzie coś dla siebie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324850,"title":"","headline":"GTA Online","subtitle":"別往下看","content":"現在您可以在µGTAµ線上模式裡，於特技競速中以全新角度重新體驗聖安地列斯之美。準備迎接前所未見的新感受：直指天際的旋轉賽道、在摩天大廈般的高度施展跳躍動作、在兩萬英尺高空加速穿越螺旋道路，最後還有巨型保齡球瓶及火圈等著您。","url":"","image":{"path":"sc/news/NG_Stunts_Dont_Look_Down/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dont_Look_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324850,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "別往下看",
+    "content": "現在您可以在µGTAµ線上模式裡，於特技競速中以全新角度重新體驗聖安地列斯之美。準備迎接前所未見的新感受：直指天際的旋轉賽道、在摩天大廈般的高度施展跳躍動作、在兩萬英尺高空加速穿越螺旋道路，最後還有巨型保齡球瓶及火圈等著您。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dont_Look_Down/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dont_Look_Down/.dds",
+        "filesize": 2048
+    }
+}

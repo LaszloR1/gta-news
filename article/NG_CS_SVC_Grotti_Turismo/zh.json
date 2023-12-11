@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491247706,"title":"","headline":"GTA Online","subtitle":"古羅帝經典披治","content":"您大可說它老派，但是那些儀表板花俏，比您還聰明的太空時代超跑，實在讓您覺得很厭煩。您想要一輛單純，宛若猛禽或是雙股間的擎天柱一般，擁有純粹且原始的能量的車。坐上經典披治這輛車中豪傑，讓您重返汽油價格低廉、臭氧層仍然厚實，而且警察自己酒測也沒過的年代。","url":"","image":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491247706,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "古羅帝經典披治",
+    "content": "您大可說它老派，但是那些儀表板花俏，比您還聰明的太空時代超跑，實在讓您覺得很厭煩。您想要一輛單純，宛若猛禽或是雙股間的擎天柱一般，擁有純粹且原始的能量的車。坐上經典披治這輛車中豪傑，讓您重返汽油價格低廉、臭氧層仍然厚實，而且警察自己酒測也沒過的年代。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/.dds",
+        "filesize": 2048
+    }
+}

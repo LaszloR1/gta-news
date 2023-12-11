@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917642,"title":"","headline":"GTA Online","subtitle":"Centro de Operaciones Móvil","content":"El Centro de Operaciones Móvil te brinda la clase de ventaja táctica que solo los asesinos consagrados y las potencias nucleares renegadas suelen disfrutar. Su diseño modular ofrece una vivienda de lujo, un centro de mando, plaza de aparcamiento, un taller de armas y un taller con instalaciones para modificar vehículos armados; todo está al alcance de la mano. Cuando seas el orgulloso propietario de un búnker, visita Warstock Cache & Carry y comienza ya a construir tu propio COM.","url":"","image":{"path":"sc/news/NG_GR_Mobile_Ops_Center/262272_MobileOperationsCenter.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Mobile_Ops_Center/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917642,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Centro de Operaciones Móvil",
+    "content": "El Centro de Operaciones Móvil te brinda la clase de ventaja táctica que solo los asesinos consagrados y las potencias nucleares renegadas suelen disfrutar. Su diseño modular ofrece una vivienda de lujo, un centro de mando, plaza de aparcamiento, un taller de armas y un taller con instalaciones para modificar vehículos armados; todo está al alcance de la mano. Cuando seas el orgulloso propietario de un búnker, visita Warstock Cache & Carry y comienza ya a construir tu propio COM.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Mobile_Ops_Center/262272_MobileOperationsCenter.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Mobile_Ops_Center/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

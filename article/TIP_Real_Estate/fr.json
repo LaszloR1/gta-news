@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470799,"title":"","headline":"Astuce en ligne","subtitle":"Propriétés","content":"Rendez-vous sur le site dynasty8realestate.com pour découvrir les nombreuses propriétés plus ou moins luxueuses en vente dans la région. Trouvez le logement de vos rêves, un endroit où vous pourrez vous détendre, récupérer et mettre de l'ordre dans vos priorités. Tous les appartements sont pourvus de garages pour entreposer vos véhicules, et les plus sélects offrent également une vue splendide.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Real_Estate/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470799,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Propriétés",
+    "content": "Rendez-vous sur le site dynasty8realestate.com pour découvrir les nombreuses propriétés plus ou moins luxueuses en vente dans la région. Trouvez le logement de vos rêves, un endroit où vous pourrez vous détendre, récupérer et mettre de l'ordre dans vos priorités. Tous les appartements sont pourvus de garages pour entreposer vos véhicules, et les plus sélects offrent également une vue splendide.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Real_Estate/.dds",
+        "filesize": 2048
+    }
+}

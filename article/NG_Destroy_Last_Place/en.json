@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349449,"title":"","headline":"GTA Online","subtitle":"Destroy Last Place","content":"Last means blast in this high pressure variation of the classic Race; at regular intervals the player in last place will blow up and be out of the running. The race host can use the Destroy Last Place option in any Race lobby to set the time between eliminations, to add some extra excitement to all of your favourite races.","url":"","image":{"path":"sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Destroy_Last_Place/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Destroy Last Place",
+    "content": "Last means blast in this high pressure variation of the classic Race; at regular intervals the player in last place will blow up and be out of the running. The race host can use the Destroy Last Place option in any Race lobby to set the time between eliminations, to add some extra excitement to all of your favourite races.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Destroy_Last_Place/.dds",
+        "filesize": 2048
+    }
+}

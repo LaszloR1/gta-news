@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1449571592,"title":"","headline":"GTA Online","subtitle":"Cada bala cuenta","content":"Coge tu pistola de tirador. Es hora de jugarte tu única vida contra otros tiradores en este nuevo y frenético modo Adversario. Tu pistola solo tiene 2 balas, así que no las desperdicies... ¡porque si no solo te quedará el filo de tu arma!","url":"","image":{"path":"sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Every_Bullet_Counts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1449571592,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cada bala cuenta",
+    "content": "Coge tu pistola de tirador. Es hora de jugarte tu única vida contra otros tiradores en este nuevo y frenético modo Adversario. Tu pistola solo tiene 2 balas, así que no las desperdicies... ¡porque si no solo te quedará el filo de tu arma!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Every_Bullet_Counts/.dds",
+        "filesize": 2048
+    }
+}

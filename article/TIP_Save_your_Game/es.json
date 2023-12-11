@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380565544,"title":"","headline":"Consejo en línea","subtitle":"Guardar partida","content":"Cuando tengas que abandonar la sesión, podrás salir mediante el menú de pausa o cambiar al modo Individual para guardar tu progreso e informar a tus amigos y miembros de Crew que has abandonado la partida.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Save_your_Game/262272_SaveYourGame.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Save_your_Game/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380565544,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Guardar partida",
+    "content": "Cuando tengas que abandonar la sesión, podrás salir mediante el menú de pausa o cambiar al modo Individual para guardar tu progreso e informar a tus amigos y miembros de Crew que has abandonado la partida.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Save_your_Game/262272_SaveYourGame.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Save_your_Game/.dds",
+        "filesize": 2048
+    }
+}

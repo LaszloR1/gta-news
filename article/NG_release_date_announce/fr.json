@@ -1,1 +1,20 @@
-{"types":["newswire","transition"],"date":1411059712,"title":"18 novembre","headline":"GTAV et GTA Online","subtitle":"Grand Theft Auto V débarque sur de nouvelles plateformes","content":"Découvrez toutes les améliorations visuelles et techniques qui rendent GTAV et GTA Online plus immersifs que jamais. En plus d'une distance d'affichage étendue et d'une meilleure résolution, les joueurs profiteront de :<br /><br />Nouvelles armes, véhicules et activités<br />Vie sauvage additionnelle<br />Trafic plus dense et nouveau système de végétation<br />Dégâts, effets météo améliorés, et bien d'autres choses<br /><br />Tous les joueurs qui réserveront le jeu obtiendront 1 million de GTA$ à dépenser dans GTAV et GTA Online","url":"www.rockstargames.com/fr/newswire","image":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1411059712,
+    "title": "18 novembre",
+    "headline": "GTAV et GTA Online",
+    "subtitle": "Grand Theft Auto V débarque sur de nouvelles plateformes",
+    "content": "Découvrez toutes les améliorations visuelles et techniques qui rendent GTAV et GTA Online plus immersifs que jamais. En plus d'une distance d'affichage étendue et d'une meilleure résolution, les joueurs profiteront de :<br /><br />Nouvelles armes, véhicules et activités<br />Vie sauvage additionnelle<br />Trafic plus dense et nouveau système de végétation<br />Dégâts, effets météo améliorés, et bien d'autres choses<br /><br />Tous les joueurs qui réserveront le jeu obtiendront 1 million de GTA$ à dépenser dans GTAV et GTA Online",
+    "url": "www.rockstargames.com/fr/newswire",
+    "image": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds",
+        "filesize": 65664
+    }
+}

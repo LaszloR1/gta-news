@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044034,"title":"","headline":"GTA Online","subtitle":"Agora na Benny's: três novos carros e melhorias","content":"Expanda a sua coleção de lowriders com o novo estoque da Benny’s Original Motor Works. Dê uma olhada em mais dois carros potentes personalizáveis, o Vapid Slamvan e o novo Dundreary Virgo Classic. Como se isso já não fosse o suficiente, Benny está revisitando um dos seus carros preferidos, o Faction, para oferecer uma nova melhoria de estilo que fará você se destacar entre os moradores de Los Santos no seu próprio Donk personalizado.","url":"","image":{"path":"sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Now_At_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044034,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Agora na Benny's: três novos carros e melhorias",
+    "content": "Expanda a sua coleção de lowriders com o novo estoque da Benny’s Original Motor Works. Dê uma olhada em mais dois carros potentes personalizáveis, o Vapid Slamvan e o novo Dundreary Virgo Classic. Como se isso já não fosse o suficiente, Benny está revisitando um dos seus carros preferidos, o Faction, para oferecer uma nova melhoria de estilo que fará você se destacar entre os moradores de Los Santos no seu próprio Donk personalizado.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/.dds",
+        "filesize": 2048
+    }
+}

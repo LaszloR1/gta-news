@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1610102559,"title":"","headline":"GTA Online","subtitle":"모터워즈에서 GTA 달러와 RP 세 배","content":"이번 주 모터워즈에서 오직 보조 무기로만 무장한 채 점점 줄어드는 위험천만한 구역으로 낙하산을 타고 내려가 보상 세 배를 얻어 보세요. 팀원과 협력해 이동 수단과 상당한 양의 무기를 찾아낸 뒤 적을 처치하고 마지막까지 생존하는 팀이 승자가 됩니다.","url":"","image":{"path":"sc/news/7bc21d984bc14c91b022a294/349672_349672_GTAO-MW-bigfeed-V2A-FINAL.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1610102559,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "모터워즈에서 GTA 달러와 RP 세 배",
+    "content": "이번 주 모터워즈에서 오직 보조 무기로만 무장한 채 점점 줄어드는 위험천만한 구역으로 낙하산을 타고 내려가 보상 세 배를 얻어 보세요. 팀원과 협력해 이동 수단과 상당한 양의 무기를 찾아낸 뒤 적을 처치하고 마지막까지 생존하는 팀이 승자가 됩니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/7bc21d984bc14c91b022a294/349672_349672_GTAO-MW-bigfeed-V2A-FINAL.dds",
+        "filesize": 349672
+    }
+}

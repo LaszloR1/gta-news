@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1494334917,"title":"","headline":"GTA Online","subtitle":"GTA$ et RP doublés dans les braquages de GTA Online jusqu'au 15 mai","content":"Obtenez le double de récompenses cette semaine dans les braquages de GTA Online. En effet, ces cinq missions en coopération à plusieurs niveaux vous rapporteront le double de GTA$ et de RP du 9 au 15 mai.","url":"","image":{"path":"sc/news/NG_Heist_Double_09_05/262272_Double-Score-Weekend-NGv2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heist_Double_09_05/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1494334917,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA$ et RP doublés dans les braquages de GTA Online jusqu'au 15 mai",
+    "content": "Obtenez le double de récompenses cette semaine dans les braquages de GTA Online. En effet, ces cinq missions en coopération à plusieurs niveaux vous rapporteront le double de GTA$ et de RP du 9 au 15 mai.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Heist_Double_09_05/262272_Double-Score-Weekend-NGv2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heist_Double_09_05/.dds",
+        "filesize": 2048
+    }
+}

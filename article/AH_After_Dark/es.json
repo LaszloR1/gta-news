@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455277,"title":"","headline":"GTA Online","subtitle":"Al caer la noche","content":"Te has asociado con un empresario bien conectado del mundo de los clubes nocturnos underground para abrir tu propio negocio. ¿Qué te parecería instalar la parte ejecutiva de tu imperio criminal justo debajo? Desde el ordenador central situado en este extenso almacén subterráneo, tu equipo técnico puede recabar posibles oportunidades comerciales para obtener importantes beneficios de todos tus demás negocios, sin que tengas que mover ni un dedo.","url":"","image":{"path":"sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455277,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Al caer la noche",
+    "content": "Te has asociado con un empresario bien conectado del mundo de los clubes nocturnos underground para abrir tu propio negocio. ¿Qué te parecería instalar la parte ejecutiva de tu imperio criminal justo debajo? Desde el ordenador central situado en este extenso almacén subterráneo, tu equipo técnico puede recabar posibles oportunidades comerciales para obtener importantes beneficios de todos tus demás negocios, sin que tengas que mover ni un dedo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

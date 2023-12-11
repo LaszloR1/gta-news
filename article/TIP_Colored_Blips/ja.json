@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380568975,"headline":"オンラインのヒント","subtitle":"色付きアイコン","content":"マップとレーダーでは近くのプレイヤーが色付きでハイライトされます。クルーの仲間はクルーカラーで、フレンドは青く表示されます。賞金がかけられているプレイヤーは赤く表示されるので、お金と正義のために彼らを仕留めましょう。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Colored_Blips/65664_Colored-Blips_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380568975,
+    "headline": "オンラインのヒント",
+    "subtitle": "色付きアイコン",
+    "content": "マップとレーダーでは近くのプレイヤーが色付きでハイライトされます。クルーの仲間はクルーカラーで、フレンドは青く表示されます。賞金がかけられているプレイヤーは赤く表示されるので、お金と正義のために彼らを仕留めましょう。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Colored_Blips/65664_Colored-Blips_portrait.dds",
+        "filesize": 65664
+    }
+}

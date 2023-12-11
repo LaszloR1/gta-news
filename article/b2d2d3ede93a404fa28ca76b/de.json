@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677117,"title":"GTA+","headline":"GTA+","subtitle":"Exklusive Bekleidung","content":"In Los Santos dreht sich alles ums Image. Verbessere deines mit diesen exklusiven Kleidungsstücken, die bis 19.µJuli im Rahmen deiner Mitgliedschaft bei GTA+ kostenlos sind:<br /><br />– Hinterland-Shorts<br />– Hinterland-T-Shirt<br />– grüne Strahlen-Freiheitsstatuenmaske<br /><br />GTA+ verlängert sich monatlich und kann jederzeit gekündigt werden. Mehr auf rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_de_de.dds","filesize":262272},"button":"Auswählen, um GTA+ zu abonnieren"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677117,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Exklusive Bekleidung",
+    "content": "In Los Santos dreht sich alles ums Image. Verbessere deines mit diesen exklusiven Kleidungsstücken, die bis 19.µJuli im Rahmen deiner Mitgliedschaft bei GTA+ kostenlos sind:<br /><br />– Hinterland-Shorts<br />– Hinterland-T-Shirt<br />– grüne Strahlen-Freiheitsstatuenmaske<br /><br />GTA+ verlängert sich monatlich und kann jederzeit gekündigt werden. Mehr auf rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_de_de.dds",
+        "filesize": 262272
+    },
+    "button": "Auswählen, um GTA+ zu abonnieren"
+}

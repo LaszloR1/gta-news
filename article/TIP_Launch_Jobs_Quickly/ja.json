@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381831290,"headline":"オンラインのヒント","subtitle":"素早くジョブを開始する","content":"ゲーム内に用意されているジョブ・トリガー、またはメニューからデスマッチやレースのジョブを開始できます:<br /><br />・携帯から「クイックジョブ」を利用する。<br />・オンラインメニューの閲覧可能なリストからジョブを選択する。<br />・ポーズメニューの「MAP」でジョブアイコンを選択し、ジョブを開始する。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831290,
+    "headline": "オンラインのヒント",
+    "subtitle": "素早くジョブを開始する",
+    "content": "ゲーム内に用意されているジョブ・トリガー、またはメニューからデスマッチやレースのジョブを開始できます:<br /><br />・携帯から「クイックジョブ」を利用する。<br />・オンラインメニューの閲覧可能なリストからジョブを選択する。<br />・ポーズメニューの「MAP」でジョブアイコンを選択し、ジョブを開始する。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

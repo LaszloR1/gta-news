@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1516102556,"title":"","headline":"GTA Online","subtitle":"Air Quota ","content":"You might think you rule the Los Santos airspace - but can you prove it? Find out in Air Quota, the latest Adversary Mode to hit GTA Online. This time it’s not enough to be an expert fighter ace, or a jet pack virtuoso, or a maestro with an attack helicopter. You’ll need to be all those things and more as you work through this series of deadly rounds that test every form of aerial combat known to man.","url":"","image":{"path":"sc/news/DH_Air_Quota/262272_bigfeed-airquota-V3.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1516102556,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Air Quota ",
+    "content": "You might think you rule the Los Santos airspace - but can you prove it? Find out in Air Quota, the latest Adversary Mode to hit GTA Online. This time it’s not enough to be an expert fighter ace, or a jet pack virtuoso, or a maestro with an attack helicopter. You’ll need to be all those things and more as you work through this series of deadly rounds that test every form of aerial combat known to man.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Air_Quota/262272_bigfeed-airquota-V3.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

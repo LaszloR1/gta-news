@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258266,"title":"","headline":"GTA Online","subtitle":"Terrorbyte","content":"Se un malware avesse sei ruote, una blindatura pesante e sedili confortevoli, avrebbe quest'aspetto. Da lì puoi avviare missioni di rifornimento per tutte le tue imprese, estrarre i dati di ogni altro rifiuto umano in città, accedere alle Attività dei clienti... per non parlare dei potenziamenti: lanciamissili a ricerca multipla, postazione droni, officina armi Mk II e l'unica officina veicoli del mondo in grado di personalizzare la Oppressor Mk II.","url":"","image":{"path":"sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Terrorbyte",
+    "content": "Se un malware avesse sei ruote, una blindatura pesante e sedili confortevoli, avrebbe quest'aspetto. Da lì puoi avviare missioni di rifornimento per tutte le tue imprese, estrarre i dati di ogni altro rifiuto umano in città, accedere alle Attività dei clienti... per non parlare dei potenziamenti: lanciamissili a ricerca multipla, postazione droni, officina armi Mk II e l'unica officina veicoli del mondo in grado di personalizzare la Oppressor Mk II.",
+    "url": "",
+    "image": {
+        "path": "sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

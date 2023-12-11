@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699542331,"title":"GTA+","headline":"GTA+","subtitle":"Modificações de Super Iate e Penthouse do Cassino","content":"Membros do GTA+ podem aproveitar 50% de desconto em todas as modificações de investimentos de alta classe, como Super Iates luxuosos da Docktease e Master Penthouses espaçosas no Cassino e Resort Diamond.<br /><br />A afiliação GTA+ é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_pt_br.dds","filesize":262272},"button":"Selecione para se afiliar ao GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699542331,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Modificações de Super Iate e Penthouse do Cassino",
+    "content": "Membros do GTA+ podem aproveitar 50% de desconto em todas as modificações de investimentos de alta classe, como Super Iates luxuosos da Docktease e Master Penthouses espaçosas no Cassino e Resort Diamond.<br /><br />A afiliação GTA+ é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se afiliar ao GTA+"
+}

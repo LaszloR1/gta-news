@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490356057,"title":"","headline":"GTA Online","subtitle":"Veicoli speciali ora disponibili nel Creatore","content":"Con l'aggiornamento Stunt da capogiro: Veicoli speciali abbiamo pensato di ampliare gli strumenti a disposizione della community di Rockstar per portare le tue creazioni a un livello superiore. Insieme alla Rocket Voltic, alla Ruiner 2000 e al Blazer Aqua, arriva nel Creatore di gare stunt una raccolta di nuovi elementi come ostacoli, ricariche per turbo e casse esplosive, pensati per sfruttare al meglio le capacità uniche di questi veicoli.","url":"","image":{"path":"sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CSSVC_Creator_Tools/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490356057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Veicoli speciali ora disponibili nel Creatore",
+    "content": "Con l'aggiornamento Stunt da capogiro: Veicoli speciali abbiamo pensato di ampliare gli strumenti a disposizione della community di Rockstar per portare le tue creazioni a un livello superiore. Insieme alla Rocket Voltic, alla Ruiner 2000 e al Blazer Aqua, arriva nel Creatore di gare stunt una raccolta di nuovi elementi come ostacoli, ricariche per turbo e casse esplosive, pensati per sfruttare al meglio le capacità uniche di questi veicoli.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/.dds",
+        "filesize": 2048
+    }
+}

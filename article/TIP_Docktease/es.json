@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381835728,"title":"","headline":"Consejo en línea","subtitle":"Docktease.com","content":"Si quieres comprar un barco de lujo (o tu propia Seashark), visita Docktease.com desde el navegador de tu teléfono para consultar su gama.<br /><br />Tras realizar la compra, podrás organizar la entrega llamando al servicio de conserjería de Pegasus, en la lista de contactos de tu teléfono.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Docktease/262272_Docktease.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Docktease/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381835728,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Docktease.com",
+    "content": "Si quieres comprar un barco de lujo (o tu propia Seashark), visita Docktease.com desde el navegador de tu teléfono para consultar su gama.<br /><br />Tras realizar la compra, podrás organizar la entrega llamando al servicio de conserjería de Pegasus, en la lista de contactos de tu teléfono.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Docktease/262272_Docktease.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Docktease/.dds",
+        "filesize": 2048
+    }
+}

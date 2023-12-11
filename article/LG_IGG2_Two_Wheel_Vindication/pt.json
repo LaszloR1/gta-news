@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356730,"title":"","headline":"GTA Online","subtitle":"Vindicação em duas rodas","content":"A última moto da Dinka – a Vindicator – está agora disponível para compra exclusivamente na legendarymotorsport.net.<br /><br />Apresentando a tecnologia KERS, essa fera de duas rodas transformará você na inveja de todos assim que seus parças te virem andando em uma só roda, esbanjando estilo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356730,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vindicação em duas rodas",
+    "content": "A última moto da Dinka – a Vindicator – está agora disponível para compra exclusivamente na legendarymotorsport.net.<br /><br />Apresentando a tecnologia KERS, essa fera de duas rodas transformará você na inveja de todos assim que seus parças te virem andando em uma só roda, esbanjando estilo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/.dds",
+        "filesize": 2048
+    }
+}

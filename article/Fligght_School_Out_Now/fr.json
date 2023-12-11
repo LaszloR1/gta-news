@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1408460749,"headline":"Mise à jour GTA Online","subtitle":"Mise à jour École de pilotage de San Andreas disponible","content":"Devenez un vrai héros patriote avec la mise à jour École de pilotage de San Andreas !<br /><br />Dominez le ciel à travers 10 nouvelles missions solo qui vous apprendront à surmonter tous les dangers. Foncez à l'aéroport international de Los Santos pour vous engager !<br /><br />Profitez de nouveaux véhicules terrestres et aériens, notamment le jet d'entraînement Western Besra, le luxueux hélicoptère Swift, l'énorme Miljet de Buckingham et l'irrésistible Coquette classique.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1408460749,
+    "headline": "Mise à jour GTA Online",
+    "subtitle": "Mise à jour École de pilotage de San Andreas disponible",
+    "content": "Devenez un vrai héros patriote avec la mise à jour École de pilotage de San Andreas !<br /><br />Dominez le ciel à travers 10 nouvelles missions solo qui vous apprendront à surmonter tous les dangers. Foncez à l'aéroport international de Los Santos pour vous engager !<br /><br />Profitez de nouveaux véhicules terrestres et aériens, notamment le jet d'entraînement Western Besra, le luxueux hélicoptère Swift, l'énorme Miljet de Buckingham et l'irrésistible Coquette classique.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds",
+        "filesize": 65664
+    }
+}

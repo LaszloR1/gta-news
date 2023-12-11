@@ -1,1 +1,20 @@
-{"types":["store"],"date":1380466703,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Merryweather Security Consulting","content":"Potrzebujesz trochę amunicji na wczoraj? Ewakuacji w miłym towarzystwie? Wsparcia śmigłowca? A może po prostu chcesz, by na kogoś, kto sobie na to zasłużył, spadł ołowiany deszcz? Zadzwoń do Merryweather Security Consulting. Usługi ochroniarskie / prywatna armia, której możesz zaufać.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Merryweather_Security/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1380466703,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Merryweather Security Consulting",
+    "content": "Potrzebujesz trochę amunicji na wczoraj? Ewakuacji w miłym towarzystwie? Wsparcia śmigłowca? A może po prostu chcesz, by na kogoś, kto sobie na to zasłużył, spadł ołowiany deszcz? Zadzwoń do Merryweather Security Consulting. Usługi ochroniarskie / prywatna armia, której możesz zaufać.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Merryweather_Security/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402998346,"headline":"Обновление GTA Online","subtitle":"Новая машина: Benefactor Glendale","content":"Известен в народе как ''тачка наркодилера''. Роскошный немецкий четырехдверный седан 90-х, превращенный в мобильный склад разбавленного кокаина в 2010-е. Ждите повышенного внимания со стороны полиции и наркоманов.<br /><br />Автомобиль можно уже сегодня купить на сайте SouthernSanAndreasSuperAutos.com. Он также представлен в гонке ''Кофеиновая лихорадка'' из обновления ''Я не хипстер''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Glendale/65664_Glendale.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402998346,
+    "headline": "Обновление GTA Online",
+    "subtitle": "Новая машина: Benefactor Glendale",
+    "content": "Известен в народе как ''тачка наркодилера''. Роскошный немецкий четырехдверный седан 90-х, превращенный в мобильный склад разбавленного кокаина в 2010-е. Ждите повышенного внимания со стороны полиции и наркоманов.<br /><br />Автомобиль можно уже сегодня купить на сайте SouthernSanAndreasSuperAutos.com. Он также представлен в гонке ''Кофеиновая лихорадка'' из обновления ''Я не хипстер''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Glendale/65664_Glendale.dds",
+        "filesize": 65664
+    }
+}

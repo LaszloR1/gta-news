@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430365,"title":"","headline":"GTA Online","subtitle":"GTA Online Bonuses this Week: Premium Stunt Race (Sept 9 - 15)","content":"This week's Premium Stunt Race features the popular ''Downtown Loop'', and is set to the Banshee 900R. True to its name with a series of loops, corkscrews and jumps set in downtown Los Santos, this Premium Stunt Race features payouts for the top 3 finishers and Triple RP for all participants. To hop right into the high-stakes action, enter via the Quick Job App or visit the yellow Premium Race blip at Legion Square.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430365,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online Bonuses this Week: Premium Stunt Race (Sept 9 - 15)",
+    "content": "This week's Premium Stunt Race features the popular ''Downtown Loop'', and is set to the Banshee 900R. True to its name with a series of loops, corkscrews and jumps set in downtown Los Santos, this Premium Stunt Race features payouts for the top 3 finishers and Triple RP for all participants. To hop right into the high-stakes action, enter via the Quick Job App or visit the yellow Premium Race blip at Legion Square.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324792,"title":"","headline":"GTA Online","subtitle":"폼생폼사","content":"이제 로스 산토스의 상점들이 레이스에 어울리는 짜릿하고 다양한 패션 아이템을 준비해 놓았습니다. 브랜드 협찬을 받는 레이싱 유니폼으로 여러분이 얼마나 잘나가는지 자랑하거나, 머리부터 발끝까지 레이싱 장비로 치장할 수도 있고, 기능성을 살린 스턴트맨 슈트를 입을 수도 있습니다. 아무리 보잘것없는 인생인들 어떻습니까, 폼 한번 그럴듯하게 내 봐야죠.","url":"","image":{"path":"sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dress_To_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "폼생폼사",
+    "content": "이제 로스 산토스의 상점들이 레이스에 어울리는 짜릿하고 다양한 패션 아이템을 준비해 놓았습니다. 브랜드 협찬을 받는 레이싱 유니폼으로 여러분이 얼마나 잘나가는지 자랑하거나, 머리부터 발끝까지 레이싱 장비로 치장할 수도 있고, 기능성을 살린 스턴트맨 슈트를 입을 수도 있습니다. 아무리 보잘것없는 인생인들 어떻습니까, 폼 한번 그럴듯하게 내 봐야죠.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/.dds",
+        "filesize": 2048
+    }
+}

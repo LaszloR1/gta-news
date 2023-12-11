@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525272580,"title":"Red Dead Redemption 2","headline":"Red Dead Redemption 2","subtitle":"Terzo trailer ufficiale","content":"America, 1899. L'era del selvaggio West è agli sgoccioli: la legge sta catturando le ultime bande di fuorilegge. Chi rifiuta di arrendersi, viene ucciso senza pietà.<br /><br />Dai creatori di Grand Theft Auto V e Red Dead Redemption, Red Dead Redemption 2 è una storia epica che ci mostra un'America agli albori della modernità. In arrivo il 26 ottobre 2018.<br /><br />Guarda il nuovo trailer su rockstargames.com.","url":"","image":{"path":"sc/news/RDR2_T3_Watch_Now/349672_SONY_RDR2_BIGFEED.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525272580,
+    "title": "Red Dead Redemption 2",
+    "headline": "Red Dead Redemption 2",
+    "subtitle": "Terzo trailer ufficiale",
+    "content": "America, 1899. L'era del selvaggio West è agli sgoccioli: la legge sta catturando le ultime bande di fuorilegge. Chi rifiuta di arrendersi, viene ucciso senza pietà.<br /><br />Dai creatori di Grand Theft Auto V e Red Dead Redemption, Red Dead Redemption 2 è una storia epica che ci mostra un'America agli albori della modernità. In arrivo il 26 ottobre 2018.<br /><br />Guarda il nuovo trailer su rockstargames.com.",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_T3_Watch_Now/349672_SONY_RDR2_BIGFEED.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

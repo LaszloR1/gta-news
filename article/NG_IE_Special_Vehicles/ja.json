@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543271,"title":"","headline":"GTA Online","subtitle":"特殊車両","content":"もう一歩で合法と呼べる車両を調達する才能と情熱を証明すると、セキュリサーブの限定任務にアクセスできるようになります。法で禁じられた希少な乗り物なので簡単ではありませんが、それに見合った報酬が用意されています。ターゲットを確保してプロとしての腕前を証明すれば、特殊車両をセキュリサーブの卸値で購入できるようになります。","url":"","image":{"path":"sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Special_Vehicles/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543271,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "特殊車両",
+    "content": "もう一歩で合法と呼べる車両を調達する才能と情熱を証明すると、セキュリサーブの限定任務にアクセスできるようになります。法で禁じられた希少な乗り物なので簡単ではありませんが、それに見合った報酬が用意されています。ターゲットを確保してプロとしての腕前を証明すれば、特殊車両をセキュリサーブの卸値で購入できるようになります。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Special_Vehicles/.dds",
+        "filesize": 2048
+    }
+}

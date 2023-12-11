@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482164586,"title":"","headline":"GTA Online","subtitle":"Truffade Nero","content":"La dernière offre de Truffade est tellement exclusive qu'ils devront vérifier vos antécédents pour s'assurer que vous êtes assez corrompu et dégénéré pour posséder un tel véhicule. Ce bijou n'hésitera pas à lâcher un étron d'un indice d'octane 100 sur les supersportives qui oseront s'installer dans son garage, avant de se torcher avec leurs sièges en cuir. Et vous n'avez pas encore vu ce que Benny peut en faire.<br />","url":"","image":{"path":"sc/news/NG_IE_Truffade_Nero_20_12/349672_Truffade-Nero-Ad-BigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Truffade_Nero_20_12/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482164586,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Truffade Nero",
+    "content": "La dernière offre de Truffade est tellement exclusive qu'ils devront vérifier vos antécédents pour s'assurer que vous êtes assez corrompu et dégénéré pour posséder un tel véhicule. Ce bijou n'hésitera pas à lâcher un étron d'un indice d'octane 100 sur les supersportives qui oseront s'installer dans son garage, avant de se torcher avec leurs sièges en cuir. Et vous n'avez pas encore vu ce que Benny peut en faire.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Truffade_Nero_20_12/349672_Truffade-Nero-Ad-BigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Truffade_Nero_20_12/.dds",
+        "filesize": 2048
+    }
+}

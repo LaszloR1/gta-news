@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472803517,"title":"","headline":"GTA Online","subtitle":"Sunday Drivers Week: Double GTA$ & RP Racing Playlist & Tee unlock (Sept 2 - 8)","content":"Earn Double GTA$ & RP in a special, Muscle car racing Playlist now through Thursday, September 8th. <br /><br />And bounce around town as a human billboard with the Bahama Mamas Tee, which you've unlocked just by logging on and can be found in the Special Items in your Wardrobe!<br /><br />Check out rockstargames.com/newswire for all the details.","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Tee_Unloc/262272_NG_Sunday_Drivers_Tee_Unlock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Tee_Unloc/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472803517,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sunday Drivers Week: Double GTA$ & RP Racing Playlist & Tee unlock (Sept 2 - 8)",
+    "content": "Earn Double GTA$ & RP in a special, Muscle car racing Playlist now through Thursday, September 8th. <br /><br />And bounce around town as a human billboard with the Bahama Mamas Tee, which you've unlocked just by logging on and can be found in the Special Items in your Wardrobe!<br /><br />Check out rockstargames.com/newswire for all the details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Tee_Unloc/262272_NG_Sunday_Drivers_Tee_Unlock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Tee_Unloc/.dds",
+        "filesize": 2048
+    }
+}

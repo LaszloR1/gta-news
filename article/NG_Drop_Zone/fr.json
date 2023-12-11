@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453861,"title":"","headline":"GTA Online","subtitle":"Capture d'ozone","content":"Deux à quatre équipes sautent en parachute depuis un Cargobob et, une fois au sol, doivent prendre le contrôle de la zone d'atterrissage. La première équipe qui parvient à remplir la jauge de capture remporte la partie. Si aucune équipe n'y parvient dans la limite de temps impartie, une mort subite sera annoncée.","url":"","image":{"path":"sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drop_Zone/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453861,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Capture d'ozone",
+    "content": "Deux à quatre équipes sautent en parachute depuis un Cargobob et, une fois au sol, doivent prendre le contrôle de la zone d'atterrissage. La première équipe qui parvient à remplir la jauge de capture remporte la partie. Si aucune équipe n'y parvient dans la limite de temps impartie, une mort subite sera annoncée.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drop_Zone/.dds",
+        "filesize": 2048
+    }
+}

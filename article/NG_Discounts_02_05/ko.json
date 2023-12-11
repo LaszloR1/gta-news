@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493818064,"title":"","headline":"GTA Online","subtitle":"5월 15일까지 바이커 할인 및 클럽하우스 계약에서 GTA 달러와 RP 두 배","content":"5월 15일까지, 로스 산토스의 모터사이클 클럽들은 바이커 계약 임무 수행 시 GTA 달러 및 RP를 추가로 받습니다. 또한 다음 품목을 25% 할인합니다:<br /><br />• 바이커 클럽하우스<br />• 바이커 클럽하우스 개조<br />• 바이커 사업장<br />• 나가사키 쇼타로<br />• 프로젠 T20<br />• 웨스턴 주식회사 어나이얼레이터<br />• 캐런 테크니컬<br /><br />자세한 정보는 Rockstar 뉴스와이어를 확인하십시오.","url":"","image":{"path":"sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Discounts_02_05/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493818064,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "5월 15일까지 바이커 할인 및 클럽하우스 계약에서 GTA 달러와 RP 두 배",
+    "content": "5월 15일까지, 로스 산토스의 모터사이클 클럽들은 바이커 계약 임무 수행 시 GTA 달러 및 RP를 추가로 받습니다. 또한 다음 품목을 25% 할인합니다:<br /><br />• 바이커 클럽하우스<br />• 바이커 클럽하우스 개조<br />• 바이커 사업장<br />• 나가사키 쇼타로<br />• 프로젠 T20<br />• 웨스턴 주식회사 어나이얼레이터<br />• 캐런 테크니컬<br /><br />자세한 정보는 Rockstar 뉴스와이어를 확인하십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Discounts_02_05/.dds",
+        "filesize": 2048
+    }
+}

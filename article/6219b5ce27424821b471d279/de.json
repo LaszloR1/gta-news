@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973236,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Ladenüberfälle","content":"Nicht mal Geschäfte in guten Lagen sind vor der steigenden Verbrechensflut sicher, denn verzweifelte Diebe haben es auf Geschäfte in ganz LS abgesehen, um schnell an Geld zu kommen.<br /><br />Halte Ausschau nach Dieben, die an Ladenüberfällen beteiligt sind. Erledige sie und bring das Geld zurück oder behalte es für dich selbst.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/6219b5ce27424821b471d279/262272_GTAO_337_ShopRobbery_FINAL_BigFeed.dds","filesize":262272},"button":"Stelle Ladendiebe im freien Modus"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973236,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Ladenüberfälle",
+    "content": "Nicht mal Geschäfte in guten Lagen sind vor der steigenden Verbrechensflut sicher, denn verzweifelte Diebe haben es auf Geschäfte in ganz LS abgesehen, um schnell an Geld zu kommen.<br /><br />Halte Ausschau nach Dieben, die an Ladenüberfällen beteiligt sind. Erledige sie und bring das Geld zurück oder behalte es für dich selbst.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/6219b5ce27424821b471d279/262272_GTAO_337_ShopRobbery_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Stelle Ladendiebe im freien Modus"
+}

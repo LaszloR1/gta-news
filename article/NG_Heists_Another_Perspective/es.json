@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425983412,"title":"","headline":"GTA Online","subtitle":"Desafío Otra perspectiva","content":"Si has completado los golpes y aún te apetece un desafío interesante, prueba con este: si terminas los 5 golpes completamente en primera persona, recibirás un extra de 100 000 $.<br /><br />Pero ten en cuenta que el líder del golpe tendrá que fijar el modo en primera persona en la sala antes de cada actividad. De lo contrario, esta no contará.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Another_Perspective/262272_Another-Perspective.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Another_Perspective/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425983412,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Desafío Otra perspectiva",
+    "content": "Si has completado los golpes y aún te apetece un desafío interesante, prueba con este: si terminas los 5 golpes completamente en primera persona, recibirás un extra de 100 000 $.<br /><br />Pero ten en cuenta que el líder del golpe tendrá que fijar el modo en primera persona en la sala antes de cada actividad. De lo contrario, esta no contará.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Another_Perspective/262272_Another-Perspective.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Another_Perspective/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504113872,"title":"","headline":"GTA Online","subtitle":"Concours Snapmatic #SMUGGLERS","content":"Vous allez vite devenir un expert du trafic de marchandises aérien, mais vous échapper in extremis d'un Starling dévoré par les flammes devant un coucher de soleil vibrant à Los Santos fait partie de ces instants qui doivent être immortalisés et exposés devant le monde entier. Et le meilleur moyen de prouver à quel point vous êtes doué pour réaliser ces instants incroyables dignes de Vinewood, c'est de participer à l'évènement Snapmatic #SMUGGLERS.<br /><br />Plus d'infos sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/SR_Bonuses_Contest/349672_smugglers-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504113872,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Concours Snapmatic #SMUGGLERS",
+    "content": "Vous allez vite devenir un expert du trafic de marchandises aérien, mais vous échapper in extremis d'un Starling dévoré par les flammes devant un coucher de soleil vibrant à Los Santos fait partie de ces instants qui doivent être immortalisés et exposés devant le monde entier. Et le meilleur moyen de prouver à quel point vous êtes doué pour réaliser ces instants incroyables dignes de Vinewood, c'est de participer à l'évènement Snapmatic #SMUGGLERS.<br /><br />Plus d'infos sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Bonuses_Contest/349672_smugglers-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349737,"title":"","headline":"GTA Online","subtitle":"Ya está disponible GTA Online: Lowriders","content":"Esta nueva actualización presenta Benny's Original Motor Works, el único taller especializado en la cultura lowrider. La actualización también incluye dos nuevos vehículos, armas, ropa, tatuajes y mucho más.<br /><br />Habla con Lamar para descubrir 8 nuevas misiones de contacto mientras se enfrenta a bandas para proclamarse el rey de los lowriders de Los Santos, o forma equipo para 3 nuevos modos Adversario centrados en vehículos.<br /><br />Visita el Rockstar Newswire para conocer todos los detalles.","url":"","image":{"path":"sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowriders_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349737,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ya está disponible GTA Online: Lowriders",
+    "content": "Esta nueva actualización presenta Benny's Original Motor Works, el único taller especializado en la cultura lowrider. La actualización también incluye dos nuevos vehículos, armas, ropa, tatuajes y mucho más.<br /><br />Habla con Lamar para descubrir 8 nuevas misiones de contacto mientras se enfrenta a bandas para proclamarse el rey de los lowriders de Los Santos, o forma equipo para 3 nuevos modos Adversario centrados en vehículos.<br /><br />Visita el Rockstar Newswire para conocer todos los detalles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowriders_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

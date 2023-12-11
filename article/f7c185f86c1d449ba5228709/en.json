@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973254,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Experience 11 Story Missions, Unlock a New Acid Business, and More Free Rewards","content":"Answer the call from Ron and then head to Blaine County to get started. Once you’ve met the Fooliganz, check in at The Freakshop to play through all story missions.<br /><br />Along the way, you'll unlock new rewards and opportunities, such as the Acid Lab to create a new business selling your own brand of psychedelics, a free Manchez Scout C to help deliver your goods, a free Ocelot Virtue supercar, and more.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds","filesize":262272},"button":"Play Los Santos Drug Wars"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973254,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Experience 11 Story Missions, Unlock a New Acid Business, and More Free Rewards",
+    "content": "Answer the call from Ron and then head to Blaine County to get started. Once you’ve met the Fooliganz, check in at The Freakshop to play through all story missions.<br /><br />Along the way, you'll unlock new rewards and opportunities, such as the Acid Lab to create a new business selling your own brand of psychedelics, a free Manchez Scout C to help deliver your goods, a free Ocelot Virtue supercar, and more.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds",
+        "filesize": 262272
+    },
+    "button": "Play Los Santos Drug Wars"
+}

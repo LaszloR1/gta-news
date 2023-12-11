@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978549,"title":"","headline":"GTA Online","subtitle":"強盗用の乗り物","content":"強盗アップデートには、GTAマネーで購入できる多様な新しい乗り物が登場します。以下の乗り物は今すぐ購入可能です:<br />- ディンカ・エンデューロ:新登場のオフロード用ダートバイクです。 砂ぼこりをあげて相手を置き去りにします。<br />- ヴァピッド・ガーディアン:見た目にも威圧的な4人乗りの大型4WDです。 敵に恐怖を植え付けましょう。<br /><br />他にも「強盗」を進めるにつれて、乗り物が続々と解除されます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Heist_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978549,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "強盗用の乗り物",
+    "content": "強盗アップデートには、GTAマネーで購入できる多様な新しい乗り物が登場します。以下の乗り物は今すぐ購入可能です:<br />- ディンカ・エンデューロ:新登場のオフロード用ダートバイクです。 砂ぼこりをあげて相手を置き去りにします。<br />- ヴァピッド・ガーディアン:見た目にも威圧的な4人乗りの大型4WDです。 敵に恐怖を植え付けましょう。<br /><br />他にも「強盗」を進めるにつれて、乗り物が続々と解除されます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/.dds",
+        "filesize": 2048
+    }
+}

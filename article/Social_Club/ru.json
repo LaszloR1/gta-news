@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571729,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"С сайтом Social Club вы всегда будете в теме:<br /><br />Фото – делайте снимки на телефон и делитесь с другими своими безумными подвигами – они мгновенно публикуются на сайте Social Club.<br />Новости – узнавайте о последних новостях и акциях Social Club.<br />Самооценка – отслеживайте свою важнейшую статистику и сравнивайте себя с остальными с помощью списков лидеров.<br />И многое другое...","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571729,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "С сайтом Social Club вы всегда будете в теме:<br /><br />Фото – делайте снимки на телефон и делитесь с другими своими безумными подвигами – они мгновенно публикуются на сайте Social Club.<br />Новости – узнавайте о последних новостях и акциях Social Club.<br />Самооценка – отслеживайте свою важнейшую статистику и сравнивайте себя с остальными с помощью списков лидеров.<br />И многое другое...",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

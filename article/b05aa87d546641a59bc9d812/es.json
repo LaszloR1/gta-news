@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699542331,"title":"GTA+","headline":"GTA+","subtitle":"Modificaciones de superyates y del ático del casino","content":"Los miembros de GTA+ pueden aprovechar el 50% de descuento en modificaciones para inversiones de alto nivel, como los lujosos superyates de Docktease y los amplios áticos principales de The Diamond Casino & Resort.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_es_es.dds","filesize":262272},"button":"Selecciona para suscribirte a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699542331,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Modificaciones de superyates y del ático del casino",
+    "content": "Los miembros de GTA+ pueden aprovechar el 50% de descuento en modificaciones para inversiones de alto nivel, como los lujosos superyates de Docktease y los amplios áticos principales de The Diamond Casino & Resort.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+"
+}

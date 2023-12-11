@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1408460749,"headline":"GTA 線上模式更新","subtitle":"聖安地列斯飛行學校內容更新現已推出","content":"在聖安地列斯飛行學校內容更新中，好好享受成為愛國英雄的刺激和快感。<br /><br />經過十個全新超高技巧空中單人任務的洗禮之後，保證您可以輕鬆駕馭任何危險的空中地帶。現在就前往洛聖都國際機場報名參加。<br /><br />然後在休假時，盡情享受駕駛全新的空中及陸上載具的時光，包括西部雀鷹訓練用噴射機、斯威夫特直升機、十六人座白金漢宮軍用噴射機和時髦的非凡風情經典跑車。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1408460749,
+    "headline": "GTA 線上模式更新",
+    "subtitle": "聖安地列斯飛行學校內容更新現已推出",
+    "content": "在聖安地列斯飛行學校內容更新中，好好享受成為愛國英雄的刺激和快感。<br /><br />經過十個全新超高技巧空中單人任務的洗禮之後，保證您可以輕鬆駕馭任何危險的空中地帶。現在就前往洛聖都國際機場報名參加。<br /><br />然後在休假時，盡情享受駕駛全新的空中及陸上載具的時光，包括西部雀鷹訓練用噴射機、斯威夫特直升機、十六人座白金漢宮軍用噴射機和時髦的非凡風情經典跑車。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds",
+        "filesize": 65664
+    }
+}

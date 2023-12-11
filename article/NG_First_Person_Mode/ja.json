@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224788,"title":"","headline":"GTAV","subtitle":"1人称視点モード","content":"プレイ中にいつでもカメラを1人称視点に切り替えられます。<br /><br />1人称視点では、3人称視点操作とは全く異なる操作方法を、ポーズメニュー>OPTIONS>操作方法>1人称視点操作タイプから割り当てることができます。ここから、視点感度や視野のカスタマイズ、また、キャラクターが特定の状況下にある場合、3人称視点カメラに切り替えることもできます。<br /><br />色々と試して、あなたのプレイスタイルに合う設定を探しましょう。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_First_Person_Mode/262272_FPSMode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_First_Person_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224788,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "1人称視点モード",
+    "content": "プレイ中にいつでもカメラを1人称視点に切り替えられます。<br /><br />1人称視点では、3人称視点操作とは全く異なる操作方法を、ポーズメニュー>OPTIONS>操作方法>1人称視点操作タイプから割り当てることができます。ここから、視点感度や視野のカスタマイズ、また、キャラクターが特定の状況下にある場合、3人称視点カメラに切り替えることもできます。<br /><br />色々と試して、あなたのプレイスタイルに合う設定を探しましょう。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_First_Person_Mode/262272_FPSMode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_First_Person_Mode/.dds",
+        "filesize": 2048
+    }
+}

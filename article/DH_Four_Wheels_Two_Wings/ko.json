@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513097243,"title":"","headline":"GTA Online","subtitle":"발사","content":"이제 심판의 날이 다가왔으니 아주 튼튼한 이동 수단이 필요하실 겁니다. 다행히 큰 건수에 쓸 수 있을 만큼 빠르고, 튼튼하고, 강력한 새로운 이동 수단들이 시장에 모습을 드러내고 있습니다. 빠르고 섬세한 오셀럿 파리아와 미래적이고 강력한 칸잘리 탱크, 마침내 등장한 매머드 쓰러스터는 아직 덜 끝장난 세상을 완전히 작살낼 것입니다.","url":"","image":{"path":"sc/news/DH_Four_Wheels_Two_Wings/262272_Jetpack_V01d.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513097243,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "발사",
+    "content": "이제 심판의 날이 다가왔으니 아주 튼튼한 이동 수단이 필요하실 겁니다. 다행히 큰 건수에 쓸 수 있을 만큼 빠르고, 튼튼하고, 강력한 새로운 이동 수단들이 시장에 모습을 드러내고 있습니다. 빠르고 섬세한 오셀럿 파리아와 미래적이고 강력한 칸잘리 탱크, 마침내 등장한 매머드 쓰러스터는 아직 덜 끝장난 세상을 완전히 작살낼 것입니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Four_Wheels_Two_Wings/262272_Jetpack_V01d.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

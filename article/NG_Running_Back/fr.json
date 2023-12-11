@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1448386325,"title":"","headline":"GTA Online","subtitle":"Passage en force","content":"Faites office de ballon dans ce nouveau mode rivalité en véhicule. Les joueurs de l'escouade offensive vont devoir tout faire pour que leur coureur réalise un touchdown en passant la ligne. L'escouade défensive devra quant à elle l'en empêcher, tout en repoussant l'équipe adverse.","url":"","image":{"path":"sc/news/NG_Running_Back/262272_Running_Back.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Running_Back/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1448386325,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Passage en force",
+    "content": "Faites office de ballon dans ce nouveau mode rivalité en véhicule. Les joueurs de l'escouade offensive vont devoir tout faire pour que leur coureur réalise un touchdown en passant la ligne. L'escouade défensive devra quant à elle l'en empêcher, tout en repoussant l'équipe adverse.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Running_Back/262272_Running_Back.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Running_Back/.dds",
+        "filesize": 2048
+    }
+}

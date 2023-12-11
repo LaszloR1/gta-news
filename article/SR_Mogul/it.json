@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507042404,"title":"","headline":"GTA Online","subtitle":"Mogul","content":"C'è qualcosa, in quel suono... Una volta udito il basso, profondo rombo dei due motori a doppia propulsione, scandito dall'acuto e cadenzato mitragliare della torretta mentre distribuisce giustizia calibro .50 in tutto il cielo, non si può più tornare indietro. Il Mogul è giunto a Southern San Andreas e la supremazia aerea non è mai stata così sonora.","url":"","image":{"path":"sc/news/SR_Mogul/262272_Mogul.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507042404,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mogul",
+    "content": "C'è qualcosa, in quel suono... Una volta udito il basso, profondo rombo dei due motori a doppia propulsione, scandito dall'acuto e cadenzato mitragliare della torretta mentre distribuisce giustizia calibro .50 in tutto il cielo, non si può più tornare indietro. Il Mogul è giunto a Southern San Andreas e la supremazia aerea non è mai stata così sonora.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Mogul/262272_Mogul.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

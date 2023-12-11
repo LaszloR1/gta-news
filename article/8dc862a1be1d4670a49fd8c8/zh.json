@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705086,"title":"GTA+","headline":"GTA+","subtitle":"冒險家嗨羚地獄之火","content":"即日起至µ10µ月µ11µ日止，GTA+µ會員可領取最新會籍福利：全新冒險家嗨羚地獄之火跑車。<br /><br />冒險家嗨羚地獄之火（跑車）馬力十足，其渦輪引擎經過特別設計，就連腎上腺素成癮的狠人都不見得能招架得住。<br /><br />GTA+µ會籍每月將自動續訂，可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/8dc862a1be1d4670a49fd8c8/262272_GTA_Plus_MP18_LeadAsset_HortingHellfire_FINAL_BigFeed_zh_tw.dds","filesize":262272},"button":"選擇以加入 GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705086,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "冒險家嗨羚地獄之火",
+    "content": "即日起至µ10µ月µ11µ日止，GTA+µ會員可領取最新會籍福利：全新冒險家嗨羚地獄之火跑車。<br /><br />冒險家嗨羚地獄之火（跑車）馬力十足，其渦輪引擎經過特別設計，就連腎上腺素成癮的狠人都不見得能招架得住。<br /><br />GTA+µ會籍每月將自動續訂，可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/8dc862a1be1d4670a49fd8c8/262272_GTA_Plus_MP18_LeadAsset_HortingHellfire_FINAL_BigFeed_zh_tw.dds",
+        "filesize": 262272
+    },
+    "button": "選擇以加入 GTA+"
+}

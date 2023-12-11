@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174949,"title":"","headline":"GTA Online","subtitle":"Cold Steel","content":"Take control of the streets for your Organization with two new weapons. Grab the brutal and imposing Heavy Revolver for high-caliber efficiency, or get up close and personal with the vicious Switchblade. Become a VIP or Bodyguard for access to exclusive variations of these new weapons.","url":"","image":{"path":"sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Cold_Steel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174949,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cold Steel",
+    "content": "Take control of the streets for your Organization with two new weapons. Grab the brutal and imposing Heavy Revolver for high-caliber efficiency, or get up close and personal with the vicious Switchblade. Become a VIP or Bodyguard for access to exclusive variations of these new weapons.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/.dds",
+        "filesize": 2048
+    }
+}

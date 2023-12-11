@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1455273183,"title":"","headline":"GTA Online","subtitle":"Bis der Tod uns scheidet","content":"Weiche in diesem neuen Gegner-Modus speziell für Pärchen nicht von der Seite deines Partners. Bis zu vier Paare treten in diesem Gefecht gegeneinander an. Teamwork ist der Schlüssel zum Erfolg – sobald einer von euch stirbt, stirbt auch der andere. Du bekommst einen Regenerationsbonus, wenn du an der Seite deines Partners bleibst. Das letzte Liebespaar, das übrig bleibt, gewinnt.","url":"","image":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1455273183,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bis der Tod uns scheidet",
+    "content": "Weiche in diesem neuen Gegner-Modus speziell für Pärchen nicht von der Seite deines Partners. Bis zu vier Paare treten in diesem Gefecht gegeneinander an. Teamwork ist der Schlüssel zum Erfolg – sobald einer von euch stirbt, stirbt auch der andere. Du bekommst einen Regenerationsbonus, wenn du an der Seite deines Partners bleibst. Das letzte Liebespaar, das übrig bleibt, gewinnt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/.dds",
+        "filesize": 2048
+    }
+}

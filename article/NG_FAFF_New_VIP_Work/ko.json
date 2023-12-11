@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294201,"title":"","headline":"GTA Online","subtitle":"새롭게 추가된 VIP의 명령","content":"이제 VIP와 수행원들은 불법 자금을 모을 수 있는 3개의 새로운 작업을 이용할 수 있습니다:<br /><br />- 헤드헌터: 제한된 시간 안에 정해진 목표들을 암살하십시오.<br />- 항공 운송: 카고밥을 타고 무장한 경비원이 지키는 고가의 컨테이너를 획득하여 안전한 곳으로 운반하십시오.<br />- 취급 주의 상품: 밀수한 면세 상품으로 가득한 트레일러를 악덕 소유주에게 가장 먼저 전달하십시오.<br /><br />VIP는 상호 작용 메뉴의 VIP의 명령 항목에서 위의 작업을 실행할 수 있습니다.","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Work/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294201,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "새롭게 추가된 VIP의 명령",
+    "content": "이제 VIP와 수행원들은 불법 자금을 모을 수 있는 3개의 새로운 작업을 이용할 수 있습니다:<br /><br />- 헤드헌터: 제한된 시간 안에 정해진 목표들을 암살하십시오.<br />- 항공 운송: 카고밥을 타고 무장한 경비원이 지키는 고가의 컨테이너를 획득하여 안전한 곳으로 운반하십시오.<br />- 취급 주의 상품: 밀수한 면세 상품으로 가득한 트레일러를 악덕 소유주에게 가장 먼저 전달하십시오.<br /><br />VIP는 상호 작용 메뉴의 VIP의 명령 항목에서 위의 작업을 실행할 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/.dds",
+        "filesize": 2048
+    }
+}

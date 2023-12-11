@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174949,"title":"","headline":"GTA Online","subtitle":"Freddo acciaio","content":"Aiuta la tua organizzazione a prendere il controllo della città con due nuove armi: il brutale e imponente revolver pesante, un grosso calibro estremamente efficiente, e il feroce coltello a serramanico, utile negli scontri ravvicinati. Vesti i panni del boss o della guardia per accedere a varianti esclusive di queste nuove armi.","url":"","image":{"path":"sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Cold_Steel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174949,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Freddo acciaio",
+    "content": "Aiuta la tua organizzazione a prendere il controllo della città con due nuove armi: il brutale e imponente revolver pesante, un grosso calibro estremamente efficiente, e il feroce coltello a serramanico, utile negli scontri ravvicinati. Vesti i panni del boss o della guardia per accedere a varianti esclusive di queste nuove armi.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/.dds",
+        "filesize": 2048
+    }
+}

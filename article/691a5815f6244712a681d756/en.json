@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"How to Get the Acid Lab","content":"Complete all six missions from The First Dose to unlock the MTL Brickade 6x6 for free, where it can be upgraded in The Freakshop to be a functional Acid Lab. Or, jump straight into the Acid Business by purchasing the MTL Brickade 6x6 directly from the Warstock Cache & Carry Website.<br /><br />Once owned, this can be delivered to your location in Freemode through the Interaction Menu or found at The Freakshop.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds","filesize":262272},"button":"Visit Warstock Cache & Carry Website"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "How to Get the Acid Lab",
+    "content": "Complete all six missions from The First Dose to unlock the MTL Brickade 6x6 for free, where it can be upgraded in The Freakshop to be a functional Acid Lab. Or, jump straight into the Acid Business by purchasing the MTL Brickade 6x6 directly from the Warstock Cache & Carry Website.<br /><br />Once owned, this can be delivered to your location in Freemode through the Interaction Menu or found at The Freakshop.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Visit Warstock Cache & Carry Website"
+}

@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488454038,"title":"","headline":"Promotions à durée limitée rien que pour vous","subtitle":"","content":"Profitez de 50µ% de réduction sur la Benefactor Schafter blindée et sur les SuperVolito, ainsi que de 25µ% de réduction sur l'ultra-rapide Pfister 811. Ou alors, offrez-vous un nid plus douillet en vous achetant un appartement sur pilotis à -50µ%. Dépêchez-vous, cette offre n'est valable que jusqu'au 13 mars.","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488454038,
+    "title": "",
+    "headline": "Promotions à durée limitée rien que pour vous",
+    "subtitle": "",
+    "content": "Profitez de 50µ% de réduction sur la Benefactor Schafter blindée et sur les SuperVolito, ainsi que de 25µ% de réduction sur l'ultra-rapide Pfister 811. Ou alors, offrez-vous un nid plus douillet en vous achetant un appartement sur pilotis à -50µ%. Dépêchez-vous, cette offre n'est valable que jusqu'au 13 mars.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/.dds",
+        "filesize": 2048
+    }
+}

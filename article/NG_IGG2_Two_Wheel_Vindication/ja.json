@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436357010,"title":"","headline":"GTA Online","subtitle":"バイクで自己主張","content":"ディンカから最新のバイク「ヴィンディケーター」が登場。legendarymotorsport.net限定で現在販売中です。<br /><br />このKERSテクノロジーを搭載したモンスターバイクで華麗にウィリーを決めて、みんなから羨望の眼差しを集めましょう。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Two_Wheel_Vindication/262272_DinkaVindicatorNG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Two_Wheel_Vindication/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436357010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "バイクで自己主張",
+    "content": "ディンカから最新のバイク「ヴィンディケーター」が登場。legendarymotorsport.net限定で現在販売中です。<br /><br />このKERSテクノロジーを搭載したモンスターバイクで華麗にウィリーを決めて、みんなから羨望の眼差しを集めましょう。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Two_Wheel_Vindication/262272_DinkaVindicatorNG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Two_Wheel_Vindication/.dds",
+        "filesize": 2048
+    }
+}

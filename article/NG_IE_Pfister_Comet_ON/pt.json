@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482319891,"title":"","headline":"GTA Online","subtitle":"Pfister Comet retrô personalizado","content":"Desenterre aquele Comet que está no fundo da sua garagem de 10 carros há anos e prepare-se para um milagre de Natal. A mais nova obsessão do Benny é transformar o automóvel de crise da meia-idade da Pfister em um carro de corrida urbano que parece ter acabado de espancar algo pequeno e fofo até a morte com uma corrente. Experimente, se ousar.","url":"","image":{"path":"sc/news/NG_IE_Pfister_Comet_ON/349672_bigFeed-pfister.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Pfister_Comet_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482319891,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pfister Comet retrô personalizado",
+    "content": "Desenterre aquele Comet que está no fundo da sua garagem de 10 carros há anos e prepare-se para um milagre de Natal. A mais nova obsessão do Benny é transformar o automóvel de crise da meia-idade da Pfister em um carro de corrida urbano que parece ter acabado de espancar algo pequeno e fofo até a morte com uma corrente. Experimente, se ousar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Pfister_Comet_ON/349672_bigFeed-pfister.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Pfister_Comet_ON/.dds",
+        "filesize": 2048
+    }
+}

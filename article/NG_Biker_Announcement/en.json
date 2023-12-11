@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1474282374,"title":"","headline":"GTA Online","subtitle":"GTA Online: Bikers Coming October 4th","content":"Bikers, the next big addition to GTA Online, brings the ability to form and lead your very own Motorcycle Club for up to 8 players. Bikers will introduce new roles to play from fresh Prospects to club Presidents with a massive slate of new competitive and co-op gameplay, along with a range of new motorcycles, properties that include MC Clubhouses with a special custom Biker mechanic, and venues for seedy business ventures.<br /><br />Stay tuned to rockstargames.com/newswire for all the details.","url":"","image":{"path":"sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Biker_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1474282374,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Bikers Coming October 4th",
+    "content": "Bikers, the next big addition to GTA Online, brings the ability to form and lead your very own Motorcycle Club for up to 8 players. Bikers will introduce new roles to play from fresh Prospects to club Presidents with a massive slate of new competitive and co-op gameplay, along with a range of new motorcycles, properties that include MC Clubhouses with a special custom Biker mechanic, and venues for seedy business ventures.<br /><br />Stay tuned to rockstargames.com/newswire for all the details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Biker_Announcement/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491247706,"title":"","headline":"GTA Online","subtitle":"グロッティµツーリスモレトロ","content":"古臭くてもいい。人間より賢いダッシュボードを持つ宇宙船のようなハイパーカーには飽き飽きしてきた。シンプルで、純粋で、猛禽類や寝起きの男のように野生的な車がほしい。そんなあなたにぴったりなのがツーリスモレトロです。ガソリンが安く、オゾン層は分厚く、警官が自分と同じくらい酔っ払っていた古き時代を思い起こさせる美しいデザインです。","url":"","image":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491247706,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "グロッティµツーリスモレトロ",
+    "content": "古臭くてもいい。人間より賢いダッシュボードを持つ宇宙船のようなハイパーカーには飽き飽きしてきた。シンプルで、純粋で、猛禽類や寝起きの男のように野生的な車がほしい。そんなあなたにぴったりなのがツーリスモレトロです。ガソリンが安く、オゾン層は分厚く、警官が自分と同じくらい酔っ払っていた古き時代を思い起こさせる美しいデザインです。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/.dds",
+        "filesize": 2048
+    }
+}

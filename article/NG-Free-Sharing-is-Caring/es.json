@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442258950,"title":"","headline":"GTA Online","subtitle":"Lo mío es tuyo","content":"Con los eventos de modo Libre podrás conseguir mucho dinero y RP. Cuando colabores con otros jugadores para detener una entrega mortal o acabar con la bestia, no te olvides de la gente que te ayudó a conseguir la victoria.<br /><br />En la sección Dinero, en el inventario del menú Interacción, podrás compartir las ganancias de la última actividad. Tus compañeros te lo agradecerán y puede que así consigas nuevos aliados para tus próximos trabajitos.","url":"","image":{"path":"sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Sharing-is-Caring/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442258950,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lo mío es tuyo",
+    "content": "Con los eventos de modo Libre podrás conseguir mucho dinero y RP. Cuando colabores con otros jugadores para detener una entrega mortal o acabar con la bestia, no te olvides de la gente que te ayudó a conseguir la victoria.<br /><br />En la sección Dinero, en el inventario del menú Interacción, podrás compartir las ganancias de la última actividad. Tus compañeros te lo agradecerán y puede que así consigas nuevos aliados para tus próximos trabajitos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/.dds",
+        "filesize": 2048
+    }
+}

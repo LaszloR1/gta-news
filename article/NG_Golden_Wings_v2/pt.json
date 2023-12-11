@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952126,"title":"","headline":"GTA Online","subtitle":"Asas douradas","content":"A Elitas Travel agora possui em seu estoque duas novíssimas e luxuosas aeronaves de alta tecnologia que vão alimentar a cobiça dos membros mais ricos da sociedade de Los Santos - são as versões deluxe do Luxor e do Swift. O exterior dourado de cada veículo é complementado por um interior igualmente deslumbrante, onde você poderá sentar, relaxar e curtir a viagem enquanto toma seu champanhe. Segure ~INPUT_ENTER~ para entrar direto nos assentos de passageiro.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Asas douradas",
+    "content": "A Elitas Travel agora possui em seu estoque duas novíssimas e luxuosas aeronaves de alta tecnologia que vão alimentar a cobiça dos membros mais ricos da sociedade de Los Santos - são as versões deluxe do Luxor e do Swift. O exterior dourado de cada veículo é complementado por um interior igualmente deslumbrante, onde você poderá sentar, relaxar e curtir a viagem enquanto toma seu champanhe. Segure ~INPUT_ENTER~ para entrar direto nos assentos de passageiro.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

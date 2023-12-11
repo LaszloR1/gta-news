@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1462295196,"title":"","headline":"GTA Online","subtitle":"イン&アウト","content":"この新しい敵対モードでは、複数のケースを巡って攻防を繰り広げます。アタッカーは全てのケースを奪って、受け渡し地点に届ければ勝利となります。ディフェンダーは最後まで守り切らなければいけません。確保したケースが多いほど、ディフェンダーは守るべきターゲットが少なくなります。敵に気づかれず、チームで上手く連携することが成功のカギです。","url":"","image":{"path":"sc/news/NG_In_And_Out/262272_In_And_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_In_And_Out/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1462295196,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "イン&アウト",
+    "content": "この新しい敵対モードでは、複数のケースを巡って攻防を繰り広げます。アタッカーは全てのケースを奪って、受け渡し地点に届ければ勝利となります。ディフェンダーは最後まで守り切らなければいけません。確保したケースが多いほど、ディフェンダーは守るべきターゲットが少なくなります。敵に気づかれず、チームで上手く連携することが成功のカギです。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_In_And_Out/262272_In_And_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_In_And_Out/.dds",
+        "filesize": 2048
+    }
+}

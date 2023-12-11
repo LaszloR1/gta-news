@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569643,"headline":"Suggerimento online","subtitle":"Rifornimenti di munizioni","content":"Se stai per finire le munizioni ma non vuoi visitare un negozio Ammu-Nation, puoi fare rifornimento nella schermata della sala d'attesa, prima di iniziare un'attività.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569643,
+    "headline": "Suggerimento online",
+    "subtitle": "Rifornimenti di munizioni",
+    "content": "Se stai per finire le munizioni ma non vuoi visitare un negozio Ammu-Nation, puoi fare rifornimento nella schermata della sala d'attesa, prima di iniziare un'attività.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313882,"title":"","headline":"GTA Online","subtitle":"Herausforderungen im Freien Modus","content":"Es gibt jetzt eine bunte Auswahl an dynamischen Herausforderungen, die dich gegen den Rest deiner Gegner im Freien Modus antreten lässt. Ob es um den weitesten Sprung geht, die höchste Geschwindigkeit oder darum, wer am meisten Gegner mit dem Scharfschützengewehr erledigt: Schau live während der Herausforderung nach, wie du dich im Vergleich zu den drei Besten schlägst. Aber sei darauf gefasst, dass du ein Fadenkreuz auf deiner Stirn hast, sobald du den ersten Platz übernimmst.","url":"","image":{"path":"sc/news/NG-Free-Freemode-Challenges/262272_Freemode-Challenges-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Challenges/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313882,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Herausforderungen im Freien Modus",
+    "content": "Es gibt jetzt eine bunte Auswahl an dynamischen Herausforderungen, die dich gegen den Rest deiner Gegner im Freien Modus antreten lässt. Ob es um den weitesten Sprung geht, die höchste Geschwindigkeit oder darum, wer am meisten Gegner mit dem Scharfschützengewehr erledigt: Schau live während der Herausforderung nach, wie du dich im Vergleich zu den drei Besten schlägst. Aber sei darauf gefasst, dass du ein Fadenkreuz auf deiner Stirn hast, sobald du den ersten Platz übernimmst.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Challenges/262272_Freemode-Challenges-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Challenges/.dds",
+        "filesize": 2048
+    }
+}

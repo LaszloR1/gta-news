@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635601,"title":"Gästelisten-Belohnungen","headline":"Gästelisten-Belohnungen","subtitle":"Du bist auf der Liste!","content":"Deine wöchentlichen Gästelisten-Belohnungen sind jetzt verfügbar:<br /><br />- 350.000-GTA$-Geldgeschenk<br />- Maisonette-Los-Santos-T-Shirt<br />- 40µ% Rabatt auf Maibatsu Mule Custom und MTL Pounder Custom<br />- 40µ% Rabatt auf Rüstungs-Verbesserungen für Mule und Pounder Custom<br />- Exklusive Designs ''For Queen and Country'' für Swinger, ''Pink-grünes Tarnmuster'' und ''Sessanta Nove (mehrfarbig)'' für Speedo, Mule und Pounder Custom<br /><br />Schau nächste Woche wieder vorbei, um die nächsten Belohnungen abzuholen.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk3/349672_bigfeed-guestlist-V3_GER.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635601,
+    "title": "Gästelisten-Belohnungen",
+    "headline": "Gästelisten-Belohnungen",
+    "subtitle": "Du bist auf der Liste!",
+    "content": "Deine wöchentlichen Gästelisten-Belohnungen sind jetzt verfügbar:<br /><br />- 350.000-GTA$-Geldgeschenk<br />- Maisonette-Los-Santos-T-Shirt<br />- 40µ% Rabatt auf Maibatsu Mule Custom und MTL Pounder Custom<br />- 40µ% Rabatt auf Rüstungs-Verbesserungen für Mule und Pounder Custom<br />- Exklusive Designs ''For Queen and Country'' für Swinger, ''Pink-grünes Tarnmuster'' und ''Sessanta Nove (mehrfarbig)'' für Speedo, Mule und Pounder Custom<br /><br />Schau nächste Woche wieder vorbei, um die nächsten Belohnungen abzuholen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk3/349672_bigfeed-guestlist-V3_GER.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

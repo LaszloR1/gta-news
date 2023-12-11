@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324849,"title":"","headline":"GTA Online","subtitle":"Bloß nicht nach unten schauen","content":"Erlebe San Andreas mit den Stuntrennen, die jetzt nur in GTA Online verfügbar sind, aus einer ganz neuen Perspektive.<br /><br />Das gab es noch nie: Strecken, die sich spiralförmig in den Himmel wickeln, Wolkenkratzer-Sprungschanzen, turboschnelle Korkenzieher-Schrauben auf 20.000 Fuß und dann noch gigantische Kegel und Feuerreifen.","url":"","image":{"path":"sc/news/NG_Stunts_Dont_Look_Down/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dont_Look_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324849,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bloß nicht nach unten schauen",
+    "content": "Erlebe San Andreas mit den Stuntrennen, die jetzt nur in GTA Online verfügbar sind, aus einer ganz neuen Perspektive.<br /><br />Das gab es noch nie: Strecken, die sich spiralförmig in den Himmel wickeln, Wolkenkratzer-Sprungschanzen, turboschnelle Korkenzieher-Schrauben auf 20.000 Fuß und dann noch gigantische Kegel und Feuerreifen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dont_Look_Down/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dont_Look_Down/.dds",
+        "filesize": 2048
+    }
+}

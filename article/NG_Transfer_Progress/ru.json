@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416245599,"title":"","headline":"GTA Online","subtitle":"Перенос существующих героев и их достижений","content":"Возвращаетесь в Лос-Сантос на игровой платформе нового поколения? Вы можете продолжить свою криминальную карьеру, перенеся героев GTA Online вместе со всеми их достижениями на новую систему.<br />Подробнее об этом можно прочитать здесь: www.rockstargames.com/gtaonline/charactertransfer.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Transfer_Progress/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416245599,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Перенос существующих героев и их достижений",
+    "content": "Возвращаетесь в Лос-Сантос на игровой платформе нового поколения? Вы можете продолжить свою криминальную карьеру, перенеся героев GTA Online вместе со всеми их достижениями на новую систему.<br />Подробнее об этом можно прочитать здесь: www.rockstargames.com/gtaonline/charactertransfer.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Transfer_Progress/.dds",
+        "filesize": 2048
+    }
+}

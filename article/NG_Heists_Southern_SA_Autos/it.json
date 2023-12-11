@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979449,"title":"","headline":"GTA Online","subtitle":"Novità da Southern SA Super Autos","content":"Southern SA Super Autos ha aggiornato il proprio parco macchine, che ora include alcune tra le vetture più popolari di Los Santos, come:<br />- la Ocelot Jackal<br />- la Ubermacht Oracle XS<br />- la Benefactor Schafter<br /><br />...e molte altre. Progredendo nei colpi, incontrerai nuovi veicoli che diventeranno acquistabili: ricordati di visitare spesso il sito SouthernSanAndreasSuperAutos.com","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Southern_SA_Autos/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novità da Southern SA Super Autos",
+    "content": "Southern SA Super Autos ha aggiornato il proprio parco macchine, che ora include alcune tra le vetture più popolari di Los Santos, come:<br />- la Ocelot Jackal<br />- la Ubermacht Oracle XS<br />- la Benefactor Schafter<br /><br />...e molte altre. Progredendo nei colpi, incontrerai nuovi veicoli che diventeranno acquistabili: ricordati di visitare spesso il sito SouthernSanAndreasSuperAutos.com",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482320247,"title":"","headline":"GTA Online","subtitle":"FCR de Pegassi","content":"Hay motos elegantes y clásicas y luego está la FCR de Pegassi. Simple, atemporal, inconfundible... es todo lo que un experto necesita. Si eres más que un experto y necesitas ser más chic que nadie, lleva esta belleza a Benny’s Original Motor Works y deja que ocurra la magia. Aún no has visto nada.","url":"","image":{"path":"sc/news/NG_IE_Pegassi_FCR_ON/349672_bigFeed-FCR.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Pegassi_FCR_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482320247,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "FCR de Pegassi",
+    "content": "Hay motos elegantes y clásicas y luego está la FCR de Pegassi. Simple, atemporal, inconfundible... es todo lo que un experto necesita. Si eres más que un experto y necesitas ser más chic que nadie, lleva esta belleza a Benny’s Original Motor Works y deja que ocurra la magia. Aún no has visto nada.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Pegassi_FCR_ON/349672_bigFeed-FCR.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Pegassi_FCR_ON/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686319815,"title":"Mejoras en la experiencia","headline":"Mejoras en la experiencia","subtitle":"Próximamente en GTA Online","content":"En GTA Online: San Andreas Mercenaries seguiremos mejorando la experiencia online con actualizaciones y mejoras, como:<br /><br />- Solicitar los vehículos destruidos a la vez con una reclamación a Mors Mutual Insurance.<br />- Etiquetas de descripción personalizadas para los garajes.<br />- Control alternativo del esprintado (mantener pulsado para esprintar) en el menú Ajustes.<br /><br />Y mucho más. Detalles en el Rockstar Newswire.","url":"","image":{"path":"sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686319815,
+    "title": "Mejoras en la experiencia",
+    "headline": "Mejoras en la experiencia",
+    "subtitle": "Próximamente en GTA Online",
+    "content": "En GTA Online: San Andreas Mercenaries seguiremos mejorando la experiencia online con actualizaciones y mejoras, como:<br /><br />- Solicitar los vehículos destruidos a la vez con una reclamación a Mors Mutual Insurance.<br />- Etiquetas de descripción personalizadas para los garajes.<br />- Control alternativo del esprintado (mantener pulsado para esprintar) en el menú Ajustes.<br /><br />Y mucho más. Detalles en el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

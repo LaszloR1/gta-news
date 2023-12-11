@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455336,"title":"","headline":"GTA Online","subtitle":"Dobrze zorganizowana przestępczość","content":"Twój nowy magazyn klubu nocnego wynosi całą Twoją działalność na wyższy poziom: każda istniejąca wytwórnia, od hangaru do laboratorium metamfetaminy, może przynosić dodatkowe dochody. Jeśli chcesz rozszerzyć działalność, musisz się ruszyć z miejsca, aby założyć nowe wytwórnie, ale potem Twoi technicy przejmują obowiązki związane z codziennym dbaniem o biznes. Ty tylko spijasz śmietankę w strefie dla VIP-ów.","url":"","image":{"path":"sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455336,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dobrze zorganizowana przestępczość",
+    "content": "Twój nowy magazyn klubu nocnego wynosi całą Twoją działalność na wyższy poziom: każda istniejąca wytwórnia, od hangaru do laboratorium metamfetaminy, może przynosić dodatkowe dochody. Jeśli chcesz rozszerzyć działalność, musisz się ruszyć z miejsca, aby założyć nowe wytwórnie, ale potem Twoi technicy przejmują obowiązki związane z codziennym dbaniem o biznes. Ty tylko spijasz śmietankę w strefie dla VIP-ów.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

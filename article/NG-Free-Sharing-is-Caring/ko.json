@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442258951,"title":"","headline":"GTA Online","subtitle":"나눔의 기쁨","content":"자유 모드 이벤트에 참가하면 현금과 RP를 얻을 수 있습니다. 힘을 합쳐서 비밀 접선 또는 야수 사냥을 해냈다면 도와준 사람들에게 보상을 나눠주십시오. 그들이 없었다면 승리도 없었을 테니까요.<br /><br />상호 작용 메뉴의 인벤토리에서 현금 항목을 이용하면 이전 작업에서 획득한 현금을 분배할 수 있습니다. 도와준 사람들은 당연히 고마워할 테고, 나중에 다시 든든한 동맹이 되어줄지도 모릅니다.","url":"","image":{"path":"sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Sharing-is-Caring/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442258951,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "나눔의 기쁨",
+    "content": "자유 모드 이벤트에 참가하면 현금과 RP를 얻을 수 있습니다. 힘을 합쳐서 비밀 접선 또는 야수 사냥을 해냈다면 도와준 사람들에게 보상을 나눠주십시오. 그들이 없었다면 승리도 없었을 테니까요.<br /><br />상호 작용 메뉴의 인벤토리에서 현금 항목을 이용하면 이전 작업에서 획득한 현금을 분배할 수 있습니다. 도와준 사람들은 당연히 고마워할 테고, 나중에 다시 든든한 동맹이 되어줄지도 모릅니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/.dds",
+        "filesize": 2048
+    }
+}

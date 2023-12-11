@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1520958682,"title":"","headline":"GTA Online","subtitle":"GTA 온라인 할인","content":"3월 19일까지 일부 시설, 인기있는 항공기, 슈퍼카, 무기화된 이동 수단 등을 할인 중입니다:<br /><br />랜드 액트 저수지 시설 - 30% 할인<br />버킹엄 알파-Z1 - 25% 할인<br />RM-10 밤부쉬카 - 25% 할인<br />프로젠 T20 - 30% 할인<br />코일 사이클론 - 25% 할인<br />베네팩터 포탑 리무진 - 25% 할인<br /><br />자세한 사항은 Rockstar 뉴스와이어에서 확인하세요.","url":"","image":{"path":"sc/news/Discounts_13_03_18/262272_Cyclone.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1520958682,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA 온라인 할인",
+    "content": "3월 19일까지 일부 시설, 인기있는 항공기, 슈퍼카, 무기화된 이동 수단 등을 할인 중입니다:<br /><br />랜드 액트 저수지 시설 - 30% 할인<br />버킹엄 알파-Z1 - 25% 할인<br />RM-10 밤부쉬카 - 25% 할인<br />프로젠 T20 - 30% 할인<br />코일 사이클론 - 25% 할인<br />베네팩터 포탑 리무진 - 25% 할인<br /><br />자세한 사항은 Rockstar 뉴스와이어에서 확인하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_13_03_18/262272_Cyclone.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

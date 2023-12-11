@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394812638,"headline":"Online Tip","subtitle":"Say Cheese","content":"As part of a recent update we’ve added some extra Snapmatic content to ensure your pictures catch the eye. Included are borders to help frame your photographs perfectly and filters to help make your snaps come to life.<br /><br />You can change the border or filter by using the directional pad whenever you have your Camera open.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812638,
+    "headline": "Online Tip",
+    "subtitle": "Say Cheese",
+    "content": "As part of a recent update we’ve added some extra Snapmatic content to ensure your pictures catch the eye. Included are borders to help frame your photographs perfectly and filters to help make your snaps come to life.<br /><br />You can change the border or filter by using the directional pad whenever you have your Camera open.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

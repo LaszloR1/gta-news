@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569306,"headline":"Wskazówka do gry sieciowej","subtitle":"Premie dla przegrańców","content":"Jeśli zginiesz trzykrotnie bez załatwienia ani jednego wroga w deathmatchu, dostaniesz premię dla przegranego, która pozwoli ci na poprawę twojej smętnej sytuacji. Możesz aktywować te premie poprzez ekran śmierci – przejrzyj opcje w prawym dolnym rogu. Przynajmniej ktoś się tobą przejmuje. Tak troszkę.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569306,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Premie dla przegrańców",
+    "content": "Jeśli zginiesz trzykrotnie bez załatwienia ani jednego wroga w deathmatchu, dostaniesz premię dla przegranego, która pozwoli ci na poprawę twojej smętnej sytuacji. Możesz aktywować te premie poprzez ekran śmierci – przejrzyj opcje w prawym dolnym rogu. Przynajmniej ktoś się tobą przejmuje. Tak troszkę.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

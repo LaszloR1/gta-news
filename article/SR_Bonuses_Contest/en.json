@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504113872,"title":"","headline":"GTA Online","subtitle":"The #SMUGGLERS Snapmatic Contest","content":"You're fast becoming an expert in smuggling goods across the skyways, but your last-second escape from a flame-engulfed Starling set against a golden Los Santos sunset is a moment that needs to be preserved, immortalized, and put on display for all to see. What better way to showcase your talent for creating those incredible Vinewood moments than taking part in the #SMUGGLERS Snapmatic Event?<br /><br />Check out the Rockstar Newswire for all the details.","url":"","image":{"path":"sc/news/SR_Bonuses_Contest/349672_smugglers-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504113872,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "The #SMUGGLERS Snapmatic Contest",
+    "content": "You're fast becoming an expert in smuggling goods across the skyways, but your last-second escape from a flame-engulfed Starling set against a golden Los Santos sunset is a moment that needs to be preserved, immortalized, and put on display for all to see. What better way to showcase your talent for creating those incredible Vinewood moments than taking part in the #SMUGGLERS Snapmatic Event?<br /><br />Check out the Rockstar Newswire for all the details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Bonuses_Contest/349672_smugglers-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

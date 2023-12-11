@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTA Online","subtitle":"OPÉRATIONS DES LSA","content":"Tentez de remplir trois contrats privés avec les redoutables Los Santos Angels dans les opérations des LSA. Lancées à partir du nouveau terminal d'opérations ou en appelant Charlie, chacune de ces missions vous donnera l’opportunité de récupérer une tenue la première fois que vous la terminerez et vous proposera des objectifs bonus facultatifs différents à chaque nouvelle tentative afin de vous permettre de gagner plus.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "OPÉRATIONS DES LSA",
+    "content": "Tentez de remplir trois contrats privés avec les redoutables Los Santos Angels dans les opérations des LSA. Lancées à partir du nouveau terminal d'opérations ou en appelant Charlie, chacune de ces missions vous donnera l’opportunité de récupérer une tenue la première fois que vous la terminerez et vous proposera des objectifs bonus facultatifs différents à chaque nouvelle tentative afin de vous permettre de gagner plus.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

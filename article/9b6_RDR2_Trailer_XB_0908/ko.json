@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533838139,"title":"지금 감상하세요","headline":"지금 감상하세요","subtitle":"Red Dead Redemption 2: 공식 게임 플레이 영상","content":"4K 화질로 진행되는 Red Dead Redemption 2 게임 플레이 소개 영상을 감상하세요. 모두 게임 내에서 직접 캡처했습니다.<br /><br />Red Dead Redemption 2는 2018년 10월 26일, Xbox One으로 출시됩니다. 지금 예약 구매하세요.","url":"","image":{"path":"sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_KOR_V2.DDS","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533838139,
+    "title": "지금 감상하세요",
+    "headline": "지금 감상하세요",
+    "subtitle": "Red Dead Redemption 2: 공식 게임 플레이 영상",
+    "content": "4K 화질로 진행되는 Red Dead Redemption 2 게임 플레이 소개 영상을 감상하세요. 모두 게임 내에서 직접 캡처했습니다.<br /><br />Red Dead Redemption 2는 2018년 10월 26일, Xbox One으로 출시됩니다. 지금 예약 구매하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_KOR_V2.DDS",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513098083,"title":"","headline":"GTA Online","subtitle":"Doomsday: Challenge","content":"In Los Santos there’s always room for style points. The Doomsday Heist offers a new set of brutal challenges, all with some serious financial payback for any teams hardcore enough to complete them. All three finale missions have Elite Challenge objectives for those in search of a seriously high bar, and for the perfectionists, the Criminal Mastermind challenges are back across all three acts of the heist for teams of 2, 3 or 4 players.","url":"","image":{"path":"sc/news/DH_Challenge/262272_GTAO_Mastermind.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513098083,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Doomsday: Challenge",
+    "content": "In Los Santos there’s always room for style points. The Doomsday Heist offers a new set of brutal challenges, all with some serious financial payback for any teams hardcore enough to complete them. All three finale missions have Elite Challenge objectives for those in search of a seriously high bar, and for the perfectionists, the Criminal Mastermind challenges are back across all three acts of the heist for teams of 2, 3 or 4 players.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Challenge/262272_GTAO_Mastermind.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

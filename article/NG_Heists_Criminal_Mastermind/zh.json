@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425982371,"title":"","headline":"GTA Online","subtitle":"犯罪首腦挑戰","content":"完成了所有搶劫任務之後，您還可以選擇進行精英挑戰，而且這些挑戰的獎勵都十分優渥。<br />不過有一種挑戰，只有最凶殘毒辣的犯罪首腦才有本事可以完成，也就是犯罪首腦挑戰：<br />在困難程度下依序完成全部 5 個搶劫任務 (包括所有設定)、隊友玩家都相同，而且全程沒有任何一個人死亡。<br />如果可以完成這個挑戰，隊伍中每個人都可以獲得一次性的高額遊戲幣獎勵一千萬元。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Criminal_Mastermind/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425982371,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "犯罪首腦挑戰",
+    "content": "完成了所有搶劫任務之後，您還可以選擇進行精英挑戰，而且這些挑戰的獎勵都十分優渥。<br />不過有一種挑戰，只有最凶殘毒辣的犯罪首腦才有本事可以完成，也就是犯罪首腦挑戰：<br />在困難程度下依序完成全部 5 個搶劫任務 (包括所有設定)、隊友玩家都相同，而且全程沒有任何一個人死亡。<br />如果可以完成這個挑戰，隊伍中每個人都可以獲得一次性的高額遊戲幣獎勵一千萬元。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/.dds",
+        "filesize": 2048
+    }
+}

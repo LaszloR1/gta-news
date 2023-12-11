@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1462548132,"title":"","headline":"GTA Online","subtitle":"НЕДЕЛЯ ТСПЫТАНИЙ НА ВРЕМЯ (c 6 по 12 мая): 2xGTA $ и RP за гонки на время и многое другое","content":"На этой неделе ежедневно будут проводиться испытания на время в свободном режиме, причем выплаты в GTA $ и RP увеличены вдвое – для смелых гонщиков, которые смогут показать время лучше среднего. Чтобы подготовить вас к этому, Legendary Motorsport и Los Santos Customs предлагают огромные скидки на быстрый транспорт и модификации. Все это и многое другое будет доступно начиная с сегодняшнего дня и до 12 мая.<br /><br />Подробности на сайте rockstargames.com/V/ru_ru/news.","url":"","image":{"path":"sc/news/NG_Time_Trials_Week_6_12/349672_Time_Trials_NG.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Time_Trials_Week_6_12/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1462548132,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "НЕДЕЛЯ ТСПЫТАНИЙ НА ВРЕМЯ (c 6 по 12 мая): 2xGTA $ и RP за гонки на время и многое другое",
+    "content": "На этой неделе ежедневно будут проводиться испытания на время в свободном режиме, причем выплаты в GTA $ и RP увеличены вдвое – для смелых гонщиков, которые смогут показать время лучше среднего. Чтобы подготовить вас к этому, Legendary Motorsport и Los Santos Customs предлагают огромные скидки на быстрый транспорт и модификации. Все это и многое другое будет доступно начиная с сегодняшнего дня и до 12 мая.<br /><br />Подробности на сайте rockstargames.com/V/ru_ru/news.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Time_Trials_Week_6_12/349672_Time_Trials_NG.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Time_Trials_Week_6_12/.dds",
+        "filesize": 2048
+    }
+}

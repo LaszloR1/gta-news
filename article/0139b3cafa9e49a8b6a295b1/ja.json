@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"ロスサントス・ドラッグウォーズ","headline":"ロスサントス・ドラッグウォーズ","subtitle":"路上売人","content":"路上売人を見つけて各種ビジネスからヤクを供給しましょう。<br /><br />売人は、あなたが近付くと毎日マップ上の新しい場所に現れるので、よく見ておいてください。<br /><br />ヒント：路上売人は、それぞれに得意とするヤクがあり、それに対しては特別価格で取引できます。鉄が熱いうちに手を打って利益を最大化させましょう。<br /><br /><br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds","filesize":262272},"button":"フリーモードで路上売人を見つける"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "ロスサントス・ドラッグウォーズ",
+    "headline": "ロスサントス・ドラッグウォーズ",
+    "subtitle": "路上売人",
+    "content": "路上売人を見つけて各種ビジネスからヤクを供給しましょう。<br /><br />売人は、あなたが近付くと毎日マップ上の新しい場所に現れるので、よく見ておいてください。<br /><br />ヒント：路上売人は、それぞれに得意とするヤクがあり、それに対しては特別価格で取引できます。鉄が熱いうちに手を打って利益を最大化させましょう。<br /><br /><br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "フリーモードで路上売人を見つける"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1517331821,"title":"","headline":"GTA Online","subtitle":"Hardest Target","content":"No es fácil ser el centro de atención en Los Santos, y especialmente en Hardest Target, el último modo Adversario que ha llegado a GTA Online. En cada equipo hay un jugador con una gran recompensa por su cabeza: si matas al objetivo, ganas un punto. Pero cuidado: la identidad del objetivo cambia a cada minuto, así que, si de repente parece que llevas una diana entre los ojos, no estás paranoico, es que intentan matarte de verdad.","url":"","image":{"path":"sc/news/DH_Hardest_Target/349672_bigfeed-hardesttarget-v2.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1517331821,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hardest Target",
+    "content": "No es fácil ser el centro de atención en Los Santos, y especialmente en Hardest Target, el último modo Adversario que ha llegado a GTA Online. En cada equipo hay un jugador con una gran recompensa por su cabeza: si matas al objetivo, ganas un punto. Pero cuidado: la identidad del objetivo cambia a cada minuto, así que, si de repente parece que llevas una diana entre los ojos, no estás paranoico, es que intentan matarte de verdad.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Hardest_Target/349672_bigfeed-hardesttarget-v2.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223124,"title":"","headline":"GTA Online","subtitle":"Novas adições do Criador","content":"Explore o limite entre a criatividade e o sadismo com uma nova gama de opções que está chegando ao Criador de Conteúdo. Além de poder criar suas próprias corridas de Assalto com Alvos, você também terá uma grande variedade de novas opções de design para todos os tipos de criadores, incluindo novos objetos e veículos.","url":"","image":{"path":"sc/news/SSASSS_Creator/349672_GTAO-creator.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223124,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novas adições do Criador",
+    "content": "Explore o limite entre a criatividade e o sadismo com uma nova gama de opções que está chegando ao Criador de Conteúdo. Além de poder criar suas próprias corridas de Assalto com Alvos, você também terá uma grande variedade de novas opções de design para todos os tipos de criadores, incluindo novos objetos e veículos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Creator/349672_GTAO-creator.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

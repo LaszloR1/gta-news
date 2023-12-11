@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394809444,"headline":"線上小訣竅","subtitle":"取得認證","content":"使用競速和死鬥遊戲製作器，您就可以將洛聖都的任何一個地點變成自創遊戲中的遊戲場景。<br /><br />如果您的差事特別與眾不同，那麼這個差事就有可能會獲得 Rockstar 認證。您可以在暫停選單的 Rockstar 認證部分存取通過認證的差事，以及我們所製作的差事。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Get_Verified/65664_Get_Verified.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809444,
+    "headline": "線上小訣竅",
+    "subtitle": "取得認證",
+    "content": "使用競速和死鬥遊戲製作器，您就可以將洛聖都的任何一個地點變成自創遊戲中的遊戲場景。<br /><br />如果您的差事特別與眾不同，那麼這個差事就有可能會獲得 Rockstar 認證。您可以在暫停選單的 Rockstar 認證部分存取通過認證的差事，以及我們所製作的差事。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Get_Verified/65664_Get_Verified.dds",
+        "filesize": 65664
+    }
+}

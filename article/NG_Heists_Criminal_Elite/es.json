@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425981527,"title":"","headline":"GTA Online","subtitle":"La élite delictiva","content":"Cada final de golpe tiene un desafío de élite que te dará un buen dinerito.<br /><br />Fleeca: ve rápido, que no dañen el vehículo y que no muera nadie del equipo.<br />Fuga de prisión: protege al objetivo, sácalo rápido y sobrevive.<br />Laboratorios Humane: hazlo rápido y que no muera nadie del equipo.<br />Financiación inicial: mata a los enemigos, consigue un buen tiempo y que no muera nadie del equipo.<br />Pacific Standard: haz rápido el trabajo, que no aparezcan los del NOOSE y que no muera nadie del equipo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Criminal_Elite/262272_Criminal-Elite.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Criminal_Elite/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425981527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La élite delictiva",
+    "content": "Cada final de golpe tiene un desafío de élite que te dará un buen dinerito.<br /><br />Fleeca: ve rápido, que no dañen el vehículo y que no muera nadie del equipo.<br />Fuga de prisión: protege al objetivo, sácalo rápido y sobrevive.<br />Laboratorios Humane: hazlo rápido y que no muera nadie del equipo.<br />Financiación inicial: mata a los enemigos, consigue un buen tiempo y que no muera nadie del equipo.<br />Pacific Standard: haz rápido el trabajo, que no aparezcan los del NOOSE y que no muera nadie del equipo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Criminal_Elite/262272_Criminal-Elite.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Criminal_Elite/.dds",
+        "filesize": 2048
+    }
+}

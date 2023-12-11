@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480420764,"title":"","headline":"GTA Online","subtitle":"Stunt-Zusatzelemente jetzt verfügbar im Editor für Deathmatches, Last Team Standings & Captures","content":"Die Editor-Community in GTA Online kann ihre Deathmatches, Last Team Standings und Capture-Jobs jetzt auf ein neues Niveau heben: Ab sofort sind auch Stunt-Zusatzelemente aus Cunning Stunts verfügbar. Mit mehr als 200 neu hinzugefügten Stunt-Zusatzelementen sind den kreativen Möglichkeiten für diese Auseinandersetzungen keine Grenzen mehr gesetzt. ","url":"","image":{"path":"sc/news/NG_Stunt_Props_Additions/524416_BIGFEED_2016_1129-512x1024_V01.dds","filesize":524416},"landscape":{"path":"sc/news/NG_Stunt_Props_Additions/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480420764,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stunt-Zusatzelemente jetzt verfügbar im Editor für Deathmatches, Last Team Standings & Captures",
+    "content": "Die Editor-Community in GTA Online kann ihre Deathmatches, Last Team Standings und Capture-Jobs jetzt auf ein neues Niveau heben: Ab sofort sind auch Stunt-Zusatzelemente aus Cunning Stunts verfügbar. Mit mehr als 200 neu hinzugefügten Stunt-Zusatzelementen sind den kreativen Möglichkeiten für diese Auseinandersetzungen keine Grenzen mehr gesetzt. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunt_Props_Additions/524416_BIGFEED_2016_1129-512x1024_V01.dds",
+        "filesize": 524416
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunt_Props_Additions/.dds",
+        "filesize": 2048
+    }
+}

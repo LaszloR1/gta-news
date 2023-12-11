@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314255,"title":"","headline":"GTA Online","subtitle":"Aperte o Gatilho","content":"Os acionadores de Serviços espalhados pelo mapa agora são ativados manualmente ao pressionar ~INPUT_CONTEXT~. Isso permite que você passe por uma área de Serviço sem iniciá-lo. É a opção perfeita para quando estiver perseguindo um Alvo em Movimento ou executando uma fuga durante Bens Roubados. Se desejar remover os acionadores completamente, você pode escondê-los através das Opções de ocultar no Menu de Interação.","url":"","image":{"path":"sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Pull-The-Trigger/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314255,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Aperte o Gatilho",
+    "content": "Os acionadores de Serviços espalhados pelo mapa agora são ativados manualmente ao pressionar ~INPUT_CONTEXT~. Isso permite que você passe por uma área de Serviço sem iniciá-lo. É a opção perfeita para quando estiver perseguindo um Alvo em Movimento ou executando uma fuga durante Bens Roubados. Se desejar remover os acionadores completamente, você pode escondê-los através das Opções de ocultar no Menu de Interação.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952126,"title":"","headline":"GTA Online","subtitle":"Ali dorate","content":"Elitas Travel ha in serbo per te due velivoli di lusso, lo stato dell'arte che tutti desiderano ma che solo l'alta società di Los Santos può permettersi: il Luxor e lo Swift Deluxe. All'esterno dorato dei due veicoli fanno da contraltare degli interni altrettanto magnifici in cui è possibile rilassarsi e godersi il volo sorseggiando dell'ottimo champagne. Tieni premuto ~INPUT_ENTER~ per salire direttamente come passeggero.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ali dorate",
+    "content": "Elitas Travel ha in serbo per te due velivoli di lusso, lo stato dell'arte che tutti desiderano ma che solo l'alta società di Los Santos può permettersi: il Luxor e lo Swift Deluxe. All'esterno dorato dei due veicoli fanno da contraltare degli interni altrettanto magnifici in cui è possibile rilassarsi e godersi il volo sorseggiando dell'ottimo champagne. Tieni premuto ~INPUT_ENTER~ per salire direttamente come passeggero.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

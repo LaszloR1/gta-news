@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471930,"headline":"Dica online","subtitle":"Mãos à obra!","content":"Quer ir direto para o trabalho? Você pode selecionar Serviço Rápido no seu celular e pular direto para uma Corrida, Mata-mata, Missão ou Lista de jogos. Você irá para o Serviço mais próximo que se encaixar na sua descrição.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471930,
+    "headline": "Dica online",
+    "subtitle": "Mãos à obra!",
+    "content": "Quer ir direto para o trabalho? Você pode selecionar Serviço Rápido no seu celular e pular direto para uma Corrida, Mata-mata, Missão ou Lista de jogos. Você irá para o Serviço mais próximo que se encaixar na sua descrição.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

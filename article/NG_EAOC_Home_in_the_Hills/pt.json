@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175034,"title":"","headline":"GTA Online","subtitle":"Um Lar nas Colinas","content":"Tenha um gostinho do glamour de Vinewood com os novos apartamentos suspensos disponíveis para venda em dynasty8realestate.com. Estas casas sofisticadas possuem uma vista sem igual de Los Santos - e uma localização tão desejada quanto essa não tem preço.","url":"","image":{"path":"sc/news/NG_EAOC_Home_in_the_Hills/262272_A_Home_In_the_Hills.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Home_in_the_Hills/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175034,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Um Lar nas Colinas",
+    "content": "Tenha um gostinho do glamour de Vinewood com os novos apartamentos suspensos disponíveis para venda em dynasty8realestate.com. Estas casas sofisticadas possuem uma vista sem igual de Los Santos - e uma localização tão desejada quanto essa não tem preço.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Home_in_the_Hills/262272_A_Home_In_the_Hills.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Home_in_the_Hills/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480694400,"title":"","headline":"GTA Online","subtitle":"Importação e Exportação chegando em dezembro","content":"Importação e Exportação traz novas empreitadas criminosas em que Chefes e suas organizações melhoram, modificam e revendem os veículos mais desejados por grandes lucros. É preciso talento, coordenação e uso estratégico de novos veículos especiais para finalizar o serviço.<br /><br />Novos Galpões de veículos armazenarão os resultados das suas operações, e você poderá adicionar enormes Garagens no escritório, com até três andares, para até 60 veículos.<br /><br />Confira o Boletim da Rockstar para mais detalhes.","url":"","image":{"path":"sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds","filesize":699216},"landscape":{"path":"sc/news/NG_Import_Export_Announce/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480694400,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Importação e Exportação chegando em dezembro",
+    "content": "Importação e Exportação traz novas empreitadas criminosas em que Chefes e suas organizações melhoram, modificam e revendem os veículos mais desejados por grandes lucros. É preciso talento, coordenação e uso estratégico de novos veículos especiais para finalizar o serviço.<br /><br />Novos Galpões de veículos armazenarão os resultados das suas operações, e você poderá adicionar enormes Garagens no escritório, com até três andares, para até 60 veículos.<br /><br />Confira o Boletim da Rockstar para mais detalhes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds",
+        "filesize": 699216
+    },
+    "landscape": {
+        "path": "sc/news/NG_Import_Export_Announce/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380568976,"headline":"온라인 팁","subtitle":"표식 색상","content":"지도 및 레이더는 근처에 있는 플레이어들을 하이라이트해서 나타내고 색상 코드를 표시합니다. 조직 동료는 당신의 조직 색상으로 테두리가 표시되고 친구는 파란색 테두리가 표시됩니다. 붉은색 테두리는 현상금이 걸린 플레이어를 나타냅니다. 그런 타락한 플레이어를 사냥하면 현금과 도덕적 우월성을 뽐낼 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Colored_Blips/65664_Colored-Blips_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380568976,
+    "headline": "온라인 팁",
+    "subtitle": "표식 색상",
+    "content": "지도 및 레이더는 근처에 있는 플레이어들을 하이라이트해서 나타내고 색상 코드를 표시합니다. 조직 동료는 당신의 조직 색상으로 테두리가 표시되고 친구는 파란색 테두리가 표시됩니다. 붉은색 테두리는 현상금이 걸린 플레이어를 나타냅니다. 그런 타락한 플레이어를 사냥하면 현금과 도덕적 우월성을 뽐낼 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Colored_Blips/65664_Colored-Blips_portrait.dds",
+        "filesize": 65664
+    }
+}

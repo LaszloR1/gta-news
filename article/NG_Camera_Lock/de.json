@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224411,"title":"","headline":"GTA Online","subtitle":"Feste Kamera","content":"Wenn du sicherstellen willst, dass jeder die gleiche Kameraperspektive nutzt, kannst du das in der Lobby vor jedem Job festlegen.<br /><br />Nutze den Punkt ''Feste Kamera'' in der Lobby, um die Option einzustellen, die du bevorzugst und zwinge allen anderen deine Sicht der Dinge auf, egal ob es Third-Person-Sicht, Egoperspektive oder beides ist.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224411,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Feste Kamera",
+    "content": "Wenn du sicherstellen willst, dass jeder die gleiche Kameraperspektive nutzt, kannst du das in der Lobby vor jedem Job festlegen.<br /><br />Nutze den Punkt ''Feste Kamera'' in der Lobby, um die Option einzustellen, die du bevorzugst und zwinge allen anderen deine Sicht der Dinge auf, egal ob es Third-Person-Sicht, Egoperspektive oder beides ist.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

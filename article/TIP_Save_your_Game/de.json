@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380565544,"title":"","headline":"Online-Tipp","subtitle":"Speichere dein Spiel","content":"Wenn du deine Spiel-Sitzung beenden musst, verlasse sie über das Pause-Menü oder schalte in den Story-Modus um; beides speichert deinen Spielstand und teilt deinen Freunden und Crewmitgliedern mit, dass du das Spiel verlassen hast.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Save_your_Game/262272_SaveYourGame.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Save_your_Game/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380565544,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Speichere dein Spiel",
+    "content": "Wenn du deine Spiel-Sitzung beenden musst, verlasse sie über das Pause-Menü oder schalte in den Story-Modus um; beides speichert deinen Spielstand und teilt deinen Freunden und Crewmitgliedern mit, dass du das Spiel verlassen hast.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Save_your_Game/262272_SaveYourGame.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Save_your_Game/.dds",
+        "filesize": 2048
+    }
+}

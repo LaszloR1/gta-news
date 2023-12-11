@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980266,"title":"","headline":"GTA Online","subtitle":"每日任務","content":"GTA 線上模式互動選單中會有三個隨機的每日任務，請記得查看。完成這些任務就可以賺取 GTA 遊戲幣和聲望值。<br /><br />連續多日都能完成所有每日任務的話，您甚至還可以獲得更高額的 GTA 遊戲幣和聲望值獎勵。每天完成這些任務，連續一週或一個月，就可以獲得高額現金和聲望值獎勵。<br /><br />每日任務會在等級 15 時解鎖。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Daily_Objectives/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "每日任務",
+    "content": "GTA 線上模式互動選單中會有三個隨機的每日任務，請記得查看。完成這些任務就可以賺取 GTA 遊戲幣和聲望值。<br /><br />連續多日都能完成所有每日任務的話，您甚至還可以獲得更高額的 GTA 遊戲幣和聲望值獎勵。每天完成這些任務，連續一週或一個月，就可以獲得高額現金和聲望值獎勵。<br /><br />每日任務會在等級 15 時解鎖。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/.dds",
+        "filesize": 2048
+    }
+}

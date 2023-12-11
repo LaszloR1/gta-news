@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515687,"title":"","headline":"GTA Online","subtitle":"Aufsteigen!","content":"Wenn du auf dem Motorrad unterwegs bist, erhältst du ab sofort zusätzliche Boni. Wenn du mit deinem MC in Formation fährst, regeneriert sich deine Gesundheit schneller und dein Motorrad wird repariert.<br /><br />Und wenn es in die Offensive geht, kannst du im Nahkampf neue Maßstäbe setzen, indem du deinen Angriffen einen 200-PS-Schub verleihst. Die Wahl liegt bei dir, duelliere dich mit anderen Bikern oder warte, bis sie zu Fuß unterwegs sind und mach sie dann fertig!","url":"","image":{"path":"sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_MountUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515687,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Aufsteigen!",
+    "content": "Wenn du auf dem Motorrad unterwegs bist, erhältst du ab sofort zusätzliche Boni. Wenn du mit deinem MC in Formation fährst, regeneriert sich deine Gesundheit schneller und dein Motorrad wird repariert.<br /><br />Und wenn es in die Offensive geht, kannst du im Nahkampf neue Maßstäbe setzen, indem du deinen Angriffen einen 200-PS-Schub verleihst. Die Wahl liegt bei dir, duelliere dich mit anderen Bikern oder warte, bis sie zu Fuß unterwegs sind und mach sie dann fertig!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_MountUp/.dds",
+        "filesize": 2048
+    }
+}

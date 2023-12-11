@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1614965098,"title":"","headline":"GTA Online","subtitle":"Descontos","content":"Faça seu dinheiro render esta semana aproveitando uma série de descontos em imóveis e veículos dos mais variados tipos. <br /><br />- Hangares – 60% de desconto<br />- Super Iate Galaxy – 50% de desconto<br />- Mammoth Avenger – 40% de desconto<br />- Principe Deveste Eight – 40% de desconto<br /><br />E mais! Confira o Boletim da Rockstar para mais detalhes.","url":"","image":{"path":"sc/news/a884bdb2957f4da29e1a45d3/262272_bigfeed_2017-09-01_hangar.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1614965098,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descontos",
+    "content": "Faça seu dinheiro render esta semana aproveitando uma série de descontos em imóveis e veículos dos mais variados tipos. <br /><br />- Hangares – 60% de desconto<br />- Super Iate Galaxy – 50% de desconto<br />- Mammoth Avenger – 40% de desconto<br />- Principe Deveste Eight – 40% de desconto<br /><br />E mais! Confira o Boletim da Rockstar para mais detalhes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/a884bdb2957f4da29e1a45d3/262272_bigfeed_2017-09-01_hangar.dds",
+        "filesize": 262272
+    }
+}

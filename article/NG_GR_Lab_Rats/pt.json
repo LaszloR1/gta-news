@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917027,"title":"","headline":"GTA Online","subtitle":"Ratos de laboratório","content":"No comércio de armas, ser impiedoso não é o suficiente. Você precisa de toda vantagem que conseguir, e é aí que entra o pessoal de jaleco branco: empregue alguns em seu bunker com o que precisarem, e eles vão se ocupar com pesquisas de modificações de armas pessoais únicas, variedades de tecnologias brutais para seus veículos armados e melhorias aterrorizantes para o seu Centro de Operações Móvel.","url":"","image":{"path":"sc/news/NG_GR_Lab_Rats/262272_LabRats.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Lab_Rats/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917027,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ratos de laboratório",
+    "content": "No comércio de armas, ser impiedoso não é o suficiente. Você precisa de toda vantagem que conseguir, e é aí que entra o pessoal de jaleco branco: empregue alguns em seu bunker com o que precisarem, e eles vão se ocupar com pesquisas de modificações de armas pessoais únicas, variedades de tecnologias brutais para seus veículos armados e melhorias aterrorizantes para o seu Centro de Operações Móvel.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Lab_Rats/262272_LabRats.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Lab_Rats/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

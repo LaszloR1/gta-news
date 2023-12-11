@@ -1,1 +1,16 @@
-{"types":["priority"],"date":1676561637,"title":"","headline":"GTA Online","subtitle":"Edifício-garagem da Eclipse Boulevard","content":"É hora de aumentar e enaltecer a sua linda coleção de veículos. Há um novo Edifício-garagem localizado bem na icônica Eclipse Boulevard em Los Santos com espaço para até 50 veículos e comodidades exclusivas em cinco andares espaçosos.<br /><br />Esse novo santuário social e automotivo luxuoso já está disponível para compra no GTA Online diretamente no site da Dynasty 8 no jogo. Membros do GTA+ podem resgatá-lo de graça até 15 de março.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE","image":{"path":"sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds","filesize":262272},"button":"Acesse o site da Dynasty 8"}
+{
+    "types": [
+        "priority"
+    ],
+    "date": 1676561637,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Edifício-garagem da Eclipse Boulevard",
+    "content": "É hora de aumentar e enaltecer a sua linda coleção de veículos. Há um novo Edifício-garagem localizado bem na icônica Eclipse Boulevard em Los Santos com espaço para até 50 veículos e comodidades exclusivas em cinco andares espaçosos.<br /><br />Esse novo santuário social e automotivo luxuoso já está disponível para compra no GTA Online diretamente no site da Dynasty 8 no jogo. Membros do GTA+ podem resgatá-lo de graça até 15 de março.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE",
+    "image": {
+        "path": "sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Acesse o site da Dynasty 8"
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394810519,"headline":"Astuce en ligne","subtitle":"Vigilance totale !","content":"'Surveillez vos arrières' est un conseil à prendre au pied de la lettre dans certains quartiers. Appuyez sur le joystick / stick analogique droit pour regarder derrière vous. Si vous utilisez ~INPUT_FRONTEND_LT~ pour viser tout en regardant en arrière, vous vous retournerez immédiatement pour vous verrouiller sur la menace.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394810519,
+    "headline": "Astuce en ligne",
+    "subtitle": "Vigilance totale !",
+    "content": "'Surveillez vos arrières' est un conseil à prendre au pied de la lettre dans certains quartiers. Appuyez sur le joystick / stick analogique droit pour regarder derrière vous. Si vous utilisez ~INPUT_FRONTEND_LT~ pour viser tout en regardant en arrière, vous vous retournerez immédiatement pour vous verrouiller sur la menace.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds",
+        "filesize": 65664
+    }
+}

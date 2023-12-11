@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1455273183,"title":"","headline":"GTA Online","subtitle":"너 없으면 못 살아","content":"커플을 위해 특별히 제작된 새로운 대적 모드에서 애인을 잘 지켜내십시오. 최대 네 쌍의 커플이 총격전을 벌이며, 커플 중 한 명이 죽으면 다른 한 명도 죽게 되니 팀워크가 중요합니다. 자기 파트너 곁에 있으면 체력 회복이 빨라집니다. 마지막까지 살아남은 커플이 승리합니다.","url":"","image":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1455273183,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "너 없으면 못 살아",
+    "content": "커플을 위해 특별히 제작된 새로운 대적 모드에서 애인을 잘 지켜내십시오. 최대 네 쌍의 커플이 총격전을 벌이며, 커플 중 한 명이 죽으면 다른 한 명도 죽게 되니 팀워크가 중요합니다. 자기 파트너 곁에 있으면 체력 회복이 빨라집니다. 마지막까지 살아남은 커플이 승리합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/.dds",
+        "filesize": 2048
+    }
+}

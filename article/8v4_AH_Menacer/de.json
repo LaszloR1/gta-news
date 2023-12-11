@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1535466197,"title":"","headline":"GTA Online","subtitle":"HVY Menacer","content":"Wir alle wissen, dass die Welt da draußen ein Dschungel ist. Aber wenn du in Downtown Los Santos auf Safari gehst, brauchst du deutlich mehr als einen offenen Truck und eine Anspruchshaltung, um zu überleben. Passend dazu ist der HVY Menacer genau die Art von unzerstörbarer Todesmaschine, die dich absichern wird, während sie jeden Überlebenden mit leerem, unfokussiertem Blick zurücklässt.","url":"","image":{"path":"sc/news/8v4_AH_Menacer/349672_HEAVYMENACER.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1535466197,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HVY Menacer",
+    "content": "Wir alle wissen, dass die Welt da draußen ein Dschungel ist. Aber wenn du in Downtown Los Santos auf Safari gehst, brauchst du deutlich mehr als einen offenen Truck und eine Anspruchshaltung, um zu überleben. Passend dazu ist der HVY Menacer genau die Art von unzerstörbarer Todesmaschine, die dich absichern wird, während sie jeden Überlebenden mit leerem, unfokussiertem Blick zurücklässt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/8v4_AH_Menacer/349672_HEAVYMENACER.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"SAN ANDREAS MERCENARIES","content":"Od kiedy pliki Dona Percivala zostały wykradzione, wszyscy wiedzą, że Merryweather coś knuje. Firma ta zgarnęła od zbrojeniówki dość kontraktów i przeprowadziła dość nielegalnych badań, żeby zapanować nad przestępczym półświatkiem. Do teraz. Dołącz do rewolucji i rzuć wyzwanie największej firmie najemniczej na świecie.<br /><br />Przemytniczych możliwości jest mnóstwo, więc Los Santos i hrabstwo Blaine aż ociekają okazjami. San Andreas Mercenaries jest już dostępne.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/dbf19935d645494bb4a72986/262272_GTAO_SA_Mercenaries_FINAL_BigFeed_R01.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SAN ANDREAS MERCENARIES",
+    "content": "Od kiedy pliki Dona Percivala zostały wykradzione, wszyscy wiedzą, że Merryweather coś knuje. Firma ta zgarnęła od zbrojeniówki dość kontraktów i przeprowadziła dość nielegalnych badań, żeby zapanować nad przestępczym półświatkiem. Do teraz. Dołącz do rewolucji i rzuć wyzwanie największej firmie najemniczej na świecie.<br /><br />Przemytniczych możliwości jest mnóstwo, więc Los Santos i hrabstwo Blaine aż ociekają okazjami. San Andreas Mercenaries jest już dostępne.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/dbf19935d645494bb4a72986/262272_GTAO_SA_Mercenaries_FINAL_BigFeed_R01.dds",
+        "filesize": 262272
+    }
+}

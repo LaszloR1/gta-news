@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467815311,"title":"","headline":"GTA Online","subtitle":"Holt euch den neuen Dewbauchee Seven-70 und spielt drei neue ''Power Play''-Karten","content":"Die Sportwagenklasse in GTA Online bekommt eine Extraportion Stil und Raffinesse mit dem neuen Dewbauchee Seven-70, der jetzt bei Legendary Motorsport erhältlich ist.<br /><br />Außerdem wurden drei brandneue Austragungsorte für den teambasierten ''Power Play''-Kampfmodus hinzugefügt. Tretet am Internationalen Flughafen von Los Santos oder am Hafen von Los Santos gegeneinander an oder sorgt für ordentlich Chaos am Ufer des Alamosees.","url":"","image":{"path":"sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Seven_70_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467815311,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Holt euch den neuen Dewbauchee Seven-70 und spielt drei neue ''Power Play''-Karten",
+    "content": "Die Sportwagenklasse in GTA Online bekommt eine Extraportion Stil und Raffinesse mit dem neuen Dewbauchee Seven-70, der jetzt bei Legendary Motorsport erhältlich ist.<br /><br />Außerdem wurden drei brandneue Austragungsorte für den teambasierten ''Power Play''-Kampfmodus hinzugefügt. Tretet am Internationalen Flughafen von Los Santos oder am Hafen von Los Santos gegeneinander an oder sorgt für ordentlich Chaos am Ufer des Alamosees.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Seven_70_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

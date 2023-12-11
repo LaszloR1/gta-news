@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867541,"title":"GTA+","headline":"GTA+","subtitle":"특별 의상","content":"GTA+ 회원은 매너 수라노 재킷과 산토 카프라 x 매너 일용직과 면바지를 무료로 획득할 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/5bbaf69848f540789df9bf26/262272_GTA_PlusTab_Mp16_FreeClothing_FINAL_BigFeed_ko_kr.dds","filesize":262272},"button":"GTA+에 가입하려면 선택하기"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867541,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "특별 의상",
+    "content": "GTA+ 회원은 매너 수라노 재킷과 산토 카프라 x 매너 일용직과 면바지를 무료로 획득할 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/5bbaf69848f540789df9bf26/262272_GTA_PlusTab_Mp16_FreeClothing_FINAL_BigFeed_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "GTA+에 가입하려면 선택하기"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567802,"headline":"Suggerimento online","subtitle":"Gareggia ovunque e in qualsiasi momento","content":"Gareggia ovunque a San Andreas sfidando i giocatori vicini in una gara improvvisata: imposta una meta personalizzata o seleziona un punto dal GPS rapido e dai inizio alla sfida.<br /><br />Per trovare le gare improvvisate, accedi al menu Interazione.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Race_Anytime/65664_Race_Anytime_Anywhere_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567802,
+    "headline": "Suggerimento online",
+    "subtitle": "Gareggia ovunque e in qualsiasi momento",
+    "content": "Gareggia ovunque a San Andreas sfidando i giocatori vicini in una gara improvvisata: imposta una meta personalizzata o seleziona un punto dal GPS rapido e dai inizio alla sfida.<br /><br />Per trovare le gare improvvisate, accedi al menu Interazione.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Race_Anytime/65664_Race_Anytime_Anywhere_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

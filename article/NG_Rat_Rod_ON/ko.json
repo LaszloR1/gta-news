@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477945429,"title":"","headline":"GTA Online","subtitle":"디클라스 토네이도 랫 로드","content":"랫 로드가 이번 주에 시내에 등장합니다. 그 말은, 이제 여러분은 로스 산토스 거리에서 두 가지 소리만 듣게 된다는 뜻이죠. 하나는, 외부 노출형 엔진의 폐를 꿰뚫는 굉음이며, 또 하나는 반경 10킬로미터 안에 있는 모든 환경 운동가들이 시위하는 소리입니다. 이런 사운드트랙이라면 평생 끄고 싶지 않을 겁니다.","url":"","image":{"path":"sc/news/NG_Rat_Rod_ON/262272_Ratrod.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rat_Rod_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477945429,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "디클라스 토네이도 랫 로드",
+    "content": "랫 로드가 이번 주에 시내에 등장합니다. 그 말은, 이제 여러분은 로스 산토스 거리에서 두 가지 소리만 듣게 된다는 뜻이죠. 하나는, 외부 노출형 엔진의 폐를 꿰뚫는 굉음이며, 또 하나는 반경 10킬로미터 안에 있는 모든 환경 운동가들이 시위하는 소리입니다. 이런 사운드트랙이라면 평생 끄고 싶지 않을 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rat_Rod_ON/262272_Ratrod.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rat_Rod_ON/.dds",
+        "filesize": 2048
+    }
+}

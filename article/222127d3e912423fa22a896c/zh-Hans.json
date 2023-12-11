@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736470,"title":"","headline":"GTAµ在线模式","subtitle":"加入俱乐部","content":"好麦坞俱乐部是洛圣都最热门的会员制俱乐部，为µGTA+µ会员提供专享福利。<br /><br />如果您在寻找国际精英，那您就找对了。立即加入即可进入新开业的好麦坞车友俱乐部，会员可以在这里借用不断更换的一系列高端豪华载具，和以折扣价购买。您还可以查看免费的µGTA+µ载具，并直接从好麦坞车友俱乐部领取。<br /><br />前往在港口区的全新展厅以了解更多详情。<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736470,
+    "title": "",
+    "headline": "GTAµ在线模式",
+    "subtitle": "加入俱乐部",
+    "content": "好麦坞俱乐部是洛圣都最热门的会员制俱乐部，为µGTA+µ会员提供专享福利。<br /><br />如果您在寻找国际精英，那您就找对了。立即加入即可进入新开业的好麦坞车友俱乐部，会员可以在这里借用不断更换的一系列高端豪华载具，和以折扣价购买。您还可以查看免费的µGTA+µ载具，并直接从好麦坞车友俱乐部领取。<br /><br />前往在港口区的全新展厅以了解更多详情。<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

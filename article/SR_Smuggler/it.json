@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999999,"title":"","headline":"GTA Online","subtitle":"Contrabbandiere","content":"Chi ha detto che l'unico limite è il cielo? È ora di espandere il tuo impero criminale nell'unica direzione rimasta inesplorata: verso l'alto. <br /><br />Gestisci i tuoi traffici di contrabbando da enormi hangar personalizzabili, crea la tua flotta di velivoli personalizzati, spicca il volo e non tornare a terra finché ogni centimetro cubo dello spazio aereo sopra Los Santos non sarà sotto il controllo di un'impresa di trasporti aerei esentasse.","url":"","image":{"path":"sc/news/SR_Smuggler/349672_gtao-sr-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999999,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Contrabbandiere",
+    "content": "Chi ha detto che l'unico limite è il cielo? È ora di espandere il tuo impero criminale nell'unica direzione rimasta inesplorata: verso l'alto. <br /><br />Gestisci i tuoi traffici di contrabbando da enormi hangar personalizzabili, crea la tua flotta di velivoli personalizzati, spicca il volo e non tornare a terra finché ogni centimetro cubo dello spazio aereo sopra Los Santos non sarà sotto il controllo di un'impresa di trasporti aerei esentasse.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Smuggler/349672_gtao-sr-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1386691810,"headline":"GTA Online","subtitle":"Вышла бета-версия редактора «перестрелок» и гонок","content":"Последнее бесплатное обновление GTA Online содержит бета-версию редактора «перестрелок» и гонок<br /><br />Создавайте свои собственные кровавые перестрелки, адреналиновые гонки и многое другое – а затем выкладывайте их на сайте Rockstar Games Social Club, чтобы все сообщество узнало о них, поиграло в них и оценило вашу работу.<br /><br />Редактор «перестрелок» и гонок находится в разделе «Сеть» главного меню GTA Online.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds","filesize":131200},"landscape":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds","filesize":131200}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1386691810,
+    "headline": "GTA Online",
+    "subtitle": "Вышла бета-версия редактора «перестрелок» и гонок",
+    "content": "Последнее бесплатное обновление GTA Online содержит бета-версию редактора «перестрелок» и гонок<br /><br />Создавайте свои собственные кровавые перестрелки, адреналиновые гонки и многое другое – а затем выкладывайте их на сайте Rockstar Games Social Club, чтобы все сообщество узнало о них, поиграло в них и оценило вашу работу.<br /><br />Редактор «перестрелок» и гонок находится в разделе «Сеть» главного меню GTA Online.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds",
+        "filesize": 131200
+    },
+    "landscape": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds",
+        "filesize": 131200
+    }
+}

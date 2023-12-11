@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442257610,"title":"","headline":"GTA Online","subtitle":"Nuevos modos Adversario","content":"Si los nuevos eventos de modo Libre no han saciado tus ansias de destrucción, prueba estos dos nuevos modos Adversario que desbloquearás al llegar al nivel 12:<br /><br />- Cruza la línea: consigue que todo tu equipo cruce la línea enemiga a la vez y obtenga la victoria.<br /><br />- Jauría de caza: un vehículo con explosivos recorre la ciudad a toda prisa. Un equipo lo controlará y el resto tendrá que detenerlo. Si el vehículo pierde demasiada velocidad, las consecuencias serán terribles.","url":"","image":{"path":"sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free-New-Adversary-Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442257610,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuevos modos Adversario",
+    "content": "Si los nuevos eventos de modo Libre no han saciado tus ansias de destrucción, prueba estos dos nuevos modos Adversario que desbloquearás al llegar al nivel 12:<br /><br />- Cruza la línea: consigue que todo tu equipo cruce la línea enemiga a la vez y obtenga la victoria.<br /><br />- Jauría de caza: un vehículo con explosivos recorre la ciudad a toda prisa. Un equipo lo controlará y el resto tendrá que detenerlo. Si el vehículo pierde demasiada velocidad, las consecuencias serán terribles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/.dds",
+        "filesize": 2048
+    }
+}

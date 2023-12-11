@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976513,"title":"","headline":"GTA Online","subtitle":"New Tactical Gear available","content":"Ammu-Nation is now stocking the latest lines in tactical gear - including Flare Guns, Ear Pieces and more.<br /><br />A vast selection of new outfit options have also been added. Co-ordinate with your teammates or stand out from the crowd. There is something for everyone (assuming you like armed robbery) ","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Tactical_Gear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976513,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "New Tactical Gear available",
+    "content": "Ammu-Nation is now stocking the latest lines in tactical gear - including Flare Guns, Ear Pieces and more.<br /><br />A vast selection of new outfit options have also been added. Co-ordinate with your teammates or stand out from the crowd. There is something for everyone (assuming you like armed robbery) ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/.dds",
+        "filesize": 2048
+    }
+}

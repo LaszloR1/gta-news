@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1651166693,"title":"","headline":"GTA Online","subtitle":"Descuentos en negocios","content":"Aprovecha las ofertas especiales de esta semana, como el 30% de descuento en oficinas de ejecutivo, búnkeres, clubes nocturnos, todos los negocios del club de moteros y el Benefactor Terrorbyte.","url":"","image":{"path":"sc/news/7c9e7ac9b5824f46a1b76cf5/349672_NG_Exec_Office.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1651166693,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos en negocios",
+    "content": "Aprovecha las ofertas especiales de esta semana, como el 30% de descuento en oficinas de ejecutivo, búnkeres, clubes nocturnos, todos los negocios del club de moteros y el Benefactor Terrorbyte.",
+    "url": "",
+    "image": {
+        "path": "sc/news/7c9e7ac9b5824f46a1b76cf5/349672_NG_Exec_Office.dds",
+        "filesize": 349672
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980695,"title":"","headline":"GTA Online","subtitle":"完成任務的犯罪大師","content":"每個搶劫任務最終階段，都有一個需要完成特定條件的「精英挑戰」，這種挑戰的設計，只有最優秀的搶劫任務成員才能達成。<br /><br />這種挑戰講求的不只是速度，您還必須完成所有指定目標才能贏得獎勵。團隊合作才是成功的關鍵。<br /><br />如果您的隊員本事夠，那您就有機會幫自己多賺一點額外的好康。記得隨時注意搶劫任務成果畫面，看看自己的表現如何。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980695,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "完成任務的犯罪大師",
+    "content": "每個搶劫任務最終階段，都有一個需要完成特定條件的「精英挑戰」，這種挑戰的設計，只有最優秀的搶劫任務成員才能達成。<br /><br />這種挑戰講求的不只是速度，您還必須完成所有指定目標才能贏得獎勵。團隊合作才是成功的關鍵。<br /><br />如果您的隊員本事夠，那您就有機會幫自己多賺一點額外的好康。記得隨時注意搶劫任務成果畫面，看看自己的表現如何。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

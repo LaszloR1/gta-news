@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736471,"title":"","headline":"GTA Online","subtitle":"WYSOKIE LOTY","content":"Szykuj się na uderzenie! Do Los Santos już za moment zawita nowiutki asortyment pojazdów lądowych i statków powietrznych. Od militarnej zagłady w Warstock do wykrzywiającej twarz prędkości w Legendary Motorsport – odwiedź te strony i zobacz nowe bestsellery.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "WYSOKIE LOTY",
+    "content": "Szykuj się na uderzenie! Do Los Santos już za moment zawita nowiutki asortyment pojazdów lądowych i statków powietrznych. Od militarnej zagłady w Warstock do wykrzywiającej twarz prędkości w Legendary Motorsport – odwiedź te strony i zobacz nowe bestsellery.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

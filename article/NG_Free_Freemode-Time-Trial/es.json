@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314471,"title":"","headline":"GTA Online","subtitle":"Contrarreloj en el modo Libre","content":"Cada semana habrá un nuevo desafío contrarreloj punto a punto. Participa con un vehículo adecuado para activar un punto de control al que hay que llegar a la máxima velocidad posible. Supera el tiempo medio de Rockstar para recibir la recompensa por victoria... y luego sigue empleándote a fondo para batir tu mejor tiempo hasta que esté disponible una nueva contrarreloj.","url":"","image":{"path":"sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Freemode-Time-Trial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Contrarreloj en el modo Libre",
+    "content": "Cada semana habrá un nuevo desafío contrarreloj punto a punto. Participa con un vehículo adecuado para activar un punto de control al que hay que llegar a la máxima velocidad posible. Supera el tiempo medio de Rockstar para recibir la recompensa por victoria... y luego sigue empleándote a fondo para batir tu mejor tiempo hasta que esté disponible una nueva contrarreloj.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/.dds",
+        "filesize": 2048
+    }
+}

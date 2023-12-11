@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475767265,"title":"","headline":"GTA Online","subtitle":"Bikers-Snapmatic-Wettbewerb","content":"Mach dich bereit, deine beste Aufnahme für unseren #BIKERS-Snapmatic-Wettbewerb einzureichen. Gesucht werden die fünf besten Snapmatics, die neue Features aus GTA Online: Bikers zeigen – Fahrzeuge, Clubhäuser oder Unternehmen – ganz egal.<br /><br />Die fünf Gewinner werden im Rockstar Newswire präsentiert und erhalten 1.000.000µGTA$. Alle Beiträge müssen bis Montag, den 10.µOktober eingereicht und im Social Club mit #BIKERS markiert werden.<br /><br />Die offiziellen Teilnahmebedingungen gibt's im Social Club.","url":"","image":{"path":"sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Snapmatic/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475767265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bikers-Snapmatic-Wettbewerb",
+    "content": "Mach dich bereit, deine beste Aufnahme für unseren #BIKERS-Snapmatic-Wettbewerb einzureichen. Gesucht werden die fünf besten Snapmatics, die neue Features aus GTA Online: Bikers zeigen – Fahrzeuge, Clubhäuser oder Unternehmen – ganz egal.<br /><br />Die fünf Gewinner werden im Rockstar Newswire präsentiert und erhalten 1.000.000µGTA$. Alle Beiträge müssen bis Montag, den 10.µOktober eingereicht und im Social Club mit #BIKERS markiert werden.<br /><br />Die offiziellen Teilnahmebedingungen gibt's im Social Club.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Snapmatic/.dds",
+        "filesize": 2048
+    }
+}

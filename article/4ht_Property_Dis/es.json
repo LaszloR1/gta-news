@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533662121,"title":"","headline":"GTA Online","subtitle":"Descuentos en propiedades y negocios","content":"Aunque la oficina principal del club nocturno haga las veces de sede para todas tus operaciones de consolidación del negocio, aún tienes tiempo de ampliar tu red criminal con un descuento del 25 % en algunos complementos, propiedades y renovaciones:<br /><br />- Oficinas de ejecutivo, garajes y renovaciones<br />- Almacenes de mercancía especial<br />- Negocios de moteros<br />- Hangares y taller de hangar<br /><br />¡Y más! Echa un vistazo al boletín de noticias de Rockstar para más información.","url":"","image":{"path":"sc/news/4ht_Property_Dis/349672_NG_FAFF_Date_Announce.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533662121,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos en propiedades y negocios",
+    "content": "Aunque la oficina principal del club nocturno haga las veces de sede para todas tus operaciones de consolidación del negocio, aún tienes tiempo de ampliar tu red criminal con un descuento del 25 % en algunos complementos, propiedades y renovaciones:<br /><br />- Oficinas de ejecutivo, garajes y renovaciones<br />- Almacenes de mercancía especial<br />- Negocios de moteros<br />- Hangares y taller de hangar<br /><br />¡Y más! Echa un vistazo al boletín de noticias de Rockstar para más información.",
+    "url": "",
+    "image": {
+        "path": "sc/news/4ht_Property_Dis/349672_NG_FAFF_Date_Announce.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

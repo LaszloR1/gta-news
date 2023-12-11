@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504113891,"title":"","headline":"GTA Online","subtitle":"Promotions sur des véhicules armés et plus","content":"Foncez à toute vitesse à travers la ville à bord d'une sélection éclectique de machines imposantes disponibles à -25 % jusqu'au 4 septembre :<br /><br />- La remorque antiaérienne<br />- Le pick-up armé Karin<br />- Le pick-up HVY Insurgent<br />- Le Boxville blindé<br />- Le BF Raptor<br /><br />Consultez le Rockstar Newswire pour en savoir plus.","url":"","image":{"path":"sc/news/SR_Bonuses_Discounts/349672_insurgent-512x1024.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504113891,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promotions sur des véhicules armés et plus",
+    "content": "Foncez à toute vitesse à travers la ville à bord d'une sélection éclectique de machines imposantes disponibles à -25 % jusqu'au 4 septembre :<br /><br />- La remorque antiaérienne<br />- Le pick-up armé Karin<br />- Le pick-up HVY Insurgent<br />- Le Boxville blindé<br />- Le BF Raptor<br /><br />Consultez le Rockstar Newswire pour en savoir plus.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Bonuses_Discounts/349672_insurgent-512x1024.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

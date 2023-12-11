@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980265,"title":"","headline":"GTA Online","subtitle":"Daily Objectives ","content":"Look out for three random Daily Objectives in the GTA Online Interaction Menu and complete them to earn GTA$ and RP.<br /><br />You can score even larger GTA$ and RP rewards for completing all Daily Objectives over consecutive days. Complete them every day for a week or month to earn big cash and RP bonuses.<br /><br />Daily Objectives unlock at Rank 15. <br />","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Daily_Objectives/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Daily Objectives ",
+    "content": "Look out for three random Daily Objectives in the GTA Online Interaction Menu and complete them to earn GTA$ and RP.<br /><br />You can score even larger GTA$ and RP rewards for completing all Daily Objectives over consecutive days. Complete them every day for a week or month to earn big cash and RP bonuses.<br /><br />Daily Objectives unlock at Rank 15. <br />",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/.dds",
+        "filesize": 2048
+    }
+}

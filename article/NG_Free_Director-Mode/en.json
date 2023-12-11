@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314859,"title":"","headline":"GTA Online","subtitle":"Director Mode","content":"The Rockstar Editor features Director Mode, offering a range of tools to help you create truly unique videos.<br /><br />Before recording your gameplay, launch Director Mode to choose from a huge cast of Story Mode characters and animals, define variables such as the weather, time of day, location, and even apply cheats such as explosive punches.<br /><br />Find Director Mode in the Rockstar Editor tab of the Pause Menu.","url":"","image":{"path":"sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Director-Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314859,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Director Mode",
+    "content": "The Rockstar Editor features Director Mode, offering a range of tools to help you create truly unique videos.<br /><br />Before recording your gameplay, launch Director Mode to choose from a huge cast of Story Mode characters and animals, define variables such as the weather, time of day, location, and even apply cheats such as explosive punches.<br /><br />Find Director Mode in the Rockstar Editor tab of the Pause Menu.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Director-Mode/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394809163,"headline":"Astuce en ligne","subtitle":"Ajoutez de nouveaux véhicules à vos courses !","content":"Quand de nouveaux véhicules sont introduits dans GTA Online, ils ne sont pas automatiquement ajoutés aux courses que vous avez déjà créées.~n~~n~Vous pouvez cependant modifier et republier ces courses facilement pour qu'elles les incluent via le menu Véhicules disponibles de l'éditeur. Ouvrez le menu et appuyez sur ~INPUT_FRONTEND_X~ pour modifier une classe sélectionnée. Vous pourrez ainsi préciser quels véhicules sont autorisés et ajouter les nouveautés éventuelles au lot.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809163,
+    "headline": "Astuce en ligne",
+    "subtitle": "Ajoutez de nouveaux véhicules à vos courses !",
+    "content": "Quand de nouveaux véhicules sont introduits dans GTA Online, ils ne sont pas automatiquement ajoutés aux courses que vous avez déjà créées.~n~~n~Vous pouvez cependant modifier et republier ces courses facilement pour qu'elles les incluent via le menu Véhicules disponibles de l'éditeur. Ouvrez le menu et appuyez sur ~INPUT_FRONTEND_X~ pour modifier une classe sélectionnée. Vous pourrez ainsi préciser quels véhicules sont autorisés et ajouter les nouveautés éventuelles au lot.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds",
+        "filesize": 65664
+    }
+}

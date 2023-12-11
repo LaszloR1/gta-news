@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224412,"title":"","headline":"GTA Online","subtitle":"Blocco visuale","content":"Se vuoi, ora puoi impostare l'attività in modo che tutti utilizzino lo stesso tipo di visuale.<br /><br />Per farlo, nella sala d'attesa imposta l'opzione Blocco visuale selezionando la prima persona, la terza persona o entrambe. Gli altri dovranno adeguarsi alla tua preferenza!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224412,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Blocco visuale",
+    "content": "Se vuoi, ora puoi impostare l'attività in modo che tutti utilizzino lo stesso tipo di visuale.<br /><br />Per farlo, nella sala d'attesa imposta l'opzione Blocco visuale selezionando la prima persona, la terza persona o entrambe. Gli altri dovranno adeguarsi alla tua preferenza!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

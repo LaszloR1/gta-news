@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1474282375,"title":"","headline":"GTA Online","subtitle":"GTA Online: Motoqueiros chegando no dia 4 de outubro","content":"Motoqueiros, a próxima grande adição ao GTA Online, traz a habilidade de formar e liderar seu próprio Motoclube com até 8 jogadores. Motoqueiros traz novos papéis a serem representados, de Novatos a Presidentes, com jogabilidade cooperativa e competitiva nova, além de novas motos, propriedades que incluem Sedes para Motoclubes com uma oficina personalizada e locais para empreendimentos corruptos.<br /><br />Fique de olho em http://www.rockstargames.com/V/pt_br/news/ para mais detalhes.","url":"","image":{"path":"sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Biker_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1474282375,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Motoqueiros chegando no dia 4 de outubro",
+    "content": "Motoqueiros, a próxima grande adição ao GTA Online, traz a habilidade de formar e liderar seu próprio Motoclube com até 8 jogadores. Motoqueiros traz novos papéis a serem representados, de Novatos a Presidentes, com jogabilidade cooperativa e competitiva nova, além de novas motos, propriedades que incluem Sedes para Motoclubes com uma oficina personalizada e locais para empreendimentos corruptos.<br /><br />Fique de olho em http://www.rockstargames.com/V/pt_br/news/ para mais detalhes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Biker_Announcement/.dds",
+        "filesize": 2048
+    }
+}

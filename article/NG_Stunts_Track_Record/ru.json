@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324900,"title":"","headline":"GTA Online","subtitle":"Жизненные успехи","content":"В GTA Online наступила новая эпоха – эпоха каскадерских трюков, – и если вы не хотите отстать от прогресса, желательно приобрести транспорт с мощным движком. К счастью для вас, в игре появилось 10 новых машин на любой вкус, от авангардной RE-7B до нарочито брутальной Vapid Trophy Truck, так что какой бы безумный трюк вы ни задумали, с поиском авто проблем не возникнет.","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Жизненные успехи",
+    "content": "В GTA Online наступила новая эпоха – эпоха каскадерских трюков, – и если вы не хотите отстать от прогресса, желательно приобрести транспорт с мощным движком. К счастью для вас, в игре появилось 10 новых машин на любой вкус, от авангардной RE-7B до нарочито брутальной Vapid Trophy Truck, так что какой бы безумный трюк вы ни задумали, с поиском авто проблем не возникнет.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

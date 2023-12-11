@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"Esprimi la tua personalità","content":"È ora di aggiornare il guardaroba per presentarsi al prossimo raduno automobilistico con un look rinnovato. Lasciati ispirare da tutti i nuovi abiti e i nuovi accessori a disposizione, dallo stile lowrider agli abiti da lavoro. Inoltre, presso gli studi di tatuaggi di tutta Los Santos sono disponibili nuovi disegni, così come sarà possibile sperimentare nuove acconciature presso i barbieri e i parrucchieri della città.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Esprimi la tua personalità",
+    "content": "È ora di aggiornare il guardaroba per presentarsi al prossimo raduno automobilistico con un look rinnovato. Lasciati ispirare da tutti i nuovi abiti e i nuovi accessori a disposizione, dallo stile lowrider agli abiti da lavoro. Inoltre, presso gli studi di tatuaggi di tutta Los Santos sono disponibili nuovi disegni, così come sarà possibile sperimentare nuove acconciature presso i barbieri e i parrucchieri della città.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

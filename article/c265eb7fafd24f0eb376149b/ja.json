@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973242,"title":"ロスサントス・ドラッグウォーズ","headline":"ロスサントス・ドラッグウォーズ","subtitle":"ジェロの隠しアイテム","content":"ジェロの隠しアイテムがマップ上に表示されます。毎日これを探し、役に立つアイテムを手に入れましょう。<br /><br />近づくにつれ、赤く点滅する光と発信音を確認できます。敵を排除して、GTAマネー、弾薬、スナックを手に入れましょう。<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds","filesize":524416},"button":"フリーモードでジェロの隠しアイテムを見つける"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973242,
+    "title": "ロスサントス・ドラッグウォーズ",
+    "headline": "ロスサントス・ドラッグウォーズ",
+    "subtitle": "ジェロの隠しアイテム",
+    "content": "ジェロの隠しアイテムがマップ上に表示されます。毎日これを探し、役に立つアイテムを手に入れましょう。<br /><br />近づくにつれ、赤く点滅する光と発信音を確認できます。敵を排除して、GTAマネー、弾薬、スナックを手に入れましょう。<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds",
+        "filesize": 524416
+    },
+    "button": "フリーモードでジェロの隠しアイテムを見つける"
+}

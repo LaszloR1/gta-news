@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"ПЕРВЫЕ ШАГИ","content":"Ответьте на звонок Чарли Рида и присоединитесь к наемникам Los Santos Angels. Для запуска новых заданий из категории «Операции LSA» вам понадобятся Mammoth Avenger и командный терминал. Если у вас нет Avenger, купите его на сайте Warstock Cache & Carry и получите доступ к проекту «Переворот» и «Операциям LSA».<br /><br />Новые возможности будут также у контрабандистов: чтобы их просмотреть, отправляйтесь в ангар и откройте приложение Free Trade Shipping Co. Купить ангар можно в Maze Bank Foreclosures. ","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ПЕРВЫЕ ШАГИ",
+    "content": "Ответьте на звонок Чарли Рида и присоединитесь к наемникам Los Santos Angels. Для запуска новых заданий из категории «Операции LSA» вам понадобятся Mammoth Avenger и командный терминал. Если у вас нет Avenger, купите его на сайте Warstock Cache & Carry и получите доступ к проекту «Переворот» и «Операциям LSA».<br /><br />Новые возможности будут также у контрабандистов: чтобы их просмотреть, отправляйтесь в ангар и откройте приложение Free Trade Shipping Co. Купить ангар можно в Maze Bank Foreclosures. ",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

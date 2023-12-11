@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294201,"title":"","headline":"GTA Online","subtitle":"新たなボスのジョブ","content":"ボスとボディーガードの違法資金源が、新たに3つ加わります：<br /><br />-µヘッドハンター：時間内にマップ上の重要ターゲットを暗殺する<br />-µ空の輸送：武装した護衛から貴重な貨物を回収し、安全な場所まで空輸する<br />-µ運送業：非課税品が大量に積まれたトレーラーを、正当でない持ち主にいち早く届ける<br /><br />ボスとしてプレイしている場合、アクションメニューの「ボスのジョブ」から開始できます。","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Work/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294201,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新たなボスのジョブ",
+    "content": "ボスとボディーガードの違法資金源が、新たに3つ加わります：<br /><br />-µヘッドハンター：時間内にマップ上の重要ターゲットを暗殺する<br />-µ空の輸送：武装した護衛から貴重な貨物を回収し、安全な場所まで空輸する<br />-µ運送業：非課税品が大量に積まれたトレーラーを、正当でない持ち主にいち早く届ける<br /><br />ボスとしてプレイしている場合、アクションメニューの「ボスのジョブ」から開始できます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/.dds",
+        "filesize": 2048
+    }
+}

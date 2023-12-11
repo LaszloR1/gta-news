@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453797,"title":"","headline":"GTA Online","subtitle":"Chutes de neige","content":"Gardez un œil levé vers le ciel, car la météo annonce de la neige pour les fêtes de fin d'année à San Andreas.~n~~n~Profitez-en pour faire des batailles de boules de neige, en en façonnant et en lançant à votre bon vouloir.~n~~n~Appuyez sur ~INPUT_DETONATE~ pour ramasser des boules de neige, puis visez et lancez-les comme n'importe quel autre projectile.<br /><br />De plus, préparez-vous au passage du Père Noël aujourd'hui, qui vous apportera de quoi célébrer cette période festive de façon explosive.","url":"","image":{"path":"sc/news/NG_Let_it_Snow_15/349672_Festive_Suprise_2016.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Let_it_Snow_15/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453797,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Chutes de neige",
+    "content": "Gardez un œil levé vers le ciel, car la météo annonce de la neige pour les fêtes de fin d'année à San Andreas.~n~~n~Profitez-en pour faire des batailles de boules de neige, en en façonnant et en lançant à votre bon vouloir.~n~~n~Appuyez sur ~INPUT_DETONATE~ pour ramasser des boules de neige, puis visez et lancez-les comme n'importe quel autre projectile.<br /><br />De plus, préparez-vous au passage du Père Noël aujourd'hui, qui vous apportera de quoi célébrer cette période festive de façon explosive.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Let_it_Snow_15/349672_Festive_Suprise_2016.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Let_it_Snow_15/.dds",
+        "filesize": 2048
+    }
+}

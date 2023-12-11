@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466874,"title":"","headline":"GTA Online","subtitle":"Halloween en GTAO desde ahora hasta el 6 de noviembre","content":"Es Halloween en Los Santos, y eso significa que es hora de infundir terror en el barrio mientras aprovechas las ventajas de una retahíla de bonificaciones escalofriantes y descuentos letales.<br /><br />Consigue un 25 % de descuento en todo el contenido de Halloween, incluyendo máscaras, pintura facial, el Fränken Stange, el Lurcher y la demoníaca LCC Sanctus, así como el Duke O'Death.<br /><br />Consulta el Rockstar Newswire para conocer todos los detalles.","url":"","image":{"path":"sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466874,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Halloween en GTAO desde ahora hasta el 6 de noviembre",
+    "content": "Es Halloween en Los Santos, y eso significa que es hora de infundir terror en el barrio mientras aprovechas las ventajas de una retahíla de bonificaciones escalofriantes y descuentos letales.<br /><br />Consigue un 25 % de descuento en todo el contenido de Halloween, incluyendo máscaras, pintura facial, el Fränken Stange, el Lurcher y la demoníaca LCC Sanctus, así como el Duke O'Death.<br /><br />Consulta el Rockstar Newswire para conocer todos los detalles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

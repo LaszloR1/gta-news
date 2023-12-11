@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452581,"title":"","headline":"GTA Online","subtitle":"Krok po kroku","content":"W nowym trybie adwersarza trzeba wykazać się nie lada zwinnością. Dwie drużyny walczą o przejęcie paczki i dostarczenie jej za linię wroga. Gdy gracz niesie paczkę, nie może korzystać z broni, więc trzeba polegać na towarzyszach, jeśli chce się zdobyć punkty. Gdy ktoś nie wytrzyma presji, może zawsze upuścić paczkę, aby przejął ją ktoś inny. Zwycięża drużyna z najlepszym wynikiem.","url":"","image":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Krok po kroku",
+    "content": "W nowym trybie adwersarza trzeba wykazać się nie lada zwinnością. Dwie drużyny walczą o przejęcie paczki i dostarczenie jej za linię wroga. Gdy gracz niesie paczkę, nie może korzystać z broni, więc trzeba polegać na towarzyszach, jeśli chce się zdobyć punkty. Gdy ktoś nie wytrzyma presji, może zawsze upuścić paczkę, aby przejął ją ktoś inny. Zwycięża drużyna z najlepszym wynikiem.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991138,"headline":"Consejo en línea","subtitle":"¿No sabes que estoy muy loco?","content":"Con la nueva estadística de estado mental, llevaremos un control de tu comportamiento. Si pareces divertirte atacando a peatones y molestando a otros jugadores, tu icono empezará a parpadear en rojo en los mapas de otros jugadores. Cuanto más rojo sea el icono, más psicótico será el jugador y, cuanto más blanco, más amistoso.<br /><br />En modo Libre, te unirás automáticamente a sesiones con gente 'compatible' con tu estilo de juego y, si un loco con icono rojo entra en tu sesión, ¡estarás avisado!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991138,
+    "headline": "Consejo en línea",
+    "subtitle": "¿No sabes que estoy muy loco?",
+    "content": "Con la nueva estadística de estado mental, llevaremos un control de tu comportamiento. Si pareces divertirte atacando a peatones y molestando a otros jugadores, tu icono empezará a parpadear en rojo en los mapas de otros jugadores. Cuanto más rojo sea el icono, más psicótico será el jugador y, cuanto más blanco, más amistoso.<br /><br />En modo Libre, te unirás automáticamente a sesiones con gente 'compatible' con tu estilo de juego y, si un loco con icono rojo entra en tu sesión, ¡estarás avisado!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds",
+        "filesize": 65664
+    }
+}

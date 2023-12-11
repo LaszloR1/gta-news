@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324934,"title":"","headline":"GTA Online","subtitle":"Stunt Series","content":"Time is precious, especially in Los Santos, so here’s a way to get fast access to brand new Stunt Races packed with crazed adrenaline junkies just like you. Look out for the pink Stunt Series blips on your radar: enter one to get taken straight to the heart of the mayhem.","url":"","image":{"path":"sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Stunt_Series/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324934,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stunt Series",
+    "content": "Time is precious, especially in Los Santos, so here’s a way to get fast access to brand new Stunt Races packed with crazed adrenaline junkies just like you. Look out for the pink Stunt Series blips on your radar: enter one to get taken straight to the heart of the mayhem.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/.dds",
+        "filesize": 2048
+    }
+}

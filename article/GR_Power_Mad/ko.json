@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1500974811,"title":"","headline":"GTA Online","subtitle":"파워 매드","content":"치열한 생존 경쟁은 날이 갈수록 힘들어지고, 여러분의 팀이 게임에서 앞서 나가려면 특별 장비가 있어야 합니다. 파워 매드에서는 최대 4개의 팀이 파워업을 점령하고 확보하기 위해 경쟁합니다. 간단한 것처럼 들리나요? 그럼 파워업을 확보한 쪽이 무지막지한 저거너트로 변신한다면 어떨까요? 동기부여로는 제격이죠?","url":"","image":{"path":"sc/news/GR_Power_Mad/262272_PowerMad.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1500974811,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "파워 매드",
+    "content": "치열한 생존 경쟁은 날이 갈수록 힘들어지고, 여러분의 팀이 게임에서 앞서 나가려면 특별 장비가 있어야 합니다. 파워 매드에서는 최대 4개의 팀이 파워업을 점령하고 확보하기 위해 경쟁합니다. 간단한 것처럼 들리나요? 그럼 파워업을 확보한 쪽이 무지막지한 저거너트로 변신한다면 어떨까요? 동기부여로는 제격이죠?",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Power_Mad/262272_PowerMad.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044034,"title":"","headline":"GTA Online","subtitle":"Jetzt bei Benny’s: drei neue Autos und Upgrades","content":"Erweitere deine Lowrider-Sammlung mit den neuen Autos von Benny’s Original Motor Works. Mit dem Vapid Slamvan und dem brandneuen Dundreary Virgo Classic erwarten dich zwei modifizierbare Muscle-Cars. Und als wäre das nicht genug, hat Benny eines seiner Lieblingsmodelle überarbeitet: Den Faction gibt es jetzt in einer neuen modifizierbaren Variante, mit der du aus deinem eigenen Custom Donk auf die Einwohner von Los Santos herabschauen kannst.","url":"","image":{"path":"sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Now_At_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044034,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Jetzt bei Benny’s: drei neue Autos und Upgrades",
+    "content": "Erweitere deine Lowrider-Sammlung mit den neuen Autos von Benny’s Original Motor Works. Mit dem Vapid Slamvan und dem brandneuen Dundreary Virgo Classic erwarten dich zwei modifizierbare Muscle-Cars. Und als wäre das nicht genug, hat Benny eines seiner Lieblingsmodelle überarbeitet: Den Faction gibt es jetzt in einer neuen modifizierbaren Variante, mit der du aus deinem eigenen Custom Donk auf die Einwohner von Los Santos herabschauen kannst.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/.dds",
+        "filesize": 2048
+    }
+}

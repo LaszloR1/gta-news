@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314079,"title":"","headline":"GTA Online","subtitle":"フリーモードイベント","content":"ロスサントスを移動中に、新しい紫色のアイコンが出たら、それは新たに追加されたフリーモードイベントの通知です。<br />イベントは、素早い配送が必要となる「ホットターゲット」、エリアをかけて戦う「キングオブザキャッスル」、メリーウェザーの勢力と戦うために特定の乗り物を使う「キル・リスト」など様々です。アイコンに近づくとイベントに参加できます。","url":"","image":{"path":"sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Events/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314079,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "フリーモードイベント",
+    "content": "ロスサントスを移動中に、新しい紫色のアイコンが出たら、それは新たに追加されたフリーモードイベントの通知です。<br />イベントは、素早い配送が必要となる「ホットターゲット」、エリアをかけて戦う「キングオブザキャッスル」、メリーウェザーの勢力と戦うために特定の乗り物を使う「キル・リスト」など様々です。アイコンに近づくとイベントに参加できます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Events/.dds",
+        "filesize": 2048
+    }
+}

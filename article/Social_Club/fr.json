@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571726,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"Le Social Club offre de nombreuses fonctionnalités liées au jeu, dont :<br /><br />Photographie - Partagez vos exploits, votre nouvelle coupe ou votre ego surdimensionné avec le monde. Les photos prises avec le téléphone du jeu sont publiées instantanément sur le site.<br />News - Retrouvez toute l'actualité du Social Club.<br />Auto-évaluation - Suivez vos stats et comparez-les avec le reste du monde dans les classements.","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571726,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "Le Social Club offre de nombreuses fonctionnalités liées au jeu, dont :<br /><br />Photographie - Partagez vos exploits, votre nouvelle coupe ou votre ego surdimensionné avec le monde. Les photos prises avec le téléphone du jeu sont publiées instantanément sur le site.<br />News - Retrouvez toute l'actualité du Social Club.<br />Auto-évaluation - Suivez vos stats et comparez-les avec le reste du monde dans les classements.",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

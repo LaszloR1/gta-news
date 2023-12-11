@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380560620,"headline":"Newswire","subtitle":"GTA 온라인에 오신 것을 환영합니다","content":"Grand Theft Auto 온라인은 Grand Theft Auto의 원칙인 임무 기반 게임 플레이와 폭넓은 보조 활동의 자유를 핵심 요소로 삼고 있습니다. 이 요소들을 정밀하게 움직이며 반응하는 온라인 세상에서 멀티 플레이로 즐기십시오.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds","filesize":65664},"landscape":{"path":"sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380560620,
+    "headline": "Newswire",
+    "subtitle": "GTA 온라인에 오신 것을 환영합니다",
+    "content": "Grand Theft Auto 온라인은 Grand Theft Auto의 원칙인 임무 기반 게임 플레이와 폭넓은 보조 활동의 자유를 핵심 요소로 삼고 있습니다. 이 요소들을 정밀하게 움직이며 반응하는 온라인 세상에서 멀티 플레이로 즐기십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds",
+        "filesize": 65664
+    }
+}

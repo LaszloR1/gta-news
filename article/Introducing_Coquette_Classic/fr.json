@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408451843,"headline":"Mise à jour GTA Online","subtitle":"Nouveau véhicule - Invetero Coquette classique","content":"Quand on pilote un chasseur toute la semaine, il faut un bolide pour se faire plaisir le week-end ! Les lignes extrêmes de la Coquette classique vous feront regretter le moindre choc. Mais avec son moteur surpuissant et sa maniabilité médiocre, vos regrets seront de courte durée.<br /><br />Testez cet engin dans les courses suivantes :<br />- ''Sous les ailes''<br />- ''On se tire labours''<br />- ''Piste de dragsters''<br /><br />Les modèles classique et décapotable sont disponibles à l'achat sur le site Legendarymotorsport.net.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Coquette_Classic/65664_CoquetteClassic.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408451843,
+    "headline": "Mise à jour GTA Online",
+    "subtitle": "Nouveau véhicule - Invetero Coquette classique",
+    "content": "Quand on pilote un chasseur toute la semaine, il faut un bolide pour se faire plaisir le week-end ! Les lignes extrêmes de la Coquette classique vous feront regretter le moindre choc. Mais avec son moteur surpuissant et sa maniabilité médiocre, vos regrets seront de courte durée.<br /><br />Testez cet engin dans les courses suivantes :<br />- ''Sous les ailes''<br />- ''On se tire labours''<br />- ''Piste de dragsters''<br /><br />Les modèles classique et décapotable sont disponibles à l'achat sur le site Legendarymotorsport.net.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Coquette_Classic/65664_CoquetteClassic.dds",
+        "filesize": 65664
+    }
+}

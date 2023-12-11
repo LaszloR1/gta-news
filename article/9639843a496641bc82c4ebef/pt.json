@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1698945066,"title":"GTA+","headline":"GTA+","subtitle":"40% de desconto em todas as armas alienígenas","content":"Membros do GTA+ podem aproveitar descontos exclusivos de 40% em Up-n-Atomizador, Arauto Infernal e Destruidora de Lares na Van de Arsenal.<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9639843a496641bc82c4ebef/262272_GTAO_Plus_MP19_AlienWeaponry_FINAL_BigFeed_pt_br.dds","filesize":262272},"button":"Selecione para se afiliar ao GTA+."}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1698945066,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "40% de desconto em todas as armas alienígenas",
+    "content": "Membros do GTA+ podem aproveitar descontos exclusivos de 40% em Up-n-Atomizador, Arauto Infernal e Destruidora de Lares na Van de Arsenal.<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9639843a496641bc82c4ebef/262272_GTAO_Plus_MP19_AlienWeaponry_FINAL_BigFeed_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se afiliar ao GTA+."
+}

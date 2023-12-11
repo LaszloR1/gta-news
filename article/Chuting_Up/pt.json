@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1408452487,"title":"","headline":"Atualização do GTA Online","subtitle":"Paraquedando","content":"Leve o paraquedismo até o próximo nível comprando um paraquedas reserva em qualquer Ammu-nation, que agora também apresenta uma gama de diferentes parafolios, fumaças e estilos de mochilas.~n~~n~Corte o seu paraquedas principal pressionando ~INPUT_FRONTEND_Y~ e, uma vez em queda livre, pressione ~INPUT_FRONTEND_ACCEPT~ novamente para acionar o seu paraquedas reserva.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Chuting_Up/65664_chuting_up.dds","filesize":65664},"landscape":{"path":"sc/news/Chuting_Up/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452487,
+    "title": "",
+    "headline": "Atualização do GTA Online",
+    "subtitle": "Paraquedando",
+    "content": "Leve o paraquedismo até o próximo nível comprando um paraquedas reserva em qualquer Ammu-nation, que agora também apresenta uma gama de diferentes parafolios, fumaças e estilos de mochilas.~n~~n~Corte o seu paraquedas principal pressionando ~INPUT_FRONTEND_Y~ e, uma vez em queda livre, pressione ~INPUT_FRONTEND_ACCEPT~ novamente para acionar o seu paraquedas reserva.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Chuting_Up/65664_chuting_up.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Chuting_Up/.dds",
+        "filesize": 2048
+    }
+}

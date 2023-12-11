@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635617,"title":"Avantages de la liste des invités","headline":"Avantages de la liste des invités","subtitle":"Vous êtes sur la listeµ!","content":"Vous avez reçu les récompenses exclusives suivantes :<br /><br />- 100µ000 GTA$ bonus<br />- T-shirt Technologie<br />- HVY Nightshark blindé gratuit<br />- Sportive avec armes en option Übermacht Revolter gratuite modifiable<br />- Motifs exclusifs “Camouflage vert et rose” et “Sessanta Nove multicolore” pour le Nightshark et la Revolter<br /><br />Merci d'avoir rejoint la liste des invités. Gardez un œil sur le Rockstar Newswire pour tout savoir sur les prochains évènements exclusifs à Los Santos.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_FRE.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635617,
+    "title": "Avantages de la liste des invités",
+    "headline": "Avantages de la liste des invités",
+    "subtitle": "Vous êtes sur la listeµ!",
+    "content": "Vous avez reçu les récompenses exclusives suivantes :<br /><br />- 100µ000 GTA$ bonus<br />- T-shirt Technologie<br />- HVY Nightshark blindé gratuit<br />- Sportive avec armes en option Übermacht Revolter gratuite modifiable<br />- Motifs exclusifs “Camouflage vert et rose” et “Sessanta Nove multicolore” pour le Nightshark et la Revolter<br /><br />Merci d'avoir rejoint la liste des invités. Gardez un œil sur le Rockstar Newswire pour tout savoir sur les prochains évènements exclusifs à Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_FRE.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

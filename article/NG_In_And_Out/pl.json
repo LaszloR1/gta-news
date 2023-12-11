@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1462295196,"title":"","headline":"GTA Online","subtitle":"Wpad i wypad","content":"Walczcie o zabezpieczenie paczek w tym nowym trybie adwersarza. Napastnicy muszą przechwycić wszystkie przesyłki i dostarczyć je we wskazane miejsce. Obrońcy z kolei muszą wytrzymać do końca czasu. Im więcej paczek zostanie przejętych, tym mniej problemów na głowie mają obrońcy. Aby wygrać, trzeba będzie wykorzystać taktykę i spryt.","url":"","image":{"path":"sc/news/NG_In_And_Out/262272_In_And_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_In_And_Out/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1462295196,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wpad i wypad",
+    "content": "Walczcie o zabezpieczenie paczek w tym nowym trybie adwersarza. Napastnicy muszą przechwycić wszystkie przesyłki i dostarczyć je we wskazane miejsce. Obrońcy z kolei muszą wytrzymać do końca czasu. Im więcej paczek zostanie przejętych, tym mniej problemów na głowie mają obrońcy. Aby wygrać, trzeba będzie wykorzystać taktykę i spryt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_In_And_Out/262272_In_And_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_In_And_Out/.dds",
+        "filesize": 2048
+    }
+}

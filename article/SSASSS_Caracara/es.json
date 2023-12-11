@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522771252,"title":"","headline":"GTA Online","subtitle":"Vapid Caracara","content":"Pregúntale a cualquiera que entienda de camiones armados militares y te confirmará eso de ''Caballo grande, ande o no ande''. Y si quieres ver cómo se limpia las babas que le caen de la boca abierta, susúrrale la palabra ''Caracara''. Ya es oficial: la fuerza desmesurada tiene un nuevo nombre.","url":"","image":{"path":"sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522771252,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Caracara",
+    "content": "Pregúntale a cualquiera que entienda de camiones armados militares y te confirmará eso de ''Caballo grande, ande o no ande''. Y si quieres ver cómo se limpia las babas que le caen de la boca abierta, susúrrale la palabra ''Caracara''. Ya es oficial: la fuerza desmesurada tiene un nuevo nombre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

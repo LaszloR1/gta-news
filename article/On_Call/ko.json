@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1408453060,"title":"","headline":"GTA 온라인 업데이트","subtitle":"지루한 기다림은 끝! '대기 중' 기능","content":"휴대폰의 퀵 작업 앱에 새로운 '대기 중' 기능이 업그레이드되었습니다.<br /><br />작업에 '대기 중' 을 해 두면 자유 모드에서 범죄 활동을 계속할 수 있으며, 작업 로비가 실행 준비 상태가 되면 여러분을 원하는 활동으로 곧장 데려갈 것입니다.<br /><br />혹시 '대기 중' 에 참가하고 싶지 않다면 '세션(혼자)' 또는 '세션(친구와 함께)'(같은 세션에 있는 친구를 자동으로 초대)를 선택해서 평소대로 참가할 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/On_Call/262272_OnCall.dds","filesize":262272},"landscape":{"path":"sc/news/On_Call/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408453060,
+    "title": "",
+    "headline": "GTA 온라인 업데이트",
+    "subtitle": "지루한 기다림은 끝! '대기 중' 기능",
+    "content": "휴대폰의 퀵 작업 앱에 새로운 '대기 중' 기능이 업그레이드되었습니다.<br /><br />작업에 '대기 중' 을 해 두면 자유 모드에서 범죄 활동을 계속할 수 있으며, 작업 로비가 실행 준비 상태가 되면 여러분을 원하는 활동으로 곧장 데려갈 것입니다.<br /><br />혹시 '대기 중' 에 참가하고 싶지 않다면 '세션(혼자)' 또는 '세션(친구와 함께)'(같은 세션에 있는 친구를 자동으로 초대)를 선택해서 평소대로 참가할 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/On_Call/262272_OnCall.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/On_Call/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394809813,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Graj fair","content":"Niekoleżeńscy gracze za długo sobie nie poszaleją, bo trafiają do specjalnej grupy.<br /><br />Jeśli jakiś gracz przejawia toksyczne zachowania i psuje innym zabawę, możesz zgłosić jego postępowanie z poziomu karty gracza (w menu pauzy: Online > Gracze), wybierając opcję „Zgłoś”. Umożliwia ona określenie powodu zgłoszenia – wystarczy kilka kliknięć.<br /><br />Często zgłaszani gracze będą zmuszeni nosić oślą czapkę i grać z innymi graczami o podobnej reputacji.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809813,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Graj fair",
+    "content": "Niekoleżeńscy gracze za długo sobie nie poszaleją, bo trafiają do specjalnej grupy.<br /><br />Jeśli jakiś gracz przejawia toksyczne zachowania i psuje innym zabawę, możesz zgłosić jego postępowanie z poziomu karty gracza (w menu pauzy: Online > Gracze), wybierając opcję „Zgłoś”. Umożliwia ona określenie powodu zgłoszenia – wystarczy kilka kliknięć.<br /><br />Często zgłaszani gracze będą zmuszeni nosić oślą czapkę i grać z innymi graczami o podobnej reputacji.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/.dds",
+        "filesize": 2048
+    }
+}

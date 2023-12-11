@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349512,"title":"","headline":"GTA Online","subtitle":"Nouveautés dans l'arsenal","content":"Des nouveautés vous attendent chez Ammu-Nation, dont le pistolet automatique à la cadence de tir effarante, ainsi que la machette, particulièrement dévastatrice. Deux armes qui feront trembler vos ennemis de peur. Et tant que vous y êtes, jetez donc un coup d'œil aux nouvelles finitions disponibles pour toute une sélection d'armes, comme la carabine spéciale ou la mitraillette d'assaut.","url":"","image":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349512,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouveautés dans l'arsenal",
+    "content": "Des nouveautés vous attendent chez Ammu-Nation, dont le pistolet automatique à la cadence de tir effarante, ainsi que la machette, particulièrement dévastatrice. Deux armes qui feront trembler vos ennemis de peur. Et tant que vous y êtes, jetez donc un coup d'œil aux nouvelles finitions disponibles pour toute une sélection d'armes, comme la carabine spéciale ou la mitraillette d'assaut.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/.dds",
+        "filesize": 2048
+    }
+}

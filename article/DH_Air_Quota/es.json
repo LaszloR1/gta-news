@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1516102556,"title":"","headline":"GTA Online","subtitle":"Air Quota ","content":"Tal vez pienses que controlas el espacio aéreo de Los Santos, pero ¿puedes demostrarlo? Averígualo en Air Quota, el último modo Adversario que ha llegado a GTA Online. No basta con ser un piloto de caza experto, un virtuoso con el jetpack o un maestro con un helicóptero de ataque. Necesitarás todo eso y mucho más a medida que avanzas por una serie de rondas letales que pondrán a prueba todos los métodos de combate aéreo conocidos.","url":"","image":{"path":"sc/news/DH_Air_Quota/262272_bigfeed-airquota-V3.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1516102556,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Air Quota ",
+    "content": "Tal vez pienses que controlas el espacio aéreo de Los Santos, pero ¿puedes demostrarlo? Averígualo en Air Quota, el último modo Adversario que ha llegado a GTA Online. No basta con ser un piloto de caza experto, un virtuoso con el jetpack o un maestro con un helicóptero de ataque. Necesitarás todo eso y mucho más a medida que avanzas por una serie de rondas letales que pondrán a prueba todos los métodos de combate aéreo conocidos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Air_Quota/262272_bigfeed-airquota-V3.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

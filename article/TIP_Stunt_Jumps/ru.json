@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394813133,"headline":"Сетевые подсказки","subtitle":"Каскадерские прыжки","content":"Чтобы подняться в небо, прибегать к услугам Pegasus не обязательно. По всему Лос-Сантосу разбросаны пандусы для каскадерских прыжков, которые помогут вам оторваться от земли.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Stunt_Jumps/87528_Stunt_Jumps.dds","filesize":87528}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394813133,
+    "headline": "Сетевые подсказки",
+    "subtitle": "Каскадерские прыжки",
+    "content": "Чтобы подняться в небо, прибегать к услугам Pegasus не обязательно. По всему Лос-Сантосу разбросаны пандусы для каскадерских прыжков, которые помогут вам оторваться от земли.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Stunt_Jumps/87528_Stunt_Jumps.dds",
+        "filesize": 87528
+    }
+}

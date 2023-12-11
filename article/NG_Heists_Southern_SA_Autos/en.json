@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979449,"title":"","headline":"GTA Online","subtitle":"Southern SA Super Autos Updated","content":"Southern SA Super Autos has updated its stock to include some of Los Santos’ most popular automobile models, such as:<br />- Ocelot Jackal<br />- Ubermacht Oracle XS<br />- Benefactor Schafter<br /><br />...as well as many more. As you encounter new vehicles during the Heists, they’ll become available for purchase, so keep checking the latest stock on SouthernSanAndreasSuperAutos.com ","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Southern_SA_Autos/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Southern SA Super Autos Updated",
+    "content": "Southern SA Super Autos has updated its stock to include some of Los Santos’ most popular automobile models, such as:<br />- Ocelot Jackal<br />- Ubermacht Oracle XS<br />- Benefactor Schafter<br /><br />...as well as many more. As you encounter new vehicles during the Heists, they’ll become available for purchase, so keep checking the latest stock on SouthernSanAndreasSuperAutos.com ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/.dds",
+        "filesize": 2048
+    }
+}

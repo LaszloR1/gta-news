@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1384446982,"headline":"GTA Online","subtitle":"Beach Bum Content Update (海灘遊樂更新內容) 現已推出","content":"這款現已推出的更新內容中，將提供玩家超多與海灘及休閒相關的嶄新內容，您將可獲得：<br /><br />- 四款超讚的海灘遊樂新載具，包括嶄新的飆速號。<br />- 大量精彩休閒服飾新品，以及新的刺青圖樣和髮型。<br />- 2 款一點也不隨便的新武器。<br />- 更多的專屬差事，免得您無聊太久。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1384446982,
+    "headline": "GTA Online",
+    "subtitle": "Beach Bum Content Update (海灘遊樂更新內容) 現已推出",
+    "content": "這款現已推出的更新內容中，將提供玩家超多與海灘及休閒相關的嶄新內容，您將可獲得：<br /><br />- 四款超讚的海灘遊樂新載具，包括嶄新的飆速號。<br />- 大量精彩休閒服飾新品，以及新的刺青圖樣和髮型。<br />- 2 款一點也不隨便的新武器。<br />- 更多的專屬差事，免得您無聊太久。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds",
+        "filesize": 65664
+    }
+}

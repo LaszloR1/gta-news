@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044144,"title":"","headline":"GTA Online","subtitle":"Nie boję się zawistników","content":"Czy macie czasem tak, że ktoś się Wam wyjątkowo naprzykrza? Teraz możecie zdobyć nieco spokoju dzięki trybowi ducha. Jeśli jeden z graczy ciągle Was bezkarnie zabija, możecie na chwilę włączyć względem niego tryb ducha, aby uciec bądź zwyczajnie wrócić do swoich spraw.","url":"","image":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044144,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nie boję się zawistników",
+    "content": "Czy macie czasem tak, że ktoś się Wam wyjątkowo naprzykrza? Teraz możecie zdobyć nieco spokoju dzięki trybowi ducha. Jeśli jeden z graczy ciągle Was bezkarnie zabija, możecie na chwilę włączyć względem niego tryb ducha, aby uciec bądź zwyczajnie wrócić do swoich spraw.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Сыграйте в «Последнюю дозу»","content":"После того, как вы завершите «Первую дозу», навестите Дакса, чтобы продолжить «Нарковойны в Лос-Сантосе» с «Последней дозой». В пяти новых заданиях вы с труппой спуститесь в кроличью нору, полную опасностей, знакомых лиц, наемников, саботажа и похищений.<br /><br />По завершении этих заданий вы откроете доступ к бесплатному Ocelot Virtue, а также разблокируете оптовую цену на него.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds","filesize":262272},"button":"Сыграть в «Последнюю дозу»"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Сыграйте в «Последнюю дозу»",
+    "content": "После того, как вы завершите «Первую дозу», навестите Дакса, чтобы продолжить «Нарковойны в Лос-Сантосе» с «Последней дозой». В пяти новых заданиях вы с труппой спуститесь в кроличью нору, полную опасностей, знакомых лиц, наемников, саботажа и похищений.<br /><br />По завершении этих заданий вы откроете доступ к бесплатному Ocelot Virtue, а также разблокируете оптовую цену на него.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds",
+        "filesize": 262272
+    },
+    "button": "Сыграть в «Последнюю дозу»"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223047,"title":"","headline":"GTA Online","subtitle":"GTA Online Now Supports 30 Players","content":"Grand Theft Auto Online now hosts up to 30 players in Freemode and supported Jobs. That means more players than ever out there watching your back (or that you need to watch your back for).<br /><br />Want to keep an eye on the newly increased population? Try out Spectator Mode, allowing two players to watch over the rest from the comfort of an apartment.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_30_Player_Online/262272_30Players.dds","filesize":262272},"landscape":{"path":"sc/news/NG_30_Player_Online/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223047,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online Now Supports 30 Players",
+    "content": "Grand Theft Auto Online now hosts up to 30 players in Freemode and supported Jobs. That means more players than ever out there watching your back (or that you need to watch your back for).<br /><br />Want to keep an eye on the newly increased population? Try out Spectator Mode, allowing two players to watch over the rest from the comfort of an apartment.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_30_Player_Online/262272_30Players.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_30_Player_Online/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467132162,"title":"","headline":"GTA Online","subtitle":"Pfister 811","content":"Der Pfister 811, neu und exklusiv bei legendarymotorsport.net, setzt auf Hybridtechnik, die genau das tut, was sie tun soll: minutiös die Leistung der am wenigsten kohlenstoffeffizienten Fahrzeuge auf dem Planeten verfeinern, damit du schneller von 0 auf 100 Autos auffährst als alle anderen. Willkommen in der Zukunft.","url":"","image":{"path":"sc/news/NG_Pfister811_Out_Now/262272_NG_Legendarymotorsport.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Pfister811_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467132162,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pfister 811",
+    "content": "Der Pfister 811, neu und exklusiv bei legendarymotorsport.net, setzt auf Hybridtechnik, die genau das tut, was sie tun soll: minutiös die Leistung der am wenigsten kohlenstoffeffizienten Fahrzeuge auf dem Planeten verfeinern, damit du schneller von 0 auf 100 Autos auffährst als alle anderen. Willkommen in der Zukunft.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Pfister811_Out_Now/262272_NG_Legendarymotorsport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Pfister811_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

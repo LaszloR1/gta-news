@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175129,"title":"","headline":"GTA Online","subtitle":"Ewakuacja","content":"W niebezpiecznej części miasta rozbił się odrzutowiec VIP-a. Oddział ochroniarzy musi współpracować z członkiem swojej drużyny, celem, aby zebrać się w strefie ewakuacji i wspólnie dotrzeć do punktu ucieczki. Tymczasem drużyna zabójców musi odszukać i wyeliminować cel.","url":"","image":{"path":"sc/news/NG_EAOC_Extraction/262272_Extraction.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Extraction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175129,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ewakuacja",
+    "content": "W niebezpiecznej części miasta rozbił się odrzutowiec VIP-a. Oddział ochroniarzy musi współpracować z członkiem swojej drużyny, celem, aby zebrać się w strefie ewakuacji i wspólnie dotrzeć do punktu ucieczki. Tymczasem drużyna zabójców musi odszukać i wyeliminować cel.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Extraction/262272_Extraction.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Extraction/.dds",
+        "filesize": 2048
+    }
+}

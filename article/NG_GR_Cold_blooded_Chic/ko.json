@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916657,"title":"","headline":"GTA Online","subtitle":"피도 눈물도 없는 스타일","content":"이번 시즌 로스 산토스의 의상점과 이발소에서는 위장색 파카, 퇴역군인 베레모, 헤비듀티 컴뱃 부츠, 피를 갈망하는 문신, 버즈컷 등 다양한 최신 용병 생존주의자 스타일을 준비해 두었다는군요. 폼 나게 꾸며 보세요. 적들에겐 저승길 선물이 될 테니까요.","url":"","image":{"path":"sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Cold_blooded_Chic/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916657,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "피도 눈물도 없는 스타일",
+    "content": "이번 시즌 로스 산토스의 의상점과 이발소에서는 위장색 파카, 퇴역군인 베레모, 헤비듀티 컴뱃 부츠, 피를 갈망하는 문신, 버즈컷 등 다양한 최신 용병 생존주의자 스타일을 준비해 두었다는군요. 폼 나게 꾸며 보세요. 적들에겐 저승길 선물이 될 테니까요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

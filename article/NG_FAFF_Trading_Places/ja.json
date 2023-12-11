@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292370,"title":"","headline":"GTA Online","subtitle":"下克上","content":"持てる者と持たざる者が混在する敵対モードで、成り上がりを狙いましょう。勝ち組には成功が、負け組には悲惨な未来が約束されています。負け組が成り上がるには、勝ち組を容赦なく排除して、その地位を奪い取るしかありません。この機会に生きていく上で本当に役立つスキルを身につけましょう。","url":"","image":{"path":"sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Trading_Places/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "下克上",
+    "content": "持てる者と持たざる者が混在する敵対モードで、成り上がりを狙いましょう。勝ち組には成功が、負け組には悲惨な未来が約束されています。負け組が成り上がるには、勝ち組を容赦なく排除して、その地位を奪い取るしかありません。この機会に生きていく上で本当に役立つスキルを身につけましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Trading_Places/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472803984,"title":"","headline":"GTA Online","subtitle":"Tydzień niedzielnych kierowców: 50% zniżki u Benny'ego na ulepszenia i nie tylko (2-8.09)","content":"Aby wyglądać świeżo i mieć dobrze przygotowany wóz, zajedźcie do Strawberry, gdzie warsztat Benny's Original Motor Works oferuje przeróżne zniżki, w tym 50% na ulepszenia. Ponadto Benny obniżył ceny wielu produktów, od hydrauliki po koła.<br /><br />Więcej szczegółów na rockstargames.com/V/pl_pl/news.<br />","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Discounts/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Discounts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472803984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tydzień niedzielnych kierowców: 50% zniżki u Benny'ego na ulepszenia i nie tylko (2-8.09)",
+    "content": "Aby wyglądać świeżo i mieć dobrze przygotowany wóz, zajedźcie do Strawberry, gdzie warsztat Benny's Original Motor Works oferuje przeróżne zniżki, w tym 50% na ulepszenia. Ponadto Benny obniżył ceny wielu produktów, od hydrauliki po koła.<br /><br />Więcej szczegółów na rockstargames.com/V/pl_pl/news.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Discounts/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Discounts/.dds",
+        "filesize": 2048
+    }
+}

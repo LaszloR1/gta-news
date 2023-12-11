@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433953787,"title":"","headline":"GTA Online","subtitle":"Stylowe osiągi","content":"LegendaryMotorsport.net oferuje najnowsze modele ekskluzywnych samochodów, w tym najpiękniejsze superauta, jakie kiedykolwiek jeździły po ulicach Los Santos: Pegassi Osiris.<br /><br />W ofercie znajduje się także nowy Enus Windsor wraz z całą gamą wyjątkowych i wyróżniających się oznaczeń.<br />","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Stylish_Performance/262272_Hot_Wheels.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stylish_Performance/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433953787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stylowe osiągi",
+    "content": "LegendaryMotorsport.net oferuje najnowsze modele ekskluzywnych samochodów, w tym najpiękniejsze superauta, jakie kiedykolwiek jeździły po ulicach Los Santos: Pegassi Osiris.<br /><br />W ofercie znajduje się także nowy Enus Windsor wraz z całą gamą wyjątkowych i wyróżniających się oznaczeń.<br />",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Stylish_Performance/262272_Hot_Wheels.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stylish_Performance/.dds",
+        "filesize": 2048
+    }
+}

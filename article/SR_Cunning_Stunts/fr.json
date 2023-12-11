@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880017,"title":"","headline":"GTA Online","subtitle":"Créez de nouvelles courses casse-cou","content":"Les courses polymorphes ont été ajoutées à l'Éditeur de course. Vous avez désormais tout ce qu'il vous faut pour créer des courses diaboliques à votre sauce sur terre, en mer et dans les airs. Et pour accompagner votre voiture, votre avion ou votre bateau, de nouveaux éléments de décor sont eux aussi disponibles, de passages aériens stylés à des tubes casse-cou tellement hauts que les gratte-ciel vous paraîtront minuscules.","url":"","image":{"path":"sc/news/SR_Cunning_Stunts/349672_bigfeed-transform-races-512x1024-V1.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880017,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Créez de nouvelles courses casse-cou",
+    "content": "Les courses polymorphes ont été ajoutées à l'Éditeur de course. Vous avez désormais tout ce qu'il vous faut pour créer des courses diaboliques à votre sauce sur terre, en mer et dans les airs. Et pour accompagner votre voiture, votre avion ou votre bateau, de nouveaux éléments de décor sont eux aussi disponibles, de passages aériens stylés à des tubes casse-cou tellement hauts que les gratte-ciel vous paraîtront minuscules.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cunning_Stunts/349672_bigfeed-transform-races-512x1024-V1.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

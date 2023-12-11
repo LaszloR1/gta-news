@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1544550098,"title":"","headline":"GTA Online","subtitle":"ARENA WAR","content":"Siéntate, ponte el cinturón y tómate una dosis preventiva de calmantes: próximamente, desde el Maze Bank Arena, presenciarás en directo el mayor desmadre deportivo de la historia, ¡el gran combate de gladiadores automovilístico!<br /><br />¡Los vehículos más desquiciados! ¡Las armas más bestiales! ¡Millones de espectadores!<br /><br />Dirige tu propio taller, crea tus propios titanes de la destrucción y sigue tu descarnada trayectoria. Esto es Arena War.","url":"","image":{"path":"sc/news/5bd09cd8f89942cfb8884f80/349672_Arena_War_Big_Feed_V05.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1544550098,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ARENA WAR",
+    "content": "Siéntate, ponte el cinturón y tómate una dosis preventiva de calmantes: próximamente, desde el Maze Bank Arena, presenciarás en directo el mayor desmadre deportivo de la historia, ¡el gran combate de gladiadores automovilístico!<br /><br />¡Los vehículos más desquiciados! ¡Las armas más bestiales! ¡Millones de espectadores!<br /><br />Dirige tu propio taller, crea tus propios titanes de la destrucción y sigue tu descarnada trayectoria. Esto es Arena War.",
+    "url": "",
+    "image": {
+        "path": "sc/news/5bd09cd8f89942cfb8884f80/349672_Arena_War_Big_Feed_V05.dds",
+        "filesize": 349672
+    }
+}

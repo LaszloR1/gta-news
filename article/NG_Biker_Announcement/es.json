@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1474282375,"title":"","headline":"GTA Online","subtitle":"GTA Online: Moteros llega el 4 de octubre","content":"Moteros, la siguiente incorporación a GTA Online, ofrece la posibilidad de crear y liderar tu propio club de moteros para hasta 8 jugadores. Moteros presentará nuevos papeles que desempeñar (de recluta a presidente del club) con nuevas posibilidades competitivas y cooperativas, además de nuevas motos, nuevas propiedades (como sedes del club con un taller especial) y locales para los proyectos empresariales más sórdidos.<br /><br />Permanece atento a rockstargames.com/newswire para más detalles.","url":"","image":{"path":"sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Biker_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1474282375,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Moteros llega el 4 de octubre",
+    "content": "Moteros, la siguiente incorporación a GTA Online, ofrece la posibilidad de crear y liderar tu propio club de moteros para hasta 8 jugadores. Moteros presentará nuevos papeles que desempeñar (de recluta a presidente del club) con nuevas posibilidades competitivas y cooperativas, además de nuevas motos, nuevas propiedades (como sedes del club con un taller especial) y locales para los proyectos empresariales más sórdidos.<br /><br />Permanece atento a rockstargames.com/newswire para más detalles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Biker_Announcement/.dds",
+        "filesize": 2048
+    }
+}

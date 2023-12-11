@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223045,"title":"","headline":"GTA Online","subtitle":"GTA Online ora supporta 30 giocatori","content":"Ora Grand Theft Auto Online supporta un massimo di 30 giocatori in Freemode e nelle attività supportate. Non ci sono mai stati così tanti giocatori a guardarti le spalle (o dai quali guardarsi le spalle)!<br /><br />Vuoi tenere d'occhio la popolazione in continuo aumento? Prova la modalità spettatore, che permette a due giocatori di osservare tutti gli altri comodamente dal proprio appartamento.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_30_Player_Online/262272_30Players.dds","filesize":262272},"landscape":{"path":"sc/news/NG_30_Player_Online/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223045,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online ora supporta 30 giocatori",
+    "content": "Ora Grand Theft Auto Online supporta un massimo di 30 giocatori in Freemode e nelle attività supportate. Non ci sono mai stati così tanti giocatori a guardarti le spalle (o dai quali guardarsi le spalle)!<br /><br />Vuoi tenere d'occhio la popolazione in continuo aumento? Prova la modalità spettatore, che permette a due giocatori di osservare tutti gli altri comodamente dal proprio appartamento.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_30_Player_Online/262272_30Players.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_30_Player_Online/.dds",
+        "filesize": 2048
+    }
+}

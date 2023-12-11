@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294450,"title":"","headline":"GTA Online","subtitle":"SecuroServ-Logistiknetzwerk","content":"Ein Büro für Führungskräfte bietet einen privaten Zugang zum SecuroServ-Logistiknetzwerk. Von deinem riesigen, gemütlichen Bürostuhl aus kannst du in Lagerhallen überall in der Stadt investieren, Spezialfracht kaufen und alles tun, um die ganze Stadt zu unterwerfen.","url":"","image":{"path":"sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Special_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294450,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SecuroServ-Logistiknetzwerk",
+    "content": "Ein Büro für Führungskräfte bietet einen privaten Zugang zum SecuroServ-Logistiknetzwerk. Von deinem riesigen, gemütlichen Bürostuhl aus kannst du in Lagerhallen überall in der Stadt investieren, Spezialfracht kaufen und alles tun, um die ganze Stadt zu unterwerfen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469137,"headline":"Online Tip","subtitle":"Flaunt your Talents","content":"Whatever your prevailing skill is, you’ll earn exclusive Awards for completing various milestones and objectives. Of course, some of the most exclusive items in the shops and outlets of Los Santos can only be acquired if you’ve earned the right to buy them by achieving these goals. After all, life is always better for celebrities.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469137,
+    "headline": "Online Tip",
+    "subtitle": "Flaunt your Talents",
+    "content": "Whatever your prevailing skill is, you’ll earn exclusive Awards for completing various milestones and objectives. Of course, some of the most exclusive items in the shops and outlets of Los Santos can only be acquired if you’ve earned the right to buy them by achieving these goals. After all, life is always better for celebrities.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

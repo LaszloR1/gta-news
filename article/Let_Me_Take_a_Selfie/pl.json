@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991949,"headline":"Wskazówka do gry sieciowej","subtitle":"Focia z rąsi","content":"Uwiecznij wszystkie niezwykłe chwile GTA za pomocą szybkiej fotki zrobionej aparatem wbudowanym w telefon. Obiektyw można także zwrócić ku sobie, aby cyknąć zdjęcie z własnym buziolem na pierwszym planie.~n~~n~Podczas robienia zdjęć dostępnych jest wiele stylowych filtrów i ramek.~n~~n~Zdjęcia można okrasić podpisem z kreatora memów, aby potem pokazać je towarzystwu z Social Club. Aby uruchomić kreatora memów, wybierz zdjęcie z galerii i naciśnij ~INPUT_FRONTEND_X~.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991949,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Focia z rąsi",
+    "content": "Uwiecznij wszystkie niezwykłe chwile GTA za pomocą szybkiej fotki zrobionej aparatem wbudowanym w telefon. Obiektyw można także zwrócić ku sobie, aby cyknąć zdjęcie z własnym buziolem na pierwszym planie.~n~~n~Podczas robienia zdjęć dostępnych jest wiele stylowych filtrów i ramek.~n~~n~Zdjęcia można okrasić podpisem z kreatora memów, aby potem pokazać je towarzystwu z Social Club. Aby uruchomić kreatora memów, wybierz zdjęcie z galerii i naciśnij ~INPUT_FRONTEND_X~.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

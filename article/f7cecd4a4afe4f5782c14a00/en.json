@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736474,"title":"","headline":"GTA Online","subtitle":"COMING UP SHORT","content":"How do you make a challenge bigger? You get smaller! Grab your remote and charge your batteries, it’s time to cause chaos, smash records, and curb the competition in all new RC Time Trials. <br /><br />Small wheels. Big deals. Available daily.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736474,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "COMING UP SHORT",
+    "content": "How do you make a challenge bigger? You get smaller! Grab your remote and charge your batteries, it’s time to cause chaos, smash records, and curb the competition in all new RC Time Trials. <br /><br />Small wheels. Big deals. Available daily.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

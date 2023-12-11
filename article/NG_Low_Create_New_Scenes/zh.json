@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349212,"title":"","headline":"GTA Online","subtitle":"在導演模式中製作新場景","content":"場景製作器是導演模式的全新功能，您可以運用這項功能，建立客製化設定，然後擷取µRockstarµ編輯器可使用的片段。您可以從超過µ200µ種的道具µ(包括會爆炸的)µ中選擇，為您的影片創造完美的背景。您最多可儲存四個場景，方便您隨時重複使用相同設定。<br /><br /><br /><br />您可以在導演模式中，透過玩家互動選單進入場景製作器。","url":"","image":{"path":"sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Create_New_Scenes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349212,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "在導演模式中製作新場景",
+    "content": "場景製作器是導演模式的全新功能，您可以運用這項功能，建立客製化設定，然後擷取µRockstarµ編輯器可使用的片段。您可以從超過µ200µ種的道具µ(包括會爆炸的)µ中選擇，為您的影片創造完美的背景。您最多可儲存四個場景，方便您隨時重複使用相同設定。<br /><br /><br /><br />您可以在導演模式中，透過玩家互動選單進入場景製作器。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/.dds",
+        "filesize": 2048
+    }
+}

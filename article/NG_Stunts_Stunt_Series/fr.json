@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324934,"title":"","headline":"GTA Online","subtitle":"Épreuves casse-cou","content":"Le temps est précieux, surtout à Los Santos. Alors voici un moyen rapide et efficace pour accéder directement aux nouvelles courses casse-cou avec d'autres maboules accros à l'adrénaline : cherchez les zones d'activation représentées par les icônes roses ''Épreuves casse-cou'' sur votre radar et dirigez-vous vers l'une d'elles pour être envoyé instantanément au cœur du chaos le plus total.  ","url":"","image":{"path":"sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Stunt_Series/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324934,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Épreuves casse-cou",
+    "content": "Le temps est précieux, surtout à Los Santos. Alors voici un moyen rapide et efficace pour accéder directement aux nouvelles courses casse-cou avec d'autres maboules accros à l'adrénaline : cherchez les zones d'activation représentées par les icônes roses ''Épreuves casse-cou'' sur votre radar et dirigez-vous vers l'une d'elles pour être envoyé instantanément au cœur du chaos le plus total.  ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/.dds",
+        "filesize": 2048
+    }
+}

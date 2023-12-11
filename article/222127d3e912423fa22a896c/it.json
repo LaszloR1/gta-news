@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736470,"title":"","headline":"GTA Online","subtitle":"UNISCITI AL CLUB","content":"Il Vinewood Club è il club per soli membri più “in” di tutta Los Santos e offre esclusivi vantaggi agli abbonati a GTA+.<br /><br />Se cerchi l'élite internazionale, l'hai trovata. Unisciti ora per accedere al nuovo Vinewood Car Club, i cui membri possono prendere in prestito esclusivi veicoli di lusso, e acquistarli a prezzi scontati. Puoi anche ispezionare i veicoli in omaggio di GTA+ e riscattarli direttamente dal Vinewood Car Club.<br /><br />Visita il nuovo autosalone a Terminal per saperne di più.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736470,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "UNISCITI AL CLUB",
+    "content": "Il Vinewood Club è il club per soli membri più “in” di tutta Los Santos e offre esclusivi vantaggi agli abbonati a GTA+.<br /><br />Se cerchi l'élite internazionale, l'hai trovata. Unisciti ora per accedere al nuovo Vinewood Car Club, i cui membri possono prendere in prestito esclusivi veicoli di lusso, e acquistarli a prezzi scontati. Puoi anche ispezionare i veicoli in omaggio di GTA+ e riscattarli direttamente dal Vinewood Car Club.<br /><br />Visita il nuovo autosalone a Terminal per saperne di più.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

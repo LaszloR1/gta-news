@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467863,"title":"","headline":"온라인 팁","subtitle":"작업이 필요하십니까?","content":"휴대전화의 작업 목록을 확인하거나 연락책에 전화하여 작업을 얻으십시오. 당신의 연락책을 위해 작업을 많이 완료할수록 연락책을 더 많이 만나고, 작업도 더 많이 제공될 것입니다. 랭킹을 올려 나아가다 보면 머지 않아 이 업계에서 짭짤한 돈을 벌 수 있을 겁니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Need_a_Job/262272_NeedAJob.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Need_a_Job/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467863,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "작업이 필요하십니까?",
+    "content": "휴대전화의 작업 목록을 확인하거나 연락책에 전화하여 작업을 얻으십시오. 당신의 연락책을 위해 작업을 많이 완료할수록 연락책을 더 많이 만나고, 작업도 더 많이 제공될 것입니다. 랭킹을 올려 나아가다 보면 머지 않아 이 업계에서 짭짤한 돈을 벌 수 있을 겁니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Need_a_Job/262272_NeedAJob.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Need_a_Job/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999984,"title":"","headline":"GTA Online","subtitle":"Starterlaubnis erteilt","content":"Am Himmel über LS wird demnächst einiges los sein. Unzählige Luftfahrzeuge, von alten Kampfjets über Mini-Helikopter bis hin zu Bombern aus dem Kalten Krieg, sind jetzt auf Lager – und für engagierte Schmuggler zum Einkaufspreis erhältlich.<br /><br />Diese Flugmaschinen können in deinem Hangar untergebracht und in einer Luftfahrzeugwerkstatt modifiziert werden. Du kannst sogar ohne Zusatzkosten jedes Pegasus-Fluggerät in ein persönliches Fahrzeug umwandeln. Denk einfach mal ins Blaue hinein.","url":"","image":{"path":"sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Starterlaubnis erteilt",
+    "content": "Am Himmel über LS wird demnächst einiges los sein. Unzählige Luftfahrzeuge, von alten Kampfjets über Mini-Helikopter bis hin zu Bombern aus dem Kalten Krieg, sind jetzt auf Lager – und für engagierte Schmuggler zum Einkaufspreis erhältlich.<br /><br />Diese Flugmaschinen können in deinem Hangar untergebracht und in einer Luftfahrzeugwerkstatt modifiziert werden. Du kannst sogar ohne Zusatzkosten jedes Pegasus-Fluggerät in ein persönliches Fahrzeug umwandeln. Denk einfach mal ins Blaue hinein.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

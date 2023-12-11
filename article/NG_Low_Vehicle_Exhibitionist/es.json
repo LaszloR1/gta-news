@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349544,"title":"","headline":"GTA Online","subtitle":"Fardando de vehículo","content":"Ya puedes exhibir el bloque del motor de tu vehículo personal, su interior detallado y mucho más con control absoluto de sus puertas.<br /><br />Accede a la opción ''Abrir puertas'' desde el menú Interacción para abrir y cerrar manualmente las puertas de tu vehículo mientras conduces o estás cerca. Sal a la calle y enseña ese nuevo bloque del motor y cualquier cacharro trucado de tu maletero.<br /><br />Puedes encender los neones y escuchar tu emisora favorita desde fuera del coche.","url":"","image":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349544,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fardando de vehículo",
+    "content": "Ya puedes exhibir el bloque del motor de tu vehículo personal, su interior detallado y mucho más con control absoluto de sus puertas.<br /><br />Accede a la opción ''Abrir puertas'' desde el menú Interacción para abrir y cerrar manualmente las puertas de tu vehículo mientras conduces o estás cerca. Sal a la calle y enseña ese nuevo bloque del motor y cualquier cacharro trucado de tu maletero.<br /><br />Puedes encender los neones y escuchar tu emisora favorita desde fuera del coche.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/.dds",
+        "filesize": 2048
+    }
+}

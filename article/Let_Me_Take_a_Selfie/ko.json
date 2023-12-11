@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991950,"headline":"온라인 팁","subtitle":"셀카 좀 찍어볼까...","content":"휴대전화 카메라를 재빨리 꺼내서 사진을 찍고 GTA에서의 즐거운 순간을 영원히 남겨 보십시오. 카메라를 얼굴 쪽으로 전환해서 셀카를 찍을 수도 있습니다!~n~~n~사진을 멋지게 꾸밀 수 있는 다양한 테두리와 필터도 마련되어 있습니다.~n~~n~사진에 제목이나 설명을 달아 Social Club의 뜨거운 반응을 노릴 수 있는 밈 생성기도 있습니다. 여러분의 갤러리를 둘러보고 ~INPUT_FRONTEND_X~ 를 눌러 밈 생성기를 사용해 보십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991950,
+    "headline": "온라인 팁",
+    "subtitle": "셀카 좀 찍어볼까...",
+    "content": "휴대전화 카메라를 재빨리 꺼내서 사진을 찍고 GTA에서의 즐거운 순간을 영원히 남겨 보십시오. 카메라를 얼굴 쪽으로 전환해서 셀카를 찍을 수도 있습니다!~n~~n~사진을 멋지게 꾸밀 수 있는 다양한 테두리와 필터도 마련되어 있습니다.~n~~n~사진에 제목이나 설명을 달아 Social Club의 뜨거운 반응을 노릴 수 있는 밈 생성기도 있습니다. 여러분의 갤러리를 둘러보고 ~INPUT_FRONTEND_X~ 를 눌러 밈 생성기를 사용해 보십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

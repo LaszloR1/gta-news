@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436354142,"title":"","headline":"GTA Online","subtitle":"認真賣命","content":"武裝國度現在有多款不同的手指虎可供購買，您可以選擇自己喜歡的樣式和造型來吸引敵人並好好「溝通」。<br /><br />另外武裝國度也新進了射手手槍，這款手槍的威力可能比霰彈槍要來得強大。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436354142,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "認真賣命",
+    "content": "武裝國度現在有多款不同的手指虎可供購買，您可以選擇自己喜歡的樣式和造型來吸引敵人並好好「溝通」。<br /><br />另外武裝國度也新進了射手手槍，這款手槍的威力可能比霰彈槍要來得強大。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

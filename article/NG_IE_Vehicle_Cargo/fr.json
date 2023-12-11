@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543225,"title":"","headline":"GTA Online","subtitle":"Trafic de véhicules","content":"Les PDG possédant des entrepôts de véhicules peuvent accéder aux missions de trafic de véhicules depuis le portail SecuroServ dans leur bureau. En un clic, vous pourrez voler des voitures de grande valeur, échapper à des concurrents dans des missions d'export risquées, et savourer vos profits colossaux.","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Vehicle_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543225,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Trafic de véhicules",
+    "content": "Les PDG possédant des entrepôts de véhicules peuvent accéder aux missions de trafic de véhicules depuis le portail SecuroServ dans leur bureau. En un clic, vous pourrez voler des voitures de grande valeur, échapper à des concurrents dans des missions d'export risquées, et savourer vos profits colossaux.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/.dds",
+        "filesize": 2048
+    }
+}

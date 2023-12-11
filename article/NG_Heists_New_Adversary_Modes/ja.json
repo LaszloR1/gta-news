@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979851,"title":"","headline":"GTA Online","subtitle":"新登場の敵対モード","content":"強盗アップデートで追加される新しいエキサイティングな敵対モードで、次の大仕事の前に危険な戦いを繰り広げましょう。全ての新モードはランク12で解除されます。<br /><br />包囲網防衛：気迫と決意と重火器で、縄張りを死守しましょう。<br />アスタ・ラ・ビスタ：迫りくる危険な相手のトラックを振り切りましょう。あなたにはエンジンなんて必要ない...ですよね？<br />逃走劇：ハンターたちに追われながら、一方のチームが徒歩で目的地を目指します。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979851,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新登場の敵対モード",
+    "content": "強盗アップデートで追加される新しいエキサイティングな敵対モードで、次の大仕事の前に危険な戦いを繰り広げましょう。全ての新モードはランク12で解除されます。<br /><br />包囲網防衛：気迫と決意と重火器で、縄張りを死守しましょう。<br />アスタ・ラ・ビスタ：迫りくる危険な相手のトラックを振り切りましょう。あなたにはエンジンなんて必要ない...ですよね？<br />逃走劇：ハンターたちに追われながら、一方のチームが徒歩で目的地を目指します。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

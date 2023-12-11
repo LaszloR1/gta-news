@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224412,"title":"","headline":"GTA Online","subtitle":"Blokada kamery","content":"Jeśli chcesz się upewnić, że każdy gracz będzie korzystał tylko z danego trybu widzenia, możesz to ustalić w lobby przed każdą akcją.<br /><br />Znajdź w lobby opcję blokady kamery, przestaw ją na preferowany tryb i narzuć wszystkim swój punkt widzenia, jaki by nie był.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224412,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Blokada kamery",
+    "content": "Jeśli chcesz się upewnić, że każdy gracz będzie korzystał tylko z danego trybu widzenia, możesz to ustalić w lobby przed każdą akcją.<br /><br />Znajdź w lobby opcję blokady kamery, przestaw ją na preferowany tryb i narzuć wszystkim swój punkt widzenia, jaki by nie był.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

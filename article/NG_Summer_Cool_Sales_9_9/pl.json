@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430255,"title":"","headline":"GTA Online","subtitle":"Premie GTA Online w tym tygodniu: zniżka 50% na jachty, nieruchomości i biura (9-15 września)","content":"W tym tygodniu Docktease oferuje 50% zniżki na wszystkie modele jachtów Super Galaxy. Tańsze o 25% są też modyfikacje jachtów, m.in. chromowane wykończenia, kombinacje kolorów, oświetlenie i inne.<br /><br />Dynasty 8 oferuje zniżkę 50% na wszystkie nieruchomości, a także 25% na wystrój luksusowych apartamentów. Duże rabaty zapewnia też Dynasty 8 Executive: 50% na biura oraz 25% na wystrój i ich modyfikacje.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Sales_9_9/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Sales_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430255,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Premie GTA Online w tym tygodniu: zniżka 50% na jachty, nieruchomości i biura (9-15 września)",
+    "content": "W tym tygodniu Docktease oferuje 50% zniżki na wszystkie modele jachtów Super Galaxy. Tańsze o 25% są też modyfikacje jachtów, m.in. chromowane wykończenia, kombinacje kolorów, oświetlenie i inne.<br /><br />Dynasty 8 oferuje zniżkę 50% na wszystkie nieruchomości, a także 25% na wystrój luksusowych apartamentów. Duże rabaty zapewnia też Dynasty 8 Executive: 50% na biura oraz 25% na wystrój i ich modyfikacje.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Sales_9_9/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Sales_9_9/.dds",
+        "filesize": 2048
+    }
+}

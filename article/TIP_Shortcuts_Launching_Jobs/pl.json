@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811018,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Na skróty do akcji","content":"Jeśli otrzymasz zaproszenie do akcji, naciśnij na padzie kierunkowym strzałkę w górę, aby przyjąć je bez wyjmowania telefonu i otwierania listy akcji.~n~~n~Po otwarciu mapy w menu pauzy możesz uruchomić dowolny znacznik akcji widoczny na mapie. Wystarczy go podświetlić i nacisnąć ~INPUT_FRONTEND_X~.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811018,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Na skróty do akcji",
+    "content": "Jeśli otrzymasz zaproszenie do akcji, naciśnij na padzie kierunkowym strzałkę w górę, aby przyjąć je bez wyjmowania telefonu i otwierania listy akcji.~n~~n~Po otwarciu mapy w menu pauzy możesz uruchomić dowolny znacznik akcji widoczny na mapie. Wystarczy go podświetlić i nacisnąć ~INPUT_FRONTEND_X~.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394810520,"headline":"Consejo en línea","subtitle":"Tener ojos en el cogote","content":"Es lo que necesitas para sobrevivir en las zonas más peligrosas de la ciudad. Haz clic en el stick/joystick derecho para mirar hacia atrás. Si usas ~INPUT_FRONTEND_LT~ para apuntar mientras miras atrás, te girarás para fijar el blanco en la amenaza.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394810520,
+    "headline": "Consejo en línea",
+    "subtitle": "Tener ojos en el cogote",
+    "content": "Es lo que necesitas para sobrevivir en las zonas más peligrosas de la ciudad. Haz clic en el stick/joystick derecho para mirar hacia atrás. Si usas ~INPUT_FRONTEND_LT~ para apuntar mientras miras atrás, te girarás para fijar el blanco en la amenaza.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds",
+        "filesize": 65664
+    }
+}

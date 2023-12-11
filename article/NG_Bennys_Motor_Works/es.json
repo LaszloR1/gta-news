@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349404,"title":"","headline":"GTA Online","subtitle":"Benny’s Original Motor Works","content":"Hay disponibles unas alucinantes opciones de modificación por cortesía de Benny's Original Motor Works. Visita www.bennysoriginalmotorworks.com o usa la aplicación del teléfono para ver los últimos vehículos de Benny.<br /><br />Compra el coche que quieras modificar y llévaselo al propio Benny al corazón de Los Santos. Accede a nuevas modificaciones, como bombas hidráulicas e interiores personalizados, después de comprar una mejora.<br />Lamar será tu contacto, estate atento a su llamada.","url":"","image":{"path":"sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bennys_Motor_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349404,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Benny’s Original Motor Works",
+    "content": "Hay disponibles unas alucinantes opciones de modificación por cortesía de Benny's Original Motor Works. Visita www.bennysoriginalmotorworks.com o usa la aplicación del teléfono para ver los últimos vehículos de Benny.<br /><br />Compra el coche que quieras modificar y llévaselo al propio Benny al corazón de Los Santos. Accede a nuevas modificaciones, como bombas hidráulicas e interiores personalizados, después de comprar una mejora.<br />Lamar será tu contacto, estate atento a su llamada.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bennys_Motor_Works/.dds",
+        "filesize": 2048
+    }
+}

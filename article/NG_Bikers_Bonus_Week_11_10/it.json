@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766817,"title":"","headline":"GTA Online","subtitle":"Settimana bonus di Centauri","content":"Da oggi fino a lunedì 10 ottobre, la settimana bonus prevede sconti e ricompense sbloccabili. Sblocca la Maglietta logo Western bianca e la Felpa Nagasaki: gratis nei negozi di abbigliamento. In più, acquista la nuova Western Nightblade per ricevere la Maglietta logo Western nera. Mantieni il tuo MC armato ed equipaggiato con gli sconti su giubbotti antiproiettile e munizioni e approfitta del 25% di sconto su caricatori selezionati. Per un tocco di stile, sconti sulle colorazioni per armi.","url":"","image":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766817,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Settimana bonus di Centauri",
+    "content": "Da oggi fino a lunedì 10 ottobre, la settimana bonus prevede sconti e ricompense sbloccabili. Sblocca la Maglietta logo Western bianca e la Felpa Nagasaki: gratis nei negozi di abbigliamento. In più, acquista la nuova Western Nightblade per ricevere la Maglietta logo Western nera. Mantieni il tuo MC armato ed equipaggiato con gli sconti su giubbotti antiproiettile e munizioni e approfitta del 25% di sconto su caricatori selezionati. Per un tocco di stile, sconti sulle colorazioni per armi.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/.dds",
+        "filesize": 2048
+    }
+}

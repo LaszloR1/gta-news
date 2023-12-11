@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543397,"title":"","headline":"GTA Online","subtitle":"Vestido para matar","content":"Si amplías de forma considerable tu imperio criminal, también tendrás que ampliar tu vestuario de delincuente. Además de la enorme línea de nuevas opciones de ropa disponible en las tiendas, echa un vistazo a los nuevos tatuajes y peinados, y a una nueva gama de máscaras extrañas, maravillosas y nauseabundas. Por supuesto, estos modernos conjuntos de ropa también incluyen nuevos estilos de jefe, disponibles para repartir a toda la organización mediante el menú Interacción.","url":"","image":{"path":"sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Dressed_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543397,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vestido para matar",
+    "content": "Si amplías de forma considerable tu imperio criminal, también tendrás que ampliar tu vestuario de delincuente. Además de la enorme línea de nuevas opciones de ropa disponible en las tiendas, echa un vistazo a los nuevos tatuajes y peinados, y a una nueva gama de máscaras extrañas, maravillosas y nauseabundas. Por supuesto, estos modernos conjuntos de ropa también incluyen nuevos estilos de jefe, disponibles para repartir a toda la organización mediante el menú Interacción.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Dressed_Kill/.dds",
+        "filesize": 2048
+    }
+}

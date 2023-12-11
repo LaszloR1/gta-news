@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515861,"title":"","headline":"GTA Online","subtitle":"Motocyklowy styl","content":"Na ulice San Andreas wyjeżdżają nowe, kozackie motocykle, więc na pewno zechcesz powiększyć swoją kolekcję. Na szczęście każda siedziba klubu zapewnia miejsce na dziesięć maszyn, więc będzie gdzie parkować. Zainwestuj w siedzibę już dziś, udając się na foreclosures.maze-bank.com.","url":"","image":{"path":"sc/news/NG_Bikers_ABikeIsForLife/262272_MazeForeclosure.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ABikeIsForLife/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515861,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Motocyklowy styl",
+    "content": "Na ulice San Andreas wyjeżdżają nowe, kozackie motocykle, więc na pewno zechcesz powiększyć swoją kolekcję. Na szczęście każda siedziba klubu zapewnia miejsce na dziesięć maszyn, więc będzie gdzie parkować. Zainwestuj w siedzibę już dziś, udając się na foreclosures.maze-bank.com.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ABikeIsForLife/262272_MazeForeclosure.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ABikeIsForLife/.dds",
+        "filesize": 2048
+    }
+}

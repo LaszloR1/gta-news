@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1688141749,"title":"GTA+","headline":"GTA+","subtitle":"Capi d’abbigliamento esclusivi","content":"A Los Santos, il look è importantissimo. Mettiti in ghingheri grazie a questi abiti esclusivi, gratis per gli abbonati a GTA+ fino al 19 luglio:<br /><br />- Maschera Dama Libertà neon verde<br />- Pantaloncini Hinterland<br />- Maglietta Hinterland<br /><br />L’abbonamento GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/7fbd2dfbb0b94c30b755a570/262272_GTAOPlus_Period15_LadyLibertyMask_DRAFT_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per abbonarti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1688141749,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Capi d’abbigliamento esclusivi",
+    "content": "A Los Santos, il look è importantissimo. Mettiti in ghingheri grazie a questi abiti esclusivi, gratis per gli abbonati a GTA+ fino al 19 luglio:<br /><br />- Maschera Dama Libertà neon verde<br />- Pantaloncini Hinterland<br />- Maglietta Hinterland<br /><br />L’abbonamento GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/7fbd2dfbb0b94c30b755a570/262272_GTAOPlus_Period15_LadyLibertyMask_DRAFT_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per abbonarti a GTA+"
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736471,"title":"","headline":"GTA Online","subtitle":"ALTOS VUELOS","content":"¡Impacto inminente! Una gama completamente nueva de vehículos terrestres y aéreos está a punto de llegar a Los Santos. Desde aniquilación de nivel militar en Warstock a velocidad hipersónica en Legendary Motorsport, tus nuevos vehículos favoritos están tan solo a un clic de distancia.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ALTOS VUELOS",
+    "content": "¡Impacto inminente! Una gama completamente nueva de vehículos terrestres y aéreos está a punto de llegar a Los Santos. Desde aniquilación de nivel militar en Warstock a velocidad hipersónica en Legendary Motorsport, tus nuevos vehículos favoritos están tan solo a un clic de distancia.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

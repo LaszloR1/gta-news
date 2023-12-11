@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469749,"headline":"Wskazówka do gry sieciowej","subtitle":"Wyścig GTA","content":"Jeśli kochasz wyścigi równie mocno, co kantowanie, dołącz do wyścigu GTA. Zbierane przedmioty pomogą ci rozprawić się z każdym, kto ośmieli się z tobą ścigać.<br /><br />Zmień dowolny wyścig w wyścig GTA albo Drużynowy wyścig GTA poprzez opcje w dowolnym lobby wyścigu.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469749,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Wyścig GTA",
+    "content": "Jeśli kochasz wyścigi równie mocno, co kantowanie, dołącz do wyścigu GTA. Zbierane przedmioty pomogą ci rozprawić się z każdym, kto ośmieli się z tobą ścigać.<br /><br />Zmień dowolny wyścig w wyścig GTA albo Drużynowy wyścig GTA poprzez opcje w dowolnym lobby wyścigu.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

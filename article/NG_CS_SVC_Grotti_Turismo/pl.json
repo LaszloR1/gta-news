@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491247706,"title":"","headline":"GTA Online","subtitle":"Grotti Turismo Classic","content":"Może to staromodne, ale masz już dość kosmicznych hiperaut, które mają deski rozdzielcze z wyższym IQ od ciebie. Chcesz czegoś prostszego, czystego i pierwotnego niczym drapieżny ptak lub poranny drągal. Wsiądź do motoryzacyjnego cuda Turismo Classic, które zaprojektowano, by przenieść cię do lat, gdy benzyna była tania, powłoka ozonowa gruba, a gliny mniej trzeźwe od ciebie.","url":"","image":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491247706,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Grotti Turismo Classic",
+    "content": "Może to staromodne, ale masz już dość kosmicznych hiperaut, które mają deski rozdzielcze z wyższym IQ od ciebie. Chcesz czegoś prostszego, czystego i pierwotnego niczym drapieżny ptak lub poranny drągal. Wsiądź do motoryzacyjnego cuda Turismo Classic, które zaprojektowano, by przenieść cię do lat, gdy benzyna była tania, powłoka ozonowa gruba, a gliny mniej trzeźwe od ciebie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/.dds",
+        "filesize": 2048
+    }
+}

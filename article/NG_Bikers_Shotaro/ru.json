@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511527,"title":"","headline":"GTA Online","subtitle":"Nagasaki Shotaro","content":"Пока вы ждали, что наступит будущее, оно уже умчалось от вас по дороге. Абсолютно неважно, что Shotaro может мчаться по Вайнвуду быстрее, чем гепатит B – на таком красивом байке вы будете есть, спать и трахаться, сутками не слезая с него. Вы сможете купить его после того, как сыграете один раунд в новом режиме противоборства «Дедлайн».","url":"","image":{"path":"sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Shotaro/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nagasaki Shotaro",
+    "content": "Пока вы ждали, что наступит будущее, оно уже умчалось от вас по дороге. Абсолютно неважно, что Shotaro может мчаться по Вайнвуду быстрее, чем гепатит B – на таком красивом байке вы будете есть, спать и трахаться, сутками не слезая с него. Вы сможете купить его после того, как сыграете один раунд в новом режиме противоборства «Дедлайн».",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Shotaro/.dds",
+        "filesize": 2048
+    }
+}

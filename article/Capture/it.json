@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1387464318,"headline":"GTA Online","subtitle":"Modalità di gioco Cattura disponibile","content":"Cattura, l'ultima novità tra le modalità a squadre di Grand Theft Auto Online, è disponibile da ora.<br /><br />Con 20 nuove attività da svolgere in 4 modalità uniche, questa interpretazione in stile GTA del classico 'Cattura la bandiera' porterà gli scontri di Los Santos e Blaine County a un livello superiore.<br /><br />Le nuove attività saranno accessibili da Freemode dopo aver scaricato l'aggiornamento più recente di GTA Online.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Capture/65664_Capture_Mode_Portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1387464318,
+    "headline": "GTA Online",
+    "subtitle": "Modalità di gioco Cattura disponibile",
+    "content": "Cattura, l'ultima novità tra le modalità a squadre di Grand Theft Auto Online, è disponibile da ora.<br /><br />Con 20 nuove attività da svolgere in 4 modalità uniche, questa interpretazione in stile GTA del classico 'Cattura la bandiera' porterà gli scontri di Los Santos e Blaine County a un livello superiore.<br /><br />Le nuove attività saranno accessibili da Freemode dopo aver scaricato l'aggiornamento più recente di GTA Online.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Capture/65664_Capture_Mode_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

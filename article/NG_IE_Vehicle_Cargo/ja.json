@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543226,"title":"","headline":"GTA Online","subtitle":"車両取引","content":"乗り物用倉庫をお持ちのCEOは、オフィスのセキュリサーブ端末を通じて「車両取引」ミッションにアクセスできます。さらにクリックひとつで高級車を盗み、ハイリスクな配送ミッションでライバルたちをかわせば、多額の利益を手にできます。","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Vehicle_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543226,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "車両取引",
+    "content": "乗り物用倉庫をお持ちのCEOは、オフィスのセキュリサーブ端末を通じて「車両取引」ミッションにアクセスできます。さらにクリックひとつで高級車を盗み、ハイリスクな配送ミッションでライバルたちをかわせば、多額の利益を手にできます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/.dds",
+        "filesize": 2048
+    }
+}

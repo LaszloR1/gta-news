@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452581,"title":"","headline":"GTA Online","subtitle":"Palmo a palmo","content":"Demuestra tu agilidad en este nuevo modo Adversario. Dos equipos luchan por la posesión de un paquete e intentan entregarlo tras la línea del contrario. Cuando sujetes el paquete no tendrás sitio para llevar un arma, así que dependerás del fuego de cobertura de tus compañeros de equipo para poder llegar a la meta. Si no puedes soportar la presión, siempre puedes soltar el paquete y dejar que un compañero de equipo se haga cargo. Ganará el equipo con mayor puntuación.","url":"","image":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Palmo a palmo",
+    "content": "Demuestra tu agilidad en este nuevo modo Adversario. Dos equipos luchan por la posesión de un paquete e intentan entregarlo tras la línea del contrario. Cuando sujetes el paquete no tendrás sitio para llevar un arma, así que dependerás del fuego de cobertura de tus compañeros de equipo para poder llegar a la meta. Si no puedes soportar la presión, siempre puedes soltar el paquete y dejar que un compañero de equipo se haga cargo. Ganará el equipo con mayor puntuación.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

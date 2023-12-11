@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455263,"title":"","headline":"GTA Online","subtitle":"商战任务","content":"洛圣都迎来了新型战争。商战任务是您掌控更多产品，获得稳健现金流的不二机遇，如果您拥有一个夜总会仓库，就把它加入您的库存。不过小心点，因为这座城市中的每个凶徒和暴徒都有相同的机会，他们可不会在乎合作之类的鬼话。","url":"","image":{"path":"sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455263,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "商战任务",
+    "content": "洛圣都迎来了新型战争。商战任务是您掌控更多产品，获得稳健现金流的不二机遇，如果您拥有一个夜总会仓库，就把它加入您的库存。不过小心点，因为这座城市中的每个凶徒和暴徒都有相同的机会，他们可不会在乎合作之类的鬼话。",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

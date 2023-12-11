@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1501588032,"title":"","headline":"GTA Online","subtitle":"HVY 인서전트 픽업 커스텀","content":"로스 산토스에서 한가닥하는 분이라면 멈출 수 없는 가속도와 초중기갑 방탄 장갑, .50구경의 마법이 주는 쾌락에 익숙할 겁니다. 바로 HVY 인서전트가 주는 쾌락이죠. 그런데 이번에 그놈을 한층 더 강하게 할 방법이 생겼습니다. 이동식 작전 본부의 이동 수단 작업실을 보유하고, 기지에서 필수 연구를 완료하면, .50구경 머신건을 미니건으로 교체하고 특별한 장갑 개조를 할 수 있습니다.","url":"","image":{"path":"sc/news/GR_Insurgent_Pick_Up_v2/262272_Insurgent_Pickup_Custom.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1501588032,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HVY 인서전트 픽업 커스텀",
+    "content": "로스 산토스에서 한가닥하는 분이라면 멈출 수 없는 가속도와 초중기갑 방탄 장갑, .50구경의 마법이 주는 쾌락에 익숙할 겁니다. 바로 HVY 인서전트가 주는 쾌락이죠. 그런데 이번에 그놈을 한층 더 강하게 할 방법이 생겼습니다. 이동식 작전 본부의 이동 수단 작업실을 보유하고, 기지에서 필수 연구를 완료하면, .50구경 머신건을 미니건으로 교체하고 특별한 장갑 개조를 할 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Insurgent_Pick_Up_v2/262272_Insurgent_Pickup_Custom.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976513,"title":"","headline":"GTA Online","subtitle":"Nowe wyposażenie taktyczne","content":"Ammu-Nation wprowadza do sprzedaży najnowsze wyposażenie taktyczne – m.in. pistolety sygnałowe, zestawy łączności i wiele, wiele innych.<br /><br />Do nabycia jest także szeroki wybór nowej odzieży – ubierzcie się jednolicie bądź różnorodnie. Każdy znajdzie coś dla siebie (pod warunkiem, że lubicie napady z bronią w ręku).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Tactical_Gear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976513,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nowe wyposażenie taktyczne",
+    "content": "Ammu-Nation wprowadza do sprzedaży najnowsze wyposażenie taktyczne – m.in. pistolety sygnałowe, zestawy łączności i wiele, wiele innych.<br /><br />Do nabycia jest także szeroki wybór nowej odzieży – ubierzcie się jednolicie bądź różnorodnie. Każdy znajdzie coś dla siebie (pod warunkiem, że lubicie napady z bronią w ręku).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/.dds",
+        "filesize": 2048
+    }
+}

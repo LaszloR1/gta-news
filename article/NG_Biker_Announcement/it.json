@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1474282374,"title":"","headline":"GTA Online","subtitle":"GTA Online: Centauri in arrivo il 4 ottobre","content":"Centauri, il prossimo aggiornamento per GTA Online, introdurrà la possibilità di fondare e gestire il proprio MC, con un massimo di 8 membri. In arrivo nuovi ruoli, da presidente dell'MC a prospect, e un grande elenco di nuove attività competitive e in cooperativa, oltre a nuove moto, nuove proprietà con meccanico personale per ospitare la clubhouse del proprio MC, e nuovi posti in cui svolgere operazioni non proprio lecite.<br /><br />Visita rockstargames.com/it/newswire per maggiori informazioni.","url":"","image":{"path":"sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Biker_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1474282374,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Centauri in arrivo il 4 ottobre",
+    "content": "Centauri, il prossimo aggiornamento per GTA Online, introdurrà la possibilità di fondare e gestire il proprio MC, con un massimo di 8 membri. In arrivo nuovi ruoli, da presidente dell'MC a prospect, e un grande elenco di nuove attività competitive e in cooperativa, oltre a nuove moto, nuove proprietà con meccanico personale per ospitare la clubhouse del proprio MC, e nuovi posti in cui svolgere operazioni non proprio lecite.<br /><br />Visita rockstargames.com/it/newswire per maggiori informazioni.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Biker_Announcement/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608039612,"title":"","headline":"GTA Online","subtitle":"Combat Shotgun","content":"Nothing settles negotiations like the words “unreasonably efficient semi-automatic shotgun”. The Combat Shotgun is now stocked by Ammu-Nation.","url":"","image":{"path":"sc/news/42c279a88c4e4d5d885c3ea0/262272_GTAO_IslandHeist_BigFeed_Combat_Shotgun.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608039612,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Combat Shotgun",
+    "content": "Nothing settles negotiations like the words “unreasonably efficient semi-automatic shotgun”. The Combat Shotgun is now stocked by Ammu-Nation.",
+    "url": "",
+    "image": {
+        "path": "sc/news/42c279a88c4e4d5d885c3ea0/262272_GTAO_IslandHeist_BigFeed_Combat_Shotgun.dds",
+        "filesize": 262272
+    }
+}

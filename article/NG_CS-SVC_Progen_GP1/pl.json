@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423897,"title":"","headline":"GTA Online","subtitle":"Progen GP1","content":"Zdarzało się już Wam flirtować z krągłymi wozami koncepcyjnymi, słodkimi prototypowymi ścigaczami i mocno modyfikowanymi autami wyścigowymi, ale trudno Was zaspokoić. Jeśli chcecie w końcu znaleźć tę jedyną, to wybór jest prosty: Progen GP1. Już dostępny w GTA Online od Legendary Motorsport.","url":"","image":{"path":"sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Progen_GP1/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423897,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Progen GP1",
+    "content": "Zdarzało się już Wam flirtować z krągłymi wozami koncepcyjnymi, słodkimi prototypowymi ścigaczami i mocno modyfikowanymi autami wyścigowymi, ale trudno Was zaspokoić. Jeśli chcecie w końcu znaleźć tę jedyną, to wybór jest prosty: Progen GP1. Już dostępny w GTA Online od Legendary Motorsport.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/.dds",
+        "filesize": 2048
+    }
+}

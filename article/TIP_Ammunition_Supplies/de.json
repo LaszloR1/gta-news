@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569643,"headline":"Online-Tipp","subtitle":"Munitions-Nachschub","content":"Wenn dein Munitionsvorrat zur Neige geht, du aber nicht extra einen Ammu-Nation-Laden aufsuchen willst, kannst du ihn auch auf dem Lobby-Bildschirm vor Beginn eines Jobs auffüllen.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569643,
+    "headline": "Online-Tipp",
+    "subtitle": "Munitions-Nachschub",
+    "content": "Wenn dein Munitionsvorrat zur Neige geht, du aber nicht extra einen Ammu-Nation-Laden aufsuchen willst, kannst du ihn auch auf dem Lobby-Bildschirm vor Beginn eines Jobs auffüllen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313471,"title":"","headline":"GTA Online","subtitle":"Freemode in tutta tranquillità","content":"Se preferisci una vita tranquilla, puoi scegliere di essere escluso da determinati eventi o attività, personalizzando la tua esperienza Freemode. Accedi a Nascondi opzioni nel menu Interazione e scegli quali opzioni nascondere o mostrare. Nascondendo un evento o un'attività, non riceverai più le relative notifiche e potrai giocare indisturbato. E se in seguito ci ripensi, puoi riattivarle in qualsiasi momento.","url":"","image":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Freemode in tutta tranquillità",
+    "content": "Se preferisci una vita tranquilla, puoi scegliere di essere escluso da determinati eventi o attività, personalizzando la tua esperienza Freemode. Accedi a Nascondi opzioni nel menu Interazione e scegli quali opzioni nascondere o mostrare. Nascondendo un evento o un'attività, non riceverai più le relative notifiche e potrai giocare indisturbato. E se in seguito ci ripensi, puoi riattivarle in qualsiasi momento.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/.dds",
+        "filesize": 2048
+    }
+}

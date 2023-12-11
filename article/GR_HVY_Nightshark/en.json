@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1502188220,"title":"","headline":"GTA Online","subtitle":"HVY Nightshark","content":"There’s nothing quite like the sound of twin machine guns on a crisp morning to bring a smile to the face of even the most jaded gunrunner. But let’s face it, sometimes you want to unleash that hail of bullets in peace and comfort - and that’s where the HVY Nightshark comes in. Crowd-proof, bullet-proof, recession-proof, with front-facing machine guns as standard: this is the real business class.","url":"","image":{"path":"sc/news/GR_HVY_Nightshark/262272_HVY-Nightshark.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1502188220,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HVY Nightshark",
+    "content": "There’s nothing quite like the sound of twin machine guns on a crisp morning to bring a smile to the face of even the most jaded gunrunner. But let’s face it, sometimes you want to unleash that hail of bullets in peace and comfort - and that’s where the HVY Nightshark comes in. Crowd-proof, bullet-proof, recession-proof, with front-facing machine guns as standard: this is the real business class.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_HVY_Nightshark/262272_HVY-Nightshark.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

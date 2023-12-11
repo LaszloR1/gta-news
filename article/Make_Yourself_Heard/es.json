@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991728,"headline":"Consejo en línea","subtitle":"Haz que te oigan","content":"Ponte unos auriculares para disfrutar al máximo de GTA Online y hazte amigo de otros delincuentes para que te ayuden a desfasar por Los Santos.<br /><br />El icono del altavoz, junto al nombre de un jugador, indica que dispone de auriculares. Pero no te preocupes, si te encuentras en una sesión con un jugador con la respiración pesada o con algún otro indeseable, puedes silenciarlo con solo mostrar su ficha de jugador en el menú Online > Jugadores y elegir Silenciar.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991728,
+    "headline": "Consejo en línea",
+    "subtitle": "Haz que te oigan",
+    "content": "Ponte unos auriculares para disfrutar al máximo de GTA Online y hazte amigo de otros delincuentes para que te ayuden a desfasar por Los Santos.<br /><br />El icono del altavoz, junto al nombre de un jugador, indica que dispone de auriculares. Pero no te preocupes, si te encuentras en una sesión con un jugador con la respiración pesada o con algún otro indeseable, puedes silenciarlo con solo mostrar su ficha de jugador en el menú Online > Jugadores y elegir Silenciar.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds",
+        "filesize": 65664
+    }
+}

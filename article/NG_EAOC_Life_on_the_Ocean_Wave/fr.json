@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175058,"title":"","headline":"GTA Online","subtitle":"Sur l'océan","content":"C'est plus qu'un yacht : c'est un palace flottant ! Le yacht de luxe Galaxy est maintenant disponible à l'achat chez Docktease. Vous aurez la possibilité de le personnaliser de bien des manières, et pourrez profiter de son espace pour amarrer des bateaux, de ses plates-formes d'atterrissage pour hélicoptères et de son intérieur luxueux. Jetez l'ancre dans l'un des nombreux mouillages pittoresques autour de Los Santos et Blaine County.","url":"","image":{"path":"sc/news/NG_EAOC_Life_on_the_Ocean_Wave/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Life_on_the_Ocean_Wave/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175058,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sur l'océan",
+    "content": "C'est plus qu'un yacht : c'est un palace flottant ! Le yacht de luxe Galaxy est maintenant disponible à l'achat chez Docktease. Vous aurez la possibilité de le personnaliser de bien des manières, et pourrez profiter de son espace pour amarrer des bateaux, de ses plates-formes d'atterrissage pour hélicoptères et de son intérieur luxueux. Jetez l'ancre dans l'un des nombreux mouillages pittoresques autour de Los Santos et Blaine County.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Life_on_the_Ocean_Wave/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Life_on_the_Ocean_Wave/.dds",
+        "filesize": 2048
+    }
+}

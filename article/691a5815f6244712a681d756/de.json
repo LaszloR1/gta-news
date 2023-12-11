@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"So erhältst du das LSD-Labor","content":"Du kannst entweder alle sechs Missionen aus The First Dose abschließen, um den MTL Brickadeµ6x6 kostenlos freizuschalten, der im Freakshop zu einem funktionierenden LSD-Labor umgebaut werden kann. Oder du stürzt dich direkt ins LSD-Geschäft, indem du dir den MTL Brickadeµ6x6 direkt auf der Website von Warstock Cacheµ& Carry holst.<br /><br />Sobald du das Fahrzeug besitzt, kannst du es im freien Modus über das Interaktionsmenü anfordern. Ansonsten wartet es im Freakshop auf dich.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds","filesize":262272},"button":"Geh zur “Warstock Cache & Carry“-Website"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "So erhältst du das LSD-Labor",
+    "content": "Du kannst entweder alle sechs Missionen aus The First Dose abschließen, um den MTL Brickadeµ6x6 kostenlos freizuschalten, der im Freakshop zu einem funktionierenden LSD-Labor umgebaut werden kann. Oder du stürzt dich direkt ins LSD-Geschäft, indem du dir den MTL Brickadeµ6x6 direkt auf der Website von Warstock Cacheµ& Carry holst.<br /><br />Sobald du das Fahrzeug besitzt, kannst du es im freien Modus über das Interaktionsmenü anfordern. Ansonsten wartet es im Freakshop auf dich.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Geh zur “Warstock Cache & Carry“-Website"
+}

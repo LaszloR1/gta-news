@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493046303,"title":"","headline":"GTA Online","subtitle":"Miniaturowe wyścigi","content":"Wspomnij stare, dobre dni podczas szalonego i wybuchowego wyścigu w stylu retro w nowym trybie adwersarza. Ściga się do czterech graczy, kamera umiejscowiona jest z lotu ptaka, a zasada jest tylko jedna: jeśli zostaniesz za bardzo z tyłu, to już po tobie. Wychodzi na to, że jednak jeszcze takie robią.","url":"","image":{"path":"sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Tiny_Racers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493046303,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Miniaturowe wyścigi",
+    "content": "Wspomnij stare, dobre dni podczas szalonego i wybuchowego wyścigu w stylu retro w nowym trybie adwersarza. Ściga się do czterech graczy, kamera umiejscowiona jest z lotu ptaka, a zasada jest tylko jedna: jeśli zostaniesz za bardzo z tyłu, to już po tobie. Wychodzi na to, że jednak jeszcze takie robią.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Tiny_Racers/.dds",
+        "filesize": 2048
+    }
+}

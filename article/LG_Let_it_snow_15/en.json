@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453826,"title":"","headline":"GTA Online","subtitle":"Let it snow","content":"Keep an eye on the skies, the forecast calls for snow around Christmas and New Year’s in San Andreas.~n~~n~You don’t need to resist the temptation to start throwing the white stuff around - you can now make and throw snowballs.~n~~n~Press ~INPUT_DETONATE~, to collect snowballs, and aim and throw them like any other projectile weapon.<br /><br />And be sure to look out for gifts from Santa under the tree today to help celebrate the Holiday Season with a bang.","url":"","image":{"path":"sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Let_it_snow_15/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453826,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Let it snow",
+    "content": "Keep an eye on the skies, the forecast calls for snow around Christmas and New Year’s in San Andreas.~n~~n~You don’t need to resist the temptation to start throwing the white stuff around - you can now make and throw snowballs.~n~~n~Press ~INPUT_DETONATE~, to collect snowballs, and aim and throw them like any other projectile weapon.<br /><br />And be sure to look out for gifts from Santa under the tree today to help celebrate the Holiday Season with a bang.",
+    "url": "",
+    "image": {
+        "path": "sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Let_it_snow_15/.dds",
+        "filesize": 2048
+    }
+}

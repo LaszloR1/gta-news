@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1426615623,"title":"","headline":"GTA Online","subtitle":"強盗に素早く参加","content":"携帯電話の「クイックジョブ」から強盗に直接参加しましょう。<br /><br />強盗が始まるまでフリーモードに留まりたい場合は「待機で参加」を選択、ロビーに即座に入り強盗メンバーに会いたい場合は「直接ロビーに参加」を選択しましょう。","url":" www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Quickly_Join_A_Heist/65664_Last_gen_ifruit_phone2.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Quickly_Join_A_Heist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1426615623,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "強盗に素早く参加",
+    "content": "携帯電話の「クイックジョブ」から強盗に直接参加しましょう。<br /><br />強盗が始まるまでフリーモードに留まりたい場合は「待機で参加」を選択、ロビーに即座に入り強盗メンバーに会いたい場合は「直接ロビーに参加」を選択しましょう。",
+    "url": " www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Quickly_Join_A_Heist/65664_Last_gen_ifruit_phone2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Quickly_Join_A_Heist/.dds",
+        "filesize": 2048
+    }
+}

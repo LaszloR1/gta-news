@@ -1,1 +1,20 @@
-{"types":["newswire","transition"],"date":1411060292,"title":"18 ноября","headline":"Grand Theft Auto V и GTA Online.","subtitle":"Grand Theft Auto V выходит на новых платформах","content":"Теперь мир GTA V и GTA Online стал еще реалистичнее. Помимо увеличенной дальности прорисовки и высокого разрешения вы получите:<br /><br />новое оружие, новые транспортные средства и новые дела;<br />новые виды животных;<br />возросшее число машин на дорогах, новую систему отображения травы и листьев;<br />переработанные погодные эффекты, а также многое другое.<br /><br />Все, кто оформил предзаказ, получат 1 000 000 долларов GTA для Grand Theft Auto V и GTA Online.","url":"www.rockstargames.com/newswire","image":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1411060292,
+    "title": "18 ноября",
+    "headline": "Grand Theft Auto V и GTA Online.",
+    "subtitle": "Grand Theft Auto V выходит на новых платформах",
+    "content": "Теперь мир GTA V и GTA Online стал еще реалистичнее. Помимо увеличенной дальности прорисовки и высокого разрешения вы получите:<br /><br />новое оружие, новые транспортные средства и новые дела;<br />новые виды животных;<br />возросшее число машин на дорогах, новую систему отображения травы и листьев;<br />переработанные погодные эффекты, а также многое другое.<br /><br />Все, кто оформил предзаказ, получат 1 000 000 долларов GTA для Grand Theft Auto V и GTA Online.",
+    "url": "www.rockstargames.com/newswire",
+    "image": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_256x512_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/NG_release_date_announce/65664_65664_bigfeed_512x256_landscape.dds",
+        "filesize": 65664
+    }
+}

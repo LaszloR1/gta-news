@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1678444626,"title":"Los Santos Drug Wars","headline":"Juega ahora la Primera dosis","subtitle":"Juega ahora la Primera dosis","content":"Vive la experiencia de la Primera dosis, si aún no lo has hecho, antes de que llegue a su fin.<br /><br />Dirígete al condado de Blaine y responde a la llamada de Ron Jakowski para comenzar el primer capítulo de la saga.<br /><br />La Última dosis estará disponible el 16 de marzo.","url":"","image":{"path":"sc/news/bb758c1cca314a40bc4742ed/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678444626,
+    "title": "Los Santos Drug Wars",
+    "headline": "Juega ahora la Primera dosis",
+    "subtitle": "Juega ahora la Primera dosis",
+    "content": "Vive la experiencia de la Primera dosis, si aún no lo has hecho, antes de que llegue a su fin.<br /><br />Dirígete al condado de Blaine y responde a la llamada de Ron Jakowski para comenzar el primer capítulo de la saga.<br /><br />La Última dosis estará disponible el 16 de marzo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/bb758c1cca314a40bc4742ed/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds",
+        "filesize": 262272
+    }
+}

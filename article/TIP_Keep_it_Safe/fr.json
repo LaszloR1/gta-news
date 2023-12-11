@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380468160,"headline":"Astuce en ligne","subtitle":"Argent à l'abri","content":"Protégez votre argent durement gagné en le déposant sur votre compte bancaire grâce aux nombreux distributeurs de billets disponibles à Los Santos. Utilisez l'option 'GPS rapide' du menu Interaction pour trouver rapidement un distributeur. Vous pouvez aussi effectuer des opérations bancaires avec votre téléphone sur www.maze-bank.com.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380468160,
+    "headline": "Astuce en ligne",
+    "subtitle": "Argent à l'abri",
+    "content": "Protégez votre argent durement gagné en le déposant sur votre compte bancaire grâce aux nombreux distributeurs de billets disponibles à Los Santos. Utilisez l'option 'GPS rapide' du menu Interaction pour trouver rapidement un distributeur. Vous pouvez aussi effectuer des opérations bancaires avec votre téléphone sur www.maze-bank.com.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

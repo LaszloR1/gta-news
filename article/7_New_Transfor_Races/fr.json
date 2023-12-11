@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223126,"title":"","headline":"GTA Online","subtitle":"7µnouvelles courses polymorphes","content":"Découvrez les sept nouvelles courses polymorphes créées par Rockstar et remportez des GTA$ et RP doublés jusqu'au 11µjuin.","url":"","image":{"path":"sc/news/7_New_Transfor_Races/349672_Transform-Races-2018_Layouts_BigFeed_V02.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "7µnouvelles courses polymorphes",
+    "content": "Découvrez les sept nouvelles courses polymorphes créées par Rockstar et remportez des GTA$ et RP doublés jusqu'au 11µjuin.",
+    "url": "",
+    "image": {
+        "path": "sc/news/7_New_Transfor_Races/349672_Transform-Races-2018_Layouts_BigFeed_V02.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

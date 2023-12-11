@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543270,"title":"","headline":"GTA Online","subtitle":"Spezialfahrzeuge","content":"Sobald du dich als talentierter und engagierter Lieferant von fast legalen Fahrzeugen erwiesen hast, wird dich SecuroServ mit ein paar exklusiveren Aufträgen betrauen. Die Akquise dieser seltenen, ungewöhnlichen und gesetzlich verbotenen Fahrzeuge ist keine leichte Aufgabe, bringt aber entsprechende Belohnungen mit sich.<br /><br />Und sobald du dein Können als professioneller Beschaffer gezeigt hast, kannst du auch zum SecuroServ-Einkaufspreis zuschlagen, falls du eines für dich selbst haben willst.","url":"","image":{"path":"sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Special_Vehicles/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543270,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Spezialfahrzeuge",
+    "content": "Sobald du dich als talentierter und engagierter Lieferant von fast legalen Fahrzeugen erwiesen hast, wird dich SecuroServ mit ein paar exklusiveren Aufträgen betrauen. Die Akquise dieser seltenen, ungewöhnlichen und gesetzlich verbotenen Fahrzeuge ist keine leichte Aufgabe, bringt aber entsprechende Belohnungen mit sich.<br /><br />Und sobald du dein Können als professioneller Beschaffer gezeigt hast, kannst du auch zum SecuroServ-Einkaufspreis zuschlagen, falls du eines für dich selbst haben willst.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Special_Vehicles/.dds",
+        "filesize": 2048
+    }
+}

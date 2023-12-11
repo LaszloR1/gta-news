@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1696600561,"title":"GTA Online","headline":"GTA Online","subtitle":"Arranca la temporada de Halloween en Los Santos","content":"El terror reina en el sur de San Andreas, ya que una serie de personajes sedientos de sangre han llegado a GTA Online. Enfréntate a una colección de los rivales más macabros, como asesinos, payasos y agentes del FIB durante estas cuatro próximas semanas de pura maldad.<br /><br />A medida que se acerca Halloween, verás eventos espeluznantes, sucesos paranormales, coleccionables horripilantes y mucho más durante todo el mes.","url":"","image":{"path":"sc/news/22554ec6e3c24f6a9014674a/262272_GTAO_370_LeadAssetHalloweenMonth_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1696600561,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Arranca la temporada de Halloween en Los Santos",
+    "content": "El terror reina en el sur de San Andreas, ya que una serie de personajes sedientos de sangre han llegado a GTA Online. Enfréntate a una colección de los rivales más macabros, como asesinos, payasos y agentes del FIB durante estas cuatro próximas semanas de pura maldad.<br /><br />A medida que se acerca Halloween, verás eventos espeluznantes, sucesos paranormales, coleccionables horripilantes y mucho más durante todo el mes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/22554ec6e3c24f6a9014674a/262272_GTAO_370_LeadAssetHalloweenMonth_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

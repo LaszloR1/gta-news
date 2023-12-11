@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471087,"title":"","headline":"Astuce en ligne","subtitle":"Customisation","content":"Les habitants de Los Santos sont très fiers de leurs voitures. Les longues heures qu'ils passent au volant peuvent être source de tranquillité loin de leurs familles autant que de crainte face à la rage des autres automobilistes. Bien sûr, il est essentiel de donner une apparence unique à son véhicule. Si vous avez envie de vous essayer au tuning, allez faire un tour chez Los Santos Customs pour exprimer votre individualité en customisant les roues, la couleur, la carrosserie et bien plus.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471087,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Customisation",
+    "content": "Les habitants de Los Santos sont très fiers de leurs voitures. Les longues heures qu'ils passent au volant peuvent être source de tranquillité loin de leurs familles autant que de crainte face à la rage des autres automobilistes. Bien sûr, il est essentiel de donner une apparence unique à son véhicule. Si vous avez envie de vous essayer au tuning, allez faire un tour chez Los Santos Customs pour exprimer votre individualité en customisant les roues, la couleur, la carrosserie et bien plus.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/.dds",
+        "filesize": 2048
+    }
+}

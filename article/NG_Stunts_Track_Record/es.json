@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324900,"title":"","headline":"GTA Online","subtitle":"Batiendo récords","content":"El mundo de GTA Online está repleto de acrobacias, por lo que necesitarás vehículos con muchísimos caballos de potencia si quieres estar a la altura. Por suerte, hay una serie de vehículos nuevos muy potentes que incluyen todo lo que necesitas, desde el diseño vanguardista del RE-7B a la increíble bestialidad del Trophy Truck de Vapid. Nosotros nos encargamos de satisfacer tus deseos, por muy retorcidos que sean.","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Batiendo récords",
+    "content": "El mundo de GTA Online está repleto de acrobacias, por lo que necesitarás vehículos con muchísimos caballos de potencia si quieres estar a la altura. Por suerte, hay una serie de vehículos nuevos muy potentes que incluyen todo lo que necesitas, desde el diseño vanguardista del RE-7B a la increíble bestialidad del Trophy Truck de Vapid. Nosotros nos encargamos de satisfacer tus deseos, por muy retorcidos que sean.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

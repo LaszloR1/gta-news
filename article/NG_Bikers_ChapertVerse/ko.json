@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515532,"title":"","headline":"GTA Online","subtitle":"의리에 목숨을 걸어보십시오","content":"클럽하우스를 구입하여 모터사이클 클럽의 창립자이자 두목이 되어 최대 7명의 단원을 고용해 보십시오. 모터사이클 클럽은 다양한 기회와 특수한 역할을 제공합니다. 부두목은 누구로 하겠습니까? 집행자는요? 하나가 되어 움직이면 여러분의 MC는 아무도 막을 수 없을 겁니다.","url":"","image":{"path":"sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChapertVerse/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515532,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "의리에 목숨을 걸어보십시오",
+    "content": "클럽하우스를 구입하여 모터사이클 클럽의 창립자이자 두목이 되어 최대 7명의 단원을 고용해 보십시오. 모터사이클 클럽은 다양한 기회와 특수한 역할을 제공합니다. 부두목은 누구로 하겠습니까? 집행자는요? 하나가 되어 움직이면 여러분의 MC는 아무도 막을 수 없을 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/.dds",
+        "filesize": 2048
+    }
+}

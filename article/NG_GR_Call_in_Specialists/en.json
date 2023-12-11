@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917446,"title":"","headline":"GTA Online","subtitle":"Call in the Specialists","content":"A new breed of mobile weaponry means a whole new frontier of criminal enterprise. Once you’re all set up with a gunrunning business and you’re keeping it regularly resupplied, keep an eye out for some new business opportunities coming your way via Weaponized Vehicle Missions.","url":"","image":{"path":"sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Call_in_Specialists/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917446,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Call in the Specialists",
+    "content": "A new breed of mobile weaponry means a whole new frontier of criminal enterprise. Once you’re all set up with a gunrunning business and you’re keeping it regularly resupplied, keep an eye out for some new business opportunities coming your way via Weaponized Vehicle Missions.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

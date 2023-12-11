@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349484,"title":"","headline":"GTA Online","subtitle":"Новые тачки","content":"На новом сайте Бенни со скидкой продаются два новеньких маслкара, а также другие любимые тачки Бенни, которые можно модифицировать в его мастерской. <br /><br />Приподнимите шасси вашего Willard Faction, поставив на него крутую гидравлику, или оснастите Declasse Moonbeam скользящими дверями, чтобы пассажирам было удобнее стрелять.","url":"","image":{"path":"sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_New_Rides/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349484,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Новые тачки",
+    "content": "На новом сайте Бенни со скидкой продаются два новеньких маслкара, а также другие любимые тачки Бенни, которые можно модифицировать в его мастерской. <br /><br />Приподнимите шасси вашего Willard Faction, поставив на него крутую гидравлику, или оснастите Declasse Moonbeam скользящими дверями, чтобы пассажирам было удобнее стрелять.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_New_Rides/.dds",
+        "filesize": 2048
+    }
+}

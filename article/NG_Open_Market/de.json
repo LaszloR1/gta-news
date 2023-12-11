@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1492522655,"title":"","headline":"GTA Online","subtitle":"Freier Markt","content":"Eine Reihe beliebter Fahrzeuge, die es bisher nur für zurückkehrende Spieler gab, ist jetzt auf dem freien Markt erhältlich.<br /><br />Der Marshall-Monstertruck, das Wasserflugzeug Dodo und das Tauchboot Kraken stehen jedem aufstrebenden Kriminellen mit dem nötigen Kleingeld zur Verfügung.<br /><br />Und brandneu in GTA Online: Der bedrohliche Duke O'Death ist jetzt bei Warstock erhältlich und sorgt bei Retro-Überlebenskünstlern in ganz San Andreas für postapokalyptische feuchte Träume.","url":"","image":{"path":"sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Open_Market/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1492522655,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Freier Markt",
+    "content": "Eine Reihe beliebter Fahrzeuge, die es bisher nur für zurückkehrende Spieler gab, ist jetzt auf dem freien Markt erhältlich.<br /><br />Der Marshall-Monstertruck, das Wasserflugzeug Dodo und das Tauchboot Kraken stehen jedem aufstrebenden Kriminellen mit dem nötigen Kleingeld zur Verfügung.<br /><br />Und brandneu in GTA Online: Der bedrohliche Duke O'Death ist jetzt bei Warstock erhältlich und sorgt bei Retro-Überlebenskünstlern in ganz San Andreas für postapokalyptische feuchte Träume.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Open_Market/.dds",
+        "filesize": 2048
+    }
+}

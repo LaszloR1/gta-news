@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436353979,"title":"","headline":"GTA Online","subtitle":"認真賣命","content":"手指虎是武裝國度最新進的一批武器，這種武器非常適合用來以近戰的方式和敵人「溝通」。<br /><br />另外武裝國度也新進了射手手槍，這款手槍的威力可能比霰彈槍要來得強大。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436353979,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "認真賣命",
+    "content": "手指虎是武裝國度最新進的一批武器，這種武器非常適合用來以近戰的方式和敵人「溝通」。<br /><br />另外武裝國度也新進了射手手槍，這款手槍的威力可能比霰彈槍要來得強大。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

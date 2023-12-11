@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1495792312,"title":"","headline":"GTA Online","subtitle":"Новые скидки и вдвое больше GTA $ и RP до 12 июня","content":"Магазины по всему Лос-Сантосу предлагают щедрые скидки, включая скидку 25% на следующие товары:<br /><br />- Яхты, офисы и гаражи<br />- Imponte Ruiner 2000 и Coil Rocket Voltic<br />- Танк Rhino и пикап HVY Insurgent<br /><br />А также не забывайте про особый транспорт из обновления «Импорт/Экспорт», ведь до 12 июня включительно за задания для особого транспорта вы сможете получить вдвое больше GTA $ и RP.<br /><br />Подробности в новостной ленте Rockstar.","url":"","image":{"path":"sc/news/NG_Event_Week_26_5_17/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Event_Week_26_5_17/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1495792312,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Новые скидки и вдвое больше GTA $ и RP до 12 июня",
+    "content": "Магазины по всему Лос-Сантосу предлагают щедрые скидки, включая скидку 25% на следующие товары:<br /><br />- Яхты, офисы и гаражи<br />- Imponte Ruiner 2000 и Coil Rocket Voltic<br />- Танк Rhino и пикап HVY Insurgent<br /><br />А также не забывайте про особый транспорт из обновления «Импорт/Экспорт», ведь до 12 июня включительно за задания для особого транспорта вы сможете получить вдвое больше GTA $ и RP.<br /><br />Подробности в новостной ленте Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Event_Week_26_5_17/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Event_Week_26_5_17/.dds",
+        "filesize": 2048
+    }
+}

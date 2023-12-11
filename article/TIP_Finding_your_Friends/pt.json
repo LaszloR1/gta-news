@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470204,"title":"","headline":"Dica online","subtitle":"Encontrando os amigos","content":"Você entrará automaticamente em sessões de jogo aberto contendo os seus amigos. Se você se encontrar em um jogo sem eles, pode ser porque já estejam em um Serviço. Se não gosta de estar sozinho e não quer conhecer outras pessoas, você pode juntar-se aos seus amigos nos seus Serviços facilmente através da aba Amigos, no Menu de Pausa. Selecione um amigo online e, depois, 'Entrar no jogo' para juntar-se à ação.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Finding_your_Friends/262272_FindingFreinds.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Finding_your_Friends/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470204,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Encontrando os amigos",
+    "content": "Você entrará automaticamente em sessões de jogo aberto contendo os seus amigos. Se você se encontrar em um jogo sem eles, pode ser porque já estejam em um Serviço. Se não gosta de estar sozinho e não quer conhecer outras pessoas, você pode juntar-se aos seus amigos nos seus Serviços facilmente através da aba Amigos, no Menu de Pausa. Selecione um amigo online e, depois, 'Entrar no jogo' para juntar-se à ação.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Finding_your_Friends/262272_FindingFreinds.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Finding_your_Friends/.dds",
+        "filesize": 2048
+    }
+}

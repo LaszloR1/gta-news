@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1381831713,"headline":"Online Tip","subtitle":"Your Phone Is Your Friend","content":"Your phone will connect you to available Jobs and opportunities.<br /><br />Check the Job List in your phone – it will almost always have something new available, including Job invitations from other players, or Jobs from Contacts in need of your help. If you're stuck for something to do, this is the quickest way to find ‘gainful’ employment.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Phone_Your_Friend/65664_Your_Phone_Is_Your_Friend_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831713,
+    "headline": "Online Tip",
+    "subtitle": "Your Phone Is Your Friend",
+    "content": "Your phone will connect you to available Jobs and opportunities.<br /><br />Check the Job List in your phone – it will almost always have something new available, including Job invitations from other players, or Jobs from Contacts in need of your help. If you're stuck for something to do, this is the quickest way to find ‘gainful’ employment.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Phone_Your_Friend/65664_Your_Phone_Is_Your_Friend_portrait.dds",
+        "filesize": 65664
+    }
+}

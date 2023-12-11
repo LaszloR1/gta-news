@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811018,"title":"","headline":"Dica online","subtitle":"Atalhos para lançamento de serviços","content":"Quando receber um convite de Serviço, segure o direcional para cima para aceitar sem precisar pegar o telefone e abrir a lista de Serviços.~n~~n~Quando estiver com o mapa do Menu Pausa aberto, pode lançar qualquer Marcador de Serviço no mapa destacando-o e apertando ~INPUT_FRONTEND_X~ .","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811018,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Atalhos para lançamento de serviços",
+    "content": "Quando receber um convite de Serviço, segure o direcional para cima para aceitar sem precisar pegar o telefone e abrir a lista de Serviços.~n~~n~Quando estiver com o mapa do Menu Pausa aberto, pode lançar qualquer Marcador de Serviço no mapa destacando-o e apertando ~INPUT_FRONTEND_X~ .",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/.dds",
+        "filesize": 2048
+    }
+}

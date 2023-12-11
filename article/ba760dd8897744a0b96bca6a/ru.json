@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1698338782,"title":"","headline":"GTA Online","subtitle":"Хэллоуинский транспорт снова в игре","content":"Хорошенько испугайте водителей на шоссе Дель-Перро за рулем снова вернувшихся в игру транспортных средств: Albany Fränken Stange (классический спорткар, скидка 50%), LCC Sanctus (мотоцикл, скидка 40%), катафалк Chariot (седан, скидка 50%), Albany Lurcher (масклар, скидка 40%), Declasse Tornado Rat Rod (классический спорткар, скидка 50%).","url":"","image":{"path":"sc/news/ba760dd8897744a0b96bca6a/262272_GTAO_373_AlbanyFranken_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1698338782,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Хэллоуинский транспорт снова в игре",
+    "content": "Хорошенько испугайте водителей на шоссе Дель-Перро за рулем снова вернувшихся в игру транспортных средств: Albany Fränken Stange (классический спорткар, скидка 50%), LCC Sanctus (мотоцикл, скидка 40%), катафалк Chariot (седан, скидка 50%), Albany Lurcher (масклар, скидка 40%), Declasse Tornado Rat Rod (классический спорткар, скидка 50%).",
+    "url": "",
+    "image": {
+        "path": "sc/news/ba760dd8897744a0b96bca6a/262272_GTAO_373_AlbanyFranken_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

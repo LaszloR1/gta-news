@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511526,"title":"","headline":"GTA Online","subtitle":"Nagasaki Shotaro","content":"The future isn’t right around the corner. It’s already a mile down the road. It doesn’t matter that the Shotaro can make its way across uptown Vinewood faster than Hep B – with looks like these, you’d be eating, sleeping and screwing on it 24/7 anyway. Available to purchase once you’ve played a round of the new Adversary Mode, Deadline.","url":"","image":{"path":"sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Shotaro/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511526,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nagasaki Shotaro",
+    "content": "The future isn’t right around the corner. It’s already a mile down the road. It doesn’t matter that the Shotaro can make its way across uptown Vinewood faster than Hep B – with looks like these, you’d be eating, sleeping and screwing on it 24/7 anyway. Available to purchase once you’ve played a round of the new Adversary Mode, Deadline.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Shotaro/.dds",
+        "filesize": 2048
+    }
+}

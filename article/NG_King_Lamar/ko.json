@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349316,"title":"","headline":"GTA Online","subtitle":"황제 라마","content":"라마 데이비스가 로스 산토스의 로우라이더 무대를 정복하려는 계획을 세우고 있습니다. 그리고 자신을 왕으로 만들어 줄 충성스러운 부하를 찾고 있죠. 8개의 새로운 연락책 임무를 라마의 전화를 받고 지시에 따라 완료하여 왕좌를 향한 라마의 여정을 도우십시오.","url":"","image":{"path":"sc/news/NG_King_Lamar/262272_King_Lamar.dds","filesize":262272},"landscape":{"path":"sc/news/NG_King_Lamar/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349316,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "황제 라마",
+    "content": "라마 데이비스가 로스 산토스의 로우라이더 무대를 정복하려는 계획을 세우고 있습니다. 그리고 자신을 왕으로 만들어 줄 충성스러운 부하를 찾고 있죠. 8개의 새로운 연락책 임무를 라마의 전화를 받고 지시에 따라 완료하여 왕좌를 향한 라마의 여정을 도우십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_King_Lamar/262272_King_Lamar.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_King_Lamar/.dds",
+        "filesize": 2048
+    }
+}

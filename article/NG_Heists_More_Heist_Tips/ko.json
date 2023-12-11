@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977617,"title":"","headline":"GTA Online","subtitle":"범죄의 제왕이 주는 습격 팁(추가):","content":"습격이 어렵다면 다음의 조언을 더 참고하십시오:<br /><br />- 비행이 어렵습니까? 비행 공포증이 있는 것 같습니까? 로스 산토스 공항에서 찾을 수 있는 산 안드레아스 비행 학교에서 비행 실력을 키우십시오.<br />- 화력이 부족합니까? 아뮤네이션의 신규 상품은 랭킹 제한이 없습니다. 아뮤네이션의 오른쪽 벽에서 최신 DLC 재고를 둘러보고 작업에 적합한 장비를 갖추십시오.<br />- 모든 무기 업그레이드를 활용하십시오. 특히 소음기는 은신해야 하는 작전에 꼭 필요합니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_More_Heist_Tips/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977617,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "범죄의 제왕이 주는 습격 팁(추가):",
+    "content": "습격이 어렵다면 다음의 조언을 더 참고하십시오:<br /><br />- 비행이 어렵습니까? 비행 공포증이 있는 것 같습니까? 로스 산토스 공항에서 찾을 수 있는 산 안드레아스 비행 학교에서 비행 실력을 키우십시오.<br />- 화력이 부족합니까? 아뮤네이션의 신규 상품은 랭킹 제한이 없습니다. 아뮤네이션의 오른쪽 벽에서 최신 DLC 재고를 둘러보고 작업에 적합한 장비를 갖추십시오.<br />- 모든 무기 업그레이드를 활용하십시오. 특히 소음기는 은신해야 하는 작전에 꼭 필요합니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/.dds",
+        "filesize": 2048
+    }
+}

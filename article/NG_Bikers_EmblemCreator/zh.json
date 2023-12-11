@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515792,"title":"","headline":"GTA Online","subtitle":"SocialµClubµ徽記編輯器","content":"每個摩托幫都需要一個代表他們的榮譽勳章，您的摩托幫也不例外。SocialµClubµ徽記編輯器現在新增了多種摩托幫主題的圖樣和設計，讓您盡情揮灑創意，您也可以利用各種新選項讓您的現有作品更添新意。第一印象十分重要，所以千萬別輕忽。","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SocialµClubµ徽記編輯器",
+    "content": "每個摩托幫都需要一個代表他們的榮譽勳章，您的摩托幫也不例外。SocialµClubµ徽記編輯器現在新增了多種摩托幫主題的圖樣和設計，讓您盡情揮灑創意，您也可以利用各種新選項讓您的現有作品更添新意。第一印象十分重要，所以千萬別輕忽。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

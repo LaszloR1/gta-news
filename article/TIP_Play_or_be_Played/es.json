@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469518,"title":"","headline":"Consejo en línea","subtitle":"Jugar o ser jugado","content":"Desafía a tus amigos, rivales y desconocidos para que tomen parte en una serie de actividades. ¡A ver quién se pone en cabeza!<br /><br />Elige una de nuestras listas de partidas de Rockstar para ver los últimos contenidos o crea la tuya propia. Abre el menú en línea y selecciona 'Listas de partidas'. Mezcla y combina contenidos y pasa de una carrera a una partida a muerte o una misión, todo ello sin interrupciones.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Play_or_be_Played/65664_play_or_be_played.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Play_or_be_Played/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469518,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Jugar o ser jugado",
+    "content": "Desafía a tus amigos, rivales y desconocidos para que tomen parte en una serie de actividades. ¡A ver quién se pone en cabeza!<br /><br />Elige una de nuestras listas de partidas de Rockstar para ver los últimos contenidos o crea la tuya propia. Abre el menú en línea y selecciona 'Listas de partidas'. Mezcla y combina contenidos y pasa de una carrera a una partida a muerte o una misión, todo ello sin interrupciones.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Play_or_be_Played/65664_play_or_be_played.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Play_or_be_Played/.dds",
+        "filesize": 2048
+    }
+}

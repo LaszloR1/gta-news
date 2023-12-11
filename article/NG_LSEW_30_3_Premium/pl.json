@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241233,"title":"","headline":"GTA Online","subtitle":"Premie GTA Online: wyścig kaskaderski premium (30.09-3.10)","content":"Aktualny wyścig kaskaderski premium daje do pieca. Od dzisiaj możecie brać udział w motocyklowym „Dopalaczu”, który zapewnia potrójne premie RP oraz daje szanse na wygranie solidnej gotówki w grze. Aby wziąć w nim udział, wystarczy wejść w żółty znacznik wyścigu premium na Legion Square albo skorzystać z aplikacji Szybka akcja w telefonie.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241233,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Premie GTA Online: wyścig kaskaderski premium (30.09-3.10)",
+    "content": "Aktualny wyścig kaskaderski premium daje do pieca. Od dzisiaj możecie brać udział w motocyklowym „Dopalaczu”, który zapewnia potrójne premie RP oraz daje szanse na wygranie solidnej gotówki w grze. Aby wziąć w nim udział, wystarczy wejść w żółty znacznik wyścigu premium na Legion Square albo skorzystać z aplikacji Szybka akcja w telefonie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/.dds",
+        "filesize": 2048
+    }
+}

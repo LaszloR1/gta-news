@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515530,"title":"","headline":"GTA Online","subtitle":"Chapter und Gesetz","content":"Kaufe dir ein Clubhaus und werde zum Gründer und President eines Motorradclubs, der bis zu sieben Rekruten aufnehmen kann. Motorradclubs bieten eine Vielzahl von Möglichkeiten und besondere Positionen: Wer wird dein Vice President sein? Und dein Enforcer? Wenn ihr zusammen arbeitet, wird niemand euren MC aufhalten können.","url":"","image":{"path":"sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChapertVerse/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515530,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Chapter und Gesetz",
+    "content": "Kaufe dir ein Clubhaus und werde zum Gründer und President eines Motorradclubs, der bis zu sieben Rekruten aufnehmen kann. Motorradclubs bieten eine Vielzahl von Möglichkeiten und besondere Positionen: Wer wird dein Vice President sein? Und dein Enforcer? Wenn ihr zusammen arbeitet, wird niemand euren MC aufhalten können.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/.dds",
+        "filesize": 2048
+    }
+}

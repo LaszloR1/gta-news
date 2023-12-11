@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485958773,"title":"","headline":"GTA Online","subtitle":"Modalità a GTA$ doppi, uffici in offerta e altro: 31/01 - 13/02","content":"Sfoga la rabbia repressa in tre modalità Competizione che nelle prossime due settimane metteranno in palio GTA$ e RP doppi:<br /><br />- Juggernaut<br />- Vendetta su ruote<br />- Beati vs Dannati<br /><br />È anche il momento ideale per aumentare il tuo prestigio, con lo sconto del 50% sugli uffici, del 25% sui magazzini veicoli e ulteriori offerte su veicoli, armi e altro ancora.<br /><br />Visita il Newswire di Rockstar per ulteriori dettagli.","url":"","image":{"path":"sc/news/NG_Event_Bonuses_31_13/349672_bigFeed-juggernaut.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Event_Bonuses_31_13/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485958773,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Modalità a GTA$ doppi, uffici in offerta e altro: 31/01 - 13/02",
+    "content": "Sfoga la rabbia repressa in tre modalità Competizione che nelle prossime due settimane metteranno in palio GTA$ e RP doppi:<br /><br />- Juggernaut<br />- Vendetta su ruote<br />- Beati vs Dannati<br /><br />È anche il momento ideale per aumentare il tuo prestigio, con lo sconto del 50% sugli uffici, del 25% sui magazzini veicoli e ulteriori offerte su veicoli, armi e altro ancora.<br /><br />Visita il Newswire di Rockstar per ulteriori dettagli.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Event_Bonuses_31_13/349672_bigFeed-juggernaut.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Event_Bonuses_31_13/.dds",
+        "filesize": 2048
+    }
+}

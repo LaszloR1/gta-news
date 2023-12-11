@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1500974809,"title":"","headline":"GTA Online","subtitle":"Pegassi Torero","content":"Como diría cualquier historiador, el Pegassi Torero supuso un cambio de paradigma. Atrás quedaron la aerodinámica sensata, las concesiones al uso diario y las inciertas pretensiones de que ibas a ceñirte al límite de velocidad, que fueron sustituidas por un estilo vanguardista, un desprecio total a lo práctico y un rendimiento brutal. La historia la escriben los ganadores, y solo hay una forma de pertenecer a ellos.","url":"","image":{"path":"sc/news/GR_Pegassi_Torero/262272_Pegassi_Torero.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1500974809,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Torero",
+    "content": "Como diría cualquier historiador, el Pegassi Torero supuso un cambio de paradigma. Atrás quedaron la aerodinámica sensata, las concesiones al uso diario y las inciertas pretensiones de que ibas a ceñirte al límite de velocidad, que fueron sustituidas por un estilo vanguardista, un desprecio total a lo práctico y un rendimiento brutal. La historia la escriben los ganadores, y solo hay una forma de pertenecer a ellos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Pegassi_Torero/262272_Pegassi_Torero.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

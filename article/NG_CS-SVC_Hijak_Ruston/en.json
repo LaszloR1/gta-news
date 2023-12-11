@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490020146,"title":"","headline":"GTA Online","subtitle":"Hijak Ruston","content":"Sick of crashing the same old track racers into the first corner? Try something a little different with the Hijak Ruston, a new concept car from the very edge of the edge that’ll have the haters spluttering in its lightly radioactive exhaust. This is one for the pioneers.<br />","url":"","image":{"path":"sc/news/NG_CS-SVC_Hijak_Ruston/262272_Ruston.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS-SVC_Hijak_Ruston/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490020146,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hijak Ruston",
+    "content": "Sick of crashing the same old track racers into the first corner? Try something a little different with the Hijak Ruston, a new concept car from the very edge of the edge that’ll have the haters spluttering in its lightly radioactive exhaust. This is one for the pioneers.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Hijak_Ruston/262272_Ruston.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Hijak_Ruston/.dds",
+        "filesize": 2048
+    }
+}

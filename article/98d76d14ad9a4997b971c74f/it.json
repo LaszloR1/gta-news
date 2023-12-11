@@ -1,1 +1,16 @@
-{"types":["priority"],"date":1676561637,"title":"","headline":"GTA Online","subtitle":"Il garage multipiano di Eclipse Blvd","content":"È ora di migliorare e rendere giustizia alla tua collezione di veicoli. Il nuovo garage multipiano si trova su Eclipse Boulevard, a Los Santos, può ospitare fino a 50 veicoli e offre una serie di comfort in cinque spaziosissimi piani.<br /><br />Questo nuovo e lussuoso rifugio veicolare e sociale è ora acquistabile in GTA Online direttamente dal sito di Dynasty 8 in gioco. Gli abbonati a GTA+ possono riscattarlo gratis fino al 15 marzo.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE","image":{"path":"sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds","filesize":262272},"button":"Vai sul sito di Dynasty 8"}
+{
+    "types": [
+        "priority"
+    ],
+    "date": 1676561637,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Il garage multipiano di Eclipse Blvd",
+    "content": "È ora di migliorare e rendere giustizia alla tua collezione di veicoli. Il nuovo garage multipiano si trova su Eclipse Boulevard, a Los Santos, può ospitare fino a 50 veicoli e offre una serie di comfort in cinque spaziosissimi piani.<br /><br />Questo nuovo e lussuoso rifugio veicolare e sociale è ora acquistabile in GTA Online direttamente dal sito di Dynasty 8 in gioco. Gli abbonati a GTA+ possono riscattarlo gratis fino al 15 marzo.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_PROPERTY arg=MULTISTOREY_GARAGE",
+    "image": {
+        "path": "sc/news/98d76d14ad9a4997b971c74f/262272_GTAO337_LeadGarage_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Vai sul sito di Dynasty 8"
+}

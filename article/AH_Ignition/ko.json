@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455435,"title":"","headline":"GTA Online","subtitle":"시동을 거세요","content":"귀를 기울이면 클럽의 DJ 말고도 로스 산토스를 진동시키는 게 있단 걸 알 수 있습니다. 심야 영업 출시와 함께 길거리에서 화음을 이룰 친구들이 있습니다. 완전히 업그레이드된 MTL 파운더 커스텀의 고삐 풀린 굉음과 패트리어트 스트레치의 무시무시한 포효, 오셀럿 스윙어의 편안한 그르릉 소리를 기대하세요. 아 참, 페스티벌 버스도 잊으면 안 되겠죠...","url":"","image":{"path":"sc/news/AH_Ignition/349672_Big_Feed_Only_Ignition.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455435,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "시동을 거세요",
+    "content": "귀를 기울이면 클럽의 DJ 말고도 로스 산토스를 진동시키는 게 있단 걸 알 수 있습니다. 심야 영업 출시와 함께 길거리에서 화음을 이룰 친구들이 있습니다. 완전히 업그레이드된 MTL 파운더 커스텀의 고삐 풀린 굉음과 패트리어트 스트레치의 무시무시한 포효, 오셀럿 스윙어의 편안한 그르릉 소리를 기대하세요. 아 참, 페스티벌 버스도 잊으면 안 되겠죠...",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Ignition/349672_Big_Feed_Only_Ignition.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

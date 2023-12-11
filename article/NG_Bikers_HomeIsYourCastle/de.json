@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515629,"title":"","headline":"GTA Online","subtitle":"Trautes Heim","content":"Am Anfang ist es vielleicht noch irgendein zwangsversteigertes Loch, aber bald wird dir dein MC-Clubhaus viel mehr bedeuten.<br /><br />Du kannst dem Gebäude deinen persönlichen Stil verpassen, angefangen von einem wandfüllenden Gemälde bis hin zu einer komplett ausgestatteten, hauseigenen Werkstatt für deine Maschinen. Deine Crew kann hier jederzeit abhängen.<br /><br />Außerdem kümmerst du dich von hier aus um MC-Missionen und die Unternehmensführung.","url":"","image":{"path":"sc/news/NG_Bikers_HomeIsYourCastle/262272_MazeForeclosure.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_HomeIsYourCastle/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515629,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Trautes Heim",
+    "content": "Am Anfang ist es vielleicht noch irgendein zwangsversteigertes Loch, aber bald wird dir dein MC-Clubhaus viel mehr bedeuten.<br /><br />Du kannst dem Gebäude deinen persönlichen Stil verpassen, angefangen von einem wandfüllenden Gemälde bis hin zu einer komplett ausgestatteten, hauseigenen Werkstatt für deine Maschinen. Deine Crew kann hier jederzeit abhängen.<br /><br />Außerdem kümmerst du dich von hier aus um MC-Missionen und die Unternehmensführung.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_HomeIsYourCastle/262272_MazeForeclosure.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_HomeIsYourCastle/.dds",
+        "filesize": 2048
+    }
+}

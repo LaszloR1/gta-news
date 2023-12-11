@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1408452488,"title":"","headline":"Aktualizacja GTA Online","subtitle":"Spadanie na śniadanie","content":"Podnieś swoje spadochronowe hobby na wyższy poziom i kup sobie w Ammu-Nation zapasowy spadochron. Do wyboru jest wiele rodzajów czasz, dymu i plecaków. ~n~~n~Spadochron podstawowy można odciąć za pomocą ~INPUT_FRONTEND_Y~. Aby otworzyć spadochron zapasowy, naciśnij ~INPUT_FRONTEND_ACCEPT~.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Chuting_Up/65664_chuting_up.dds","filesize":65664},"landscape":{"path":"sc/news/Chuting_Up/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452488,
+    "title": "",
+    "headline": "Aktualizacja GTA Online",
+    "subtitle": "Spadanie na śniadanie",
+    "content": "Podnieś swoje spadochronowe hobby na wyższy poziom i kup sobie w Ammu-Nation zapasowy spadochron. Do wyboru jest wiele rodzajów czasz, dymu i plecaków. ~n~~n~Spadochron podstawowy można odciąć za pomocą ~INPUT_FRONTEND_Y~. Aby otworzyć spadochron zapasowy, naciśnij ~INPUT_FRONTEND_ACCEPT~.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Chuting_Up/65664_chuting_up.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Chuting_Up/.dds",
+        "filesize": 2048
+    }
+}

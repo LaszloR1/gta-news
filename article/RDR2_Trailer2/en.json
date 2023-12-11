@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1506609933,"title":"RED DEAD REDEMPTION II","headline":"RED DEAD REDEMPTION II","subtitle":"Watch the New Trailer","content":"Watch the all-new trailer for Red Dead Redemption 2, the story of outlaw Arthur Morgan and the Van der Linde gang as they rob, fight and steal their way across the vast and rugged heart of America in order to survive. Coming Spring 2018.<br /><br />See it at rockstargames.com","url":"","image":{"path":"sc/news/RDR2_Trailer2/349672_bigfeed-VF.dds","filesize":349672},"style":"rdr"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1506609933,
+    "title": "RED DEAD REDEMPTION II",
+    "headline": "RED DEAD REDEMPTION II",
+    "subtitle": "Watch the New Trailer",
+    "content": "Watch the all-new trailer for Red Dead Redemption 2, the story of outlaw Arthur Morgan and the Van der Linde gang as they rob, fight and steal their way across the vast and rugged heart of America in order to survive. Coming Spring 2018.<br /><br />See it at rockstargames.com",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_Trailer2/349672_bigfeed-VF.dds",
+        "filesize": 349672
+    },
+    "style": "rdr"
+}

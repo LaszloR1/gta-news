@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916657,"title":"","headline":"GTA Online","subtitle":"冷血時尚","content":"在本季，洛聖都的精品商店和理髮沙龍已準備好為您打造傭兵劫後餘生的最新時尚：迷彩大衣、舊軍用貝雷帽、重裝軍靴、嗜血風格刺青，還有俐落短髮。佛要金裝，人要衣裝，您得好好打扮，送他們走上最後一程。","url":"","image":{"path":"sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Cold_blooded_Chic/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916657,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "冷血時尚",
+    "content": "在本季，洛聖都的精品商店和理髮沙龍已準備好為您打造傭兵劫後餘生的最新時尚：迷彩大衣、舊軍用貝雷帽、重裝軍靴、嗜血風格刺青，還有俐落短髮。佛要金裝，人要衣裝，您得好好打扮，送他們走上最後一程。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999983,"title":"","headline":"GTA Online","subtitle":"Nada que declarar","content":"El negocio del transporte aéreo está lleno de oportunidades, pero esto es Los Santos y tienes que ser proactivo, así que, para empezar, necesitas un nuevo hangar para aeronaves. Inicia sesión en la aplicación Free Trade Shipping, consigue la mercancía y cierra la venta. Si eso te parece fácil, recuerda que el resto de traficantes del estado tienen un claro interés por robarte lo que te pertenece, o por lo menos ver cómo se estrella en un mar de llamas.","url":"","image":{"path":"sc/news/SR_Nothing_To_Declare/262272_NothingToDeclare.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999983,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nada que declarar",
+    "content": "El negocio del transporte aéreo está lleno de oportunidades, pero esto es Los Santos y tienes que ser proactivo, así que, para empezar, necesitas un nuevo hangar para aeronaves. Inicia sesión en la aplicación Free Trade Shipping, consigue la mercancía y cierra la venta. Si eso te parece fácil, recuerda que el resto de traficantes del estado tienen un claro interés por robarte lo que te pertenece, o por lo menos ver cómo se estrella en un mar de llamas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Nothing_To_Declare/262272_NothingToDeclare.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

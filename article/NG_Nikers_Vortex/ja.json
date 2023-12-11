@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477402323,"title":"","headline":"GTA Online","subtitle":"ペガッシµボルテックス","content":"革を身にまとったビンテージ・レーサーになるか、モダンなスピードフリークになるか迷っていませんか？幸いなことに、ペガッシがその両立に成功しました。新しいボルテックスは新旧のスタイルを大胆に融合させ、優柔不断なあなたの夢を叶えます。これで笑みがこぼれない人はいないでしょう。","url":"","image":{"path":"sc/news/NG_Nikers_Vortex/262272_Vortex.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Nikers_Vortex/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477402323,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ペガッシµボルテックス",
+    "content": "革を身にまとったビンテージ・レーサーになるか、モダンなスピードフリークになるか迷っていませんか？幸いなことに、ペガッシがその両立に成功しました。新しいボルテックスは新旧のスタイルを大胆に融合させ、優柔不断なあなたの夢を叶えます。これで笑みがこぼれない人はいないでしょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Nikers_Vortex/262272_Vortex.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Nikers_Vortex/.dds",
+        "filesize": 2048
+    }
+}

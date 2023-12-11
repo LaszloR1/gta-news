@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973242,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Заначка Дж.","content":"Заначки Дж. будут отмечены на вашей карте. Отправляйтесь туда за припасами ежедневно.<br /><br />Как только вы окажетесь поблизости, ищите световой маячок и идите на звук сигнала, а затем расправьтесь с конкурентами, чтобы завладеть GTA $, боеприпасами и закусками.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds","filesize":524416},"button":"Найти заначку Дж. в свободном режиме"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973242,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Заначка Дж.",
+    "content": "Заначки Дж. будут отмечены на вашей карте. Отправляйтесь туда за припасами ежедневно.<br /><br />Как только вы окажетесь поблизости, ищите световой маячок и идите на звук сигнала, а затем расправьтесь с конкурентами, чтобы завладеть GTA $, боеприпасами и закусками.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds",
+        "filesize": 524416
+    },
+    "button": "Найти заначку Дж. в свободном режиме"
+}

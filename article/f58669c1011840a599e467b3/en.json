@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1641464928,"title":"Reward Claimed: GTA$200,000","headline":"Reward Claimed: GTA$200,000","subtitle":"For Completing a Round of Double Down","content":"Your GTA$200,000 Reward for playing Double Down between January 13 and January 19 has been deposited into your Maze Bank Account. <br /><br />Stay tuned to the Rockstar Newswire for more limited-time events coming soon.","url":"","image":{"path":"sc/news/f58669c1011840a599e467b3/349672_maze-bank-512x1024.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1641464928,
+    "title": "Reward Claimed: GTA$200,000",
+    "headline": "Reward Claimed: GTA$200,000",
+    "subtitle": "For Completing a Round of Double Down",
+    "content": "Your GTA$200,000 Reward for playing Double Down between January 13 and January 19 has been deposited into your Maze Bank Account. <br /><br />Stay tuned to the Rockstar Newswire for more limited-time events coming soon.",
+    "url": "",
+    "image": {
+        "path": "sc/news/f58669c1011840a599e467b3/349672_maze-bank-512x1024.dds",
+        "filesize": 349672
+    }
+}

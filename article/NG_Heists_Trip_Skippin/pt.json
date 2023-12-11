@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976048,"title":"","headline":"GTA Online","subtitle":"Pular viagem","content":"Quando você joga novamente certas missões e finais de Golpes, você pode pular a longa viagem até certas localizações.<br /><br />Você pode optar por pular a viagem quando:<br />-Toda a sua equipe do Golpe já realizou a missão atual<br />-Todos os jogadores que estão indo ao mesmo objetivo estão no mesmo veículo<br /><br />Avisamos que pular viagem irá diminuir o pagamento e impossibilita de participar em Desafios Bônus de elite. Se quiser participar, nada de atalhos.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Trip_Skippin/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976048,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pular viagem",
+    "content": "Quando você joga novamente certas missões e finais de Golpes, você pode pular a longa viagem até certas localizações.<br /><br />Você pode optar por pular a viagem quando:<br />-Toda a sua equipe do Golpe já realizou a missão atual<br />-Todos os jogadores que estão indo ao mesmo objetivo estão no mesmo veículo<br /><br />Avisamos que pular viagem irá diminuir o pagamento e impossibilita de participar em Desafios Bônus de elite. Se quiser participar, nada de atalhos.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/.dds",
+        "filesize": 2048
+    }
+}

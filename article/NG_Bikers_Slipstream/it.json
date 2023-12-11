@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519977,"title":"","headline":"GTA Online","subtitle":"La scia fa la forza","content":"È ora di mettere da parte il rude individualismo per partecipare a La scia fa la forza, la nuovissima modalità Competizione che renderà le strade di Los Santos ancora più interessanti. Si tratta di una gara a squadre con una particolarità: i checkpoint devono essere attraversati dall'intera squadra unita. Vince la prima squadra in grado di tagliare il traguardo in questo modo: restare in scia non è mai stato così essenziale!","url":"","image":{"path":"sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Slipstream/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519977,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La scia fa la forza",
+    "content": "È ora di mettere da parte il rude individualismo per partecipare a La scia fa la forza, la nuovissima modalità Competizione che renderà le strade di Los Santos ancora più interessanti. Si tratta di una gara a squadre con una particolarità: i checkpoint devono essere attraversati dall'intera squadra unita. Vince la prima squadra in grado di tagliare il traguardo in questo modo: restare in scia non è mai stato così essenziale!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Slipstream/.dds",
+        "filesize": 2048
+    }
+}

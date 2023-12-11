@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513941004,"title":"","headline":"GTA Online","subtitle":"Tueurs en série","content":"Dans ce nouveau mode rivalité de GTA Online, ne vous attendez pas à un combat équitable. Une équipe dispose de fusils à pompe et a la permission de satisfaire ses pulsions sanguinaires, tandis que l'autre équipe doit se contenter d'une lampe de poche et d'un profond sentiment de panique. La bonne nouvelle, c'est que les rôles sont inversés toutes les minutes. La vengeance sera douce, très douce. La dernière équipe en vie gagne.","url":"","image":{"path":"sc/news/DH_Slashers/262272_bigfeed-slashers.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513941004,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tueurs en série",
+    "content": "Dans ce nouveau mode rivalité de GTA Online, ne vous attendez pas à un combat équitable. Une équipe dispose de fusils à pompe et a la permission de satisfaire ses pulsions sanguinaires, tandis que l'autre équipe doit se contenter d'une lampe de poche et d'un profond sentiment de panique. La bonne nouvelle, c'est que les rôles sont inversés toutes les minutes. La vengeance sera douce, très douce. La dernière équipe en vie gagne.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Slashers/262272_bigfeed-slashers.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

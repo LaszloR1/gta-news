@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423791,"title":"","headline":"GTA Online","subtitle":"炫炮特技：特殊載具巡迴賽","content":"您參與過聖安地列斯的每一場特技競速，體驗過各個環狀賽道、跳台、髮夾彎和俯衝路段，也體驗過地下車庫內特殊載具的各種特殊能力，像是火箭衝鋒、降落傘及水陸兩棲。接下來呢？穿上特技車手服，搭上政府想禁也禁不了的特殊載具，參加µ20µ個專為特殊載具打造的全新特技競速吧！","url":"","image":{"path":"sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423791,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "炫炮特技：特殊載具巡迴賽",
+    "content": "您參與過聖安地列斯的每一場特技競速，體驗過各個環狀賽道、跳台、髮夾彎和俯衝路段，也體驗過地下車庫內特殊載具的各種特殊能力，像是火箭衝鋒、降落傘及水陸兩棲。接下來呢？穿上特技車手服，搭上政府想禁也禁不了的特殊載具，參加µ20µ個專為特殊載具打造的全新特技競速吧！",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

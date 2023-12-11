@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1387464319,"headline":"GTA Online","subtitle":"Modos de juego captura, ya disponibles","content":"Captura, la novedad más reciente en los modos por equipos de Grand Theft Auto Online, ya está disponible.<br /><br />Con 20 nuevas actividades y cuatro modos exclusivos, esta vuelta de tuerca de GTA a los clásicos enfrentamientos de 'capturar la bandera' supone un nuevo horizonte de acción hostil en el mundo de Los Santos y el condado de Blaine.<br /><br />Las nuevas actividades estarán disponibles en modo Libre cuando te descargues la última actualización gratuita de GTA Online.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Capture/65664_Capture_Mode_Portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1387464319,
+    "headline": "GTA Online",
+    "subtitle": "Modos de juego captura, ya disponibles",
+    "content": "Captura, la novedad más reciente en los modos por equipos de Grand Theft Auto Online, ya está disponible.<br /><br />Con 20 nuevas actividades y cuatro modos exclusivos, esta vuelta de tuerca de GTA a los clásicos enfrentamientos de 'capturar la bandera' supone un nuevo horizonte de acción hostil en el mundo de Los Santos y el condado de Blaine.<br /><br />Las nuevas actividades estarán disponibles en modo Libre cuando te descargues la última actualización gratuita de GTA Online.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Capture/65664_Capture_Mode_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

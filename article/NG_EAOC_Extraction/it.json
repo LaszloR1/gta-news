@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175129,"title":"","headline":"GTA Online","subtitle":"Estrazione","content":"Il jet di un dirigente è caduto nella parte sbagliata della città. Una squadra di Guardie del corpo dovrà raggiungere il Bersaglio nella zona di estrazione e portarlo in salvo. Nel frattempo, una squadra di Sicari cercherà di arrivare al Bersaglio per prima ed eliminarlo.","url":"","image":{"path":"sc/news/NG_EAOC_Extraction/262272_Extraction.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Extraction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175129,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Estrazione",
+    "content": "Il jet di un dirigente è caduto nella parte sbagliata della città. Una squadra di Guardie del corpo dovrà raggiungere il Bersaglio nella zona di estrazione e portarlo in salvo. Nel frattempo, una squadra di Sicari cercherà di arrivare al Bersaglio per prima ed eliminarlo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Extraction/262272_Extraction.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Extraction/.dds",
+        "filesize": 2048
+    }
+}

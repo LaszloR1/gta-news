@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349737,"title":"","headline":"GTA Online","subtitle":"GTA Online: Lowriders jetzt verfügbar","content":"Das neueste Update beinhaltet Benny's Original Motor Works, die einzige Werkstatt in Los Santos, die sich auf Lowrider-Kultur und -Modifikationen spezialisiert hat. Das Update bietet zudem zwei brandneue Autos sowie neue Waffen, Bekleidung, Tattoos und vieles mehr.<br /><br />Unterstütze Lamar in 8 neuen Kontaktmissionen im Kampf gegen die Gangs, um ihn zum König der Lowrider-Szene zu machen, oder versuche dich in 3 neuen Fahrzeug-basierten Gegner-Modi.<br /><br />Details findest du auf dem Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowriders_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349737,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Lowriders jetzt verfügbar",
+    "content": "Das neueste Update beinhaltet Benny's Original Motor Works, die einzige Werkstatt in Los Santos, die sich auf Lowrider-Kultur und -Modifikationen spezialisiert hat. Das Update bietet zudem zwei brandneue Autos sowie neue Waffen, Bekleidung, Tattoos und vieles mehr.<br /><br />Unterstütze Lamar in 8 neuen Kontaktmissionen im Kampf gegen die Gangs, um ihn zum König der Lowrider-Szene zu machen, oder versuche dich in 3 neuen Fahrzeug-basierten Gegner-Modi.<br /><br />Details findest du auf dem Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowriders_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

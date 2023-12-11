@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469967,"title":"","headline":"Astuce en ligne","subtitle":"Rallye","content":"Les rallyes sont un excellent moyen de tester vos talents de navigation. Jouez le rôle du copilote en guidant votre pilote aux yeux bandés sur le circuit, ou prenez le volant en croisant les doigts pour que votre copilote sache reconnaître sa droite de sa gauche.<br /><br />Vous pouvez faire de n'importe quelle course une course de Rallye en changeant les options dans le salon.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Rally_Race/87528_rally_race.dds","filesize":87528},"landscape":{"path":"sc/news/TIP_Rally_Race/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469967,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Rallye",
+    "content": "Les rallyes sont un excellent moyen de tester vos talents de navigation. Jouez le rôle du copilote en guidant votre pilote aux yeux bandés sur le circuit, ou prenez le volant en croisant les doigts pour que votre copilote sache reconnaître sa droite de sa gauche.<br /><br />Vous pouvez faire de n'importe quelle course une course de Rallye en changeant les options dans le salon.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Rally_Race/87528_rally_race.dds",
+        "filesize": 87528
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Rally_Race/.dds",
+        "filesize": 2048
+    }
+}

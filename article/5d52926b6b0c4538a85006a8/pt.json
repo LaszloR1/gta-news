@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1700751675,"title":"","headline":"GTA Online","subtitle":"Descontos de Black Friday","content":"Aproveite uma chuva de descontos de Black Friday até 28 de novembro:<br /><br />Mammoth Avenger (Avião) – 50% off<br />Super Iates Galaxy – 40% off<br />Modificações e melhorias de Super Iate Galaxy – 40% off<br />Benefactor Terrorbyte – 70% off<br />Progen PR4 (Roda Exposta) – 50% off<br />Benefactor BR8 (Roda Exposta) – 50% off<br />Ocelot Stromberg (Esportivo Clássico) – 50% off<br />TM-02 Khanjali (Militar) – 50% off<br />JoBuilt P-996 LAZER (Avião) – 25% off<br /><br />E mais! Confira no Boletim da Rockstar.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds","filesize":262272},"button":"Acesse a Warstock Cache & Carry"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1700751675,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descontos de Black Friday",
+    "content": "Aproveite uma chuva de descontos de Black Friday até 28 de novembro:<br /><br />Mammoth Avenger (Avião) – 50% off<br />Super Iates Galaxy – 40% off<br />Modificações e melhorias de Super Iate Galaxy – 40% off<br />Benefactor Terrorbyte – 70% off<br />Progen PR4 (Roda Exposta) – 50% off<br />Benefactor BR8 (Roda Exposta) – 50% off<br />Ocelot Stromberg (Esportivo Clássico) – 50% off<br />TM-02 Khanjali (Militar) – 50% off<br />JoBuilt P-996 LAZER (Avião) – 25% off<br /><br />E mais! Confira no Boletim da Rockstar.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Acesse a Warstock Cache & Carry"
+}

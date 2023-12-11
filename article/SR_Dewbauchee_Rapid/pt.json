@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1505227300,"title":"","headline":"GTA Online","subtitle":"Dewbauchee Rapid GT Clássico","content":"Para os verdadeiros conhecedores, o espírito agitado e vivo do design dos carros dos anos 80 nunca morreu - só tirou férias bem caras. Agora, depois de uma longa pausa da linha de produção, o Rapid GT Clássico voltou às ruas de Los Santos e acredite: os anos foram realmente muito gentis.","url":"","image":{"path":"sc/news/SR_Dewbauchee_Rapid/262272_RapidGT.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1505227300,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dewbauchee Rapid GT Clássico",
+    "content": "Para os verdadeiros conhecedores, o espírito agitado e vivo do design dos carros dos anos 80 nunca morreu - só tirou férias bem caras. Agora, depois de uma longa pausa da linha de produção, o Rapid GT Clássico voltou às ruas de Los Santos e acredite: os anos foram realmente muito gentis.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Dewbauchee_Rapid/262272_RapidGT.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

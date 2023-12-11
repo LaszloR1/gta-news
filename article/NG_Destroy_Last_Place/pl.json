@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349449,"title":"","headline":"GTA Online","subtitle":"Zniszcz pojazd na ostatnim miejscu","content":"W tej dynamicznej wariacji klasycznego wyścigu, w regularnych odstępach czasu eksploduje samochód będący na ostatnim miejscu. Gospodarz wyścigu może włączyć tę opcję w lobby dowolnego wyścigu, aby rozruszać nieco skostniałe towarzystwo.","url":"","image":{"path":"sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Destroy_Last_Place/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zniszcz pojazd na ostatnim miejscu",
+    "content": "W tej dynamicznej wariacji klasycznego wyścigu, w regularnych odstępach czasu eksploduje samochód będący na ostatnim miejscu. Gospodarz wyścigu może włączyć tę opcję w lobby dowolnego wyścigu, aby rozruszać nieco skostniałe towarzystwo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Destroy_Last_Place/.dds",
+        "filesize": 2048
+    }
+}

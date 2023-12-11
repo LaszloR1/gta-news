@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973242,"title":"로스 산토스 마약 전쟁","headline":"로스 산토스 마약 전쟁","subtitle":"제랄드의 캐시","content":"제랄드의 캐시가 지도에 표시됩니다. 매일 해당 장소로 가서 보급품을 찾아보세요.<br /><br />근처로 가서 번쩍이는 빨간 불빛과 삐 소리를 확인하세요. 경쟁자를 물리치면 상당한 양의 GTA 달러, 탄약, 스낵을 내 것으로 만들 수 있습니다.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds","filesize":524416},"button":"자유 모드에서 제랄드의 캐시 찾기"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973242,
+    "title": "로스 산토스 마약 전쟁",
+    "headline": "로스 산토스 마약 전쟁",
+    "subtitle": "제랄드의 캐시",
+    "content": "제랄드의 캐시가 지도에 표시됩니다. 매일 해당 장소로 가서 보급품을 찾아보세요.<br /><br />근처로 가서 번쩍이는 빨간 불빛과 삐 소리를 확인하세요. 경쟁자를 물리치면 상당한 양의 GTA 달러, 탄약, 스낵을 내 것으로 만들 수 있습니다.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds",
+        "filesize": 524416
+    },
+    "button": "자유 모드에서 제랄드의 캐시 찾기"
+}

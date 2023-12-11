@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515687,"title":"","headline":"GTA Online","subtitle":"Disfruta de la montura","content":"Echarse a la calle en una moto ahora tiene sus ventajas adicionales. Conduce en formación con el club para obtener una regeneración de salud acelerada y reparar tu moto. Y, cuando sea el momento de llegar a las manos, puedes llevar el combate cuerpo a cuerpo a un nuevo nivel dando a tus ataques un acelerón de 200 CV. Compite en justas con tus colegas moteros o espera a que desmonten para cargártelos, tú eliges.","url":"","image":{"path":"sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_MountUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515687,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Disfruta de la montura",
+    "content": "Echarse a la calle en una moto ahora tiene sus ventajas adicionales. Conduce en formación con el club para obtener una regeneración de salud acelerada y reparar tu moto. Y, cuando sea el momento de llegar a las manos, puedes llevar el combate cuerpo a cuerpo a un nuevo nivel dando a tus ataques un acelerón de 200 CV. Compite en justas con tus colegas moteros o espera a que desmonten para cargártelos, tú eliges.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_MountUp/.dds",
+        "filesize": 2048
+    }
+}

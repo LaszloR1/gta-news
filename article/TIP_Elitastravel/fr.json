@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381833781,"title":"","headline":"Astuce en ligne","subtitle":"Elitastravel.com","content":"Elitastravel est un vendeur d'hélicoptères et d'avions de luxe de San Andreas. Destinés uniquement au transport et au loisir, ces appareils ne sont pas armés. Rendez-vous sur Elitastravel.com via le navigateur de votre téléphone pour commander votre jet privé dès aujourd'hui !<br /><br />À la commande, vous pourrez planifier la livraison de votre appareil avec le service Pegasus ; le numéro du gardien est dans votre liste de contacts.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Elitastravel/262272_Elitastravel.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Elitastravel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381833781,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Elitastravel.com",
+    "content": "Elitastravel est un vendeur d'hélicoptères et d'avions de luxe de San Andreas. Destinés uniquement au transport et au loisir, ces appareils ne sont pas armés. Rendez-vous sur Elitastravel.com via le navigateur de votre téléphone pour commander votre jet privé dès aujourd'hui !<br /><br />À la commande, vous pourrez planifier la livraison de votre appareil avec le service Pegasus ; le numéro du gardien est dans votre liste de contacts.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Elitastravel/262272_Elitastravel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Elitastravel/.dds",
+        "filesize": 2048
+    }
+}

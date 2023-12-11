@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168344,"title":"","headline":"GTA Online","subtitle":"Vapid Ellie","content":"¿Recuerdas aquella vez que le echaste un pulso a tu abuelo y te diste cuenta de que era más fuerte, más rápido, más guapo y más encantador que tú? Pues prepárate para la segunda ronda, porque el Vapid Ellie se ha despertado después de cincuenta años de sueño reparador, y luce estupendamente.","url":"","image":{"path":"sc/news/SSASSS_Vapid_Ellie/349672_bigfeed-ellie.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168344,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Ellie",
+    "content": "¿Recuerdas aquella vez que le echaste un pulso a tu abuelo y te diste cuenta de que era más fuerte, más rápido, más guapo y más encantador que tú? Pues prepárate para la segunda ronda, porque el Vapid Ellie se ha despertado después de cincuenta años de sueño reparador, y luce estupendamente.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Vapid_Ellie/349672_bigfeed-ellie.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

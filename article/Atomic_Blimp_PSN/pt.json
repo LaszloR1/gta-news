@@ -1,1 +1,20 @@
-{"types":["newswire","store"],"date":1379146713,"headline":"Store","subtitle":"Dirigível da Atomic","content":"Se você comprou a sua cópia do GTAV na pré-venda, encontrará um código exclusivo em um envelope dentro da caixa do jogo. Não se esqueça de usar o código na PlayStation®Store para pode voar no Dirigível da Atomic por Los Santos.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "store"
+    ],
+    "date": 1379146713,
+    "headline": "Store",
+    "subtitle": "Dirigível da Atomic",
+    "content": "Se você comprou a sua cópia do GTAV na pré-venda, encontrará um código exclusivo em um envelope dentro da caixa do jogo. Não se esqueça de usar o código na PlayStation®Store para pode voar no Dirigível da Atomic por Los Santos.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1673623834,"title":"","headline":"GTA Online","subtitle":"THE GUN VAN","content":"Remember the ice cream truck of your childhood? Well, it’s time to meet its grown-up brother: The Gun Van. Boasting an everchanging menu of treats including new, exclusive, and existing weapons, throwables, ammo and armor at a discounted rate with no rank requirement. And before you ask, it’s as legal as your ice cream truck was hygienic.","url":"","image":{"path":"sc/news/90cd1a22d5e647be981ce088/262272_GTAO332_LeadGunVan_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1673623834,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "THE GUN VAN",
+    "content": "Remember the ice cream truck of your childhood? Well, it’s time to meet its grown-up brother: The Gun Van. Boasting an everchanging menu of treats including new, exclusive, and existing weapons, throwables, ammo and armor at a discounted rate with no rank requirement. And before you ask, it’s as legal as your ice cream truck was hygienic.",
+    "url": "",
+    "image": {
+        "path": "sc/news/90cd1a22d5e647be981ce088/262272_GTAO332_LeadGunVan_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880010,"title":"","headline":"GTA Online","subtitle":"Lazer","content":"Il Lazer è il primo, grande amore di ogni criminale. Bello, veloce e letale, è il caccia moderno per definizione. E ora, per la prima volta in assoluto, puoi possederne uno.","url":"","image":{"path":"sc/news/SR_Lazer/262272_P996Lazer.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lazer",
+    "content": "Il Lazer è il primo, grande amore di ogni criminale. Bello, veloce e letale, è il caccia moderno per definizione. E ora, per la prima volta in assoluto, puoi possederne uno.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Lazer/262272_P996Lazer.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

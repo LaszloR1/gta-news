@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"《洛圣都毒品战》","headline":"《洛圣都毒品战》","subtitle":"街头毒贩","content":"寻找街头毒贩，出售来自不同制造厂的毒品供应。<br /><br />注意，当您靠近这些毒贩时，他们每天都会出现在地图上的新位置。<br /><br />提示：每个街头毒贩都有心仪的毒品并愿为其支付高价，所以对俏货要趁热打铁以赚取最大利润。<br /><br /><br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds","filesize":262272},"button":"在自由模式中寻找街头毒贩"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "《洛圣都毒品战》",
+    "headline": "《洛圣都毒品战》",
+    "subtitle": "街头毒贩",
+    "content": "寻找街头毒贩，出售来自不同制造厂的毒品供应。<br /><br />注意，当您靠近这些毒贩时，他们每天都会出现在地图上的新位置。<br /><br />提示：每个街头毒贩都有心仪的毒品并愿为其支付高价，所以对俏货要趁热打铁以赚取最大利润。<br /><br /><br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "在自由模式中寻找街头毒贩"
+}

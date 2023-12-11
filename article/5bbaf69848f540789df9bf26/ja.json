@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867541,"title":"GTA+","headline":"GTA+","subtitle":"限定の衣料品","content":"GTA+メンバーは「Manor」スラーノジャケットと「SantoµCapra」×「Manor」のスーツとパンツを無料で受け取れます。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/5bbaf69848f540789df9bf26/262272_GTA_PlusTab_Mp16_FreeClothing_FINAL_BigFeed_ja_jp.dds","filesize":262272},"button":"選択してGTA+に登録"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867541,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "限定の衣料品",
+    "content": "GTA+メンバーは「Manor」スラーノジャケットと「SantoµCapra」×「Manor」のスーツとパンツを無料で受け取れます。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/5bbaf69848f540789df9bf26/262272_GTA_PlusTab_Mp16_FreeClothing_FINAL_BigFeed_ja_jp.dds",
+        "filesize": 262272
+    },
+    "button": "選択してGTA+に登録"
+}

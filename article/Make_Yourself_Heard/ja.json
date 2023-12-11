@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991728,"headline":"オンラインのヒント","subtitle":"自己主張しよう","content":"ヘッドセットをつけて、「GTAオンライン」を大いに楽しんでください。新しい犯罪仲間とともにロスサントスで暴れまくりましょう。<br /><br />プレイヤー名の隣にスピーカーアイコンが表示されていれば、ヘッドセットをつけていることを示します。しかし、心配無用です。セッションで苦戦、または良からぬ展開の場合、「オンライン」の「プレイヤー」メニューにあるプレイヤーカードから「ミュート」を選択すれば相手を黙らせることができます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991728,
+    "headline": "オンラインのヒント",
+    "subtitle": "自己主張しよう",
+    "content": "ヘッドセットをつけて、「GTAオンライン」を大いに楽しんでください。新しい犯罪仲間とともにロスサントスで暴れまくりましょう。<br /><br />プレイヤー名の隣にスピーカーアイコンが表示されていれば、ヘッドセットをつけていることを示します。しかし、心配無用です。セッションで苦戦、または良からぬ展開の場合、「オンライン」の「プレイヤー」メニューにあるプレイヤーカードから「ミュート」を選択すれば相手を黙らせることができます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds",
+        "filesize": 65664
+    }
+}

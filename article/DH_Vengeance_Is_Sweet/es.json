@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513097119,"title":"","headline":"GTA Online","subtitle":"La venganza es dulce","content":"Una fortaleza flotante, un laboratorio forense en el cielo, un generador de daños colaterales que escupe muerte: el Avenger es todo esto y más, una compra segura para los genios del crimen que buscan el objeto más aterrador que jamás ha surcado los cielos. Guárdalo en tus instalaciones, equípalo con un taller de vehículos o de armas y toda clase de alucinantes mejoras de armas, y pronto desatarás el caos a un nivel sin precedentes sin tener que aterrizar siquiera. ","url":"","image":{"path":"sc/news/DH_Vengeance_Is_Sweet/262272_plane_1.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513097119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La venganza es dulce",
+    "content": "Una fortaleza flotante, un laboratorio forense en el cielo, un generador de daños colaterales que escupe muerte: el Avenger es todo esto y más, una compra segura para los genios del crimen que buscan el objeto más aterrador que jamás ha surcado los cielos. Guárdalo en tus instalaciones, equípalo con un taller de vehículos o de armas y toda clase de alucinantes mejoras de armas, y pronto desatarás el caos a un nivel sin precedentes sin tener que aterrizar siquiera. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Vengeance_Is_Sweet/262272_plane_1.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380560620,"headline":"Newswire","subtitle":"Добро пожаловать в GTA Online","content":"Grand Theft Auto Online – это тщательно проработанный мир, который основывается на принципах GTA – свободе действий и сюжетном геймплее, – а также предлагает широкий выбор развлечений, в которых могут принимать участие сразу несколько игроков.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds","filesize":65664},"landscape":{"path":"sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380560620,
+    "headline": "Newswire",
+    "subtitle": "Добро пожаловать в GTA Online",
+    "content": "Grand Theft Auto Online – это тщательно проработанный мир, который основывается на принципах GTA – свободе действий и сюжетном геймплее, – а также предлагает широкий выбор развлечений, в которых могут принимать участие сразу несколько игроков.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds",
+        "filesize": 65664
+    }
+}

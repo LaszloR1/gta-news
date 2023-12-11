@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394813134,"headline":"온라인 팁","subtitle":"스턴트 점프","content":"하늘을 날기 위해 꼭 페가수스의 서비스를 이용할 필요는 없습니다. 로스 산토스 곳곳에 특별한 스턴트 점프대가 있으며, 이런 점프대에서 여러분은 잠시나마 비행의 즐거움을 만끽할 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Stunt_Jumps/87528_Stunt_Jumps.dds","filesize":87528}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394813134,
+    "headline": "온라인 팁",
+    "subtitle": "스턴트 점프",
+    "content": "하늘을 날기 위해 꼭 페가수스의 서비스를 이용할 필요는 없습니다. 로스 산토스 곳곳에 특별한 스턴트 점프대가 있으며, 이런 점프대에서 여러분은 잠시나마 비행의 즐거움을 만끽할 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Stunt_Jumps/87528_Stunt_Jumps.dds",
+        "filesize": 87528
+    }
+}

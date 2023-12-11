@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608659664,"title":"","headline":"GTA Online","subtitle":"Slip’s Up","content":"Thanks to all the tech buffs who helped Joy Orbison repair those broken antennas, Still Slipping Los Santos is now blaring out all across San Andreas. <br /><br />Tune in now to catch some beats.","url":"","image":{"path":"sc/news/e69ab264f0c94ab5adcde89f/262272_GTAO_IslandHeist_BigFeed_Slipping.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608659664,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Slip’s Up",
+    "content": "Thanks to all the tech buffs who helped Joy Orbison repair those broken antennas, Still Slipping Los Santos is now blaring out all across San Andreas. <br /><br />Tune in now to catch some beats.",
+    "url": "",
+    "image": {
+        "path": "sc/news/e69ab264f0c94ab5adcde89f/262272_GTAO_IslandHeist_BigFeed_Slipping.dds",
+        "filesize": 262272
+    }
+}

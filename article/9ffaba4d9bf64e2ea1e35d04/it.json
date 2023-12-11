@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140171,"title":"GTA+","headline":"GTA+","subtitle":"Abbigliamento esclusivo","content":"Gli abbonati a GTA+ possono travestirsi in modo terrificante e terrorizzare la popolazione locale riscattando i seguenti capi d'abbigliamento entro l'8 novembre:<br /><br />- Il completo chiuso strisce monocromatico<br />- Il completo integrale scheletro<br />- La maglietta PRB<br />- I pantaloncini PRB<br />- La felpa PRB<br /><br />GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_it_it.dds","filesize":262272},"button":"Seleziona per iscriverti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140171,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Abbigliamento esclusivo",
+    "content": "Gli abbonati a GTA+ possono travestirsi in modo terrificante e terrorizzare la popolazione locale riscattando i seguenti capi d'abbigliamento entro l'8 novembre:<br /><br />- Il completo chiuso strisce monocromatico<br />- Il completo integrale scheletro<br />- La maglietta PRB<br />- I pantaloncini PRB<br />- La felpa PRB<br /><br />GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per iscriverti a GTA+"
+}

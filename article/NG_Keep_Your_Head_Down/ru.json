@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416222620,"title":"","headline":"GTAV","subtitle":"Не высовывайтесь","content":"Опасаетесь, что в лобовое стекло влетит кое-что потяжелее обычной мошкары? Находясь за рулем или на пассажирском сиденье, нажмите ~INPUT_FRONTEND_ACCEPT~, чтобы пригнуться: это обеспечит вам дополнительную защиту.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Keep_Your_Head_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416222620,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Не высовывайтесь",
+    "content": "Опасаетесь, что в лобовое стекло влетит кое-что потяжелее обычной мошкары? Находясь за рулем или на пассажирском сиденье, нажмите ~INPUT_FRONTEND_ACCEPT~, чтобы пригнуться: это обеспечит вам дополнительную защиту.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/.dds",
+        "filesize": 2048
+    }
+}

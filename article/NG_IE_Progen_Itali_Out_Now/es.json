@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1483970056,"title":"","headline":"GTA Online","subtitle":"Progen Itali GTB","content":"Solo un visionario de verdad puede ver el porte y el equilibrio del Progen Itali GTB y creer que puede mejorarse. No importa lo que pienses de su dependencia a los opiáceos con receta, nadie puede negar que Benny es precisamente eso: un visionario. En un periquete desnudará el vehículo hasta dejar al aire su interior de fibra de carbono, con un desmesurado alerón, y rugiendo por la pista, justo como quería la madre naturaleza.","url":"","image":{"path":"sc/news/NG_IE_Progen_Itali_Out_Now/349672_PROGEN-ITALI-GTB-BIGFEED-V2B-LOGO2.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Progen_Itali_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1483970056,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Progen Itali GTB",
+    "content": "Solo un visionario de verdad puede ver el porte y el equilibrio del Progen Itali GTB y creer que puede mejorarse. No importa lo que pienses de su dependencia a los opiáceos con receta, nadie puede negar que Benny es precisamente eso: un visionario. En un periquete desnudará el vehículo hasta dejar al aire su interior de fibra de carbono, con un desmesurado alerón, y rugiendo por la pista, justo como quería la madre naturaleza.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Progen_Itali_Out_Now/349672_PROGEN-ITALI-GTB-BIGFEED-V2B-LOGO2.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Progen_Itali_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

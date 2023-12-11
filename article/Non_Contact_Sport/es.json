@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1403000037,"title":"","headline":"Consejo en línea","subtitle":"Deporte sin contacto","content":"Las carreras pueden volver a ser un deporte de caballeros con la introducción de la opción Sin contacto.<br /><br />El anfitrión de cualquier carrera puede cambiar el tipo de carrera a Sin contacto en las opciones de la sala, lo que desactiva el rebufo y permite a los vehículos de los jugadores atravesarse entre sí.<br /><br />Pero ten cuidado con el tráfico habitual de Los Santos, cuyos vehículos aún podrán abollar tu carrocería.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Non_Contact_Sport/262272_NonContactSport.dds","filesize":262272},"landscape":{"path":"sc/news/Non_Contact_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1403000037,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Deporte sin contacto",
+    "content": "Las carreras pueden volver a ser un deporte de caballeros con la introducción de la opción Sin contacto.<br /><br />El anfitrión de cualquier carrera puede cambiar el tipo de carrera a Sin contacto en las opciones de la sala, lo que desactiva el rebufo y permite a los vehículos de los jugadores atravesarse entre sí.<br /><br />Pero ten cuidado con el tráfico habitual de Los Santos, cuyos vehículos aún podrán abollar tu carrocería.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Non_Contact_Sport/262272_NonContactSport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Non_Contact_Sport/.dds",
+        "filesize": 2048
+    }
+}

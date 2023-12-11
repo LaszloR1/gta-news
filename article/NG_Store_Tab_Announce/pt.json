@@ -1,1 +1,20 @@
-{"types":["store"],"date":1482157683,"title":"","headline":"Pacotes de Dinheiro Tubarão em GTA Online","subtitle":"","content":"Dinheiro é o que manda nesta cidade. Resolva os seus problemas financeiros e consiga o que você quiser em Los Santos e Blaine County com a compra de pacotes de dinheiro para o Grand Theft Auto Online. Todo o dinheiro comprado é automaticamente depositado na conta do seu personagem. Gaste com sabedoria, pois a terapia do dinheiro é passageira.","url":"","image":{"path":"sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Tab_Announce/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1482157683,
+    "title": "",
+    "headline": "Pacotes de Dinheiro Tubarão em GTA Online",
+    "subtitle": "",
+    "content": "Dinheiro é o que manda nesta cidade. Resolva os seus problemas financeiros e consiga o que você quiser em Los Santos e Blaine County com a compra de pacotes de dinheiro para o Grand Theft Auto Online. Todo o dinheiro comprado é automaticamente depositado na conta do seu personagem. Gaste com sabedoria, pois a terapia do dinheiro é passageira.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Tab_Announce/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

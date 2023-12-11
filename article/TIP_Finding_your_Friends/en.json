@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470199,"title":"","headline":"Online Tip","subtitle":"Finding your Friends","content":"You should be placed straight into any open games containing your Friends automatically - if you find yourself in a game without them, then it may be because they are already on a Job. If you hate being alone and you don’t want to meet new people, you can join your Friends on their Job easily by hitting the Friends tab in the Pause Menu - select an online Friend and hit ‘Join Game’ to join their action.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Finding_your_Friends/262272_FindingFreinds.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Finding_your_Friends/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470199,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Finding your Friends",
+    "content": "You should be placed straight into any open games containing your Friends automatically - if you find yourself in a game without them, then it may be because they are already on a Job. If you hate being alone and you don’t want to meet new people, you can join your Friends on their Job easily by hitting the Friends tab in the Pause Menu - select an online Friend and hit ‘Join Game’ to join their action.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Finding_your_Friends/262272_FindingFreinds.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Finding_your_Friends/.dds",
+        "filesize": 2048
+    }
+}

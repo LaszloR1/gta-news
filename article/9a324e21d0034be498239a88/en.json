@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867541,"title":"GTA+","headline":"GTA+","subtitle":"Pernaud La Coureuse","content":"GTA+ Members can claim the Penaud La Coureuse sports car through August 16.<br /><br />The French fry, French toast, and now the Penaud La Coureuse. Three exemplary French imports that are best consumed on American soil, but don’t let its air of European luxury fool you, this car can break the speed limit with the best of them.<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_en_us.dds","filesize":262272},"button":"Select to sign up to GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867541,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Pernaud La Coureuse",
+    "content": "GTA+ Members can claim the Penaud La Coureuse sports car through August 16.<br /><br />The French fry, French toast, and now the Penaud La Coureuse. Three exemplary French imports that are best consumed on American soil, but don’t let its air of European luxury fool you, this car can break the speed limit with the best of them.<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_en_us.dds",
+        "filesize": 262272
+    },
+    "button": "Select to sign up to GTA+"
+}

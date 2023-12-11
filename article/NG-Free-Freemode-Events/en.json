@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314078,"title":"","headline":"GTA Online","subtitle":"Freemode Events","content":"While cruising around Los Santos, look out for a new style of purple blip that indicates a brand new Freemode Event.<br /><br />These range from Moving Targets that require rapid delivery, King of the Castle where you fight to control an area, Kill List where specific vehicles are used to battle Merryweather forces, and many more. Approach any event to take part.","url":"","image":{"path":"sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Events/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314078,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Freemode Events",
+    "content": "While cruising around Los Santos, look out for a new style of purple blip that indicates a brand new Freemode Event.<br /><br />These range from Moving Targets that require rapid delivery, King of the Castle where you fight to control an area, Kill List where specific vehicles are used to battle Merryweather forces, and many more. Approach any event to take part.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Events/.dds",
+        "filesize": 2048
+    }
+}

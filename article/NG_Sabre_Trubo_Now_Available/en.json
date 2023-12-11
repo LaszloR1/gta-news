@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1461074787,"title":"","headline":"GTA Online","subtitle":"Now at Benny’s: The Declasse Sabre Turbo","content":"It is time to add some bounce to the Declasse Sabre Turbo, which can now be upgraded at Benny’s. Complete your prize Lowrider collection with this definitive muscle car. Catch one around the streets of Los Santos or buy one online direct from Benny himself then see what he can do with it.","url":"","image":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1461074787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Now at Benny’s: The Declasse Sabre Turbo",
+    "content": "It is time to add some bounce to the Declasse Sabre Turbo, which can now be upgraded at Benny’s. Complete your prize Lowrider collection with this definitive muscle car. Catch one around the streets of Los Santos or buy one online direct from Benny himself then see what he can do with it.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

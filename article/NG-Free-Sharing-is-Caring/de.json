@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442258950,"title":"","headline":"GTA Online","subtitle":"Sharing is Caring","content":"Events im Freien Modus bieten dir Möglichkeiten, Geld und RP anzuhäufen. Wenn du mit anderen zusammen einen ''Geliefert!''-Auftrag vereitelst oder die Bestie erledigst, vergiss nicht diejenigen, die diesen Erfolg möglich machten. <br /><br />Nutze den Bargeld-Menüpunkt im Inventar-Bereich des Interaktionsmenüs und teile Bargeld aus dem letzten Job. Deine Mitstreiter werden es sicher zu schätzen wissen und vielleicht findest du dadurch neue Alliierte für all deine zukünftigen Unternehmungen.","url":"","image":{"path":"sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Sharing-is-Caring/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442258950,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sharing is Caring",
+    "content": "Events im Freien Modus bieten dir Möglichkeiten, Geld und RP anzuhäufen. Wenn du mit anderen zusammen einen ''Geliefert!''-Auftrag vereitelst oder die Bestie erledigst, vergiss nicht diejenigen, die diesen Erfolg möglich machten. <br /><br />Nutze den Bargeld-Menüpunkt im Inventar-Bereich des Interaktionsmenüs und teile Bargeld aus dem letzten Job. Deine Mitstreiter werden es sicher zu schätzen wissen und vielleicht findest du dadurch neue Alliierte für all deine zukünftigen Unternehmungen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/.dds",
+        "filesize": 2048
+    }
+}

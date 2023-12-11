@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1461074787,"title":"","headline":"GTA Online","subtitle":"베니즈 최신 소식: 디클라스 세이버 터보","content":"디클라스 세이버 터보에 통통 튀는 느낌을 주고 싶다면, 이제 베니즈에서 업그레이드할 수 있습니다. 머슬카의 결정판이라 할 수 있는 이 차를 이용해 여러분의 훌륭한 로우라이더 컬렉션을 완성하십시오. 로스 산토스 거리에서 한 대를 잡아타거나, 베니즈 웹사이트에서 직접 구입해서 어떻게 개조될지 확인해 볼 수 있습니다.","url":"","image":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1461074787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "베니즈 최신 소식: 디클라스 세이버 터보",
+    "content": "디클라스 세이버 터보에 통통 튀는 느낌을 주고 싶다면, 이제 베니즈에서 업그레이드할 수 있습니다. 머슬카의 결정판이라 할 수 있는 이 차를 이용해 여러분의 훌륭한 로우라이더 컬렉션을 완성하십시오. 로스 산토스 거리에서 한 대를 잡아타거나, 베니즈 웹사이트에서 직접 구입해서 어떻게 개조될지 확인해 볼 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

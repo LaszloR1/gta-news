@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530640003,"title":"","headline":"GTA Online","subtitle":"Promotions du Jour de l'Indépendance 2018","content":"Le contenu patriotique du Jour de l'Indépendance fait son retour dans GTA Online toute la semaine à prix réduit jusqu'au 9µjuillet. Vous pourrez ainsi profiter de 40µ% de réduction sur les articles suivantsµ:<br /><br />Le Vapid Liberator<br />La Western Sovereign<br />Le mousquet<br />Le lanceur pyrotechnique et les feux d'artifice<br /><br />Et plus encore. Plus d'informations sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/Indep_Day_Discounts/524416_BIGFEED_2018_0704_V01A_512x1024.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530640003,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promotions du Jour de l'Indépendance 2018",
+    "content": "Le contenu patriotique du Jour de l'Indépendance fait son retour dans GTA Online toute la semaine à prix réduit jusqu'au 9µjuillet. Vous pourrez ainsi profiter de 40µ% de réduction sur les articles suivantsµ:<br /><br />Le Vapid Liberator<br />La Western Sovereign<br />Le mousquet<br />Le lanceur pyrotechnique et les feux d'artifice<br /><br />Et plus encore. Plus d'informations sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Indep_Day_Discounts/524416_BIGFEED_2018_0704_V01A_512x1024.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

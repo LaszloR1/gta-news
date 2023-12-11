@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349512,"title":"","headline":"GTA Online","subtitle":"Melhorias de arsenal","content":"Tem novidade na Ammu-Nation: a Pistola Metralhadora de alta cadência e o Machete devastador que irá deixar seus inimigos tremendo de medo. Quando estiver lá, por que não pegar uma arma com um toque de luxo disponível de uma seleção de armas existentes como uma Carabina Especial e Submetralhadora de Combate?","url":"","image":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349512,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Melhorias de arsenal",
+    "content": "Tem novidade na Ammu-Nation: a Pistola Metralhadora de alta cadência e o Machete devastador que irá deixar seus inimigos tremendo de medo. Quando estiver lá, por que não pegar uma arma com um toque de luxo disponível de uma seleção de armas existentes como uma Carabina Especial e Submetralhadora de Combate?",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/.dds",
+        "filesize": 2048
+    }
+}

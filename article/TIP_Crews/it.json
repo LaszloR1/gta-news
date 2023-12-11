@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470553,"title":"","headline":"Suggerimento online","subtitle":"Crew","content":"Se vuoi unirti a una crew, trovi quelle che accettano membri sul sito web del Social Club di Rockstar Games: fatti nuovi amici e sfida le altre crew. Completando attività nella crew puoi migliorare la reputazione e vincere soldi. Se il livello della crew aumenta sblocchi bonus speciali. Puoi creare una crew privata con gli amici e sfidare gli sconosciuti. Se non vuoi unirti alle crew, divertiti da solo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Crews/262272_Crews.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Crews/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470553,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Crew",
+    "content": "Se vuoi unirti a una crew, trovi quelle che accettano membri sul sito web del Social Club di Rockstar Games: fatti nuovi amici e sfida le altre crew. Completando attività nella crew puoi migliorare la reputazione e vincere soldi. Se il livello della crew aumenta sblocchi bonus speciali. Puoi creare una crew privata con gli amici e sfidare gli sconosciuti. Se non vuoi unirti alle crew, divertiti da solo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Crews/262272_Crews.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Crews/.dds",
+        "filesize": 2048
+    }
+}

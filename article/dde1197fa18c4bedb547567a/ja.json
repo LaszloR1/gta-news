@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608039614,"title":"","headline":"GTA Online","subtitle":"ミリタリーライフル","content":"アミュネーションが最強のライフルを仕入れたようです。武器の威力もさることながら、そのリロード速度に思わず息をのむでしょう。","url":"","image":{"path":"sc/news/dde1197fa18c4bedb547567a/262272_GTAO_IslandHeist_BigFeed_Military_Rifle.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608039614,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ミリタリーライフル",
+    "content": "アミュネーションが最強のライフルを仕入れたようです。武器の威力もさることながら、そのリロード速度に思わず息をのむでしょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/dde1197fa18c4bedb547567a/262272_GTAO_IslandHeist_BigFeed_Military_Rifle.dds",
+        "filesize": 262272
+    }
+}

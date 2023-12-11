@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349636,"title":"","headline":"GTA Online","subtitle":"Munição prestes a explodir","content":"Precisa de poder de fogo com pressa? Você agora pode comprar munição diretamente do Menu de Interação. Porém, não se esqueça de visitar a Ammu-Nation para os melhores preços de Los Santos e as últimas novidades em armas.","url":"","image":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349636,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Munição prestes a explodir",
+    "content": "Precisa de poder de fogo com pressa? Você agora pode comprar munição diretamente do Menu de Interação. Porém, não se esqueça de visitar a Ammu-Nation para os melhores preços de Los Santos e as últimas novidades em armas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/.dds",
+        "filesize": 2048
+    }
+}

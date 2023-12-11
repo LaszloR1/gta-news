@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1639588359,"title":"","headline":"GTA Online","subtitle":"NOWA STACJA RADIOWA","content":"W radiu dostępna jest nowa stacja MOTOMAMI Los Santos, którą prowadzą Rosalía i ARCA. W programie znajdą się eklektyczne brzmienia z całego spektrum muzycznego.<br /><br />W stacjach West Coast Classics i Radio Los Santos pojawią się także nowe utwory, w tym debiut Freddie’ego Gibbsa, Kenny’ego Beatsa oraz TiaCorine, Nez, ScHoolboy Q i wielu innych.","url":"","image":{"path":"sc/news/3fd94dce32724cfd85487d15/262272_GTAO_Contract_Motomami_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1639588359,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "NOWA STACJA RADIOWA",
+    "content": "W radiu dostępna jest nowa stacja MOTOMAMI Los Santos, którą prowadzą Rosalía i ARCA. W programie znajdą się eklektyczne brzmienia z całego spektrum muzycznego.<br /><br />W stacjach West Coast Classics i Radio Los Santos pojawią się także nowe utwory, w tym debiut Freddie’ego Gibbsa, Kenny’ego Beatsa oraz TiaCorine, Nez, ScHoolboy Q i wielu innych.",
+    "url": "",
+    "image": {
+        "path": "sc/news/3fd94dce32724cfd85487d15/262272_GTAO_Contract_Motomami_BigFeed.dds",
+        "filesize": 262272
+    }
+}

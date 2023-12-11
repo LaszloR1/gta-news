@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381831714,"headline":"Suggerimento online","subtitle":"Il telefono è tuo amico","content":"Il telefono ti collegherà ad attività ed opportunità varie.<br /><br />Controlla l'elenco attività sul telefono: ci sarà quasi sempre qualcosa di nuovo da fare, come inviti alle attività degli amici o attività per i contatti che hanno bisogno del tuo aiuto. Se non trovi niente da fare, questo è il modo più veloce per trovare un impiego 'redditizio'.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Phone_Your_Friend/65664_Your_Phone_Is_Your_Friend_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831714,
+    "headline": "Suggerimento online",
+    "subtitle": "Il telefono è tuo amico",
+    "content": "Il telefono ti collegherà ad attività ed opportunità varie.<br /><br />Controlla l'elenco attività sul telefono: ci sarà quasi sempre qualcosa di nuovo da fare, come inviti alle attività degli amici o attività per i contatti che hanno bisogno del tuo aiuto. Se non trovi niente da fare, questo è il modo più veloce per trovare un impiego 'redditizio'.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Phone_Your_Friend/65664_Your_Phone_Is_Your_Friend_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917027,"title":"","headline":"GTA Online","subtitle":"Szczury laboratoryjne","content":"W handlu bronią nie wystarczy być bezwzględnym. Trzeba też sięgać po wszelkie środki, jakie tylko są dostępne, i właśnie w tym momencie do gry wchodzą panowie w białych fartuchach laboratoryjnych. Zatrudnij ich w swoim bunkrze i daj im odpowiednie środki, a rzucą się w wir badań nad unikatowymi modyfikacjami broni, brutalnym uzbrojeniem pojazdów bojowych i przerażającymi ulepszeniami mobilnego centrum operacyjnego.","url":"","image":{"path":"sc/news/NG_GR_Lab_Rats/262272_LabRats.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Lab_Rats/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917027,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Szczury laboratoryjne",
+    "content": "W handlu bronią nie wystarczy być bezwzględnym. Trzeba też sięgać po wszelkie środki, jakie tylko są dostępne, i właśnie w tym momencie do gry wchodzą panowie w białych fartuchach laboratoryjnych. Zatrudnij ich w swoim bunkrze i daj im odpowiednie środki, a rzucą się w wir badań nad unikatowymi modyfikacjami broni, brutalnym uzbrojeniem pojazdów bojowych i przerażającymi ulepszeniami mobilnego centrum operacyjnego.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Lab_Rats/262272_LabRats.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Lab_Rats/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

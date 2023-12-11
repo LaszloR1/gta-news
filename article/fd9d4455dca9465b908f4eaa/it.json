@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285738,"title":"GTA+","headline":"GTA+","subtitle":"Annis Apocalypse ZR380","content":"Gli abbonati a GTA+ possono riscattare la Annis Apocalypse ZR380 fino al 13 settembre.<br /><br />La Annis Apocalypse ZR380 è una folle variante dell’Arena della Annis, dotata di una velocità massima formidabile, solida manovrabilità e un appetito infinito per carburante e distruzione. <br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/fd9d4455dca9465b908f4eaa/262272_GTAP_MEP17_Lead_Apocalypse_Annis_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per abbonarti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285738,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Annis Apocalypse ZR380",
+    "content": "Gli abbonati a GTA+ possono riscattare la Annis Apocalypse ZR380 fino al 13 settembre.<br /><br />La Annis Apocalypse ZR380 è una folle variante dell’Arena della Annis, dotata di una velocità massima formidabile, solida manovrabilità e un appetito infinito per carburante e distruzione. <br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/fd9d4455dca9465b908f4eaa/262272_GTAP_MEP17_Lead_Apocalypse_Annis_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per abbonarti a GTA+"
+}

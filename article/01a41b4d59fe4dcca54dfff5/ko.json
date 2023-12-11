@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285737,"title":"GTA+","headline":"GTA+","subtitle":"아레나 작업실과 할인","content":"GTA+ 회원은 9월 13일까지 아레나 작업실을 무료로 획득할 수 있습니다.<br /><br />회원은 아레나 작업실을 무료로 획득할 수 있습니다. 그리고 아레나 이동 수단 방탄 장갑, 아레나 워 이동 수단 무기, 아레나 차체(블레이드, 스파이크, 롤케이지), 아레나 이동 수단 수직 점프, 아레나 부스트가 포함된 다양한 아레나 개조를 적용 가능한 이동 수단에 50% 할인된 가격으로 이용할 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_ko_kr.dds","filesize":262272},"button":"GTA+에 가입하려면 선택하기"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285737,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "아레나 작업실과 할인",
+    "content": "GTA+ 회원은 9월 13일까지 아레나 작업실을 무료로 획득할 수 있습니다.<br /><br />회원은 아레나 작업실을 무료로 획득할 수 있습니다. 그리고 아레나 이동 수단 방탄 장갑, 아레나 워 이동 수단 무기, 아레나 차체(블레이드, 스파이크, 롤케이지), 아레나 이동 수단 수직 점프, 아레나 부스트가 포함된 다양한 아레나 개조를 적용 가능한 이동 수단에 50% 할인된 가격으로 이용할 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "GTA+에 가입하려면 선택하기"
+}

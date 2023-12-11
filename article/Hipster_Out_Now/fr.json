@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1402996215,"headline":"Mise à jour GTA Online","subtitle":"La mise à jour 'Hipster toi-même' est maintenant disponible !","content":"Exprimez votre individualisme avec la mise à jour 'Hipster toi-même', introduisant des T-shirts rétro, jeans (super) moulants, coupes de cheveux, tatouages ironiques, post-ironiques ou pas ironiques du tout, masques d'animaux et bien plus.<br /><br />Choisissez parmi sept véhicules uniques et pleins de nostalgie comme la Glendale, la Blade et la Rhapsody.<br /><br />Même Ammu-Nation cède à la tendance pas ironique du tout en mettant le pistolet vintage et l'antique dague de cavalerie en rayon !","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1402996215,
+    "headline": "Mise à jour GTA Online",
+    "subtitle": "La mise à jour 'Hipster toi-même' est maintenant disponible !",
+    "content": "Exprimez votre individualisme avec la mise à jour 'Hipster toi-même', introduisant des T-shirts rétro, jeans (super) moulants, coupes de cheveux, tatouages ironiques, post-ironiques ou pas ironiques du tout, masques d'animaux et bien plus.<br /><br />Choisissez parmi sept véhicules uniques et pleins de nostalgie comme la Glendale, la Blade et la Rhapsody.<br /><br />Même Ammu-Nation cède à la tendance pas ironique du tout en mettant le pistolet vintage et l'antique dague de cavalerie en rayon !",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds",
+        "filesize": 65664
+    }
+}

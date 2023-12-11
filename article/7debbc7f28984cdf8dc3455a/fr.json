@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699551881,"title":"GTA+","headline":"GTA+","subtitle":"Vêtements exclusifs","content":"Les abonnés à GTA+ peuvent récupérer le short et le sweat Burger Shot, ainsi que le survêt à revers et le sweat Cluckin' Bell jusqu’au 11 décembre.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/7debbc7f28984cdf8dc3455a/262272_GTAP_MP20_FreeClothing_FINAL_BigFeed_fr_fr.dds","filesize":262272},"button":"Abonnez-vous à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699551881,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Vêtements exclusifs",
+    "content": "Les abonnés à GTA+ peuvent récupérer le short et le sweat Burger Shot, ainsi que le survêt à revers et le sweat Cluckin' Bell jusqu’au 11 décembre.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/7debbc7f28984cdf8dc3455a/262272_GTAP_MP20_FreeClothing_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "Abonnez-vous à GTA+"
+}

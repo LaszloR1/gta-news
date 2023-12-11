@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472579019,"title":"","headline":"GTA Online","subtitle":"Semaine mode libre : GTA$ & RP x2 dans les évènements en mode libre du 26/08 au 01/09","content":"Cette semaine, rendez-vous en mode libre, l'endroit idéal pour renflouer votre compte Maze Bank et donner un coup de pouce à votre réputation. Jusqu'au 1er septembre, vous pourrez remporter le double de GTA$ et de RP dans les évènements en mode libre. Profitez également de promotions sur une sélection de véhicules, de pièces de tuning, d'armes et de finitions haut de gamme, comme les finitions bronze dorées ou de luxe et plus encore.<br /><br />Plus d'informations sur rockstargames.com/fr/newswire.","url":"","image":{"path":"sc/news/NG_FM_Week_Double_RP/349672_FMW_BIGFEED_V3.dds","filesize":349672},"landscape":{"path":"sc/news/NG_FM_Week_Double_RP/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472579019,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Semaine mode libre : GTA$ & RP x2 dans les évènements en mode libre du 26/08 au 01/09",
+    "content": "Cette semaine, rendez-vous en mode libre, l'endroit idéal pour renflouer votre compte Maze Bank et donner un coup de pouce à votre réputation. Jusqu'au 1er septembre, vous pourrez remporter le double de GTA$ et de RP dans les évènements en mode libre. Profitez également de promotions sur une sélection de véhicules, de pièces de tuning, d'armes et de finitions haut de gamme, comme les finitions bronze dorées ou de luxe et plus encore.<br /><br />Plus d'informations sur rockstargames.com/fr/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FM_Week_Double_RP/349672_FMW_BIGFEED_V3.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_FM_Week_Double_RP/.dds",
+        "filesize": 2048
+    }
+}

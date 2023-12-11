@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482320252,"title":"","headline":"GTA Online","subtitle":"ペガッシµFCR","content":"世の中にはオシャレなビンテージバイクがあります――しかしシンプルで時代を超越したペガッシµFCRは、他とは一線を画しています。通が求める要素を全て網羅しているのです。しかし皆さんが通のさらに先に進み、独自のシックさを求めているなら、この傑作をベニーズ・オリジナルモーターワークスに持って行き、魔法をかけてもらいましょう。本当にすごいのはここからです。","url":"","image":{"path":"sc/news/NG_IE_Pegassi_FCR_ON/349672_bigFeed-FCR.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Pegassi_FCR_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482320252,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ペガッシµFCR",
+    "content": "世の中にはオシャレなビンテージバイクがあります――しかしシンプルで時代を超越したペガッシµFCRは、他とは一線を画しています。通が求める要素を全て網羅しているのです。しかし皆さんが通のさらに先に進み、独自のシックさを求めているなら、この傑作をベニーズ・オリジナルモーターワークスに持って行き、魔法をかけてもらいましょう。本当にすごいのはここからです。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Pegassi_FCR_ON/349672_bigFeed-FCR.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Pegassi_FCR_ON/.dds",
+        "filesize": 2048
+    }
+}

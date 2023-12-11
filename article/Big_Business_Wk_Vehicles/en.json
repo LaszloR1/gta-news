@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530030439,"title":"","headline":"GTA Online","subtitle":"Vehicle Discounts","content":"Through July 2nd, take 30% off a selection of battle and track-ready vehicles:<br /><br />MAMMOTH AVENGER AND RENOVATIONS<br />MOBILE OPERATIONS CENTER CABS AND RENOVATIONS<br />VAPID GB200<br />GROTTI X80 PROTO<br />IMPONTE RUINER 2000<br /><br />Check out the Rockstar Newswire for all the details.","url":"","image":{"path":"sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530030439,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vehicle Discounts",
+    "content": "Through July 2nd, take 30% off a selection of battle and track-ready vehicles:<br /><br />MAMMOTH AVENGER AND RENOVATIONS<br />MOBILE OPERATIONS CENTER CABS AND RENOVATIONS<br />VAPID GB200<br />GROTTI X80 PROTO<br />IMPONTE RUINER 2000<br /><br />Check out the Rockstar Newswire for all the details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

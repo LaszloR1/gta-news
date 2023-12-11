@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175108,"title":"","headline":"GTA Online","subtitle":"SecuroServ","content":"Du hast mehr Geld als du jemals ausgeben kannst? Dann ist das SecuroServ-VIP-Schutzprogramm genau das Richtige für dich. Registriere dich noch heute über das Interaktionsmenü als VIP und engagiere deine eigenen VIP-Personenschützer, die die Aufgaben übernehmen, die sonst keiner übernehmen will.<br /><br />Bringe deine neugetaufte Organisation voran, starte eigene VIP-Aufträge oder -Herausforderungen und genieße die Vorzüge einer Truppe bewaffneter Leibwächter, die immer auf Abruf zur Verfügung steht.","url":"","image":{"path":"sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_SecuroServ/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175108,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SecuroServ",
+    "content": "Du hast mehr Geld als du jemals ausgeben kannst? Dann ist das SecuroServ-VIP-Schutzprogramm genau das Richtige für dich. Registriere dich noch heute über das Interaktionsmenü als VIP und engagiere deine eigenen VIP-Personenschützer, die die Aufgaben übernehmen, die sonst keiner übernehmen will.<br /><br />Bringe deine neugetaufte Organisation voran, starte eigene VIP-Aufträge oder -Herausforderungen und genieße die Vorzüge einer Truppe bewaffneter Leibwächter, die immer auf Abruf zur Verfügung steht.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_SecuroServ/.dds",
+        "filesize": 2048
+    }
+}

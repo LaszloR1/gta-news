@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471091,"title":"","headline":"온라인 팁","subtitle":"당신의 차를 위한 성형 수술","content":"로스 산토스 주민들은 자기 차를 굉장히 자랑스럽게 생각합니다. 하루 대부분을 차 안에서 지내지요. 그들은 가족보다 차를 중요시하고, 차 안에 앉아 다른 사람을 두려워하는 법을 배웁니다. 그들은 또한 차를 독특하게 만들려고 노력합니다. 자동차를 개조할 준비가 됐다면 로스 산토스 커스텀을 방문하십시오. 크롬처럼 멋있는 건 없으니까요. 개조형 휠, 도색, 차체와 그 외 많은 것을 이용할 수 있습니다. 도색과 사출 성형으로 제작된 플라스틱으로 당신을 표현해 보십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Cosmetic_Surgery_Car/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471091,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "당신의 차를 위한 성형 수술",
+    "content": "로스 산토스 주민들은 자기 차를 굉장히 자랑스럽게 생각합니다. 하루 대부분을 차 안에서 지내지요. 그들은 가족보다 차를 중요시하고, 차 안에 앉아 다른 사람을 두려워하는 법을 배웁니다. 그들은 또한 차를 독특하게 만들려고 노력합니다. 자동차를 개조할 준비가 됐다면 로스 산토스 커스텀을 방문하십시오. 크롬처럼 멋있는 건 없으니까요. 개조형 휠, 도색, 차체와 그 외 많은 것을 이용할 수 있습니다. 도색과 사출 성형으로 제작된 플라스틱으로 당신을 표현해 보십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/262272_CosmeticSurgery.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Cosmetic_Surgery_Car/.dds",
+        "filesize": 2048
+    }
+}

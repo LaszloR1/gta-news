@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452381,"title":"","headline":"GTA Online","subtitle":"Agora na Benny's: Vapid Minivan","content":"Benny acabou aumentar seu catálogo de modificações para lowrider: desta vez foi a Vapid Minivan que ganhou uma plástica. Normalmente você não olharia duas vezes para essa van de tiozão, mas com as modificações certas, você pode ser o centro das atenções em qualquer encontro de carros.","url":"","image":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452381,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Agora na Benny's: Vapid Minivan",
+    "content": "Benny acabou aumentar seu catálogo de modificações para lowrider: desta vez foi a Vapid Minivan que ganhou uma plástica. Normalmente você não olharia duas vezes para essa van de tiozão, mas com as modificações certas, você pode ser o centro das atenções em qualquer encontro de carros.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds",
+        "filesize": 2048
+    }
+}

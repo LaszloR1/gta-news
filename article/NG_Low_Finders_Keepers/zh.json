@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349604,"title":"","headline":"GTA Online","subtitle":"先搶先贏","content":"軍火走私販在洛聖都和布雷恩郡各處藏有數量可觀的軍火。只要找到這些武器與彈藥，您就能據為己有，所以千萬不要客氣。進行自由模式活動時，在緊要關頭下，勝負差別可能就在這些軍火了。","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349604,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "先搶先贏",
+    "content": "軍火走私販在洛聖都和布雷恩郡各處藏有數量可觀的軍火。只要找到這些武器與彈藥，您就能據為己有，所以千萬不要客氣。進行自由模式活動時，在緊要關頭下，勝負差別可能就在這些軍火了。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

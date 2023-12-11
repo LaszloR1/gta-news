@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503338605,"title":"","headline":"GTA Online","subtitle":"오셀럿 아덴트","content":"확산되는 오일 쇼크 위기와 만연한 부정부패를 보면 70년대의 멋이 되살아나길 간절히 빌게 됩니다. 그리고 과거의 향수를 그리워하는 그 마음을 달랠 차는 오직 하나밖에 없습니다. 아덴트는 여러분이 얼마나 돈이 많고 성차별적 사고를 하는지 널리 알릴뿐 아니라, 전면에 머신건이 기본 사양으로 달려 있어서 실생활에도 꽤 도움이 됩니다.","url":"","image":{"path":"sc/news/GR_Ocelot_Ardent/262272_Ocelot_Ardent.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503338605,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "오셀럿 아덴트",
+    "content": "확산되는 오일 쇼크 위기와 만연한 부정부패를 보면 70년대의 멋이 되살아나길 간절히 빌게 됩니다. 그리고 과거의 향수를 그리워하는 그 마음을 달랠 차는 오직 하나밖에 없습니다. 아덴트는 여러분이 얼마나 돈이 많고 성차별적 사고를 하는지 널리 알릴뿐 아니라, 전면에 머신건이 기본 사양으로 달려 있어서 실생활에도 꽤 도움이 됩니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Ocelot_Ardent/262272_Ocelot_Ardent.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324900,"title":"","headline":"GTA Online","subtitle":"기록을 넘어","content":"이제 GTA 온라인 세상은 완전히 새로운 스턴트로 가득합니다. 시대의 흐름에 뒤처지지 않으려면 더 빵빵한 출력을 가진 차들이 필요하겠죠. 다행히도 강력한 여러 대의 신차들이 여러분을 맞이할 준비를 하고 있습니다. 아방가르드 스타일의 RE-7B부터 무자비한 바피드의 트로피 트럭까지, 여러분이 무엇을 원하든 그 이상을 만족시켜 드리겠습니다.","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "기록을 넘어",
+    "content": "이제 GTA 온라인 세상은 완전히 새로운 스턴트로 가득합니다. 시대의 흐름에 뒤처지지 않으려면 더 빵빵한 출력을 가진 차들이 필요하겠죠. 다행히도 강력한 여러 대의 신차들이 여러분을 맞이할 준비를 하고 있습니다. 아방가르드 스타일의 RE-7B부터 무자비한 바피드의 트로피 트럭까지, 여러분이 무엇을 원하든 그 이상을 만족시켜 드리겠습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

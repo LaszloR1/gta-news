@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324900,"title":"","headline":"GTA Online","subtitle":"Batendo recordes","content":"É um admirável mundo novo cheio de manobras no GTA Online e você vai precisar de mais potência se for acompanhar. Sorte sua, porque uma onda de poderosos veículos novos está aqui para satisfazer todas as suas necessidades: dos estilos vanguardistas do RE-7B à brutalidade máxima do Vapid Trophy Truck, não importa o nível de loucura dos seus maiores desejos, cuidamos disso para você.","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Batendo recordes",
+    "content": "É um admirável mundo novo cheio de manobras no GTA Online e você vai precisar de mais potência se for acompanhar. Sorte sua, porque uma onda de poderosos veículos novos está aqui para satisfazer todas as suas necessidades: dos estilos vanguardistas do RE-7B à brutalidade máxima do Vapid Trophy Truck, não importa o nível de loucura dos seus maiores desejos, cuidamos disso para você.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

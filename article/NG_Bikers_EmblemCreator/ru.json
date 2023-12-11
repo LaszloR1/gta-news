@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515792,"title":"","headline":"GTA Online","subtitle":"Редактор эмблем Social Club","content":"Каждому мотоклубу, в том числе вашему, нужен свой отличительный знак. В редакторе эмблем Social Club появился целый ворох контуров и дизайнов для байкеров, а также новые опции, позволяющие довести ваши творения до совершенства. Встречают всегда по одежке, так что не ленитесь. ","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Редактор эмблем Social Club",
+    "content": "Каждому мотоклубу, в том числе вашему, нужен свой отличительный знак. В редакторе эмблем Social Club появился целый ворох контуров и дизайнов для байкеров, а также новые опции, позволяющие довести ваши творения до совершенства. Встречают всегда по одежке, так что не ленитесь. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

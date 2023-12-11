@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880010,"title":"","headline":"GTA Online","subtitle":"Lazer","content":"The Lazer is the first love of many a career criminal. Sleek, fast, deadly: this beauty defines the modern jet fighter, and is now available for private ownership for the first time.","url":"","image":{"path":"sc/news/SR_Lazer/262272_P996Lazer.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lazer",
+    "content": "The Lazer is the first love of many a career criminal. Sleek, fast, deadly: this beauty defines the modern jet fighter, and is now available for private ownership for the first time.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Lazer/262272_P996Lazer.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

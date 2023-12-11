@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224788,"title":"","headline":"GTAV","subtitle":"Modalità prima persona","content":"In qualsiasi momento durante il gioco puoi passare direttamente alla modalità in prima persona.<br /><br />Per la modalità in prima persona puoi anche usare uno schema comandi diverso da quello della terza persona (Menu di pausa > Impostazioni > Comandi > Tipo di comandi in prima persona). Puoi anche regolare la sensibilità dello sguardo e il campo visivo e impostare il passaggio automatico in terza persona in determinate situazioni.<br /><br />Trova l'assetto ideale per il tuo stile di gioco e divertiti!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_First_Person_Mode/262272_FPSMode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_First_Person_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224788,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Modalità prima persona",
+    "content": "In qualsiasi momento durante il gioco puoi passare direttamente alla modalità in prima persona.<br /><br />Per la modalità in prima persona puoi anche usare uno schema comandi diverso da quello della terza persona (Menu di pausa > Impostazioni > Comandi > Tipo di comandi in prima persona). Puoi anche regolare la sensibilità dello sguardo e il campo visivo e impostare il passaggio automatico in terza persona in determinate situazioni.<br /><br />Trova l'assetto ideale per il tuo stile di gioco e divertiti!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_First_Person_Mode/262272_FPSMode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_First_Person_Mode/.dds",
+        "filesize": 2048
+    }
+}

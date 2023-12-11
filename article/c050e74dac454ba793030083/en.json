@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1635162176,"title":"","headline":"GTA Online","subtitle":"Phantom Cars Spotted in Los Santos","content":"The LSPD are reporting a spike in calls regarding phantom cars with no drivers following folks around creepily on their commutes. Be safe out there.","url":"","image":{"path":"sc/news/c050e74dac454ba793030083/262272_GTAO271_PhantomCar_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1635162176,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Phantom Cars Spotted in Los Santos",
+    "content": "The LSPD are reporting a spike in calls regarding phantom cars with no drivers following folks around creepily on their commutes. Be safe out there.",
+    "url": "",
+    "image": {
+        "path": "sc/news/c050e74dac454ba793030083/262272_GTAO271_PhantomCar_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

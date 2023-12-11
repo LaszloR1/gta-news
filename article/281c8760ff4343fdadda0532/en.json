@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1660909498,"title":"","headline":"GTA Online","subtitle":"A FLARE FOR SMUGGLING","content":"As reports of distress flares and Cuban 800s struggling through the LS airspace increase, the FIB continues to fight the influx of drug smuggling in San Andreas. <br /><br />Authorities have told the public not to approach any flares in remote areas, and to never, under any circumstance, investigate crash sites and take the cargo they find there.","url":"","image":{"path":"sc/news/281c8760ff4343fdadda0532/262272_GTAO311_Smuggler_Loot_Plane_FINAL_BigFeedcopy.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1660909498,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "A FLARE FOR SMUGGLING",
+    "content": "As reports of distress flares and Cuban 800s struggling through the LS airspace increase, the FIB continues to fight the influx of drug smuggling in San Andreas. <br /><br />Authorities have told the public not to approach any flares in remote areas, and to never, under any circumstance, investigate crash sites and take the cargo they find there.",
+    "url": "",
+    "image": {
+        "path": "sc/news/281c8760ff4343fdadda0532/262272_GTAO311_Smuggler_Loot_Plane_FINAL_BigFeedcopy.dds",
+        "filesize": 262272
+    }
+}

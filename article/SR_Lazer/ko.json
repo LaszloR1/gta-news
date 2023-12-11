@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880010,"title":"","headline":"GTA Online","subtitle":"레이저","content":"레이저는 많은 전문 범죄자들의 첫사랑입니다. 매끈하고, 날쌔고, 치명적이죠. 현대 전투기를 상징하는 이 멋진 녀석을 이제 개인용으로 구입할 수 있게 되었습니다.","url":"","image":{"path":"sc/news/SR_Lazer/262272_P996Lazer.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "레이저",
+    "content": "레이저는 많은 전문 범죄자들의 첫사랑입니다. 매끈하고, 날쌔고, 치명적이죠. 현대 전투기를 상징하는 이 멋진 녀석을 이제 개인용으로 구입할 수 있게 되었습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Lazer/262272_P996Lazer.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

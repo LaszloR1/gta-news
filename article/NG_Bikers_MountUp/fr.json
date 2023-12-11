@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515687,"title":"","headline":"GTA Online","subtitle":"En selleµ!","content":"Enfourcher votre moto dans les rues de Los Santos vous offrira des avantages supplémentaires non négligeables. Roulez en formation avec votre club de motards pour que votre santé se régénère plus rapidement et que votre moto se répare. Vous devez passer à l'offensiveµ? Découvrez une nouvelle manière de combattre au corps à corps sans avoir à lâcher le guidon. Attaquez vos ennemis à moto, ou attendez qu'ils mettent pied à terre pour les éliminer... C'est vous qui voyez.","url":"","image":{"path":"sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_MountUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515687,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "En selleµ!",
+    "content": "Enfourcher votre moto dans les rues de Los Santos vous offrira des avantages supplémentaires non négligeables. Roulez en formation avec votre club de motards pour que votre santé se régénère plus rapidement et que votre moto se répare. Vous devez passer à l'offensiveµ? Découvrez une nouvelle manière de combattre au corps à corps sans avoir à lâcher le guidon. Attaquez vos ennemis à moto, ou attendez qu'ils mettent pied à terre pour les éliminer... C'est vous qui voyez.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_MountUp/.dds",
+        "filesize": 2048
+    }
+}

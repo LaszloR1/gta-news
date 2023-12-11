@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380472161,"headline":"Online-Tipp","subtitle":"Man fahndet nach dir?","content":"Steigst du in etwas weniger Auffälliges, wenn nach dir gefahndet wird, sinkt dein Fahndungslevel unverzüglich. Das tut er auch, wenn du weniger Verbrechen begehst, dich von Ärger fernhältst und dir anständige Arbeit suchst.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Wanted/65664_Wanted_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380472161,
+    "headline": "Online-Tipp",
+    "subtitle": "Man fahndet nach dir?",
+    "content": "Steigst du in etwas weniger Auffälliges, wenn nach dir gefahndet wird, sinkt dein Fahndungslevel unverzüglich. Das tut er auch, wenn du weniger Verbrechen begehst, dich von Ärger fernhältst und dir anständige Arbeit suchst.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Wanted/65664_Wanted_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

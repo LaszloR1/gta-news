@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470801,"title":"","headline":"オンラインのヒント","subtitle":"不動産","content":"dynasty8realestate.comにアクセスすれば、高価なものからそうでないものまで、各地に点在する不動産物件を閲覧して夢の我が家を購入できます。家はリラックスし、体力を回復させ、人生における優先事項を考え直す場所です。すべてのアパートにはガレージが付属し、車を安全に保管できます。高価なアパートからは最高の景色も楽しめます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Real_Estate/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470801,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "不動産",
+    "content": "dynasty8realestate.comにアクセスすれば、高価なものからそうでないものまで、各地に点在する不動産物件を閲覧して夢の我が家を購入できます。家はリラックスし、体力を回復させ、人生における優先事項を考え直す場所です。すべてのアパートにはガレージが付属し、車を安全に保管できます。高価なアパートからは最高の景色も楽しめます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Real_Estate/.dds",
+        "filesize": 2048
+    }
+}

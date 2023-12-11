@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453722,"title":"","headline":"GTA Online","subtitle":"野獸大戰殺人狂","content":"野獸回來了，不過這次他可不是一個人。因為一群全副武裝的殺人狂組成了一支雜牌軍，試圖阻止野獸。野獸必須收集所有的檢查點，而殺人狂則要幹掉所有野獸。","url":"","image":{"path":"sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds","filesize":262272},"landscape":{"path":"sc/news/NG_BeastvSlasher/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453722,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "野獸大戰殺人狂",
+    "content": "野獸回來了，不過這次他可不是一個人。因為一群全副武裝的殺人狂組成了一支雜牌軍，試圖阻止野獸。野獸必須收集所有的檢查點，而殺人狂則要幹掉所有野獸。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_BeastvSlasher/.dds",
+        "filesize": 2048
+    }
+}

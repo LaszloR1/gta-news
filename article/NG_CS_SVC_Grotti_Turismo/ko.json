@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491247706,"title":"","headline":"GTA Online","subtitle":"그로티 투리스모 클래식","content":"구세대라고 놀림당하는 한이 있어도, 자기보다 똑똑한 대시보드가 설치된 우주 시대 하이퍼카는 만나고 싶지 않으시죠? 자질구레한 건 다 떼어내고, 마치 맹금류나 아침에 우뚝 선 거시기처럼 순수하고 원시적인 걸 원하실 겁니다. 자동차 공학의 정수를 담은 투리스모 클래식을 타 보세요. 휘발유가 싸고, 오존층 걱정이 없고, 경찰들도 음주운전을 하던 그때로 돌아가는 겁니다.","url":"","image":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491247706,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "그로티 투리스모 클래식",
+    "content": "구세대라고 놀림당하는 한이 있어도, 자기보다 똑똑한 대시보드가 설치된 우주 시대 하이퍼카는 만나고 싶지 않으시죠? 자질구레한 건 다 떼어내고, 마치 맹금류나 아침에 우뚝 선 거시기처럼 순수하고 원시적인 걸 원하실 겁니다. 자동차 공학의 정수를 담은 투리스모 클래식을 타 보세요. 휘발유가 싸고, 오존층 걱정이 없고, 경찰들도 음주운전을 하던 그때로 돌아가는 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/.dds",
+        "filesize": 2048
+    }
+}

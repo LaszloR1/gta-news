@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285737,"title":"GTA+","headline":"GTA+","subtitle":"竞技场工作室和折扣","content":"GTA+µ会员可以免费领取竞技场工作室，截至µ9µ月µ13µ日。<br /><br />会员可以免费领取竞技场工作室，并携带符合条件的载具前往，以享受一系列竞技场改装的五折优惠，包括竞技场载具装甲板、竞技场载具武器、竞技场车身（刀锋、尖刺和防滚架）、竞技场载具垂直跳跃和竞技场加速器。<br /><br />GTA+µ会员资格每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解详情。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_zh_hans.dds","filesize":262272},"button":"选择以注册 GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285737,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "竞技场工作室和折扣",
+    "content": "GTA+µ会员可以免费领取竞技场工作室，截至µ9µ月µ13µ日。<br /><br />会员可以免费领取竞技场工作室，并携带符合条件的载具前往，以享受一系列竞技场改装的五折优惠，包括竞技场载具装甲板、竞技场载具武器、竞技场车身（刀锋、尖刺和防滚架）、竞技场载具垂直跳跃和竞技场加速器。<br /><br />GTA+µ会员资格每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解详情。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_zh_hans.dds",
+        "filesize": 262272
+    },
+    "button": "选择以注册 GTA+"
+}

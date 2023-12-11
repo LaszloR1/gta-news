@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1510680628,"title":"","headline":"GTA Online","subtitle":"Cyclone","content":"When it comes to the engine in your car, you might think electricity is for the weak and environmentally conscious. Well, the Coil Cyclone is here to change your mind faster than 1000 volts straight to the temples. Trust us on this one: if actions speak louder than words, acceleration like this is pretty much deafening.","url":"","image":{"path":"sc/news/SR_Cyclone_V2/262272_Cyclone.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1510680628,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cyclone",
+    "content": "When it comes to the engine in your car, you might think electricity is for the weak and environmentally conscious. Well, the Coil Cyclone is here to change your mind faster than 1000 volts straight to the temples. Trust us on this one: if actions speak louder than words, acceleration like this is pretty much deafening.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cyclone_V2/262272_Cyclone.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

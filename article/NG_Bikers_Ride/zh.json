@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519935,"title":"","headline":"GTA Online","subtitle":"愛車收藏","content":"您已經擁有服裝、會所、精緻製毒廠及戰鬥斧頭，但只有一樣物品能使您成為貨真價實的「狂野飆客」。從疾速狂飆的的白鳥競速版，到越野姿態華麗萬千的曼切茲，新掀起的二輪熱潮足以滿足每一位飛車飆客的需求。","url":"","image":{"path":"sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Ride/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519935,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "愛車收藏",
+    "content": "您已經擁有服裝、會所、精緻製毒廠及戰鬥斧頭，但只有一樣物品能使您成為貨真價實的「狂野飆客」。從疾速狂飆的的白鳥競速版，到越野姿態華麗萬千的曼切茲，新掀起的二輪熱潮足以滿足每一位飛車飆客的需求。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Ride/.dds",
+        "filesize": 2048
+    }
+}

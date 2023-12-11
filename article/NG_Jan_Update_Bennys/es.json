@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1453977083,"title":"","headline":"GTA Online","subtitle":"Ahora en Benny's: nuevos coches y mejoras","content":"Benny's se está expandiendo. Hay dos nuevos deportivos en bennysoriginalmotorworks.com: el Karin Sultan y el Bravado Banshee. Lleva estos coches al garaje de Benny's para incluir mejoras de lujo en los coches de carreras de carrocería ancha, el Karin Sultan RS y el Bravado Banshee 900R.","url":"","image":{"path":"sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Jan_Update_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1453977083,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ahora en Benny's: nuevos coches y mejoras",
+    "content": "Benny's se está expandiendo. Hay dos nuevos deportivos en bennysoriginalmotorworks.com: el Karin Sultan y el Bravado Banshee. Lleva estos coches al garaje de Benny's para incluir mejoras de lujo en los coches de carreras de carrocería ancha, el Karin Sultan RS y el Bravado Banshee 900R.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Jan_Update_Bennys/.dds",
+        "filesize": 2048
+    }
+}

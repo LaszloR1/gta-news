@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470803,"title":"","headline":"線上小訣竅","subtitle":"房地產","content":"造訪 dynasty8realestate.com 即可瀏覽分散州裡四處的許多豪華（或者不豪華）房屋，然後買下您夢想中的家。在這裡您可以放鬆、調養和重新思考您生命中最重要的事。所有的公寓都隨附有車庫，可以讓您安全地存放車輛，而公寓如果越高級，景色也會越好。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Real_Estate/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470803,
+    "title": "",
+    "headline": "線上小訣竅",
+    "subtitle": "房地產",
+    "content": "造訪 dynasty8realestate.com 即可瀏覽分散州裡四處的許多豪華（或者不豪華）房屋，然後買下您夢想中的家。在這裡您可以放鬆、調養和重新思考您生命中最重要的事。所有的公寓都隨附有車庫，可以讓您安全地存放車輛，而公寓如果越高級，景色也會越好。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Real_Estate/.dds",
+        "filesize": 2048
+    }
+}

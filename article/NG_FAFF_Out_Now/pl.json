@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465308370,"title":"","headline":"GTA Online","subtitle":"GTA Online: Więcej zbrodni i finansów już dostępne","content":"Kontynuujcie swoją misję zostania przestępczym królem Los Santos i hrabstwa Blaine w aktualizacji GTA Online: Więcej zbrodni i finansów, która jest już dostępna na PlayStation 4, Xbox One i PC. Jako prezesi będziecie mogli korzystać ze zdolności specjalnych, a dzięki bazie specjalnych ładunków SecuroServ otrzymacie dostęp do ogromnego czarnego rynku, na którym możecie kupować i sprzedawać nielegalny towar w całym mieście.<br /><br />Więcej informacji na stronie rockstargames.com/V/pl_pl/news.","url":"","image":{"path":"sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds","filesize":349672},"landscape":{"path":"sc/news/NG_FAFF_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465308370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Więcej zbrodni i finansów już dostępne",
+    "content": "Kontynuujcie swoją misję zostania przestępczym królem Los Santos i hrabstwa Blaine w aktualizacji GTA Online: Więcej zbrodni i finansów, która jest już dostępna na PlayStation 4, Xbox One i PC. Jako prezesi będziecie mogli korzystać ze zdolności specjalnych, a dzięki bazie specjalnych ładunków SecuroServ otrzymacie dostęp do ogromnego czarnego rynku, na którym możecie kupować i sprzedawać nielegalny towar w całym mieście.<br /><br />Więcej informacji na stronie rockstargames.com/V/pl_pl/news.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

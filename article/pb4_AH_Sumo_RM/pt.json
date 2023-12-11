@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1538496527,"title":"","headline":"GTA Online","subtitle":"Sumô (Remix)","content":"O clássico Modo Adversário retorna ao GTA Online, mas se você pensou que poderia recorrer aos seus velhos hábitos, pense de novo. A zona segura ainda é o seu único jeito de não pegar fogo, mas desta vez ela muda sempre que o tempo acaba, e grandes seções da pista podem (ou não) desaparecer aleatoriamente. Isso é carnificina 2.0.","url":"","image":{"path":"sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1538496527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumô (Remix)",
+    "content": "O clássico Modo Adversário retorna ao GTA Online, mas se você pensou que poderia recorrer aos seus velhos hábitos, pense de novo. A zona segura ainda é o seu único jeito de não pegar fogo, mas desta vez ela muda sempre que o tempo acaba, e grandes seções da pista podem (ou não) desaparecer aleatoriamente. Isso é carnificina 2.0.",
+    "url": "",
+    "image": {
+        "path": "sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394811297,"headline":"Online Tip","subtitle":"Sharing Music","content":"If you like a track currently playing on the radio, simply bring up the radio wheel and press the ~INPUT_FRONTEND_X~ button to share it on Social Club.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Sharing_Music/65664_Sharing_Music.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811297,
+    "headline": "Online Tip",
+    "subtitle": "Sharing Music",
+    "content": "If you like a track currently playing on the radio, simply bring up the radio wheel and press the ~INPUT_FRONTEND_X~ button to share it on Social Club.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Sharing_Music/65664_Sharing_Music.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367126,"title":"","headline":"GTA Online","subtitle":"Promoção especial por tempo limitado só para você","content":"Inaugure seu MC nesta semana com descontos especiais em Sedes de Motoclube e garagens para 10 carros, assim como 25% de desconto na moto Western Zombie Bobber. Ou, se carros importados velozes forem mais o seu estilo, considere o supercarro Truffade Adder, agora com 50% de desconto até 13 de fevereiro.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promoção especial por tempo limitado só para você",
+    "content": "Inaugure seu MC nesta semana com descontos especiais em Sedes de Motoclube e garagens para 10 carros, assim como 25% de desconto na moto Western Zombie Bobber. Ou, se carros importados velozes forem mais o seu estilo, considere o supercarro Truffade Adder, agora com 50% de desconto até 13 de fevereiro.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174995,"title":"","headline":"GTA Online","subtitle":"Crime Organizado!","content":"Como um Magnata, ganhe dinheiro e RP para você e seus Seguranças ao encarar os empolgantes e lucrativos modos de Trabalho de Magnata - disponíveis na seção SecuroServ do Menu de Interação de jogador. Ou teste suas habilidades contra seus Seguranças ao iniciar um Desafio de Magnata e descubra o membro mais valioso da sua organização.","url":"","image":{"path":"sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Organize_Crime/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174995,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Crime Organizado!",
+    "content": "Como um Magnata, ganhe dinheiro e RP para você e seus Seguranças ao encarar os empolgantes e lucrativos modos de Trabalho de Magnata - disponíveis na seção SecuroServ do Menu de Interação de jogador. Ou teste suas habilidades contra seus Seguranças ao iniciar um Desafio de Magnata e descubra o membro mais valioso da sua organização.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/.dds",
+        "filesize": 2048
+    }
+}

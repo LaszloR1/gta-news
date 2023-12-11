@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533047026,"title":"","headline":"GTA Online","subtitle":"Enus Stafford und Luftschiff","content":"Ganz gleich, ob dir der Sinn nach Noblesse oder totalem Irrsinn stehtµ– diese beiden Fahrzeuge sind nur für dich am Himmel und in den Straßen von Los Santos aufgetaucht. Der Enus Stafford ist ein viertüriger Überlegenheitskomplex auf Rädern; das neue Luftschiff ist das langsam dahingleitende, beklebte, hochexplosive Nachtclub-Werbemittel aus deinen kühnsten Träumen.","url":"","image":{"path":"sc/news/pa0_AH_Stafford_Blimp/349672_Big_Feed_Only_Blimp.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533047026,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Enus Stafford und Luftschiff",
+    "content": "Ganz gleich, ob dir der Sinn nach Noblesse oder totalem Irrsinn stehtµ– diese beiden Fahrzeuge sind nur für dich am Himmel und in den Straßen von Los Santos aufgetaucht. Der Enus Stafford ist ein viertüriger Überlegenheitskomplex auf Rädern; das neue Luftschiff ist das langsam dahingleitende, beklebte, hochexplosive Nachtclub-Werbemittel aus deinen kühnsten Träumen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/pa0_AH_Stafford_Blimp/349672_Big_Feed_Only_Blimp.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

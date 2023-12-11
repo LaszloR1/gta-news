@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455263,"title":"","headline":"GTA Online","subtitle":"Guerres commerciales","content":"Une guerre des gangs d'un nouveau genre a débarqué à Los Santos. Les guerres commerciales sont l'occasion unique de prendre possession de quelques marchandises supplémentaires et de les convertir en argent, ou de les ajouter au stock de l'entrepôt de votre boîte de nuit, si vous en avez un. Mais prenez garde, car cette occasion se présentera également à tous les assassins et voyous de la ville, qui ne se montreront pas très coopératifs.","url":"","image":{"path":"sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455263,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Guerres commerciales",
+    "content": "Une guerre des gangs d'un nouveau genre a débarqué à Los Santos. Les guerres commerciales sont l'occasion unique de prendre possession de quelques marchandises supplémentaires et de les convertir en argent, ou de les ajouter au stock de l'entrepôt de votre boîte de nuit, si vous en avez un. Mais prenez garde, car cette occasion se présentera également à tous les assassins et voyous de la ville, qui ne se montreront pas très coopératifs.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Business_Battles/349672_Big_Feed_Only_Business_Battles.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

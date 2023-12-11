@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380565543,"title":"","headline":"Astuce en ligne","subtitle":"Sauvegarde","content":"Lorsque vous mettez fin à une session en quittant via le menu Pause ou en passant en mode Histoire, votre progression est sauvegardée et vos amis et votre crew sont informés de votre départ.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Save_your_Game/262272_SaveYourGame.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Save_your_Game/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380565543,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Sauvegarde",
+    "content": "Lorsque vous mettez fin à une session en quittant via le menu Pause ou en passant en mode Histoire, votre progression est sauvegardée et vos amis et votre crew sont informés de votre départ.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Save_your_Game/262272_SaveYourGame.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Save_your_Game/.dds",
+        "filesize": 2048
+    }
+}

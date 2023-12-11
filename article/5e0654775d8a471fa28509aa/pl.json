@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973237,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Jak skorzystać z wytwórni kwasu?","content":"Wytwórnia kwasu pozwoli ci rozpocząć produkcję własnych psychodelików. Wewnątrz tego pojazdu można uruchamiać misje zaopatrzenia oraz misje sprzedaży, gdy już wyprodukujesz dość towaru. Kwas można też sprzedać ulicznym dilerom w trybie swobodnym, aby zdobyć trochę szybkiej kasy.<br /><br />Pamiętaj, aby utrzymywać kontakt z Daxem, gdy już ukończysz wszystkie misje fabularne. Czytaj dalej, aby dowiedzieć się dlaczego.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_PROPERTY arg=JUGGALO_HIDEOUT","image":{"path":"sc/news/5e0654775d8a471fa28509aa/262272_GTAPLUS_Period10_AcidLabs_FINAL_BigFeed.dds","filesize":262272},"button":"ZARZĄDZAJ PRODUKCJĄ KWASU"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973237,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Jak skorzystać z wytwórni kwasu?",
+    "content": "Wytwórnia kwasu pozwoli ci rozpocząć produkcję własnych psychodelików. Wewnątrz tego pojazdu można uruchamiać misje zaopatrzenia oraz misje sprzedaży, gdy już wyprodukujesz dość towaru. Kwas można też sprzedać ulicznym dilerom w trybie swobodnym, aby zdobyć trochę szybkiej kasy.<br /><br />Pamiętaj, aby utrzymywać kontakt z Daxem, gdy już ukończysz wszystkie misje fabularne. Czytaj dalej, aby dowiedzieć się dlaczego.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_PROPERTY arg=JUGGALO_HIDEOUT",
+    "image": {
+        "path": "sc/news/5e0654775d8a471fa28509aa/262272_GTAPLUS_Period10_AcidLabs_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "ZARZĄDZAJ PRODUKCJĄ KWASU"
+}

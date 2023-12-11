@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223581,"title":"","headline":"GTAV","subtitle":"ドライブバイ操作","content":"ドライブバイ射撃に新しい操作が登場。運転中でも ~INPUT_FRONTEND_LB~ で狙いをつけて、 ~INPUT_FRONTEND_RB~ で正確に発射 できます。クルージングしながら、1人称視点に切り替えて高い命中率で敵を倒すこともできます。~n~~n~ポーズメニュー>OPTIONS>操作方法>ドライブバイ操作タイプから、従来の操作方法に戻すこともできます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drive-By_Controls/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223581,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "ドライブバイ操作",
+    "content": "ドライブバイ射撃に新しい操作が登場。運転中でも ~INPUT_FRONTEND_LB~ で狙いをつけて、 ~INPUT_FRONTEND_RB~ で正確に発射 できます。クルージングしながら、1人称視点に切り替えて高い命中率で敵を倒すこともできます。~n~~n~ポーズメニュー>OPTIONS>操作方法>ドライブバイ操作タイプから、従来の操作方法に戻すこともできます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drive-By_Controls/.dds",
+        "filesize": 2048
+    }
+}

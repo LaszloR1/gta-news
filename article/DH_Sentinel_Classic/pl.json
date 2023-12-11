@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513701282,"title":"","headline":"GTA Online","subtitle":"Ubermacht Sentinel Classic","content":"Ubermacht Sentinel Classic jest nowym gościem na błotnistych torach San Andreas i dla każdego ma coś miłego. Posiada serce dopuszczonego do ruchu zabytkowego sportowego auta i duszę bezkompromisowego ulicznego wyścigowca. A jeśli chcesz, aby twój Sentinel naprawdę zabłysnął, to wybebesz wnętrze, dorzuć wysuwane reflektory i już możesz ruszać na bezdroża.","url":"","image":{"path":"sc/news/DH_Sentinel_Classic/262272_bigfeed-sentinel-classic-V2.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513701282,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ubermacht Sentinel Classic",
+    "content": "Ubermacht Sentinel Classic jest nowym gościem na błotnistych torach San Andreas i dla każdego ma coś miłego. Posiada serce dopuszczonego do ruchu zabytkowego sportowego auta i duszę bezkompromisowego ulicznego wyścigowca. A jeśli chcesz, aby twój Sentinel naprawdę zabłysnął, to wybebesz wnętrze, dorzuć wysuwane reflektory i już możesz ruszać na bezdroża.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Sentinel_Classic/262272_bigfeed-sentinel-classic-V2.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

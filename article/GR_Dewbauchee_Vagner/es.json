@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1498761721,"title":"","headline":"GTA Online","subtitle":"Dewbauchee Vagner","content":"El Vagner es el último prototipo surgido de la drástica irrupción de Dewbauchee en el mercado de los hipercoches. Técnicamente sigue estando en la fase experimental, sobre todo porque muy pocos pilotos de prueba han recuperado la cordura o la movilidad de sus miembros tras llevar este vehículo al límite.","url":"","image":{"path":"sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1498761721,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dewbauchee Vagner",
+    "content": "El Vagner es el último prototipo surgido de la drástica irrupción de Dewbauchee en el mercado de los hipercoches. Técnicamente sigue estando en la fase experimental, sobre todo porque muy pocos pilotos de prueba han recuperado la cordura o la movilidad de sus miembros tras llevar este vehículo al límite.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

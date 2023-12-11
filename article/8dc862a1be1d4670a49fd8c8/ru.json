@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705086,"title":"GTA+","headline":"GTA+","subtitle":"Bravado Hotring Hellfire","content":"Подписчики GTA+ могут получить Bravado Hotring Hellfire бесплатно до 11 октября.<br /><br /> Bravado Hotring Hellfire (спорткар) – это мощь с большой буквы «М». Его турбированные двигатели способны повергнуть ниц даже самых опытных адреналиновых наркоманов. <br /><br />Подписка GTA+ автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/8dc862a1be1d4670a49fd8c8/262272_GTA_Plus_MP18_LeadAsset_HortingHellfire_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705086,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Bravado Hotring Hellfire",
+    "content": "Подписчики GTA+ могут получить Bravado Hotring Hellfire бесплатно до 11 октября.<br /><br /> Bravado Hotring Hellfire (спорткар) – это мощь с большой буквы «М». Его турбированные двигатели способны повергнуть ниц даже самых опытных адреналиновых наркоманов. <br /><br />Подписка GTA+ автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/8dc862a1be1d4670a49fd8c8/262272_GTA_Plus_MP18_LeadAsset_HortingHellfire_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515580,"title":"","headline":"GTA Online","subtitle":"Junte-se ao Clube","content":"Pertencer a um MC desbloqueia novas oportunidades de trabalho para todos, desde o fundador até o Novato mais recente. Dispute contra seus irmãos e irmãs em novos desafios brutais. Atenda ao chamado do seu Presidente e defenda a honra do seu clube contra todos os rivais. E o mais rentável de tudo: estabeleça um esquema de produção de toda espécie de produtos altamente valiosos e ilegais. Cuide dos seus negócios e eles proverão para você.","url":"","image":{"path":"sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_JoinTheClub/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515580,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Junte-se ao Clube",
+    "content": "Pertencer a um MC desbloqueia novas oportunidades de trabalho para todos, desde o fundador até o Novato mais recente. Dispute contra seus irmãos e irmãs em novos desafios brutais. Atenda ao chamado do seu Presidente e defenda a honra do seu clube contra todos os rivais. E o mais rentável de tudo: estabeleça um esquema de produção de toda espécie de produtos altamente valiosos e ilegais. Cuide dos seus negócios e eles proverão para você.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/.dds",
+        "filesize": 2048
+    }
+}

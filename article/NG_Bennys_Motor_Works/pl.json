@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349404,"title":"","headline":"GTA Online","subtitle":"Benny’s Original Motor Works","content":"W warsztacie Benny’s Original Motor Works dostępne są nowe ciekawe modyfikacje. Zajrzyj na www.bennysoriginalmotorworks.com bądź skorzystaj ze skrótu w telefonie, aby zobaczyć najnowsze samochody Benny'ego.<br /><br />Spraw sobie auto do przeróbki i podjedź nim do zakładu Benny'ego w samym sercu Los Santos. Wykupienie odpowiedniego ulepszenia otworzy dostęp do nowych modyfikacji, w tych hydrauliki i wyjątkowych wnętrz.<br />W świat przeróbek wprowadzi cię Lamar we własnej osobie.","url":"","image":{"path":"sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bennys_Motor_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349404,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Benny’s Original Motor Works",
+    "content": "W warsztacie Benny’s Original Motor Works dostępne są nowe ciekawe modyfikacje. Zajrzyj na www.bennysoriginalmotorworks.com bądź skorzystaj ze skrótu w telefonie, aby zobaczyć najnowsze samochody Benny'ego.<br /><br />Spraw sobie auto do przeróbki i podjedź nim do zakładu Benny'ego w samym sercu Los Santos. Wykupienie odpowiedniego ulepszenia otworzy dostęp do nowych modyfikacji, w tych hydrauliki i wyjątkowych wnętrz.<br />W świat przeróbek wprowadzi cię Lamar we własnej osobie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bennys_Motor_Works/.dds",
+        "filesize": 2048
+    }
+}

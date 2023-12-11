@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608659664,"title":"","headline":"GTA Online","subtitle":"Тройной сет","content":"Вам нравится клуб Music Locker? Тогда понравится и новая радиостанция, на волнах которой звучит упоительный микс из сетов Keinemusik, Palms Trax и Moodymann.","url":"","image":{"path":"sc/news/3ef2c88fcb94440c949cc972/262272_GTAO_IslandHeist_BigFeed_ML1.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608659664,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Тройной сет",
+    "content": "Вам нравится клуб Music Locker? Тогда понравится и новая радиостанция, на волнах которой звучит упоительный микс из сетов Keinemusik, Palms Trax и Moodymann.",
+    "url": "",
+    "image": {
+        "path": "sc/news/3ef2c88fcb94440c949cc972/262272_GTAO_IslandHeist_BigFeed_ML1.dds",
+        "filesize": 262272
+    }
+}

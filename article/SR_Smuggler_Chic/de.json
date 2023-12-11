@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999974,"title":"","headline":"GTA Online","subtitle":"Schmuggler-Mode","content":"In dieser schönen neuen Welt mit geringen Zöllen und hohen Profiten musst du auch entsprechend aussehen – und kein anständiger Schmuggler möchte in dieser Saison ohne die angesagtesten Klamotten und Tattoos gesehen werden, weder tot noch lebendig.<br /><br />Also, ganz gleich, ob du ein urbaner Pirat oder ein Fliegerass bist oder einfach nur Wärmebild- und Nachtsichtgeräte für deine nächste Verkaufsmission benötigst – es gibt auf jeden Fall was Neues für dich in der Stadt.","url":"","image":{"path":"sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999974,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Schmuggler-Mode",
+    "content": "In dieser schönen neuen Welt mit geringen Zöllen und hohen Profiten musst du auch entsprechend aussehen – und kein anständiger Schmuggler möchte in dieser Saison ohne die angesagtesten Klamotten und Tattoos gesehen werden, weder tot noch lebendig.<br /><br />Also, ganz gleich, ob du ein urbaner Pirat oder ein Fliegerass bist oder einfach nur Wärmebild- und Nachtsichtgeräte für deine nächste Verkaufsmission benötigst – es gibt auf jeden Fall was Neues für dich in der Stadt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Smuggler_Chic/262272_Smuggler_Chic.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

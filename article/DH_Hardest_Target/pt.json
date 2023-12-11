@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1517331821,"title":"","headline":"GTA Online","subtitle":"Duro de Viver","content":"Não é fácil ser o centro das atenções em Los Santos, especialmente em Duro de Viver, o último Modo Adversário a chegar ao GTA Online. Cada equipe tem um jogador marcado para morrer: mate-o e ganhe um ponto. Mas cuidado: a identidade do alvo muda a cada minuto, então se, de repente, você sentir que tem um alvo entre seus olhos, você não está paranoico. Tem gente querendo matar você mesmo.","url":"","image":{"path":"sc/news/DH_Hardest_Target/349672_bigfeed-hardesttarget-v2.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1517331821,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Duro de Viver",
+    "content": "Não é fácil ser o centro das atenções em Los Santos, especialmente em Duro de Viver, o último Modo Adversário a chegar ao GTA Online. Cada equipe tem um jogador marcado para morrer: mate-o e ganhe um ponto. Mas cuidado: a identidade do alvo muda a cada minuto, então se, de repente, você sentir que tem um alvo entre seus olhos, você não está paranoico. Tem gente querendo matar você mesmo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Hardest_Target/349672_bigfeed-hardesttarget-v2.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

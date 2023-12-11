@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381833781,"title":"","headline":"Online Tip","subtitle":"Elitastravel.com","content":"Elitastravel.com is a vendor of luxury private jets and helicopters in San Andreas. Their vehicles are intended for transport and leisure purposes only and are not armed. Visit their website via your phone’s web browser to order your own private aircraft today.<br /><br />Upon making a purchase you’ll be able to organize delivery via the Pegasus concierge service in your phone’s Contacts list.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Elitastravel/262272_Elitastravel.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Elitastravel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381833781,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Elitastravel.com",
+    "content": "Elitastravel.com is a vendor of luxury private jets and helicopters in San Andreas. Their vehicles are intended for transport and leisure purposes only and are not armed. Visit their website via your phone’s web browser to order your own private aircraft today.<br /><br />Upon making a purchase you’ll be able to organize delivery via the Pegasus concierge service in your phone’s Contacts list.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Elitastravel/262272_Elitastravel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Elitastravel/.dds",
+        "filesize": 2048
+    }
+}

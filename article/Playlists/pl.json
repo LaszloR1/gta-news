@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1399976061,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Listy gier","content":"Walcz w serii różnych akcji. Odpal listę gier i rozegraj kilka akcji pod rząd bez czekania.<br /><br />Każda akcja ma własną punktację, a punkty są sumowane, więc mała wpadka to nic takiego.<br /><br />Twórz własne listy gier lub korzystaj ze stworzonych przez Rockstar – zajrzyj do sekcji Listy gier w menu Online.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Playlists/262272_Playlists.dds","filesize":262272},"landscape":{"path":"sc/news/Playlists/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399976061,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Listy gier",
+    "content": "Walcz w serii różnych akcji. Odpal listę gier i rozegraj kilka akcji pod rząd bez czekania.<br /><br />Każda akcja ma własną punktację, a punkty są sumowane, więc mała wpadka to nic takiego.<br /><br />Twórz własne listy gier lub korzystaj ze stworzonych przez Rockstar – zajrzyj do sekcji Listy gier w menu Online.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Playlists/262272_Playlists.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Playlists/.dds",
+        "filesize": 2048
+    }
+}

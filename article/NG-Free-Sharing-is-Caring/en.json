@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442258950,"title":"","headline":"GTA Online","subtitle":"Sharing is Caring","content":"Freemode Events present opportunities to rack up cash and RP. When you work together to stop a Dead Drop or take down The Beast - don’t forget the people who helped you achieve victory.<br /><br />Using the Cash section of the Inventory in the Interaction Menu you can Share Cash from Last Job. They’d sure appreciate it and maybe you’ll make some new allies for all your future ventures.","url":"","image":{"path":"sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Sharing-is-Caring/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442258950,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sharing is Caring",
+    "content": "Freemode Events present opportunities to rack up cash and RP. When you work together to stop a Dead Drop or take down The Beast - don’t forget the people who helped you achieve victory.<br /><br />Using the Cash section of the Inventory in the Interaction Menu you can Share Cash from Last Job. They’d sure appreciate it and maybe you’ll make some new allies for all your future ventures.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/262272_Sharing-Is-Caring-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Sharing-is-Caring/.dds",
+        "filesize": 2048
+    }
+}

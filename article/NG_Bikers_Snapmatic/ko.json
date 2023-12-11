@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475767266,"title":"","headline":"GTA Online","subtitle":"바이커 SNAPMATIC 콘테스트","content":"곧 시작될 저희의 #BIKERS Snapmatic 사진 콘테스트에 최고의 사진을 찍어서 참가할 준비를 마쳤나요? 최신 이동 수단부터 클럽하우스 내의 일상까지, 바이커의 멋진 요소들을 알차게 담아낸 5장의 Snapmatic 사진을 선정할 예정입니다. 선정된 5명의 수상자는 해당 Snapmatic을 Rockstar 새 소식에 소개될 뿐만 아니라, GTA$ 1,000,000를 상금으로 드립니다. 응모 기간은 10월 10일 월요일까지이며, 반드시 Social Club에서 #BIKERS 태그를 달아야 합니다.<br /><br />자세한 공식 규칙 사항은 Social Club에서 확인하세요.","url":"","image":{"path":"sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Snapmatic/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475767266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "바이커 SNAPMATIC 콘테스트",
+    "content": "곧 시작될 저희의 #BIKERS Snapmatic 사진 콘테스트에 최고의 사진을 찍어서 참가할 준비를 마쳤나요? 최신 이동 수단부터 클럽하우스 내의 일상까지, 바이커의 멋진 요소들을 알차게 담아낸 5장의 Snapmatic 사진을 선정할 예정입니다. 선정된 5명의 수상자는 해당 Snapmatic을 Rockstar 새 소식에 소개될 뿐만 아니라, GTA$ 1,000,000를 상금으로 드립니다. 응모 기간은 10월 10일 월요일까지이며, 반드시 Social Club에서 #BIKERS 태그를 달아야 합니다.<br /><br />자세한 공식 규칙 사항은 Social Club에서 확인하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Snapmatic/.dds",
+        "filesize": 2048
+    }
+}

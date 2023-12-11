@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044119,"title":"","headline":"GTA Online","subtitle":"Sumo","content":"In diesem neuen Gegner-Modus zertrümmerst, vermöbelst und rammst du deine Konkurrenz in Grund und Boden, während du mit deinem Team versuchst, sie aus dem Ring zu drängen. Egal, ob ihr auf Größe, Geschwindigkeit oder Kontrolle steht – sucht euch das Fahrzeug aus, das am besten zu euch passt und versucht, als letztes Team im Spiel zu sein, wenn die Zeit abläuft.","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumo",
+    "content": "In diesem neuen Gegner-Modus zertrümmerst, vermöbelst und rammst du deine Konkurrenz in Grund und Boden, während du mit deinem Team versuchst, sie aus dem Ring zu drängen. Egal, ob ihr auf Größe, Geschwindigkeit oder Kontrolle steht – sucht euch das Fahrzeug aus, das am besten zu euch passt und versucht, als letztes Team im Spiel zu sein, wenn die Zeit abläuft.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509130506,"title":"","headline":"GTA Online","subtitle":"Vigilante","content":"A new breed of justice has come to the streets of Los Santos, and it’s more or less indistinguishable from overwhelming force. With the Vigilante making its mark, there’s only one way to ensure you’re not on the receiving end of rocket-fuelled retribution, and that’s to make sure you’re the one dishing it out.","url":"","image":{"path":"sc/news/SR_Vigilante/524416_BIGFEED_2017_1024_V01_512x1024.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509130506,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vigilante",
+    "content": "A new breed of justice has come to the streets of Los Santos, and it’s more or less indistinguishable from overwhelming force. With the Vigilante making its mark, there’s only one way to ensure you’re not on the receiving end of rocket-fuelled retribution, and that’s to make sure you’re the one dishing it out.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Vigilante/524416_BIGFEED_2017_1024_V01_512x1024.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

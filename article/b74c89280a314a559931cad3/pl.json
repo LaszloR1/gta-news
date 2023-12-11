@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"TAKTYCZNY SMG","content":"Dobre wieści: twój przyjazny handlarz bronią zza rogu wrócił z nowymi i nie do końca legalnymi zabawkami.<br /><br />Sprawdź jego asortyment już dzisiaj, żeby nabyć taktyczny SMG, czyli pistolet maszynowy z dużym magazynkiem, który zdominuje arsenał każdego eksperta broni. Dostępny już teraz w furgonetce z bronią.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "TAKTYCZNY SMG",
+    "content": "Dobre wieści: twój przyjazny handlarz bronią zza rogu wrócił z nowymi i nie do końca legalnymi zabawkami.<br /><br />Sprawdź jego asortyment już dzisiaj, żeby nabyć taktyczny SMG, czyli pistolet maszynowy z dużym magazynkiem, który zdominuje arsenał każdego eksperta broni. Dostępny już teraz w furgonetce z bronią.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

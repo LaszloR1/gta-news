@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567410,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Menu interakcji","content":"Menu interakcji zawiera wiele przydatnych funkcji i opcji, łącznie z podręcznym GPS-em i możliwością szybkiej zmiany akcesoriów twojej postaci. Menu interakcji można uruchomić w grze, przytrzymując ~INPUT_INTERACTION_MENU~, by wyświetlić jego zawartość.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Interaction_Menu/262272_Interaction_Menu.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Interaction_Menu/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567410,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Menu interakcji",
+    "content": "Menu interakcji zawiera wiele przydatnych funkcji i opcji, łącznie z podręcznym GPS-em i możliwością szybkiej zmiany akcesoriów twojej postaci. Menu interakcji można uruchomić w grze, przytrzymując ~INPUT_INTERACTION_MENU~, by wyświetlić jego zawartość.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Interaction_Menu/262272_Interaction_Menu.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Interaction_Menu/.dds",
+        "filesize": 2048
+    }
+}

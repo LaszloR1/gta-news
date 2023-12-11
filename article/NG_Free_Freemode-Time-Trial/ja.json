@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314472,"title":"","headline":"GTA Online","subtitle":"フリーモード・タイムトライアル","content":"毎週、ターゲットレース形式の新しいタイムトライアルチャレンジが登場します。適切な乗り物で近づいてチェックポイントを発生させ、その地点にできるだけ速く到達しましょう。ロックスター・ゲームス目標タイムを破れば、勝利報酬を受け取れます。その後、新しいタイムトライアルが利用可能になるまで、同じルートに何度も挑戦して、自己ベストタイムの更新を目指しましょう。","url":"","image":{"path":"sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Freemode-Time-Trial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314472,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "フリーモード・タイムトライアル",
+    "content": "毎週、ターゲットレース形式の新しいタイムトライアルチャレンジが登場します。適切な乗り物で近づいてチェックポイントを発生させ、その地点にできるだけ速く到達しましょう。ロックスター・ゲームス目標タイムを破れば、勝利報酬を受け取れます。その後、新しいタイムトライアルが利用可能になるまで、同じルートに何度も挑戦して、自己ベストタイムの更新を目指しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324935,"title":"","headline":"GTA Online","subtitle":"Serie di gare stunt","content":"Il tempo è prezioso, specialmente a Los Santos. Per questo motivo, ti diamo modo di accedere rapidamente alle nuove gare stunt piene di giocatori drogati di adrenalina come te. Cerca sul radar le icone rosa delle Serie di gare stunt e raggiungine una per entrare immediatamente nel cuore dell'azione.  ","url":"","image":{"path":"sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Stunt_Series/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324935,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Serie di gare stunt",
+    "content": "Il tempo è prezioso, specialmente a Los Santos. Per questo motivo, ti diamo modo di accedere rapidamente alle nuove gare stunt piene di giocatori drogati di adrenalina come te. Cerca sul radar le icone rosa delle Serie di gare stunt e raggiungine una per entrare immediatamente nel cuore dell'azione.  ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/.dds",
+        "filesize": 2048
+    }
+}

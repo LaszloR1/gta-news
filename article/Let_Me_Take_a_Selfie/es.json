@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991948,"headline":"Consejo en línea","subtitle":"Deja que me haga una foto...","content":"Haz una foto rápida con la cámara de tu móvil para inmortalizar esos increíbles momentos en GTA y que todos puedan disfrutarlos. ¡También puedes girar la cámara hacia ti para hacerte una foto a ti mismo!~n~~n~Hay montones de marcos y filtros para que puedas aportar tu toque de estilo personal.~n~~n~Incluso hay un creador de memes para añadir un pie de foto a tus imágenes antes de publicarlas en el Social Club. Abre cualquier foto de tu galería y pulsa ~INPUT_FRONTEND_X~ para entrar en el creador","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991948,
+    "headline": "Consejo en línea",
+    "subtitle": "Deja que me haga una foto...",
+    "content": "Haz una foto rápida con la cámara de tu móvil para inmortalizar esos increíbles momentos en GTA y que todos puedan disfrutarlos. ¡También puedes girar la cámara hacia ti para hacerte una foto a ti mismo!~n~~n~Hay montones de marcos y filtros para que puedas aportar tu toque de estilo personal.~n~~n~Incluso hay un creador de memes para añadir un pie de foto a tus imágenes antes de publicarlas en el Social Club. Abre cualquier foto de tu galería y pulsa ~INPUT_FRONTEND_X~ para entrar en el creador",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

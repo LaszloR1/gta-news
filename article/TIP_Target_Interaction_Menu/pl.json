@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811610,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Menu interakcji z celem","content":"Menu interakcji można uruchomić, trzymając przycisk ~INPUT_FRONTEND_SELECT~ podczas mierzenia do celu. Udostępnia ono wybór dodatkowych opcji oraz umożliwia szybkie otwarcie karty danego gracza. Ułatwia to zgłaszanie innych oraz sprawdzanie statusu ekipy.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Target_Interaction_Menu/262272_Interaction_Menu.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Target_Interaction_Menu/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811610,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Menu interakcji z celem",
+    "content": "Menu interakcji można uruchomić, trzymając przycisk ~INPUT_FRONTEND_SELECT~ podczas mierzenia do celu. Udostępnia ono wybór dodatkowych opcji oraz umożliwia szybkie otwarcie karty danego gracza. Ułatwia to zgłaszanie innych oraz sprawdzanie statusu ekipy.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Target_Interaction_Menu/262272_Interaction_Menu.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Target_Interaction_Menu/.dds",
+        "filesize": 2048
+    }
+}

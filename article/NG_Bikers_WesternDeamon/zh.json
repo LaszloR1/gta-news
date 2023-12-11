@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766203,"title":"","headline":"GTA Online","subtitle":"西部惡魔改裝款與畢福猛禽","content":"本週於洛聖都街頭登場的惡魔改裝款和猛禽，將為您開啟您從未想像過的全新視野。開著新款惡魔上街，向路人展現您具備高貴又時尚的幫派傳統。但如果您渴望只有渦輪增壓三輪車輛能帶來的驚奇古怪與刺激感，猛禽就是最適合您的選擇。","url":"","image":{"path":"sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_WesternDeamon/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766203,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "西部惡魔改裝款與畢福猛禽",
+    "content": "本週於洛聖都街頭登場的惡魔改裝款和猛禽，將為您開啟您從未想像過的全新視野。開著新款惡魔上街，向路人展現您具備高貴又時尚的幫派傳統。但如果您渴望只有渦輪增壓三輪車輛能帶來的驚奇古怪與刺激感，猛禽就是最適合您的選擇。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/.dds",
+        "filesize": 2048
+    }
+}

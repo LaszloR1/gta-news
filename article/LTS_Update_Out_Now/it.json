@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1412256184,"headline":"Aggiornamento GTA Online","subtitle":"Aggiornamento Last Team Standing ora disponibile","content":"L'aggiornamento Last Team Standing introduce armi potenti, equipaggiamento tattico, veicoli ad alte prestazioni e nuove funzionalità per il creatore.<br /><br />Con la modalità Last Team Standing del creatore è ora possibile ideare le attività di GTA Online per questa modalità strategica e letale che vede una squadra contro l'altra, senza seconde occasioni.<br /><br />L'aggiornamento contiene 10 nuove attività Last Team Standing e molte modifiche e ottimizzazioni per GTA Online. Hai una sola vita: non sprecarla.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds","filesize":65664},"landscape":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1412256184,
+    "headline": "Aggiornamento GTA Online",
+    "subtitle": "Aggiornamento Last Team Standing ora disponibile",
+    "content": "L'aggiornamento Last Team Standing introduce armi potenti, equipaggiamento tattico, veicoli ad alte prestazioni e nuove funzionalità per il creatore.<br /><br />Con la modalità Last Team Standing del creatore è ora possibile ideare le attività di GTA Online per questa modalità strategica e letale che vede una squadra contro l'altra, senza seconde occasioni.<br /><br />L'aggiornamento contiene 10 nuove attività Last Team Standing e molte modifiche e ottimizzazioni per GTA Online. Hai una sola vita: non sprecarla.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds",
+        "filesize": 65664
+    }
+}

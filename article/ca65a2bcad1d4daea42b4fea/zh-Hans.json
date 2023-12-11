@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285760,"title":"GTA+","headline":"GTA+","subtitle":"竞技场之战奖励","content":"GTA+µ会员可在竞技场之战系列中获得双倍µGTAµ游戏币、声望值和竞技积分，截至µ9µ月µ13µ日。<br /><br />GTA+µ会员资格每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解详情。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_zh_hans.dds","filesize":262272},"button":"选择以注册 GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285760,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "竞技场之战奖励",
+    "content": "GTA+µ会员可在竞技场之战系列中获得双倍µGTAµ游戏币、声望值和竞技积分，截至µ9µ月µ13µ日。<br /><br />GTA+µ会员资格每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解详情。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_zh_hans.dds",
+        "filesize": 262272
+    },
+    "button": "选择以注册 GTA+"
+}

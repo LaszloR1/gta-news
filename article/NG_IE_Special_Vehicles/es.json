@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543270,"title":"","headline":"GTA Online","subtitle":"Vehículos especiales","content":"Cuando hayas demostrado que eres un proveedor de vehículos cuasilegítimos especializado y con talento, SecuroServ te enviará más trabajos exclusivos. Hacerse con estos vehículos exóticos, extremadamente inusuales y prohibidos por el gobierno no es tarea fácil, pero ofrecen recompensas a su altura. Cuando hayas demostrado tu valía al obtenerlos de manera profesional, SecuroServ te ofrecerá un precio reducido si quieres tener uno todo para ti.","url":"","image":{"path":"sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Special_Vehicles/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543270,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vehículos especiales",
+    "content": "Cuando hayas demostrado que eres un proveedor de vehículos cuasilegítimos especializado y con talento, SecuroServ te enviará más trabajos exclusivos. Hacerse con estos vehículos exóticos, extremadamente inusuales y prohibidos por el gobierno no es tarea fácil, pero ofrecen recompensas a su altura. Cuando hayas demostrado tu valía al obtenerlos de manera profesional, SecuroServ te ofrecerá un precio reducido si quieres tener uno todo para ti.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Special_Vehicles/.dds",
+        "filesize": 2048
+    }
+}

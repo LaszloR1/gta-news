@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488454038,"title":"","headline":"Offerta esclusiva a tempo limitato","subtitle":"","content":"Approfitta del 50% di sconto sulla Benefactor Schafter blindata e sugli elicotteri SuperVolito, oltre al 25% di sconto sulla scattante supercar Pfister 811.  Avrai inoltre l'occasione di migliorare la tua situazione abitativa: le ville sono a metà prezzo! Non perdere tempo, l'offerta scade il 13 marzo.","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488454038,
+    "title": "",
+    "headline": "Offerta esclusiva a tempo limitato",
+    "subtitle": "",
+    "content": "Approfitta del 50% di sconto sulla Benefactor Schafter blindata e sugli elicotteri SuperVolito, oltre al 25% di sconto sulla scattante supercar Pfister 811.  Avrai inoltre l'occasione di migliorare la tua situazione abitativa: le ville sono a metà prezzo! Non perdere tempo, l'offerta scade il 13 marzo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/.dds",
+        "filesize": 2048
+    }
+}

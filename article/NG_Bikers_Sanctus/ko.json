@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477561765,"title":"","headline":"GTA Online","subtitle":"LCC 상투스","content":"힙스터부터 갱단원, 트랙 전문가, 오프로더, 한창 중년의 위기를 겪고 있는 세금 변호사까지, 그들만을 위해 만들어진 오토바이가 하나씩은 다 있습니다. 하지만 피를 마시고, 해골을 걸치고, 증오로 가득 찬 죽음의 사도 같은 분들은 계속해서 시장에서 외면받아왔죠. 얼마나 마음이 상하셨습니까? 이제 걱정하지 마십시오. LCC 상투스는 여러분이 지금껏 살아오면서 내린 확신에 가득 찼던 그 선택처럼, 당신이 절대로 후회하지 않도록 해줄 것입니다.","url":"","image":{"path":"sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Sanctus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477561765,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "LCC 상투스",
+    "content": "힙스터부터 갱단원, 트랙 전문가, 오프로더, 한창 중년의 위기를 겪고 있는 세금 변호사까지, 그들만을 위해 만들어진 오토바이가 하나씩은 다 있습니다. 하지만 피를 마시고, 해골을 걸치고, 증오로 가득 찬 죽음의 사도 같은 분들은 계속해서 시장에서 외면받아왔죠. 얼마나 마음이 상하셨습니까? 이제 걱정하지 마십시오. LCC 상투스는 여러분이 지금껏 살아오면서 내린 확신에 가득 찼던 그 선택처럼, 당신이 절대로 후회하지 않도록 해줄 것입니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Sanctus/.dds",
+        "filesize": 2048
+    }
+}

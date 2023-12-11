@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507049482,"title":"","headline":"GTA Online","subtitle":"Discounts & Upgrades","content":"There's no such thing as excess in this town, so take that newly acquired flying machine of yours and make it that much deadlier with these discounts:<br /><br />Hangar Workshop – 25% off<br />Engine Upgrades (all vehicles) – 25% off<br />Armor Upgrades (all vehicles) – 25% off<br />Aircraft Handling Upgrades – 25% off<br />Aircraft Weapons Upgrades – 25% off<br />Flight and Air Racing Suits – 25% off<br /><br />Check out the Rockstar Newswire for all the details.","url":"","image":{"path":"sc/news/Disounts_03_10_17/262272_Hangar_On.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507049482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Discounts & Upgrades",
+    "content": "There's no such thing as excess in this town, so take that newly acquired flying machine of yours and make it that much deadlier with these discounts:<br /><br />Hangar Workshop – 25% off<br />Engine Upgrades (all vehicles) – 25% off<br />Armor Upgrades (all vehicles) – 25% off<br />Aircraft Handling Upgrades – 25% off<br />Aircraft Weapons Upgrades – 25% off<br />Flight and Air Racing Suits – 25% off<br /><br />Check out the Rockstar Newswire for all the details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Disounts_03_10_17/262272_Hangar_On.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

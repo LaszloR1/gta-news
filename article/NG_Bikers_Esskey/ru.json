@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511557,"title":"","headline":"GTA Online","subtitle":"Pegassi Esskey","content":"Pegassi Esskey, уже доступный в магазинах Лос-Сантоса, – ваш билет в мир шика и настоящей роскоши, который теперь можно купить нажатием всего одной кнопки. Садитесь на этого красавца, и он вернет вас в славное время, когда бензин был дешевым, ваш отец был крутым пацаном, а мама – отпадной девахой.","url":"","image":{"path":"sc/news/NG_Bikers_Esskey/262272_Esskey.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Esskey/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511557,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Esskey",
+    "content": "Pegassi Esskey, уже доступный в магазинах Лос-Сантоса, – ваш билет в мир шика и настоящей роскоши, который теперь можно купить нажатием всего одной кнопки. Садитесь на этого красавца, и он вернет вас в славное время, когда бензин был дешевым, ваш отец был крутым пацаном, а мама – отпадной девахой.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Esskey/262272_Esskey.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Esskey/.dds",
+        "filesize": 2048
+    }
+}

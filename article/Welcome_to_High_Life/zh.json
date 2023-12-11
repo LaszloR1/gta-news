@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399990305,"headline":"GTA 線上模式更新","subtitle":"歡迎來到上流生活","content":"全新豪華公寓現在熱銷中。<br /><br />您現在可以在自己的房地產組合投資中加入第二個房地產。請造訪 Dynasty-8.com 以查看所有出售中的美麗公寓。<br /><br />除了您可能已經非常熟悉的房地產以外，現在您在洛聖都最豪華的住宅區還可以找到許多新的、受歡迎的高級公寓，每間公寓都自帶 10 車位的車庫，方便您存放更多載具。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990305,
+    "headline": "GTA 線上模式更新",
+    "subtitle": "歡迎來到上流生活",
+    "content": "全新豪華公寓現在熱銷中。<br /><br />您現在可以在自己的房地產組合投資中加入第二個房地產。請造訪 Dynasty-8.com 以查看所有出售中的美麗公寓。<br /><br />除了您可能已經非常熟悉的房地產以外，現在您在洛聖都最豪華的住宅區還可以找到許多新的、受歡迎的高級公寓，每間公寓都自帶 10 車位的車庫，方便您存放更多載具。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds",
+        "filesize": 65664
+    }
+}

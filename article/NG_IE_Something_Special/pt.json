@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543318,"title":"","headline":"GTA Online","subtitle":"Algo Especial em Transporte com Alta Emissão de Carbono","content":"Chegou uma nova classe de veículos na cidade, disponível exclusivamente na Warstock Cache & Carry. Seja a total brutalidade do Phantom Wedge ou as injeções de velocidade suicidas do Rocket Voltic, esses monstros podem levar você a novas altitudes de destruição e loucura. Para comprar um, você precisará de um galpão de veículos, e se quiser ter acesso ao preço de fábrica da SecuroServ, só vai ter que completar a respectiva missão de veículo especial.","url":"","image":{"path":"sc/news/NG_IE_Something_Special/262272_Something_Nice.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Something_Special/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543318,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Algo Especial em Transporte com Alta Emissão de Carbono",
+    "content": "Chegou uma nova classe de veículos na cidade, disponível exclusivamente na Warstock Cache & Carry. Seja a total brutalidade do Phantom Wedge ou as injeções de velocidade suicidas do Rocket Voltic, esses monstros podem levar você a novas altitudes de destruição e loucura. Para comprar um, você precisará de um galpão de veículos, e se quiser ter acesso ao preço de fábrica da SecuroServ, só vai ter que completar a respectiva missão de veículo especial.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Something_Special/262272_Something_Nice.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Something_Special/.dds",
+        "filesize": 2048
+    }
+}

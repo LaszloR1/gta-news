@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416245599,"title":"","headline":"GTA Online","subtitle":"기존 캐릭터와 진행 내용을 전송하세요","content":"새로운 콘솔을 사용해서 로스 산토스로 돌아오신다고요? 기존의 GTA 온라인 캐릭터와 진행 내용을 전송하여 범죄 경력을 이어가십시오.<br />자세한 내용을 보려면 www.rockstargames.com/gtaonline/charactertransfer를 방문하십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Transfer_Progress/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416245599,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "기존 캐릭터와 진행 내용을 전송하세요",
+    "content": "새로운 콘솔을 사용해서 로스 산토스로 돌아오신다고요? 기존의 GTA 온라인 캐릭터와 진행 내용을 전송하여 범죄 경력을 이어가십시오.<br />자세한 내용을 보려면 www.rockstargames.com/gtaonline/charactertransfer를 방문하십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Transfer_Progress/262272_CharacterTransfer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Transfer_Progress/.dds",
+        "filesize": 2048
+    }
+}

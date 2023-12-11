@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"자신을 표현하세요","content":"다양한 의상으로 여러분의 옷장을 새롭게 단장해서 다음 번 자동차 모임 때 산뜻한 모습을 보여 주는 게 어떨까요? 로우라이더 길거리 복장부터 작업복까지, 시험해 볼 만한 새로운 의상 아이템이 많습니다. 로스 산토스에 있는 문신 시술소에서 새로운 문신 디자인을 이용할 수 있으며, 이발소에서는 최신 유행 헤어스타일에 도전해 볼 수도 있습니다.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "자신을 표현하세요",
+    "content": "다양한 의상으로 여러분의 옷장을 새롭게 단장해서 다음 번 자동차 모임 때 산뜻한 모습을 보여 주는 게 어떨까요? 로우라이더 길거리 복장부터 작업복까지, 시험해 볼 만한 새로운 의상 아이템이 많습니다. 로스 산토스에 있는 문신 시술소에서 새로운 문신 디자인을 이용할 수 있으며, 이발소에서는 최신 유행 헤어스타일에 도전해 볼 수도 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

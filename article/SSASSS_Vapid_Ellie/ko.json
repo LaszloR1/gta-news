@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168344,"title":"","headline":"GTA Online","subtitle":"바피드 엘리","content":"팔씨름을 하고 나서 할아버지가 나보다 더 힘세고, 날렵하고, 멋지고, 매력적인 사람이라는 걸 깨달았던 그때를 기억하십니까? 이제 그런 기분을 또 한 번 느끼게 될 겁니다. 바피드 엘리가 50년의 긴 잠에서 깨어났습니다. 아직도 멋져 보이는 건 물론입니다.","url":"","image":{"path":"sc/news/SSASSS_Vapid_Ellie/349672_bigfeed-ellie.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168344,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "바피드 엘리",
+    "content": "팔씨름을 하고 나서 할아버지가 나보다 더 힘세고, 날렵하고, 멋지고, 매력적인 사람이라는 걸 깨달았던 그때를 기억하십니까? 이제 그런 기분을 또 한 번 느끼게 될 겁니다. 바피드 엘리가 50년의 긴 잠에서 깨어났습니다. 아직도 멋져 보이는 건 물론입니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Vapid_Ellie/349672_bigfeed-ellie.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

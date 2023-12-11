@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1635162226,"title":"","headline":"GTA Online","subtitle":"Celebrate Halloween","content":"The mood in Los Santos is frightful. Reports of UFO sightings over Los Santos are intensifying, the LSPD is reporting a spike in calls regarding phantom cars with no drivers, while a crop of copycat killers are running amok. Be on the lookout for these strange phenomena and more throughout the Halloween season.","url":"","image":{"path":"sc/news/39b4505b1278437c842c9ec8/262272_GTAO_Event271_LeadAsset_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1635162226,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Celebrate Halloween",
+    "content": "The mood in Los Santos is frightful. Reports of UFO sightings over Los Santos are intensifying, the LSPD is reporting a spike in calls regarding phantom cars with no drivers, while a crop of copycat killers are running amok. Be on the lookout for these strange phenomena and more throughout the Halloween season.",
+    "url": "",
+    "image": {
+        "path": "sc/news/39b4505b1278437c842c9ec8/262272_GTAO_Event271_LeadAsset_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

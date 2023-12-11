@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1403780608,"headline":"온라인 팁","subtitle":"시크한 방탄복","content":"아뮤네이션에 최신 방탄복이 입고되었습니다. 언제 어디서나 어울리는 패셔너블한 조끼입니다.<br /><br />상호 작용 메뉴 > 인벤토리 > 방탄복에서 언제든지 방탄복 표시 방식을 변경할 수 있습니다.<br /><br />작업 중에 방탄복을 획득하면, 자동으로 현재 랭킹에서 사용할 수 있는 가장 튼튼한 방탄복이 됩니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Bulletproof_Chic/65664_BulletProofChic.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1403780608,
+    "headline": "온라인 팁",
+    "subtitle": "시크한 방탄복",
+    "content": "아뮤네이션에 최신 방탄복이 입고되었습니다. 언제 어디서나 어울리는 패셔너블한 조끼입니다.<br /><br />상호 작용 메뉴 > 인벤토리 > 방탄복에서 언제든지 방탄복 표시 방식을 변경할 수 있습니다.<br /><br />작업 중에 방탄복을 획득하면, 자동으로 현재 랭킹에서 사용할 수 있는 가장 튼튼한 방탄복이 됩니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Bulletproof_Chic/65664_BulletProofChic.dds",
+        "filesize": 65664
+    }
+}

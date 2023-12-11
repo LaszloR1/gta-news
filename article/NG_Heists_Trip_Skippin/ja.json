@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976048,"title":"","headline":"GTA Online","subtitle":"目的地へスキップ","content":"一部の強盗ミッションとフィナーレをリプレイする場合、指定の場所までの長時間の移動をスキップできます。<br /><br />目的地へスキップできる条件:<br />-強盗チームの全員が現在のミッションをクリアしている<br />-同じ目的地に向かうプレイヤー全員が同じ乗り物に乗車している<br /><br />ただし、「目的地へスキップ」を使用すると報酬がわずかに減少し、エリートチャレンジが無効になるので注意してください。このチャレンジを達成するのに、近道は存在しません。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Trip_Skippin/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976048,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "目的地へスキップ",
+    "content": "一部の強盗ミッションとフィナーレをリプレイする場合、指定の場所までの長時間の移動をスキップできます。<br /><br />目的地へスキップできる条件:<br />-強盗チームの全員が現在のミッションをクリアしている<br />-同じ目的地に向かうプレイヤー全員が同じ乗り物に乗車している<br /><br />ただし、「目的地へスキップ」を使用すると報酬がわずかに減少し、エリートチャレンジが無効になるので注意してください。このチャレンジを達成するのに、近道は存在しません。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/.dds",
+        "filesize": 2048
+    }
+}

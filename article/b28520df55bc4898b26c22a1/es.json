@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1613127840,"title":"","headline":"GTA Online","subtitle":"Juega para desbloquear la camiseta Buckingham Luxe","content":"Si consigues completar el golpe a Cayo Perico (o cualquier otra final de golpe) y escapas de una pieza, recibirás la camiseta Buckingham Luxe gratis como recompensa.","url":"","image":{"path":"sc/news/b28520df55bc4898b26c22a1/262272_Event236_BigFeed_Buckingham.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1613127840,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Juega para desbloquear la camiseta Buckingham Luxe",
+    "content": "Si consigues completar el golpe a Cayo Perico (o cualquier otra final de golpe) y escapas de una pieza, recibirás la camiseta Buckingham Luxe gratis como recompensa.",
+    "url": "",
+    "image": {
+        "path": "sc/news/b28520df55bc4898b26c22a1/262272_Event236_BigFeed_Buckingham.dds",
+        "filesize": 262272
+    }
+}

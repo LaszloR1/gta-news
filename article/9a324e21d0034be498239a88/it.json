@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867541,"title":"GTA+","headline":"GTA+","subtitle":"Penaud La Coureuse","content":"Gli abbonati a GTA+ possono riscattare la Penaud La Coureuse fino al 16 agosto.<br /><br />Le patatine fritte, i french toast e ora la Penaud La Coureuse. Tre elementi importati dalla Francia che si sono integrati perfettamente nella cultura americana, ma non farti ingannare dal suo lussuoso aspetto europeo, quest'auto può infrangere i limiti di velocità come poche altre.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per abbonarti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867541,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Penaud La Coureuse",
+    "content": "Gli abbonati a GTA+ possono riscattare la Penaud La Coureuse fino al 16 agosto.<br /><br />Le patatine fritte, i french toast e ora la Penaud La Coureuse. Tre elementi importati dalla Francia che si sono integrati perfettamente nella cultura americana, ma non farti ingannare dal suo lussuoso aspetto europeo, quest'auto può infrangere i limiti di velocità come poche altre.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9a324e21d0034be498239a88/262272_GTA_PlusTab_Mp16_Lead_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per abbonarti a GTA+"
+}

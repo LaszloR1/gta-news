@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423790,"title":"","headline":"GTA Online","subtitle":"Cunning Stunts: Special Vehicle Circuit","content":"You’ve done your fair share of loops, jumps, twists and dives across every stunt race in San Andreas. You’ve rocketed, parachuted and surfed every Special Vehicle your underground garage can hold. What now? Well, strap on a Stunt Suit and get ready for 20 new Stunt Races custom built for vehicles the government would ban if they could.","url":"","image":{"path":"sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423790,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cunning Stunts: Special Vehicle Circuit",
+    "content": "You’ve done your fair share of loops, jumps, twists and dives across every stunt race in San Andreas. You’ve rocketed, parachuted and surfed every Special Vehicle your underground garage can hold. What now? Well, strap on a Stunt Suit and get ready for 20 new Stunt Races custom built for vehicles the government would ban if they could.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

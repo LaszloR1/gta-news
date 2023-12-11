@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394810520,"headline":"オンラインのヒント","subtitle":"背後を警戒しよう","content":"いかがわしい街の一角では「背後に注意」は文字通り実行すべきアドバイスです。右スティックを押すと背後を見ることができます。背後を見ながら~INPUT_FRONTEND_LT~で狙うと、振り返ってターゲットをロックします。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394810520,
+    "headline": "オンラインのヒント",
+    "subtitle": "背後を警戒しよう",
+    "content": "いかがわしい街の一角では「背後に注意」は文字通り実行すべきアドバイスです。右スティックを押すと背後を見ることができます。背後を見ながら~INPUT_FRONTEND_LT~で狙うと、振り返ってターゲットをロックします。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds",
+        "filesize": 65664
+    }
+}

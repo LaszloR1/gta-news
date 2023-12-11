@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394809813,"title":"","headline":"Dica online","subtitle":"Não seja um mau perdedor","content":"Maus perdedores não prosperarão e terminarão na sessão de maus perdedores.<br /><br />Se encontrar um jogador nocivo estragando a sua diversão, pode denunciá-lo pelo seu cartão de jogador (via Online > Jogadores no Menu Pausa), selecionado 'Denunciar'. Você também pode especificar o motivo da sua denúncia, tudo com apenas alguns cliques.<br /><br />Jogadores denunciados com frequência terão que usar um chapéu de Burro e jogar na sessão de Maus Perdedores com os demais meliantes.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809813,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Não seja um mau perdedor",
+    "content": "Maus perdedores não prosperarão e terminarão na sessão de maus perdedores.<br /><br />Se encontrar um jogador nocivo estragando a sua diversão, pode denunciá-lo pelo seu cartão de jogador (via Online > Jogadores no Menu Pausa), selecionado 'Denunciar'. Você também pode especificar o motivo da sua denúncia, tudo com apenas alguns cliques.<br /><br />Jogadores denunciados com frequência terão que usar um chapéu de Burro e jogar na sessão de Maus Perdedores com os demais meliantes.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/.dds",
+        "filesize": 2048
+    }
+}

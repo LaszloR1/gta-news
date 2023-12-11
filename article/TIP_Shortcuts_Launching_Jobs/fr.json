@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811016,"title":"","headline":"Astuce en ligne","subtitle":"Raccourcis de lancement d'activités","content":"Lorsque vous recevez une invitation à rejoindre une activité, maintenez la touche Haut pour l'accepter sans devoir sortir votre téléphone et ouvrir la liste d'activités.~n~~n~Sur la carte du menu Pause, vous pouvez accéder à n'importe quelle activité en sélectionnant son icône et en appuyant sur ~INPUT_FRONTEND_X~.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811016,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Raccourcis de lancement d'activités",
+    "content": "Lorsque vous recevez une invitation à rejoindre une activité, maintenez la touche Haut pour l'accepter sans devoir sortir votre téléphone et ouvrir la liste d'activités.~n~~n~Sur la carte du menu Pause, vous pouvez accéder à n'importe quelle activité en sélectionnant son icône et en appuyant sur ~INPUT_FRONTEND_X~.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/.dds",
+        "filesize": 2048
+    }
+}

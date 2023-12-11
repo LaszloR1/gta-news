@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294201,"title":"","headline":"GTA Online","subtitle":"新的老大工作","content":"現在有三種新的非法資金來源可供各位老大與保鏢選擇：<br /><br />- 獵殺專員：在時限內搜尋並殺死地圖上的關鍵目標<br />- 空運貨物：從武裝護衛手中奪取珍貴貨物，並安全送達指定地點<br />- 陸運貨物：搶先將裝滿免稅商品的拖車送到非法份子手中<br /><br />當您是老大時，便可在互動選單中的「老大工作」中啟動這些任務。","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Work/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294201,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新的老大工作",
+    "content": "現在有三種新的非法資金來源可供各位老大與保鏢選擇：<br /><br />- 獵殺專員：在時限內搜尋並殺死地圖上的關鍵目標<br />- 空運貨物：從武裝護衛手中奪取珍貴貨物，並安全送達指定地點<br />- 陸運貨物：搶先將裝滿免稅商品的拖車送到非法份子手中<br /><br />當您是老大時，便可在互動選單中的「老大工作」中啟動這些任務。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/.dds",
+        "filesize": 2048
+    }
+}

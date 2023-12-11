@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1495792311,"title":"","headline":"GTA Online","subtitle":"Doble de GTA$ y RP y descuentos por tiempo limitado hasta el 12 de junio","content":"Grandes descuentos por tiempo limitado, como un 25% en:<br /><br />- Yates<br />- Oficinas y garajes de ejecutivo<br />- Imponte Ruiner 2000 y Coil Rocket Voltic<br />- Tanque Rhino y HVY furgoneta Insurgent<br /><br />Además, solo hasta el 12 de junio, conseguirás el doble de GTA$ y RP en misiones de vehículos especiales mientras disfrutas de los poderes únicos de estos vehículos.<br /><br />Para más información, consulta el Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Event_Week_26_5_17/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Event_Week_26_5_17/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1495792311,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Doble de GTA$ y RP y descuentos por tiempo limitado hasta el 12 de junio",
+    "content": "Grandes descuentos por tiempo limitado, como un 25% en:<br /><br />- Yates<br />- Oficinas y garajes de ejecutivo<br />- Imponte Ruiner 2000 y Coil Rocket Voltic<br />- Tanque Rhino y HVY furgoneta Insurgent<br /><br />Además, solo hasta el 12 de junio, conseguirás el doble de GTA$ y RP en misiones de vehículos especiales mientras disfrutas de los poderes únicos de estos vehículos.<br /><br />Para más información, consulta el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Event_Week_26_5_17/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Event_Week_26_5_17/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991727,"headline":"Suggerimento online","subtitle":"Fatti sentire","content":"Indossa una cuffia con microfono e goditi al massimo GTA Online, facendoti nuovi amici che ti aiuteranno nelle scorribande a Los Santos.<br /><br />L'icona dell'altoparlante vicino al nome di un giocatore indica che sta usando una cuffia, ma niente paura: se nella tua sessione c'è qualche persona molesta, puoi silenziarla visualizzando la sua scheda giocatore nel menu Online>Giocatori e selezionando 'Muto'.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991727,
+    "headline": "Suggerimento online",
+    "subtitle": "Fatti sentire",
+    "content": "Indossa una cuffia con microfono e goditi al massimo GTA Online, facendoti nuovi amici che ti aiuteranno nelle scorribande a Los Santos.<br /><br />L'icona dell'altoparlante vicino al nome di un giocatore indica che sta usando una cuffia, ma niente paura: se nella tua sessione c'è qualche persona molesta, puoi silenziarla visualizzando la sua scheda giocatore nel menu Online>Giocatori e selezionando 'Muto'.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds",
+        "filesize": 65664
+    }
+}

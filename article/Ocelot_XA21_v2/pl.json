@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1502802830,"title":"","headline":"GTA Online","subtitle":"Ocelot XA-21","content":"Ocelot XA-21 to świeży przybysz z podziemnego laboratorium, które oficjalnie nie istnieje, ale jakimś cudem trafił na ulice Los Santos, zostawiając za sobą tłumy zszokowanych i wyraźnie podnieconych milionerów. Jeśli wydawało ci się, że technologie hybrydowe tworzy się jedynie z myślą o ochronie środowiska, to szybko zmienisz zdanie, jak tylko puszczą ci zwieracze po wdepnięciu pedału gazu w XA-21.","url":"","image":{"path":"sc/news/Ocelot_XA21_v2/262272_Ocelot_xa21.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1502802830,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ocelot XA-21",
+    "content": "Ocelot XA-21 to świeży przybysz z podziemnego laboratorium, które oficjalnie nie istnieje, ale jakimś cudem trafił na ulice Los Santos, zostawiając za sobą tłumy zszokowanych i wyraźnie podnieconych milionerów. Jeśli wydawało ci się, że technologie hybrydowe tworzy się jedynie z myślą o ochronie środowiska, to szybko zmienisz zdanie, jak tylko puszczą ci zwieracze po wdepnięciu pedału gazu w XA-21.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Ocelot_XA21_v2/262272_Ocelot_xa21.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

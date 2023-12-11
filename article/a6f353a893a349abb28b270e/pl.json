@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686676156,"title":"GTA+","headline":"GTA+","subtitle":"Automobilklub Vinewood","content":"Przedstawiamy Automobilklub Vinewood, w którym członkowie GTA+ otrzymują dostęp do wyselekcjonowanego wachlarza pojazdów, które można testować, zamawiać w trybie swobodnym oraz kupować ze zniżką. Dodatkowo członkowie co jakiś czas otrzymają jeden dodatkowy pojazd premium za darmo.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/a6f353a893a349abb28b270e/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds","filesize":262272},"button":"Wybierz, aby odwiedzić Automobilklub"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686676156,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Automobilklub Vinewood",
+    "content": "Przedstawiamy Automobilklub Vinewood, w którym członkowie GTA+ otrzymują dostęp do wyselekcjonowanego wachlarza pojazdów, które można testować, zamawiać w trybie swobodnym oraz kupować ze zniżką. Dodatkowo członkowie co jakiś czas otrzymają jeden dodatkowy pojazd premium za darmo.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/a6f353a893a349abb28b270e/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby odwiedzić Automobilklub"
+}

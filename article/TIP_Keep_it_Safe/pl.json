@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380468162,"headline":"Wskazówka do gry sieciowej","subtitle":"Miej to jak w banku","content":"Dbaj o bezpieczeństwo swojej gotówki, wpłacając ją na konto przy użyciu sieci miejskich bankomatów Los Santos. Skorzystaj z menu interakcji, by szybko znaleźć najbliższy bankomat przy użyciu GPS. Możesz także korzystać z bankomatu poprzez przeglądarkę internetową w swoim telefonie. Po prostu udaj się na www.maze-bank.com","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380468162,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Miej to jak w banku",
+    "content": "Dbaj o bezpieczeństwo swojej gotówki, wpłacając ją na konto przy użyciu sieci miejskich bankomatów Los Santos. Skorzystaj z menu interakcji, by szybko znaleźć najbliższy bankomat przy użyciu GPS. Możesz także korzystać z bankomatu poprzez przeglądarkę internetową w swoim telefonie. Po prostu udaj się na www.maze-bank.com",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

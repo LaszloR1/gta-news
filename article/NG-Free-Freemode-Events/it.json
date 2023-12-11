@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314079,"title":"","headline":"GTA Online","subtitle":"Eventi Freemode","content":"Mentre giri per Los Santos, potrai notare nuove icone viola che indicano la presenza di un evento Freemode.<br />Gli eventi variano da Bersaglio mobile, che richiede velocità di esecuzione, a Re del castello, in cui si combatte per il controllo di un'area, a Lista nera, in cui si affrontano le forze Merryweather a bordo di determinati veicoli, e molti altri ancora. Avvicinati a un evento per partecipare.","url":"","image":{"path":"sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Events/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314079,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Eventi Freemode",
+    "content": "Mentre giri per Los Santos, potrai notare nuove icone viola che indicano la presenza di un evento Freemode.<br />Gli eventi variano da Bersaglio mobile, che richiede velocità di esecuzione, a Re del castello, in cui si combatte per il controllo di un'area, a Lista nera, in cui si affrontano le forze Merryweather a bordo di determinati veicoli, e molti altri ancora. Avvicinati a un evento per partecipare.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Events/.dds",
+        "filesize": 2048
+    }
+}

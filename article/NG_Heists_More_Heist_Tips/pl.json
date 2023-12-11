@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977617,"title":"","headline":"GTA Online","subtitle":"Kolejne porady mistrzów napadów","content":"Oto kolejna garść porad, które pomogą Wam ukończyć napady:<br /><br />- Macie kłopoty z lataniem? Może cierpicie na chorobę powietrzną? Podszkolcie się w Szkole Latania San Andreas.<br />- Brakuje Wam siły przebicia? Najnowszy asortyment Ammu-Nation nie ma wymagań rangi. Obejrzyjcie najnowsze zabawki prezentowane na ścianie po prawej stronie w Ammu-Nation i wybierzcie coś dla siebie.<br />- Wykorzystajcie wszystkie ulepszenia broni – szczególnie tłumiki, które przydadzą się w misjach wymagających skradania.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_More_Heist_Tips/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977617,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Kolejne porady mistrzów napadów",
+    "content": "Oto kolejna garść porad, które pomogą Wam ukończyć napady:<br /><br />- Macie kłopoty z lataniem? Może cierpicie na chorobę powietrzną? Podszkolcie się w Szkole Latania San Andreas.<br />- Brakuje Wam siły przebicia? Najnowszy asortyment Ammu-Nation nie ma wymagań rangi. Obejrzyjcie najnowsze zabawki prezentowane na ścianie po prawej stronie w Ammu-Nation i wybierzcie coś dla siebie.<br />- Wykorzystajcie wszystkie ulepszenia broni – szczególnie tłumiki, które przydadzą się w misjach wymagających skradania.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/.dds",
+        "filesize": 2048
+    }
+}

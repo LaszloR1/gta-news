@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917811,"title":"","headline":"GTA Online","subtitle":"Besoin d'amélioration","content":"Vous aurez peut-être l'impression que votre centre d'opérations mobile est l'incarnation de la mort et du chaos (ce qui est vrai, bien sûr), et pourtant, c'est bien plus que ça. Non seulement vous pourrez y installer un atelier d'armes pour transformer, perfectionner et personnaliser certaines armes à feu comme bon vous semble, mais vous pourrez également y incorporer un atelier de véhicules, le seul endroit assez discret pour ajouter des améliorations mortelles à vos véhicules armés.","url":"","image":{"path":"sc/news/NG_GR_Room_for_Improvement/262272_RoomForImprovement.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Room_for_Improvement/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917811,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Besoin d'amélioration",
+    "content": "Vous aurez peut-être l'impression que votre centre d'opérations mobile est l'incarnation de la mort et du chaos (ce qui est vrai, bien sûr), et pourtant, c'est bien plus que ça. Non seulement vous pourrez y installer un atelier d'armes pour transformer, perfectionner et personnaliser certaines armes à feu comme bon vous semble, mais vous pourrez également y incorporer un atelier de véhicules, le seul endroit assez discret pour ajouter des améliorations mortelles à vos véhicules armés.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Room_for_Improvement/262272_RoomForImprovement.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Room_for_Improvement/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

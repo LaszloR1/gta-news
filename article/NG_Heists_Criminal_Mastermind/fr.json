@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425982370,"title":"","headline":"GTA Online","subtitle":"Défi ''Cerveau criminel''","content":"Une fois tous les braquages terminés, les défis et les bonus élite sont encore là pour vous occuper. <br />Toutefois, il existe un ultime défi que seuls les véritables génies du crime seront en mesure de remporter... le défi ''Cerveau criminel'' :<br />Vous devrez terminer les 5 braquages dans l'ordre en mode difficile (missions de préparation incluses) avec la même équipe et sans que personne ne soit tué.<br />Réussissez cet exploit, et vous recevrez chacun un bonus unique de 10 millions de dollars GTA !","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Criminal_Mastermind/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425982370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Défi ''Cerveau criminel''",
+    "content": "Une fois tous les braquages terminés, les défis et les bonus élite sont encore là pour vous occuper. <br />Toutefois, il existe un ultime défi que seuls les véritables génies du crime seront en mesure de remporter... le défi ''Cerveau criminel'' :<br />Vous devrez terminer les 5 braquages dans l'ordre en mode difficile (missions de préparation incluses) avec la même équipe et sans que personne ne soit tué.<br />Réussissez cet exploit, et vous recevrez chacun un bonus unique de 10 millions de dollars GTA !",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/.dds",
+        "filesize": 2048
+    }
+}

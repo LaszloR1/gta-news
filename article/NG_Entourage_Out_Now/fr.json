@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1470048454,"title":"","headline":"GTA Online","subtitle":"Protection rapprochée","content":"Le nouveau mode rivalité de GTA Online, Protection rapprochée, va mettre les puissants à l'épreuve. Une équipe de gardes du corps essaie d'escorter une cible influente vers un point d'évacuation tandis qu'une bande d'assassins impitoyables essaie de les abattre. Les gardes du corps ont un nombre de vies limité, mais sont dotés d'une puissance de feu non négligeable. Les assassins, eux, n'ont pas cette chance, mais vous avez beau les tuer, ils finissent toujours par revenir.","url":"","image":{"path":"sc/news/NG_Entourage_Out_Now/262272_Entourage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Entourage_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1470048454,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Protection rapprochée",
+    "content": "Le nouveau mode rivalité de GTA Online, Protection rapprochée, va mettre les puissants à l'épreuve. Une équipe de gardes du corps essaie d'escorter une cible influente vers un point d'évacuation tandis qu'une bande d'assassins impitoyables essaie de les abattre. Les gardes du corps ont un nombre de vies limité, mais sont dotés d'une puissance de feu non négligeable. Les assassins, eux, n'ont pas cette chance, mais vous avez beau les tuer, ils finissent toujours par revenir.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Entourage_Out_Now/262272_Entourage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Entourage_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

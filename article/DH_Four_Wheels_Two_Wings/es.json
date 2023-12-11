@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513097243,"title":"","headline":"GTA Online","subtitle":"Lanzamiento","content":"Ahora que la fecha del Juicio Final ya está fijada, necesitarás varias opciones sólidas de transporte. Estás de suerte, porque los nuevos vehículos que han llegado a la ciudad son lo bastante rápidos, duros y resistentes como para utilizarlos en un golpe tan importante como este. Dispones de la veloz sofisticación del Ocelot Pariah, la furia futurista del tanque Khanjali y la esperada locura del Mammoth Thruster. Si esto no es el fin del mundo, va camino de serlo.","url":"","image":{"path":"sc/news/DH_Four_Wheels_Two_Wings/262272_Jetpack_V01d.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513097243,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lanzamiento",
+    "content": "Ahora que la fecha del Juicio Final ya está fijada, necesitarás varias opciones sólidas de transporte. Estás de suerte, porque los nuevos vehículos que han llegado a la ciudad son lo bastante rápidos, duros y resistentes como para utilizarlos en un golpe tan importante como este. Dispones de la veloz sofisticación del Ocelot Pariah, la furia futurista del tanque Khanjali y la esperada locura del Mammoth Thruster. Si esto no es el fin del mundo, va camino de serlo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Four_Wheels_Two_Wings/262272_Jetpack_V01d.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

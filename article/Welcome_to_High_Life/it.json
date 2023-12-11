@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399990301,"headline":"Aggiornamento GTA Online","subtitle":"Benvenuto alla Bella vita","content":"Nuovi condomini di lusso in vendita.<br /><br />Ora puoi aggiungere una seconda proprietà ai tuoi beni immobiliari. Visita Dynasty-8.com e guarda tutti gli splendidi appartamenti in offerta.<br /><br />Oltre alle proprietà che potresti già conoscere troverai un nuovo e invitante appartamento di lusso in molte zone residenziali di classe di Los Santos, completo di un garage con 10 posti auto.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990301,
+    "headline": "Aggiornamento GTA Online",
+    "subtitle": "Benvenuto alla Bella vita",
+    "content": "Nuovi condomini di lusso in vendita.<br /><br />Ora puoi aggiungere una seconda proprietà ai tuoi beni immobiliari. Visita Dynasty-8.com e guarda tutti gli splendidi appartamenti in offerta.<br /><br />Oltre alle proprietà che potresti già conoscere troverai un nuovo e invitante appartamento di lusso in molte zone residenziali di classe di Los Santos, completo di un garage con 10 posti auto.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds",
+        "filesize": 65664
+    }
+}

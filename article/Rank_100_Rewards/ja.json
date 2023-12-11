@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999338,"title":"","headline":"オンラインのヒント","subtitle":"ランク100の特別報酬","content":"アンチヒップスター・アップデートに、犯罪者の頂点「大物」やランク100に到達したプレイヤーに付与する素敵な報酬を新しく追加しました。<br /><br />新ダブスタ6x6――現代の都市犯罪に相応しい人目を引く乗り物――に限定アクセスできます。数少ない選ばれしプレイヤーは、warstock-cache-and-carry.comから入手できます。<br /><br />また、ロスサントス・カスタムに、限定のゴールドペイントが登場。これで自分の乗り物をキラキラ派手に飾れます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Rank_100_Rewards/65664_Dubsta2.dds","filesize":65664},"landscape":{"path":"sc/news/Rank_100_Rewards/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999338,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "ランク100の特別報酬",
+    "content": "アンチヒップスター・アップデートに、犯罪者の頂点「大物」やランク100に到達したプレイヤーに付与する素敵な報酬を新しく追加しました。<br /><br />新ダブスタ6x6――現代の都市犯罪に相応しい人目を引く乗り物――に限定アクセスできます。数少ない選ばれしプレイヤーは、warstock-cache-and-carry.comから入手できます。<br /><br />また、ロスサントス・カスタムに、限定のゴールドペイントが登場。これで自分の乗り物をキラキラ派手に飾れます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Rank_100_Rewards/65664_Dubsta2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Rank_100_Rewards/.dds",
+        "filesize": 2048
+    }
+}

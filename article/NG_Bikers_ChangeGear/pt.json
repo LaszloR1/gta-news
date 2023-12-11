@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515826,"title":"","headline":"GTA Online","subtitle":"Visual repaginado","content":"Mais capacetes com spikes, regatas de brim, novos modelos de bandana, óculos de motocross, mais acessórios com correntes e caveiras do que você jamais conseguirá usar e todos os cortes possíveis de couro gasto: se fica maneiro sobre duas rodas, pode contar que está nas lojas. E isso sem falar dos novos cortes de cabelo e tatuagens.","url":"","image":{"path":"sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChangeGear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515826,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Visual repaginado",
+    "content": "Mais capacetes com spikes, regatas de brim, novos modelos de bandana, óculos de motocross, mais acessórios com correntes e caveiras do que você jamais conseguirá usar e todos os cortes possíveis de couro gasto: se fica maneiro sobre duas rodas, pode contar que está nas lojas. E isso sem falar dos novos cortes de cabelo e tatuagens.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChangeGear/.dds",
+        "filesize": 2048
+    }
+}

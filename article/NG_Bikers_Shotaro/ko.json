@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511527,"title":"","headline":"GTA Online","subtitle":"나가사키 쇼타로","content":"미래가 코 앞으로 다가왔다고요? 미래는 애저녁에 우리에게 찾아왔습니다. 쇼타로의 디자인을 본 순간, 이 오토바이가 B형 간염 전염 속도보다 빠른 속력을 낼 수 있다는 건 이미 중요하지 않아집니다. 당신은 이제 하루종일 쇼타로를 탄 채로 먹고, 자고, 박아댈 테죠. 구입하려면 새로운 대적 모드 데드라인을 한 라운드 플레이해야 합니다.","url":"","image":{"path":"sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Shotaro/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "나가사키 쇼타로",
+    "content": "미래가 코 앞으로 다가왔다고요? 미래는 애저녁에 우리에게 찾아왔습니다. 쇼타로의 디자인을 본 순간, 이 오토바이가 B형 간염 전염 속도보다 빠른 속력을 낼 수 있다는 건 이미 중요하지 않아집니다. 당신은 이제 하루종일 쇼타로를 탄 채로 먹고, 자고, 박아댈 테죠. 구입하려면 새로운 대적 모드 데드라인을 한 라운드 플레이해야 합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Shotaro/.dds",
+        "filesize": 2048
+    }
+}

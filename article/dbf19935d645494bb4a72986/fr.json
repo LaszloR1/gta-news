@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"MERCENAIRES DE SAN ANDREAS","content":"Depuis le vol des fichiers privés de Don Percival, on sait que les agents de Merryweather mijotent quelque chose. Ils ont amassé suffisamment de contrats de sécurité et de R&D illégales pour dominer le milieu criminel. Jusqu'à aujourd'hui. Rejoignez la révolution contre la plus grande société de sécurité du monde. <br /><br />Avec la hausse de la contrebande, Los Santos et Blaine County sont propices aux affaires très lucratives sur le marché noir. Mercenaires de San Andreas est disponible maintenant.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/dbf19935d645494bb4a72986/262272_GTAO_SA_Mercenaries_FINAL_BigFeed_R01.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "MERCENAIRES DE SAN ANDREAS",
+    "content": "Depuis le vol des fichiers privés de Don Percival, on sait que les agents de Merryweather mijotent quelque chose. Ils ont amassé suffisamment de contrats de sécurité et de R&D illégales pour dominer le milieu criminel. Jusqu'à aujourd'hui. Rejoignez la révolution contre la plus grande société de sécurité du monde. <br /><br />Avec la hausse de la contrebande, Los Santos et Blaine County sont propices aux affaires très lucratives sur le marché noir. Mercenaires de San Andreas est disponible maintenant.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/dbf19935d645494bb4a72986/262272_GTAO_SA_Mercenaries_FINAL_BigFeed_R01.dds",
+        "filesize": 262272
+    }
+}

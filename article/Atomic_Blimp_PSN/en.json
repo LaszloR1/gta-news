@@ -1,1 +1,20 @@
-{"types":["newswire","store"],"date":1379146712,"headline":"Store","subtitle":"Atomic Blimp","content":"If you pre-ordered your copy of GTAV, then you’ll find a unique code printed on a slip inside the game box. Don’t forget to redeem that code via PlayStation®Store so you can fly the Atomic Blimp over Los Santos.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "store"
+    ],
+    "date": 1379146712,
+    "headline": "Store",
+    "subtitle": "Atomic Blimp",
+    "content": "If you pre-ordered your copy of GTAV, then you’ll find a unique code printed on a slip inside the game box. Don’t forget to redeem that code via PlayStation®Store so you can fly the Atomic Blimp over Los Santos.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds",
+        "filesize": 65664
+    }
+}

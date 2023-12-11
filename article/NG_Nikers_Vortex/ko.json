@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477402323,"title":"","headline":"GTA Online","subtitle":"페가시 보르텍스","content":"가죽옷을 입은 빈티지 레이서가 될지, 초현대적인 스피드광이 될지 아직 마음의 결정을 내리지 못하셨습니까? 이렇게 갈팡질팡하는 분들을 위해 페가시에서 새롭게 보르텍스를 내놓았습니다. 과거와 현재를 과감하게 결합하여 여러분의 끝없는 망설임을 말끔하게 해결해 드릴 겁니다. 확실히 장담하건대, 여러분의 얼굴에는 크고 값비싼 미소가 떠오르게 해줄 것입니다.","url":"","image":{"path":"sc/news/NG_Nikers_Vortex/262272_Vortex.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Nikers_Vortex/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477402323,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "페가시 보르텍스",
+    "content": "가죽옷을 입은 빈티지 레이서가 될지, 초현대적인 스피드광이 될지 아직 마음의 결정을 내리지 못하셨습니까? 이렇게 갈팡질팡하는 분들을 위해 페가시에서 새롭게 보르텍스를 내놓았습니다. 과거와 현재를 과감하게 결합하여 여러분의 끝없는 망설임을 말끔하게 해결해 드릴 겁니다. 확실히 장담하건대, 여러분의 얼굴에는 크고 값비싼 미소가 떠오르게 해줄 것입니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Nikers_Vortex/262272_Vortex.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Nikers_Vortex/.dds",
+        "filesize": 2048
+    }
+}

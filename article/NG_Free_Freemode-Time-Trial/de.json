@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314471,"title":"","headline":"GTA Online","subtitle":"Zeitrennen im Freien Modus","content":"Jede Woche gibt es eine neue Herausforderung in Form eines Punkt-zu-Punkt-Zeitrennens. Schnapp dir ein passendes Fahrzeug und löse einen Kontrollpunkt aus, der dann so schnell wie möglich erreicht werden muss. Schlage die Rockstar-Zeitvorgabe, um die Siegprämie zu erhalten. Anschließend kannst du die Route immer wieder fahren und versuchen, deine Bestzeit zu übertreffen – solange, bis ein neues Zeitrennen verfügbar ist.","url":"","image":{"path":"sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Freemode-Time-Trial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zeitrennen im Freien Modus",
+    "content": "Jede Woche gibt es eine neue Herausforderung in Form eines Punkt-zu-Punkt-Zeitrennens. Schnapp dir ein passendes Fahrzeug und löse einen Kontrollpunkt aus, der dann so schnell wie möglich erreicht werden muss. Schlage die Rockstar-Zeitvorgabe, um die Siegprämie zu erhalten. Anschließend kannst du die Route immer wieder fahren und versuchen, deine Bestzeit zu übertreffen – solange, bis ein neues Zeitrennen verfügbar ist.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/.dds",
+        "filesize": 2048
+    }
+}

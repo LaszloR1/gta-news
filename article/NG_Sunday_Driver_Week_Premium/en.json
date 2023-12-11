@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472804166,"title":"","headline":"GTA Online","subtitle":"Sunday Drivers Week: New Premium Stunt Race (Sept 2 - 8)","content":"This week's featured Premium Stunt Race is Trench II. Set to Muscle, ride the highs and lows of this Grand Senora Desert-based track all week and earn Triple RP just for giving it a whirl. Better yet, the top three podium finishers earn GTA$100,000, GTA$30,000 and GTA$20,000 respectively. Use the Quick Job App on your phone or enter the yellow Premium Race blip at Legion Square and get racing.","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472804166,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sunday Drivers Week: New Premium Stunt Race (Sept 2 - 8)",
+    "content": "This week's featured Premium Stunt Race is Trench II. Set to Muscle, ride the highs and lows of this Grand Senora Desert-based track all week and earn Triple RP just for giving it a whirl. Better yet, the top three podium finishers earn GTA$100,000, GTA$30,000 and GTA$20,000 respectively. Use the Quick Job App on your phone or enter the yellow Premium Race blip at Legion Square and get racing.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Premium/.dds",
+        "filesize": 2048
+    }
+}

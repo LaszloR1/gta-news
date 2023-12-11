@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223581,"title":"","headline":"GTAV","subtitle":"Controles de disparo desde coche","content":"Hay nuevos controles para tirotear desde coches. Ahora puedes utilizar ~INPUT_FRONTEND_LB~ para apuntar y ~INPUT_FRONTEND_RB~ para disparar con más precisión, aunque estés conduciendo. Prueba a cambiar a la vista en primera persona y fríe a los enemigos con una puntería mortal mientras paseas.~n~~n~Puedes volver a la configuración de controles anterior mediante el Menú de pausa > Ajustes > Controles > Tipo de control de tiroteo desde vehículo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drive-By_Controls/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223581,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Controles de disparo desde coche",
+    "content": "Hay nuevos controles para tirotear desde coches. Ahora puedes utilizar ~INPUT_FRONTEND_LB~ para apuntar y ~INPUT_FRONTEND_RB~ para disparar con más precisión, aunque estés conduciendo. Prueba a cambiar a la vista en primera persona y fríe a los enemigos con una puntería mortal mientras paseas.~n~~n~Puedes volver a la configuración de controles anterior mediante el Menú de pausa > Ajustes > Controles > Tipo de control de tiroteo desde vehículo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drive-By_Controls/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"自己表現","content":"今すぐワードローブにたくさんの新しい服を揃え、次のカーミーティングで一味違う自分を見せましょう。ローライダーストリートから作業着まで、様々な新作をお試しいただけます。ロスサントス各地のタトゥー・パーラーで新しいデザインを選ぶことも、今までにないヘアスタイルに挑戦して最新の流行を取り入れることもできます。","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "自己表現",
+    "content": "今すぐワードローブにたくさんの新しい服を揃え、次のカーミーティングで一味違う自分を見せましょう。ローライダーストリートから作業着まで、様々な新作をお試しいただけます。ロスサントス各地のタトゥー・パーラーで新しいデザインを選ぶことも、今までにないヘアスタイルに挑戦して最新の流行を取り入れることもできます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

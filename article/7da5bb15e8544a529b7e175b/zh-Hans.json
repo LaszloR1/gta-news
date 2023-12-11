@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"《洛圣都毒品战》","headline":"《洛圣都毒品战》","subtitle":"每日藏匿屋","content":"请留意在地图上显示的新的“每日藏匿屋”。清理房屋并打开保险箱以赚取奖励。<br /><br />每天完成“每日藏匿屋”以赚取制造厂原材料，及更多内容。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds","filesize":524416},"button":"在自由模式中抢劫每日藏匿屋"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "《洛圣都毒品战》",
+    "headline": "《洛圣都毒品战》",
+    "subtitle": "每日藏匿屋",
+    "content": "请留意在地图上显示的新的“每日藏匿屋”。清理房屋并打开保险箱以赚取奖励。<br /><br />每天完成“每日藏匿屋”以赚取制造厂原材料，及更多内容。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds",
+        "filesize": 524416
+    },
+    "button": "在自由模式中抢劫每日藏匿屋"
+}

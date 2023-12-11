@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"COME INIZIARE","content":"Rispondi a Charlie Reed per svolgere incarichi per conto dei Los Santos Angels. Per avviare la nuova serie di missioni occorre un Mammoth Avenger dotato del nuovo terminale operativo. Se ancora non possiedi un Avenger, puoi comprarne uno da Warstock Cache & Carry.<br /><br />Per nuove opportunità d’affari, accedi al terminale della Free Trade Shipping Co. dell'hangar o acquista un hangar da Maze Bank Foreclosures e accedi alle opportunità di contrabbando criminale.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "COME INIZIARE",
+    "content": "Rispondi a Charlie Reed per svolgere incarichi per conto dei Los Santos Angels. Per avviare la nuova serie di missioni occorre un Mammoth Avenger dotato del nuovo terminale operativo. Se ancora non possiedi un Avenger, puoi comprarne uno da Warstock Cache & Carry.<br /><br />Per nuove opportunità d’affari, accedi al terminale della Free Trade Shipping Co. dell'hangar o acquista un hangar da Maze Bank Foreclosures e accedi alle opportunità di contrabbando criminale.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

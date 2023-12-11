@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470554,"title":"","headline":"オンラインのヒント","subtitle":"クルー","content":"クルーに参加したい場合は、ロックスター・ゲームスSocial Club ウェブサイトから参加可能なアクティブ・クルーを見つけられます。新しいフレンドや仲間を作り、街へ繰り出して他のクルーと競い合いましょう。クルーとしてジョブを完了すれば、名声を上げ、お金を稼ぐことができます。クルーのランクを上げて特別ボーナスを解除したり、フレンドと一緒にプライベート・クルーを作成して、知らないプレイヤーたちと競うことも可能です。クルーに参加したくない場合は、一人で存分に楽しみましょう。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Crews/262272_Crews.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Crews/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470554,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "クルー",
+    "content": "クルーに参加したい場合は、ロックスター・ゲームスSocial Club ウェブサイトから参加可能なアクティブ・クルーを見つけられます。新しいフレンドや仲間を作り、街へ繰り出して他のクルーと競い合いましょう。クルーとしてジョブを完了すれば、名声を上げ、お金を稼ぐことができます。クルーのランクを上げて特別ボーナスを解除したり、フレンドと一緒にプライベート・クルーを作成して、知らないプレイヤーたちと競うことも可能です。クルーに参加したくない場合は、一人で存分に楽しみましょう。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Crews/262272_Crews.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Crews/.dds",
+        "filesize": 2048
+    }
+}

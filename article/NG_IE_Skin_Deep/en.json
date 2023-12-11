@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543433,"title":"","headline":"GTA Online","subtitle":"Skin-Deep","content":"You’ve changed your clothes, your tatts, your car and, of course, your friends – but you’ve still got that nagging sense of dissatisfaction. No, it’s not because you’re an empty, soulless void. It’s because your basic anatomy should be every bit as changeable as your sexual partners – and now it is. Change your character’s appearance by heading over to the Style section of the interaction menu, and give yourself the mother of all makeovers. Fill that void like a real rich person. ","url":"","image":{"path":"sc/news/NG_IE_Skin_Deep/262272_skindeep.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Skin_Deep/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543433,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Skin-Deep",
+    "content": "You’ve changed your clothes, your tatts, your car and, of course, your friends – but you’ve still got that nagging sense of dissatisfaction. No, it’s not because you’re an empty, soulless void. It’s because your basic anatomy should be every bit as changeable as your sexual partners – and now it is. Change your character’s appearance by heading over to the Style section of the interaction menu, and give yourself the mother of all makeovers. Fill that void like a real rich person. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Skin_Deep/262272_skindeep.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Skin_Deep/.dds",
+        "filesize": 2048
+    }
+}

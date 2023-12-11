@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349315,"title":"","headline":"GTA Online","subtitle":"König Lamar","content":"Lamar Davis brütet einen Plan aus, um die Herrschaft in der Lowrider-Szene von Los Santos an sich zu reißen und benötigt einige loyale Untertanen, die ihm auf den Thron helfen sollen. Nimm Lamars Telefonanrufe an und befolge seine Anweisungen, um acht neue Kontaktmissionen in Angriff zu nehmen, die seinem Streben nach Macht den Weg ebnen.","url":"","image":{"path":"sc/news/NG_King_Lamar/262272_King_Lamar.dds","filesize":262272},"landscape":{"path":"sc/news/NG_King_Lamar/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349315,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "König Lamar",
+    "content": "Lamar Davis brütet einen Plan aus, um die Herrschaft in der Lowrider-Szene von Los Santos an sich zu reißen und benötigt einige loyale Untertanen, die ihm auf den Thron helfen sollen. Nimm Lamars Telefonanrufe an und befolge seine Anweisungen, um acht neue Kontaktmissionen in Angriff zu nehmen, die seinem Streben nach Macht den Weg ebnen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_King_Lamar/262272_King_Lamar.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_King_Lamar/.dds",
+        "filesize": 2048
+    }
+}

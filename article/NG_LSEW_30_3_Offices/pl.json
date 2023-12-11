@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241101,"title":"","headline":"GTA Online","subtitle":"Premie GTA Online: zniżka 50% na magazyny oraz biura i nie tylko (30.09-3.10)","content":"Do przejęcia władzy nad biznesowym światem Los Santos będą Ci potrzebne wszelkie dostępne narzędzia. Do poniedziałku 3 października możesz korzystać z odjazdowych promocji, w tym zniżek 50% na magazyny i biura oraz wszystkie usługi Lestera, Pegasus i Merryweather. <br /><br />Zapraszamy na rockstargames.com/V/pl_pl/news, gdzie znajdziesz więcej szczegółów.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Offices/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241101,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Premie GTA Online: zniżka 50% na magazyny oraz biura i nie tylko (30.09-3.10)",
+    "content": "Do przejęcia władzy nad biznesowym światem Los Santos będą Ci potrzebne wszelkie dostępne narzędzia. Do poniedziałku 3 października możesz korzystać z odjazdowych promocji, w tym zniżek 50% na magazyny i biura oraz wszystkie usługi Lestera, Pegasus i Merryweather. <br /><br />Zapraszamy na rockstargames.com/V/pl_pl/news, gdzie znajdziesz więcej szczegółów.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/.dds",
+        "filesize": 2048
+    }
+}

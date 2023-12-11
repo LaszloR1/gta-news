@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543433,"title":"","headline":"GTA Online","subtitle":"Ziemlich oberflächlich","content":"Du hast dein Outfit gewechselt, deine Tattoos, deine Haare, dein Auto und natürlich deine Freunde – aber dich quält dennoch ein Gefühl der Unzufriedenheit? Nein, das hat nichts damit zu tun, dass du gefühlskalt und seelenlos bist, sondern liegt daran, dass deine grundsätzliche Anatomie so austauschbar sein sollte wie deine Sexpartner – und nun ist es soweit. <br /><br />Verändere das Aussehen deines Charakters im Bereich ''Stil'' des Interaktionsmenüs und verpasse ihm eine komplette Rundumerneuerung.","url":"","image":{"path":"sc/news/NG_IE_Skin_Deep/262272_skindeep.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Skin_Deep/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543433,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ziemlich oberflächlich",
+    "content": "Du hast dein Outfit gewechselt, deine Tattoos, deine Haare, dein Auto und natürlich deine Freunde – aber dich quält dennoch ein Gefühl der Unzufriedenheit? Nein, das hat nichts damit zu tun, dass du gefühlskalt und seelenlos bist, sondern liegt daran, dass deine grundsätzliche Anatomie so austauschbar sein sollte wie deine Sexpartner – und nun ist es soweit. <br /><br />Verändere das Aussehen deines Charakters im Bereich ''Stil'' des Interaktionsmenüs und verpasse ihm eine komplette Rundumerneuerung.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Skin_Deep/262272_skindeep.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Skin_Deep/.dds",
+        "filesize": 2048
+    }
+}

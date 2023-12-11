@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608039630,"title":"","headline":"GTA Online","subtitle":"El magnífico Moodymann","content":"Ve a The Music Locker para disfrutar de Moodymann, el primer DJ residente del club que hará las delicias de todos los fiesteros. ","url":"","image":{"path":"sc/news/b6a9dd8ca9244ce0bcdd6f4d/262272_GTAO_IslandHeist_BigFeed_In_The_Mood.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608039630,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "El magnífico Moodymann",
+    "content": "Ve a The Music Locker para disfrutar de Moodymann, el primer DJ residente del club que hará las delicias de todos los fiesteros. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/b6a9dd8ca9244ce0bcdd6f4d/262272_GTAO_IslandHeist_BigFeed_In_The_Mood.dds",
+        "filesize": 262272
+    }
+}

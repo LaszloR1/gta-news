@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631927,"title":"","headline":"GTA Online","subtitle":"Resurrección","content":"No hay nada mejor para ''fomentar el espíritu de equipo'' que disparar a algún enemigo en la cabeza para traer a tu amigo de vuelta a la partida. Pero eso significa que solo hay una manera de avanzar en el nuevo modo Adversario Resurrección: hasta que no acabes con todos los enemigos, podrán volver a la partida otra vez. No te compadeces de nadie, ¿verdad?","url":"","image":{"path":"sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS_SVC_Resurrection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631927,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Resurrección",
+    "content": "No hay nada mejor para ''fomentar el espíritu de equipo'' que disparar a algún enemigo en la cabeza para traer a tu amigo de vuelta a la partida. Pero eso significa que solo hay una manera de avanzar en el nuevo modo Adversario Resurrección: hasta que no acabes con todos los enemigos, podrán volver a la partida otra vez. No te compadeces de nadie, ¿verdad?",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223126,"title":"","headline":"GTA Online","subtitle":"7 New Transform Races ","content":"Jump into any of the seven brand new Rockstar-created Transform Races and earn Double GTA$ & RP through June 11th.","url":"","image":{"path":"sc/news/7_New_Transfor_Races/349672_Transform-Races-2018_Layouts_BigFeed_V02.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "7 New Transform Races ",
+    "content": "Jump into any of the seven brand new Rockstar-created Transform Races and earn Double GTA$ & RP through June 11th.",
+    "url": "",
+    "image": {
+        "path": "sc/news/7_New_Transfor_Races/349672_Transform-Races-2018_Layouts_BigFeed_V02.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

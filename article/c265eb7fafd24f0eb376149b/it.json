@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973242,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Scorte nascoste di Gerald","content":"Le scorte nascoste di Gerald saranno contrassegnate sulla mappa. Trovale ogni giorno per recuperare delle ricompense.<br /><br />Quando sei nelle loro vicinanze, cerca una luce rossa lampeggiante e tieni le orecchie aperte per captare un bip. Sbaraglia la concorrenza e riceverai GTA$, munizioni e snack.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds","filesize":524416},"button":"Trova le scorte di Gerald in Freemode"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973242,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Scorte nascoste di Gerald",
+    "content": "Le scorte nascoste di Gerald saranno contrassegnate sulla mappa. Trovale ogni giorno per recuperare delle ricompense.<br /><br />Quando sei nelle loro vicinanze, cerca una luce rossa lampeggiante e tieni le orecchie aperte per captare un bip. Sbaraglia la concorrenza e riceverai GTA$, munizioni e snack.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/c265eb7fafd24f0eb376149b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed_GCasche.dds",
+        "filesize": 524416
+    },
+    "button": "Trova le scorte di Gerald in Freemode"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1426615623,"title":"","headline":"GTA Online","subtitle":"습격에 빠르게 참가","content":"습격 임무에 바로 참가하려면 휴대전화의 퀵 작업을 사용하십시오.<br /><br />'대기 중'을 선택하여 습격이 시작되기 전까지 자유 모드에 남아있을 수 있습니다. 또는 '로비 바로가기 참가'를 선택하여 습격 조직원들을 로비에서 바로 만날 수 있습니다.","url":" www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Quickly_Join_A_Heist/65664_Last_gen_ifruit_phone2.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Quickly_Join_A_Heist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1426615623,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "습격에 빠르게 참가",
+    "content": "습격 임무에 바로 참가하려면 휴대전화의 퀵 작업을 사용하십시오.<br /><br />'대기 중'을 선택하여 습격이 시작되기 전까지 자유 모드에 남아있을 수 있습니다. 또는 '로비 바로가기 참가'를 선택하여 습격 조직원들을 로비에서 바로 만날 수 있습니다.",
+    "url": " www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Quickly_Join_A_Heist/65664_Last_gen_ifruit_phone2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Quickly_Join_A_Heist/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313641,"title":"","headline":"GTA Online","subtitle":"Modo Libre","content":"Hemos introducido cambios importantes en el modo Libre. Ahora encontrarás numerosos eventos que pondrán a prueba tus habilidades frente al resto de Los Santos. Estate atento a los iconos y notificaciones moradas que te avisarán de dónde está la acción.<br />Cada evento te proporcionará la información necesaria para que puedas participar y conseguir dinero y RP.","url":"","image":{"path":"sc/news/NG-Free-Freemode/262272_Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313641,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Modo Libre",
+    "content": "Hemos introducido cambios importantes en el modo Libre. Ahora encontrarás numerosos eventos que pondrán a prueba tus habilidades frente al resto de Los Santos. Estate atento a los iconos y notificaciones moradas que te avisarán de dónde está la acción.<br />Cada evento te proporcionará la información necesaria para que puedas participar y conseguir dinero y RP.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode/262272_Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode/.dds",
+        "filesize": 2048
+    }
+}

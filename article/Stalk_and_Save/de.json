@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149139,"headline":"Newswire","subtitle":"Verfolgen und sparen","content":"Social-Club-Mitglieder können bei einigen Läden in Los Santos Rabatte erhalten, wenn sie deren Seiten auf Lifeinvader verfolgen.<br /><br />Verfolge den Friseur \"Herr Kutz\" und du erhältst deinen ersten Haarschnitt gratis, verfolge Los Santos Customs für eine unentgeltliche Lackierung oder verfolge die Online-Händler Elitas Travel und Warstock Cache and Carry für einen einmaligen Rabatt, und das ist noch nicht alles!<br /><br />Besuche noch heute www.lifeinvader.com im (realen) Netz.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149139,
+    "headline": "Newswire",
+    "subtitle": "Verfolgen und sparen",
+    "content": "Social-Club-Mitglieder können bei einigen Läden in Los Santos Rabatte erhalten, wenn sie deren Seiten auf Lifeinvader verfolgen.<br /><br />Verfolge den Friseur \"Herr Kutz\" und du erhältst deinen ersten Haarschnitt gratis, verfolge Los Santos Customs für eine unentgeltliche Lackierung oder verfolge die Online-Händler Elitas Travel und Warstock Cache and Carry für einen einmaligen Rabatt, und das ist noch nicht alles!<br /><br />Besuche noch heute www.lifeinvader.com im (realen) Netz.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds",
+        "filesize": 65664
+    }
+}

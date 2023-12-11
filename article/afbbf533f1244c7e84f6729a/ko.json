@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA 온라인","subtitle":"도로 운반","content":"하늘을 감시하는 눈이 너무 많다고 생각드십니까? 그렇다면 이제 항공 수송 사업장 소유자가 이용할 수 있는 새로운 패키지 확보 & 판매 임무에서 낮은 위치를 유지해 지상으로 물건을 밀수해 보십시오. <br /><br />격납고 오피스에서 자유 무역 운송 회사를 이용해 목표 지점과 픽업 장소를 주선하거나 론에게 연락해 다음 목표를 설정할 수 있습니다.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR","image":{"path":"sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "도로 운반",
+    "content": "하늘을 감시하는 눈이 너무 많다고 생각드십니까? 그렇다면 이제 항공 수송 사업장 소유자가 이용할 수 있는 새로운 패키지 확보 & 판매 임무에서 낮은 위치를 유지해 지상으로 물건을 밀수해 보십시오. <br /><br />격납고 오피스에서 자유 무역 운송 회사를 이용해 목표 지점과 픽업 장소를 주선하거나 론에게 연락해 다음 목표를 설정할 수 있습니다.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR",
+    "image": {
+        "path": "sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

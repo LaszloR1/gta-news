@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"MITRA TATTICO","content":"Buone notizie! Il tuo amichevole trafficante d'armi di quartiere è in città pieno zeppo di gingilli non troppo legali. <br /><br />Dai subito un'occhiata alla mercanzia per non lasciarti sfuggire il mitra tattico, l'arma da fianco dal caricatore supercapiente che domina le dotazioni di ogni esperto d'armi. Acquistabile ora dal Furgone delle armi.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "MITRA TATTICO",
+    "content": "Buone notizie! Il tuo amichevole trafficante d'armi di quartiere è in città pieno zeppo di gingilli non troppo legali. <br /><br />Dai subito un'occhiata alla mercanzia per non lasciarti sfuggire il mitra tattico, l'arma da fianco dal caricatore supercapiente che domina le dotazioni di ogni esperto d'armi. Acquistabile ora dal Furgone delle armi.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

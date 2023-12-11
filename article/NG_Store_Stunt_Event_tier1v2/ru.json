@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488454039,"title":"","headline":"Закрытая распродажа только для вас","subtitle":"","content":"Мы предлагаем вам скидку 50% на бронированный седан Benefactor Schafter и вертолеты SuperVolito, а также скидку 25% на стремительный суперкар Pfister 811. Также вы можете улучшить свои жилищные условия, купив со скидкой 50% прекрасный дом на сваях. Не медлите с решением – персональная распродажа завершится 13 марта!","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier1v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488454039,
+    "title": "",
+    "headline": "Закрытая распродажа только для вас",
+    "subtitle": "",
+    "content": "Мы предлагаем вам скидку 50% на бронированный седан Benefactor Schafter и вертолеты SuperVolito, а также скидку 25% на стремительный суперкар Pfister 811. Также вы можете улучшить свои жилищные условия, купив со скидкой 50% прекрасный дом на сваях. Не медлите с решением – персональная распродажа завершится 13 марта!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/262272_bigFeed-Pfister.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier1v2/.dds",
+        "filesize": 2048
+    }
+}

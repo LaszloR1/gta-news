@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399990305,"headline":"GTA 온라인 업데이트","subtitle":"잘 나가는 인생을 누리십시오","content":"새로운 초호화 주택을 판매합니다.<br /><br />이제 두 번째 부동산을 구입하고 소유할 수 있습니다. 매물로 나온 멋진 아파트들을 살펴보려면 Dynasty-8.com을 방문하십시오.<br /><br />이미 익숙한 집이 있다 해도 사람의 욕심은 끝이 없는 거 아니겠습니까? 누구나 원하는 초호화 아파트가 로스 산토스 한복판에 마련되어 있습니다. 추가로 차량 10대를 보관할 수 있는 차고도 제공됩니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990305,
+    "headline": "GTA 온라인 업데이트",
+    "subtitle": "잘 나가는 인생을 누리십시오",
+    "content": "새로운 초호화 주택을 판매합니다.<br /><br />이제 두 번째 부동산을 구입하고 소유할 수 있습니다. 매물로 나온 멋진 아파트들을 살펴보려면 Dynasty-8.com을 방문하십시오.<br /><br />이미 익숙한 집이 있다 해도 사람의 욕심은 끝이 없는 거 아니겠습니까? 누구나 원하는 초호화 아파트가 로스 산토스 한복판에 마련되어 있습니다. 추가로 차량 10대를 보관할 수 있는 차고도 제공됩니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds",
+        "filesize": 65664
+    }
+}

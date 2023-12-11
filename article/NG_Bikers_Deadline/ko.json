@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511204,"title":"","headline":"GTA Online","subtitle":"데드라인","content":"최신 대적 모드 데드라인에서 멋진 신세계의 단면을 경험하십시오. 고품질 SF 포르노에서 막 튀어나온 듯한 오토바이를 타고 해가 지는 도시를 빛의 속도로 질주하며, 오토바이가 지나간 라인을 밟은 경쟁자들을 잿더미로 만드는 것, 바로 로스 산토스의 시민들이 좋아할 미래의 모습이죠. 미래는 밝고, 빠르고, 놀랍도록 위험합니다.","url":"","image":{"path":"sc/news/NG_Bikers_Deadline/262272_Deadline.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Deadline/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511204,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "데드라인",
+    "content": "최신 대적 모드 데드라인에서 멋진 신세계의 단면을 경험하십시오. 고품질 SF 포르노에서 막 튀어나온 듯한 오토바이를 타고 해가 지는 도시를 빛의 속도로 질주하며, 오토바이가 지나간 라인을 밟은 경쟁자들을 잿더미로 만드는 것, 바로 로스 산토스의 시민들이 좋아할 미래의 모습이죠. 미래는 밝고, 빠르고, 놀랍도록 위험합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Deadline/262272_Deadline.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Deadline/.dds",
+        "filesize": 2048
+    }
+}

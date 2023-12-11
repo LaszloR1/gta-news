@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455282,"title":"","headline":"GTA Online","subtitle":"After Hours","content":"Los Santos is a city of bright lights, long nights and dirty money, and they don’t come brighter, longer or dirtier than in After Hours. Run the most exclusive nightclub in town, attract world class DJ acts, and use it all as a front for the most concentrated network of criminal enterprise ever to hit San Andreas.","url":"","image":{"path":"sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455282,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "After Hours",
+    "content": "Los Santos is a city of bright lights, long nights and dirty money, and they don’t come brighter, longer or dirtier than in After Hours. Run the most exclusive nightclub in town, attract world class DJ acts, and use it all as a front for the most concentrated network of criminal enterprise ever to hit San Andreas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

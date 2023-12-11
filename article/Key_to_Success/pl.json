@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999545,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Klucz do sukcesu","content":"Dynamiczna mapa Los Santos to przydatne narzędzie, z którego warto zrobić jak najlepszy użytek w trybie gry swobodnej. Znaczniki pokazują, czy inni gracze są naszymi przyjaciółmi, czy wrogami (a może potencjalnymi ofiarami). Warto zapamiętać poniższe oznaczenia, aby uniknąć przykrych niespodzianek.<br /><br />1 – członkowie twojej ekipy<br />2 – twoi znajomi<br />3 – znajomi w tej samej ekipie<br />4 – gracze z nagrodą nałożoną na ich głowę<br />5 – gracze w opłakanej kondycji psychicznej<br />6 – znajomi/gracze w mieszkaniu","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Key_to_Success/262272_KeyToSuccess.dds","filesize":262272},"landscape":{"path":"sc/news/Key_to_Success/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999545,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Klucz do sukcesu",
+    "content": "Dynamiczna mapa Los Santos to przydatne narzędzie, z którego warto zrobić jak najlepszy użytek w trybie gry swobodnej. Znaczniki pokazują, czy inni gracze są naszymi przyjaciółmi, czy wrogami (a może potencjalnymi ofiarami). Warto zapamiętać poniższe oznaczenia, aby uniknąć przykrych niespodzianek.<br /><br />1 – członkowie twojej ekipy<br />2 – twoi znajomi<br />3 – znajomi w tej samej ekipie<br />4 – gracze z nagrodą nałożoną na ich głowę<br />5 – gracze w opłakanej kondycji psychicznej<br />6 – znajomi/gracze w mieszkaniu",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Key_to_Success/262272_KeyToSuccess.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Key_to_Success/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149139,"headline":"Newswire","subtitle":"Estate al acecho y ahorra","content":"Los miembros del Social Club pueden conseguir descuentos para algunas tiendas de Los Santos, acechando sus páginas en Lifeinvader.<br /><br />Acecha la peluquería Herr Kurtz y consigue tu primer corte gratis. Acecha Los Santos Customs para conseguir una capa de pintura de regalo. O acecha las tiendas en línea Elitas Travel y Warstock Cache and Carry para obtener descuentos únicos. ¡Y mucho más!<br /><br />Visita www.lifeinvader.com en la web (del mundo real) hoy.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149139,
+    "headline": "Newswire",
+    "subtitle": "Estate al acecho y ahorra",
+    "content": "Los miembros del Social Club pueden conseguir descuentos para algunas tiendas de Los Santos, acechando sus páginas en Lifeinvader.<br /><br />Acecha la peluquería Herr Kurtz y consigue tu primer corte gratis. Acecha Los Santos Customs para conseguir una capa de pintura de regalo. O acecha las tiendas en línea Elitas Travel y Warstock Cache and Carry para obtener descuentos únicos. ¡Y mucho más!<br /><br />Visita www.lifeinvader.com en la web (del mundo real) hoy.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds",
+        "filesize": 65664
+    }
+}

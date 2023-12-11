@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381834492,"title":"","headline":"Online-Tipp","subtitle":"Legendarymotorsport.net","content":"Besuche Legendarymotorsport.net über den Webbrowser deines Handys: Hier findest du die exklusivsten Luxusfahrzeuge, die es gibt.<br /><br />Bevor du ein Fahrzeug kaufen kannst, brauchst du eine Garage, denn es wird direkt dorthin geliefert.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Legendarymotorsport/262272_Legendarymotorsport.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Legendarymotorsport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381834492,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Legendarymotorsport.net",
+    "content": "Besuche Legendarymotorsport.net über den Webbrowser deines Handys: Hier findest du die exklusivsten Luxusfahrzeuge, die es gibt.<br /><br />Bevor du ein Fahrzeug kaufen kannst, brauchst du eine Garage, denn es wird direkt dorthin geliefert.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Legendarymotorsport/262272_Legendarymotorsport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Legendarymotorsport/.dds",
+        "filesize": 2048
+    }
+}

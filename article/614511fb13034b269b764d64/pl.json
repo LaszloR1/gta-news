@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677133,"title":"GTA+","headline":"GTA+","subtitle":"Panel operacyjny Avengera","content":"Członkowie GTA+ mogą do 19 lipca za darmo zainstalować panel operacyjny w Avengerze.<br /><br />Panel operacyjny to ulepszenie Avengera, dzięki któremu uzyskasz dostęp do Operacji: Przewrót oraz Operacji Aniołów Los Santos.<br /><br />Zabierz swojego Avengera do hangaru, gdzie Charlie zamontuje panel operacyjny, lub zakup go w sekcji ulepszeń Charliego podczas modyfikacji Avengera.<br /><br />Subskrypcja GTA+ co miesiąc odnawia się automatycznie, można ją anulować w dowolnej chwili. Więcej na rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_pl_pl.dds","filesize":262272},"button":"Wybierz, aby dołączyć do GTA+."}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677133,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Panel operacyjny Avengera",
+    "content": "Członkowie GTA+ mogą do 19 lipca za darmo zainstalować panel operacyjny w Avengerze.<br /><br />Panel operacyjny to ulepszenie Avengera, dzięki któremu uzyskasz dostęp do Operacji: Przewrót oraz Operacji Aniołów Los Santos.<br /><br />Zabierz swojego Avengera do hangaru, gdzie Charlie zamontuje panel operacyjny, lub zakup go w sekcji ulepszeń Charliego podczas modyfikacji Avengera.<br /><br />Subskrypcja GTA+ co miesiąc odnawia się automatycznie, można ją anulować w dowolnej chwili. Więcej na rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby dołączyć do GTA+."
+}

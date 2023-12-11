@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1601571780,"title":"","headline":"GTA Online","subtitle":"On the Podium This Week: Coil Brawler","content":"Swing by the lobby of The Diamond Casino & Resort to give the Lucky Wheel a spin for the opportunity to walk away with GTA$, RP, or all sorts of mystery prizes. This week on the podium is the Coil Brawler, an off-roader with enough horsepower under the hood to muscle its way over even the toughest terrain.","url":"","image":{"path":"sc/news/946a4c54218247f997079c26/349672_podium_wheel1.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1601571780,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "On the Podium This Week: Coil Brawler",
+    "content": "Swing by the lobby of The Diamond Casino & Resort to give the Lucky Wheel a spin for the opportunity to walk away with GTA$, RP, or all sorts of mystery prizes. This week on the podium is the Coil Brawler, an off-roader with enough horsepower under the hood to muscle its way over even the toughest terrain.",
+    "url": "",
+    "image": {
+        "path": "sc/news/946a4c54218247f997079c26/349672_podium_wheel1.dds",
+        "filesize": 349672
+    }
+}

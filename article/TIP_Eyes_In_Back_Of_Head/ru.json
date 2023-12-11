@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394810520,"headline":"Сетевые подсказки","subtitle":"Глаза на затылке","content":"'Держи ушки на макушке' - совет, которому в опасных районах города надо следовать буквально. Нажмите на правый джойстик, чтобы посмотреть, что происходит у вас за спиной. Если при этом нажать ~INPUT_FRONTEND_LT~, ваш персонаж развернется и наведется на цель.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394810520,
+    "headline": "Сетевые подсказки",
+    "subtitle": "Глаза на затылке",
+    "content": "'Держи ушки на макушке' - совет, которому в опасных районах города надо следовать буквально. Нажмите на правый джойстик, чтобы посмотреть, что происходит у вас за спиной. Если при этом нажать ~INPUT_FRONTEND_LT~, ваш персонаж развернется и наведется на цель.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149140,"headline":"Newswire","subtitle":"Persiga e Economize","content":"Membros do Social Club poderão obter descontos nas lojas de Los Santos perseguindo as suas páginas no Lifeinvader.<br /><br />Persiga a Herr Kutz e passe pelo salão para obter o seu primeiro corte de graça. Persiga a Los Santos Customs e ganhe uma pintura por conta da casa. E persiga a Elitas Travel e a Warstock Cache and Carry e ganhe um desconto único nas lojas. E muito mais!<br /><br />Visite o site www.lifeinvader.com na internet (de verdade) ainda hoje.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149140,
+    "headline": "Newswire",
+    "subtitle": "Persiga e Economize",
+    "content": "Membros do Social Club poderão obter descontos nas lojas de Los Santos perseguindo as suas páginas no Lifeinvader.<br /><br />Persiga a Herr Kutz e passe pelo salão para obter o seu primeiro corte de graça. Persiga a Los Santos Customs e ganhe uma pintura por conta da casa. E persiga a Elitas Travel e a Warstock Cache and Carry e ganhe um desconto único nas lojas. E muito mais!<br /><br />Visite o site www.lifeinvader.com na internet (de verdade) ainda hoje.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds",
+        "filesize": 65664
+    }
+}

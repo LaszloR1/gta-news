@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1521543839,"title":"","headline":"GTA Online","subtitle":"Wyścig Hotring","content":"Szybkie auto, owalny tor, bezchmurne niebo. Czy może być coś prostszego? Otóż okazuje się, że sprawy się komplikują, gdy do mieszanki doda się trzydziestu spaliniarzy w morderczych samochodach seryjnych. A to właśnie dzieje się w wyścigach Hotring, najnowszym rodzaju wyścigów w GTA Online. Nie zerkaj w lusterko wsteczne, tylko się wkurzysz.","url":"","image":{"path":"sc/news/SSASSS_Hotring_Circuit/349672_bigfeed-hotring-circuit.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1521543839,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wyścig Hotring",
+    "content": "Szybkie auto, owalny tor, bezchmurne niebo. Czy może być coś prostszego? Otóż okazuje się, że sprawy się komplikują, gdy do mieszanki doda się trzydziestu spaliniarzy w morderczych samochodach seryjnych. A to właśnie dzieje się w wyścigach Hotring, najnowszym rodzaju wyścigów w GTA Online. Nie zerkaj w lusterko wsteczne, tylko się wkurzysz.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Hotring_Circuit/349672_bigfeed-hotring-circuit.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543486,"title":"","headline":"GTA Online","subtitle":"Stunt da capogiro nella sedia del regista","content":"Hai realizzato un capolavoro di cortometraggio, ma per renderlo perfetto ti servirebbero una rampa grande quanto un capannone e un cerchio fiammeggiante? Non c'è problema: gli accessori da stunt sono adesso disponibili nella modalità Regista. Non ci saranno più limiti ad ostacolare la realizzazione della tua visione creativa.","url":"","image":{"path":"sc/news/NG_IE_CS_Directors_Chair/262272_Cunning_Stunts_Directors_Chair.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_CS_Directors_Chair/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543486,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stunt da capogiro nella sedia del regista",
+    "content": "Hai realizzato un capolavoro di cortometraggio, ma per renderlo perfetto ti servirebbero una rampa grande quanto un capannone e un cerchio fiammeggiante? Non c'è problema: gli accessori da stunt sono adesso disponibili nella modalità Regista. Non ci saranno più limiti ad ostacolare la realizzazione della tua visione creativa.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_CS_Directors_Chair/262272_Cunning_Stunts_Directors_Chair.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_CS_Directors_Chair/.dds",
+        "filesize": 2048
+    }
+}

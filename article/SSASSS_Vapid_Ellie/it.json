@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168344,"title":"","headline":"GTA Online","subtitle":"Vapid Ellie","content":"Ricordi quando hai sfidato tuo nonno a braccio di ferro e hai scoperto che era più forte, veloce, bello e interessante di te? Preparati alla rivincita: la Vapid Ellie si è svegliata dal suo sonno di bellezza durato cinquant'anni. E sembra in forma.","url":"","image":{"path":"sc/news/SSASSS_Vapid_Ellie/349672_bigfeed-ellie.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168344,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Ellie",
+    "content": "Ricordi quando hai sfidato tuo nonno a braccio di ferro e hai scoperto che era più forte, veloce, bello e interessante di te? Preparati alla rivincita: la Vapid Ellie si è svegliata dal suo sonno di bellezza durato cinquant'anni. E sembra in forma.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Vapid_Ellie/349672_bigfeed-ellie.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

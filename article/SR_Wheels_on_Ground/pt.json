@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999992,"title":"","headline":"GTA Online","subtitle":"Rodas no chão","content":"A sua cabeça pode estar nas nuvens, mas isso não significa que se esqueceu do cheiro de pneu queimando. Seja a audácia sedutora do Vapid Retinue ou a genialidade do queimador de ozônio Grotti Visione, tem novidade na área para te lembrar que, não importa a altura que você alcançar, nada substitui a estrada. ","url":"","image":{"path":"sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999992,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Rodas no chão",
+    "content": "A sua cabeça pode estar nas nuvens, mas isso não significa que se esqueceu do cheiro de pneu queimando. Seja a audácia sedutora do Vapid Retinue ou a genialidade do queimador de ozônio Grotti Visione, tem novidade na área para te lembrar que, não importa a altura que você alcançar, nada substitui a estrada. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677128,"title":"GTA+","headline":"GTA+","subtitle":"Maibatsu MonstroCiti","content":"Gli abbonati a GTA+ possono riscattare gratis il nuovo Maibatsu MonstroCiti fino al 19 luglio.<br /><br />Il Maibatsu MonstroCiti è famoso per essere un SUV a prova di famiglia in grado di affrontare anche le piste. Puoi anche equipaggiarlo con l’attrezzatura di Imani, come l’unità di controllo remoto e il disturbatore di frequenze.<br /><br />L’abbonamento GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/1f167a4fcea6410da4cfc1b4/262272_GTAPLUSTab_Monstrocity_FINAL_BigFeed_R01_it_it.dds","filesize":262272},"button":"Seleziona per abbonarti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677128,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Maibatsu MonstroCiti",
+    "content": "Gli abbonati a GTA+ possono riscattare gratis il nuovo Maibatsu MonstroCiti fino al 19 luglio.<br /><br />Il Maibatsu MonstroCiti è famoso per essere un SUV a prova di famiglia in grado di affrontare anche le piste. Puoi anche equipaggiarlo con l’attrezzatura di Imani, come l’unità di controllo remoto e il disturbatore di frequenze.<br /><br />L’abbonamento GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rsg.ms/gtaplus per maggiori informazioni.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/1f167a4fcea6410da4cfc1b4/262272_GTAPLUSTab_Monstrocity_FINAL_BigFeed_R01_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per abbonarti a GTA+"
+}

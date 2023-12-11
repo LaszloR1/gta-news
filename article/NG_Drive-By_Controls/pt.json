@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223581,"title":"","headline":"GTAV","subtitle":"Controles de Tiros de Veículo","content":"Temos novos controles para tiros de veículo; agora, você pode usar ~INPUT_FRONTEND_LB~ para mirar e ~INPUT_FRONTEND_RB~ para atirar com mais precisão, mesmo dirigindo. Experimente passar para a primeira pessoa e acabe com os seus inimigos com precisão letal enquanto dá um rolê.~n~~n~Você pode voltar ao controle antigo via Menu de Pausa > Configurações > Controles > Tipo de controle de Tiro de Veículo","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drive-By_Controls/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223581,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Controles de Tiros de Veículo",
+    "content": "Temos novos controles para tiros de veículo; agora, você pode usar ~INPUT_FRONTEND_LB~ para mirar e ~INPUT_FRONTEND_RB~ para atirar com mais precisão, mesmo dirigindo. Experimente passar para a primeira pessoa e acabe com os seus inimigos com precisão letal enquanto dá um rolê.~n~~n~Você pode voltar ao controle antigo via Menu de Pausa > Configurações > Controles > Tipo de controle de Tiro de Veículo",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drive-By_Controls/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513941012,"title":"","headline":"GTA Online","subtitle":"Overflod Autarch","content":"Posiadasz już wszystkie istniejące supersamochody, ale Overfloda Autarcha nie da się w pełni posiąść. Jasne, możesz go zaprosić do swojego życia, pucować, modyfikować i prezentować swoim widocznie zazdrosnym znajomym. Możesz nim nawet jeździć, mdleć od przeciążeń w fotelu i cudem unikać śmierci. Ale to wyrafinowane cudo nigdy nie jest tylko własnością; to sposób na życie.","url":"","image":{"path":"sc/news/DH_Overflod/262272_bigfeed-autarch-V2.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513941012,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Overflod Autarch",
+    "content": "Posiadasz już wszystkie istniejące supersamochody, ale Overfloda Autarcha nie da się w pełni posiąść. Jasne, możesz go zaprosić do swojego życia, pucować, modyfikować i prezentować swoim widocznie zazdrosnym znajomym. Możesz nim nawet jeździć, mdleć od przeciążeń w fotelu i cudem unikać śmierci. Ale to wyrafinowane cudo nigdy nie jest tylko własnością; to sposób na życie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Overflod/262272_bigfeed-autarch-V2.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

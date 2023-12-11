@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1527614021,"title":"","headline":"GTA Online","subtitle":"Rune Cheburek и Lampadati Michelli GT","content":"На этой неделе на улицах города появится не одна, а целых две классических модели: Lampadati Michelli – спорткар, прибывший к нам прямиком из золотого века либерализации, а если уж Rune Cheburek не уймет тот зуд, что мучил вас со времен окончания холодной войны, значит, вы безнадежны. Да, все верно, старые добрые дни вернулись к нам.","url":"","image":{"path":"sc/news/SSASSS_Cheburek/349672_bigfeed_michelli_cheburek.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1527614021,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Rune Cheburek и Lampadati Michelli GT",
+    "content": "На этой неделе на улицах города появится не одна, а целых две классических модели: Lampadati Michelli – спорткар, прибывший к нам прямиком из золотого века либерализации, а если уж Rune Cheburek не уймет тот зуд, что мучил вас со времен окончания холодной войны, значит, вы безнадежны. Да, все верно, старые добрые дни вернулись к нам.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Cheburek/349672_bigfeed_michelli_cheburek.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470557,"title":"","headline":"線上小訣竅","subtitle":"幫會","content":"如果想要加入幫會，您可以在 Rockstar Games Social Club 中找出公開招募夥伴的活動中幫會，認識新好友和盟友，然後到街上與其他幫會進行對戰。在幫會中完成差事，您就可以提高聲望並賺取現金。要是協助自己所屬的幫會提高排名，您就可以解鎖特殊獎勵。您也可以和好友成立一個私人幫會，然後專找陌生人下手。如果不想加入幫會，也可以自己好好享受遊戲時光。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Crews/262272_Crews.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Crews/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470557,
+    "title": "",
+    "headline": "線上小訣竅",
+    "subtitle": "幫會",
+    "content": "如果想要加入幫會，您可以在 Rockstar Games Social Club 中找出公開招募夥伴的活動中幫會，認識新好友和盟友，然後到街上與其他幫會進行對戰。在幫會中完成差事，您就可以提高聲望並賺取現金。要是協助自己所屬的幫會提高排名，您就可以解鎖特殊獎勵。您也可以和好友成立一個私人幫會，然後專找陌生人下手。如果不想加入幫會，也可以自己好好享受遊戲時光。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Crews/262272_Crews.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Crews/.dds",
+        "filesize": 2048
+    }
+}

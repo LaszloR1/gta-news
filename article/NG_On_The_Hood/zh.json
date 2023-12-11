@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433955146,"title":"","headline":"GTA Online","subtitle":"引擎蓋視角","content":"和載具內視角相比，如果您比較喜歡引擎蓋上的攝影機視角，現在我們多了額外的駕駛視角可供您選擇。<br /><br />在「暫停選單」中，前往 「設定」 > 「攝影機」，然後將「第一人稱駕駛引擎蓋鏡頭」設定為「開啟」，即可啟用此功能，然後您可以利用輪換不同視角模式的方式來使用。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_On_The_Hood/262272_OnTheHood.dds","filesize":262272},"landscape":{"path":"sc/news/NG_On_The_Hood/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433955146,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "引擎蓋視角",
+    "content": "和載具內視角相比，如果您比較喜歡引擎蓋上的攝影機視角，現在我們多了額外的駕駛視角可供您選擇。<br /><br />在「暫停選單」中，前往 「設定」 > 「攝影機」，然後將「第一人稱駕駛引擎蓋鏡頭」設定為「開啟」，即可啟用此功能，然後您可以利用輪換不同視角模式的方式來使用。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_On_The_Hood/262272_OnTheHood.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_On_The_Hood/.dds",
+        "filesize": 2048
+    }
+}

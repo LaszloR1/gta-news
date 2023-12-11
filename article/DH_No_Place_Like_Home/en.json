@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513097116,"title":"","headline":"GTA Online","subtitle":"No Place Like Home","content":"No one puts together a sprawling underground facility quite like the IAA, and no one else is quite as willing to sell it via Maze Bank Foreclosures for a quick injection of liquidity. Not only is this your base for launching the Doomsday Heist, but if you want to invest in having your own tactical kill squad on call, or an Orbital Cannon capable of immolating any patch of the surface world that incurs your wrath, this is your first and only choice.","url":"","image":{"path":"sc/news/DH_No_Place_Like_Home/262272_IAA_V01d.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513097116,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "No Place Like Home",
+    "content": "No one puts together a sprawling underground facility quite like the IAA, and no one else is quite as willing to sell it via Maze Bank Foreclosures for a quick injection of liquidity. Not only is this your base for launching the Doomsday Heist, but if you want to invest in having your own tactical kill squad on call, or an Orbital Cannon capable of immolating any patch of the surface world that incurs your wrath, this is your first and only choice.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_No_Place_Like_Home/262272_IAA_V01d.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

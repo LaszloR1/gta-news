@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423843,"title":"","headline":"GTA Online","subtitle":"Instant Gratification","content":"Your life just isn’t complete without that HVY Insurgent, but breaking into the Humane Labs isn’t always as easy as it looks. Well, good news for cash-rich, time-poor kingpins across Los Santos: for a special buy-it-now price, you can now have instant access to any vehicle that had to be acquired on a heist. And because you can never have too much of a good thing, the Rhino, Annihilator, Buzzard and the Dubsta 6x6 no longer have rank requirements before purchase either.","url":"","image":{"path":"sc/news/NG_CS-SVC_Instant_Gratification/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS-SVC_Instant_Gratification/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423843,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Instant Gratification",
+    "content": "Your life just isn’t complete without that HVY Insurgent, but breaking into the Humane Labs isn’t always as easy as it looks. Well, good news for cash-rich, time-poor kingpins across Los Santos: for a special buy-it-now price, you can now have instant access to any vehicle that had to be acquired on a heist. And because you can never have too much of a good thing, the Rhino, Annihilator, Buzzard and the Dubsta 6x6 no longer have rank requirements before purchase either.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Instant_Gratification/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Instant_Gratification/.dds",
+        "filesize": 2048
+    }
+}

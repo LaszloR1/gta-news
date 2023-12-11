@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175058,"title":"","headline":"GTA Online","subtitle":"波に揺られる生活","content":"もはや、クルーザーではなく水に浮かぶ宮殿です！ ドックティーズに新商品のギャラクシークルーザーが入荷されました。様々なカスタマイズが可能なほか、ボート用ドック、ヘリコプター着陸設備、豪華な内装の居住スペースを備え、ロスサントスとブレイン郡の様々な美しいロケーションに停泊可能です。","url":"","image":{"path":"sc/news/NG_EAOC_Life_on_the_Ocean_Wave/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Life_on_the_Ocean_Wave/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175058,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "波に揺られる生活",
+    "content": "もはや、クルーザーではなく水に浮かぶ宮殿です！ ドックティーズに新商品のギャラクシークルーザーが入荷されました。様々なカスタマイズが可能なほか、ボート用ドック、ヘリコプター着陸設備、豪華な内装の居住スペースを備え、ロスサントスとブレイン郡の様々な美しいロケーションに停泊可能です。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Life_on_the_Ocean_Wave/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Life_on_the_Ocean_Wave/.dds",
+        "filesize": 2048
+    }
+}

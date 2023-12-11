@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507657544,"title":"","headline":"GTA Online","subtitle":"Le Pyro","content":"Vous n'avez pas seulement envie de fendre le ciel à une vitesse vertigineuse, les mitrailleuses tournant à plein régime, pour transformer vos rivaux en un tas de poussière. Vous voulez qu'avant que leur crâne ne se désintègre, ils se disentµ: ''Ouah, le design de ce chasseur est vraiment incroyable.'' Et si vous cherchez ce mélange parfait d'émerveillement et de peur, un seul et unique mot devrait vous venir aux lèvresµ: Pyro.","url":"","image":{"path":"sc/news/SR_Pyro/262272_Pyro.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507657544,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le Pyro",
+    "content": "Vous n'avez pas seulement envie de fendre le ciel à une vitesse vertigineuse, les mitrailleuses tournant à plein régime, pour transformer vos rivaux en un tas de poussière. Vous voulez qu'avant que leur crâne ne se désintègre, ils se disentµ: ''Ouah, le design de ce chasseur est vraiment incroyable.'' Et si vous cherchez ce mélange parfait d'émerveillement et de peur, un seul et unique mot devrait vous venir aux lèvresµ: Pyro.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Pyro/262272_Pyro.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

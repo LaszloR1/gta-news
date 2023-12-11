@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"HOW TO GET STARTED","content":"Answer the phone call from Charlie Reed to take on freelance mercenary work with the Los Santos Angels. You’ll need a Mammoth Avenger to launch the new series of missions from your Avenger Operations Terminal. If you don’t already own an Avenger, you can pick one up from Warstock Cache & Carry.<br /><br />For new business opportunities, visit the Free Trade Shipping Co. terminal in your Hangar, or purchase a Hangar from Maze Bank Foreclosures for access to the criminal smuggling business.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272},"button":""}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HOW TO GET STARTED",
+    "content": "Answer the phone call from Charlie Reed to take on freelance mercenary work with the Los Santos Angels. You’ll need a Mammoth Avenger to launch the new series of missions from your Avenger Operations Terminal. If you don’t already own an Avenger, you can pick one up from Warstock Cache & Carry.<br /><br />For new business opportunities, visit the Free Trade Shipping Co. terminal in your Hangar, or purchase a Hangar from Maze Bank Foreclosures for access to the criminal smuggling business.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": ""
+}

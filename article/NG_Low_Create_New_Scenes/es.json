@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349212,"title":"","headline":"GTA Online","subtitle":"Crea nuevas escenas en el modo director","content":"El creador de escenas es una nueva característica dentro del modo director que te permite crear ajustes personalizados con los que capturar tus clips del editor Rockstar. Elige entre los más de 200 accesorios disponibles (incluyendo explosivos) y sitúalos para crear los decorados de tus películas. Guarda hasta cuatro escenas para poder reutilizar los ajustes siempre que quieras.<br /><br />Puedes acceder al creador de escenas a través del menú Interacción cuando estés en el modo director.","url":"","image":{"path":"sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Create_New_Scenes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349212,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Crea nuevas escenas en el modo director",
+    "content": "El creador de escenas es una nueva característica dentro del modo director que te permite crear ajustes personalizados con los que capturar tus clips del editor Rockstar. Elige entre los más de 200 accesorios disponibles (incluyendo explosivos) y sitúalos para crear los decorados de tus películas. Guarda hasta cuatro escenas para poder reutilizar los ajustes siempre que quieras.<br /><br />Puedes acceder al creador de escenas a través del menú Interacción cuando estés en el modo director.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/.dds",
+        "filesize": 2048
+    }
+}

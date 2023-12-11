@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1470048454,"title":"","headline":"GTA Online","subtitle":"Entourage","content":"It’s tough at the top, and it’s about to get a whole load tougher with GTA Online’s new Adversary Mode, Entourage. A team of bodyguards try to get a high-value target to an evac point, while a relentless band of assassins try to put them in the ground. The bodyguards have limited lives but a lot of firepower; the assassins aren’t as tooled up, but no matter how many you kill they’ll never stop coming.","url":"","image":{"path":"sc/news/NG_Entourage_Out_Now/262272_Entourage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Entourage_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1470048454,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Entourage",
+    "content": "It’s tough at the top, and it’s about to get a whole load tougher with GTA Online’s new Adversary Mode, Entourage. A team of bodyguards try to get a high-value target to an evac point, while a relentless band of assassins try to put them in the ground. The bodyguards have limited lives but a lot of firepower; the assassins aren’t as tooled up, but no matter how many you kill they’ll never stop coming.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Entourage_Out_Now/262272_Entourage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Entourage_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"Expresse-se","content":"É hora de atualizar o seu guarda-roupa com um monte de opções de roupas novas que te deixarão nos trinques para o seu próximo encontro de carros. Desde roupas casuais até roupas para trabalho, há vários looks novos para você testar. Novas tatuagens também estão disponíveis nos estúdios de Los Santos, e você também poderá testar um novo corte de cabelo para acompanhar as últimas tendências.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Expresse-se",
+    "content": "É hora de atualizar o seu guarda-roupa com um monte de opções de roupas novas que te deixarão nos trinques para o seu próximo encontro de carros. Desde roupas casuais até roupas para trabalho, há vários looks novos para você testar. Novas tatuagens também estão disponíveis nos estúdios de Los Santos, e você também poderá testar um novo corte de cabelo para acompanhar as últimas tendências.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

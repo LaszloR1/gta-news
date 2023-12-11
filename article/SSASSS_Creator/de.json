@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223124,"title":"","headline":"GTA Online","subtitle":"Neuerungen im Editor","content":"Erforsche die süße Grauzone zwischen Kreativität und Sadismus mit einer komplett neuen Reihe von Optionen für den Editor. Du kannst nicht nur deine eigenen Zielscheibenrennen erstellen, sondern hast auch eine ganz neue Welt voller Design-Optionen wie neue Zusatzelemente und Fahrzeuge zur Verfügung.","url":"","image":{"path":"sc/news/SSASSS_Creator/349672_GTAO-creator.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223124,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Neuerungen im Editor",
+    "content": "Erforsche die süße Grauzone zwischen Kreativität und Sadismus mit einer komplett neuen Reihe von Optionen für den Editor. Du kannst nicht nur deine eigenen Zielscheibenrennen erstellen, sondern hast auch eine ganz neue Welt voller Design-Optionen wie neue Zusatzelemente und Fahrzeuge zur Verfügung.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Creator/349672_GTAO-creator.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1456487317,"title":"","headline":"GTA Online","subtitle":"獵殺犀牛","content":"快來參加全新競爭模式，一起駕駛載具來爭取勝利吧！擔任獵人時，您只能使用黏彈，目標是擊垮犀式坦克。而在敵眾我寡的情況下，犀式坦克必須善用坦克的堅固與強大火力來保護自己，並在時限內存活以取得勝利。","url":"","image":{"path":"sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rhino_Hunt_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1456487317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "獵殺犀牛",
+    "content": "快來參加全新競爭模式，一起駕駛載具來爭取勝利吧！擔任獵人時，您只能使用黏彈，目標是擊垮犀式坦克。而在敵眾我寡的情況下，犀式坦克必須善用坦克的堅固與強大火力來保護自己，並在時限內存活以取得勝利。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/.dds",
+        "filesize": 2048
+    }
+}

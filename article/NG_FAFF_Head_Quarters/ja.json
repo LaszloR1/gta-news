@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294917,"title":"","headline":"GTA Online","subtitle":"本拠地","content":"ダイナスティー不動産とセキュリサーブ株式会社のパートナーシップにより、お目の高いプロ犯罪者向けの高級オフィスが実現しました。この豪華なデザインのオフィスには24時間常駐のアシスタント、ヘリポート、オフィスの装飾変更サービスや様々なカスタマイズオプションがついてきます。オフィスを手に入れて、セキュリサーブでCEOとしての登録を済ませれば、街中で極秘貨物の違法取引ができるようになります。","url":"","image":{"path":"sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Head_Quarters/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294917,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "本拠地",
+    "content": "ダイナスティー不動産とセキュリサーブ株式会社のパートナーシップにより、お目の高いプロ犯罪者向けの高級オフィスが実現しました。この豪華なデザインのオフィスには24時間常駐のアシスタント、ヘリポート、オフィスの装飾変更サービスや様々なカスタマイズオプションがついてきます。オフィスを手に入れて、セキュリサーブでCEOとしての登録を済ませれば、街中で極秘貨物の違法取引ができるようになります。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/.dds",
+        "filesize": 2048
+    }
+}

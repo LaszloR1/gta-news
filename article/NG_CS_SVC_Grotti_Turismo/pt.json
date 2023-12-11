@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491247706,"title":"","headline":"GTA Online","subtitle":"Grotti Turismo Classic","content":"Chame-o de antiquado, mas você está cansado de hipercarros avançados com medidores do painel que são mais inteligentes do que você. Você quer algo que seja discreto, tão puro e primitivo quanto uma ave de rapina ou uma ereção matinal. Entre no Turismo Classic, que com sua beleza automotiva irá para levá-lo de volta a um momento em que o combustível era barato, o ozônio era espesso e os policiais ficavam pelo menos tão bêbados quanto você.","url":"","image":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491247706,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Grotti Turismo Classic",
+    "content": "Chame-o de antiquado, mas você está cansado de hipercarros avançados com medidores do painel que são mais inteligentes do que você. Você quer algo que seja discreto, tão puro e primitivo quanto uma ave de rapina ou uma ereção matinal. Entre no Turismo Classic, que com sua beleza automotiva irá para levá-lo de volta a um momento em que o combustível era barato, o ozônio era espesso e os policiais ficavam pelo menos tão bêbados quanto você.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/.dds",
+        "filesize": 2048
+    }
+}

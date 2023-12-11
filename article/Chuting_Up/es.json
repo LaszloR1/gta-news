@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1408452487,"title":"","headline":"Actualización de GTA Online","subtitle":"Preparando el paracaídas","content":"Lleva tus viajes aéreos a otro nivel comprando un paracaídas de reserva en Ammu-Nation, que ahora incluye distintos parapentes, humos y mochilas.~n~~n~Corta tu paracaídas principal pulsando ~INPUT_FRONTEND_Y~ y, una vez en caída libre, pulsa de nuevo ~INPUT_FRONTEND_ACCEPT~ para desplegar tu paracaídas de reserva.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Chuting_Up/65664_chuting_up.dds","filesize":65664},"landscape":{"path":"sc/news/Chuting_Up/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452487,
+    "title": "",
+    "headline": "Actualización de GTA Online",
+    "subtitle": "Preparando el paracaídas",
+    "content": "Lleva tus viajes aéreos a otro nivel comprando un paracaídas de reserva en Ammu-Nation, que ahora incluye distintos parapentes, humos y mochilas.~n~~n~Corta tu paracaídas principal pulsando ~INPUT_FRONTEND_Y~ y, una vez en caída libre, pulsa de nuevo ~INPUT_FRONTEND_ACCEPT~ para desplegar tu paracaídas de reserva.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Chuting_Up/65664_chuting_up.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Chuting_Up/.dds",
+        "filesize": 2048
+    }
+}

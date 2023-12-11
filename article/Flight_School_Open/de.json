@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408452757,"headline":"GTA Online-Update","subtitle":"Flugschule jetzt eröffnet","content":"Wenn du dich für einen aufstrebenden Piloten hältst, kannst du deine Fähigkeiten in der neueröffneten Flugschule weiter verbessern.<br /><br />10 brandneue fliegerische Herausforderungen warten auf dich –  von Stuntflügen bis hin zum Meistern schwieriger Landeszenarien. Hol dir die Goldmedaillen, um allen zu zeigen, dass du zur absoluten Fliegerelite zählst.<br /><br />Die Flugschule befindet sich in der Nähe der Einfahrt zum LSIA-Flughafen (halte Ausschau nach der Flugzeug-Markierung auf der Karte).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Flight_School_Open/65664_FlightSchool.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452757,
+    "headline": "GTA Online-Update",
+    "subtitle": "Flugschule jetzt eröffnet",
+    "content": "Wenn du dich für einen aufstrebenden Piloten hältst, kannst du deine Fähigkeiten in der neueröffneten Flugschule weiter verbessern.<br /><br />10 brandneue fliegerische Herausforderungen warten auf dich –  von Stuntflügen bis hin zum Meistern schwieriger Landeszenarien. Hol dir die Goldmedaillen, um allen zu zeigen, dass du zur absoluten Fliegerelite zählst.<br /><br />Die Flugschule befindet sich in der Nähe der Einfahrt zum LSIA-Flughafen (halte Ausschau nach der Flugzeug-Markierung auf der Karte).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Flight_School_Open/65664_FlightSchool.dds",
+        "filesize": 65664
+    }
+}

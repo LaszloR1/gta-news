@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916280,"title":"","headline":"GTA Online","subtitle":"Waffenschieber","content":"Ein brutales neues und halblegales Geschäftsfeld macht sich in Los Santos breit: die Produktion und der Verkauf illegaler Waffen – Waffenschmuggel. <br /><br />Verschanze dich in einem unterirdischen Bunker, dezimiere deine Feinde mithilfe einer mobilen Kommandozentrale, stifte Chaos mit einer Flotte neuer Waffenfahrzeuge und drücke dem Waffenhandel in San Andreas deinen Stempel auf. An die Arbeit!","url":"","image":{"path":"sc/news/NG_GR_Gunrunner/262272_Gunrunning_Bigfeed_03.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Gunrunner/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916280,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Waffenschieber",
+    "content": "Ein brutales neues und halblegales Geschäftsfeld macht sich in Los Santos breit: die Produktion und der Verkauf illegaler Waffen – Waffenschmuggel. <br /><br />Verschanze dich in einem unterirdischen Bunker, dezimiere deine Feinde mithilfe einer mobilen Kommandozentrale, stifte Chaos mit einer Flotte neuer Waffenfahrzeuge und drücke dem Waffenhandel in San Andreas deinen Stempel auf. An die Arbeit!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Gunrunner/262272_Gunrunning_Bigfeed_03.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Gunrunner/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

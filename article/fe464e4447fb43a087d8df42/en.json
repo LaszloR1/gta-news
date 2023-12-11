@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686319815,"title":"Experience Improvements","headline":"Experience Improvements","subtitle":"Coming soon to GTA Online","content":"As part of GTA Online: San Andreas Mercenaries we’re continuing to improve the online experience with a number of experiential updates and upgrades, including:<br /><br />- The ability to claim all destroyed vehicles at once when filing a Mors Mutual Insurance claim.<br />- Custom description tags for garages.<br />- Alternative sprint control (hold to sprint) in the Settings Menu.<br /><br />And much more. Check out the Rockstar Newswire for more details.","url":"","image":{"path":"sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686319815,
+    "title": "Experience Improvements",
+    "headline": "Experience Improvements",
+    "subtitle": "Coming soon to GTA Online",
+    "content": "As part of GTA Online: San Andreas Mercenaries we’re continuing to improve the online experience with a number of experiential updates and upgrades, including:<br /><br />- The ability to claim all destroyed vehicles at once when filing a Mors Mutual Insurance claim.<br />- Custom description tags for garages.<br />- Alternative sprint control (hold to sprint) in the Settings Menu.<br /><br />And much more. Check out the Rockstar Newswire for more details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

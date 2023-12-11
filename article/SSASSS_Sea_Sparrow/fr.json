@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1523980379,"title":"","headline":"GTA Online","subtitle":"Le Sea Sparrow","content":"N'importe quel problème peut être résolu avec les bons outils. Mais un seul outil permet de résoudre tous les problèmes. Lequelµ? Un petit hélicoptère que l'on peut armer, bien sûr.","url":"","image":{"path":"sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1523980379,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le Sea Sparrow",
+    "content": "N'importe quel problème peut être résolu avec les bons outils. Mais un seul outil permet de résoudre tous les problèmes. Lequelµ? Un petit hélicoptère que l'on peut armer, bien sûr.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

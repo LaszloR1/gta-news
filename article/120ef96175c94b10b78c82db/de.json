@@ -1,1 +1,15 @@
-{"types":["store"],"date":1647006573,"title":"CashCards","headline":"CashCards","subtitle":"Shark Cards","content":"Das Geld regiert in dieser Stadt. Löse deine Geldprobleme und leiste dir alles, was du in Los Santos und Blaine County haben willst, indem du dir CashCards für Grand Theft Auto Online kaufst. Das gekaufte Geld erscheint automatisch auf dem Konto deines Spielcharakters. Gib es mit Bedacht aus, sonst wirkt die Geldtherapie nicht sehr lange.","url":"","image":{"path":"sc/news/120ef96175c94b10b78c82db/258176_GTAV_GEN9_STORE_DRAFT_BigFeed.dds","filesize":258176}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1647006573,
+    "title": "CashCards",
+    "headline": "CashCards",
+    "subtitle": "Shark Cards",
+    "content": "Das Geld regiert in dieser Stadt. Löse deine Geldprobleme und leiste dir alles, was du in Los Santos und Blaine County haben willst, indem du dir CashCards für Grand Theft Auto Online kaufst. Das gekaufte Geld erscheint automatisch auf dem Konto deines Spielcharakters. Gib es mit Bedacht aus, sonst wirkt die Geldtherapie nicht sehr lange.",
+    "url": "",
+    "image": {
+        "path": "sc/news/120ef96175c94b10b78c82db/258176_GTAV_GEN9_STORE_DRAFT_BigFeed.dds",
+        "filesize": 258176
+    }
+}

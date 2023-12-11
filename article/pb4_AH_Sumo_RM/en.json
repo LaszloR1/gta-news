@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1538496527,"title":"","headline":"GTA Online","subtitle":"Sumo (Remix)","content":"The classic Adversary Mode returns to GTA Online – but if you were thinking you could slip back into your old habits, think again. The safe zone is still your only way to avoid going up in flames, but this time it moves whenever the timer runs out, and large pieces of the track may or may not disappear at random. This is carnage 2.0.","url":"","image":{"path":"sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1538496527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumo (Remix)",
+    "content": "The classic Adversary Mode returns to GTA Online – but if you were thinking you could slip back into your old habits, think again. The safe zone is still your only way to avoid going up in flames, but this time it moves whenever the timer runs out, and large pieces of the track may or may not disappear at random. This is carnage 2.0.",
+    "url": "",
+    "image": {
+        "path": "sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

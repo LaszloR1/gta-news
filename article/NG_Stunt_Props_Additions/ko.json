@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480420765,"title":"","headline":"GTA Online","subtitle":"데스매치, 라스트 팀 스탠딩, 점령 생성기에서 스턴트 추가 기물 이용 가능","content":"생성기 유저 여러분, 이제 교활한 스턴트 업데이트의 스턴트 추가 기물로 데스매치, 라스트 팀 스탠딩, 점령 작업을 한 차원 끌어올릴 시간입니다. 200개 이상의 스턴트 추가 기물이 새롭게 추가되었으니 여러분의 창의력을 끝없이 발전시켜 멋진 작업을 만들어 보십시오.","url":"","image":{"path":"sc/news/NG_Stunt_Props_Additions/524416_BIGFEED_2016_1129-512x1024_V01.dds","filesize":524416},"landscape":{"path":"sc/news/NG_Stunt_Props_Additions/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480420765,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "데스매치, 라스트 팀 스탠딩, 점령 생성기에서 스턴트 추가 기물 이용 가능",
+    "content": "생성기 유저 여러분, 이제 교활한 스턴트 업데이트의 스턴트 추가 기물로 데스매치, 라스트 팀 스탠딩, 점령 작업을 한 차원 끌어올릴 시간입니다. 200개 이상의 스턴트 추가 기물이 새롭게 추가되었으니 여러분의 창의력을 끝없이 발전시켜 멋진 작업을 만들어 보십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunt_Props_Additions/524416_BIGFEED_2016_1129-512x1024_V01.dds",
+        "filesize": 524416
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunt_Props_Additions/.dds",
+        "filesize": 2048
+    }
+}

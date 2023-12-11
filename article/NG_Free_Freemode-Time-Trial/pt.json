@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314472,"title":"","headline":"GTA Online","subtitle":"Desafio Contra o Relógio do Modo Livre","content":"A cada semana, haverá um novo Desafio Contra o Relógio de ponto a ponto. Utilize um veículo adequado e atravesse o primeiro checkpoint na velocidade mais alta que conseguir. Bata o Tempo de Referência Rockstar para receber uma recompensa. Depois você pode continuar a treinar na pista para vencer o seu melhor tempo, até que o próximo desafio Contra o Relógio fique disponível.","url":"","image":{"path":"sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Freemode-Time-Trial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314472,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Desafio Contra o Relógio do Modo Livre",
+    "content": "A cada semana, haverá um novo Desafio Contra o Relógio de ponto a ponto. Utilize um veículo adequado e atravesse o primeiro checkpoint na velocidade mais alta que conseguir. Bata o Tempo de Referência Rockstar para receber uma recompensa. Depois você pode continuar a treinar na pista para vencer o seu melhor tempo, até que o próximo desafio Contra o Relógio fique disponível.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/.dds",
+        "filesize": 2048
+    }
+}

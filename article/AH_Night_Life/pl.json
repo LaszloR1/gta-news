@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455438,"title":"","headline":"GTA Online","subtitle":"Nocne życie","content":"Gdy Twój magazyn zacznie już działać na pełnych obrotach, będziesz mieć czas, aby skupić się na rzeczach ważniejszych, czyli zarządzaniu najlepszym klubem w Los Santos. Zajęć jest sporo: zabezpieczanie zasobów dla klubu, namawianie do współpracy światowej klasy DJ-ów i reklamowanie lokalu. Ale nie samą pracą człowiek żyje, będzie też okazja do zabawy – szaleństw na parkiecie, demolowania strefy VIP, upijania się w barze i bójek na chodniku – nieważne, jak o Tobie mówią, byle mówili.","url":"","image":{"path":"sc/news/AH_Night_Life/349672_GTAO_AfterHours_Nightlife.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455438,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nocne życie",
+    "content": "Gdy Twój magazyn zacznie już działać na pełnych obrotach, będziesz mieć czas, aby skupić się na rzeczach ważniejszych, czyli zarządzaniu najlepszym klubem w Los Santos. Zajęć jest sporo: zabezpieczanie zasobów dla klubu, namawianie do współpracy światowej klasy DJ-ów i reklamowanie lokalu. Ale nie samą pracą człowiek żyje, będzie też okazja do zabawy – szaleństw na parkiecie, demolowania strefy VIP, upijania się w barze i bójek na chodniku – nieważne, jak o Tobie mówią, byle mówili.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Night_Life/349672_GTAO_AfterHours_Nightlife.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

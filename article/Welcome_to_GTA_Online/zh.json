@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380560621,"headline":"Newswire","subtitle":"歡迎來到 GTA 線上模式","content":"《GTA 線上模式》充分發揮了《Grand Theft Auto》遊戲最重要的自由原則，結合任務式的遊戲機制，以及琳瑯滿目的其他支線活動，使其得以讓多名玩家同時沉浸在極度細緻且互動的線上世界之中。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds","filesize":65664},"landscape":{"path":"sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380560621,
+    "headline": "Newswire",
+    "subtitle": "歡迎來到 GTA 線上模式",
+    "content": "《GTA 線上模式》充分發揮了《Grand Theft Auto》遊戲最重要的自由原則，結合任務式的遊戲機制，以及琳瑯滿目的其他支線活動，使其得以讓多名玩家同時沉浸在極度細緻且互動的線上世界之中。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds",
+        "filesize": 65664
+    }
+}

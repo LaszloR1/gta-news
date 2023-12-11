@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349635,"title":"","headline":"GTA Online","subtitle":"Toujours prêt !","content":"Vous avez besoin de faire le plein rapidement ? Vous pouvez maintenant acheter des munitions directement depuis le menu Interaction. N'oubliez pas de vous rendre chez Ammu-Nation quand même, c'est là que vous trouverez les meilleurs prix de Los Santos et les armes dernier cri.","url":"","image":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349635,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Toujours prêt !",
+    "content": "Vous avez besoin de faire le plein rapidement ? Vous pouvez maintenant acheter des munitions directement depuis le menu Interaction. N'oubliez pas de vous rendre chez Ammu-Nation quand même, c'est là que vous trouverez les meilleurs prix de Los Santos et les armes dernier cri.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/.dds",
+        "filesize": 2048
+    }
+}

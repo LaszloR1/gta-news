@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044119,"title":"","headline":"GTA Online","subtitle":"Sumo","content":"Smash, bash, and dodge the competition in this new Adversary Mode that has you working with your team to force the opposition out of the arena. Size, speed or control, choose a vehicle that suits your style and be the last team remaining in the arena before the clock runs out to win.","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumo",
+    "content": "Smash, bash, and dodge the competition in this new Adversary Mode that has you working with your team to force the opposition out of the arena. Size, speed or control, choose a vehicle that suits your style and be the last team remaining in the arena before the clock runs out to win.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223258,"title":"","headline":"GTA Online","subtitle":"Acquisto in blocco","content":"Ora da Ammu-Nation puoi acquistare una scorta completa di munizioni per qualsiasi arma. Semplicemente scorri le armi esposte, selezionane una e premi ~INPUT_FRONTEND_X~ quando effettui l'acquisto delle munizioni se vuoi comprare il quantitativo massimo o meno.~n~~n~Puoi anche fare una scorta completa di munizioni per tutte le armi in una volta sola nelle sale d'attesa di deathmatch, LTS, Catture e missioni.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Bulk_Buy/262272_BulkBuy.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bulk_Buy/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223258,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Acquisto in blocco",
+    "content": "Ora da Ammu-Nation puoi acquistare una scorta completa di munizioni per qualsiasi arma. Semplicemente scorri le armi esposte, selezionane una e premi ~INPUT_FRONTEND_X~ quando effettui l'acquisto delle munizioni se vuoi comprare il quantitativo massimo o meno.~n~~n~Puoi anche fare una scorta completa di munizioni per tutte le armi in una volta sola nelle sale d'attesa di deathmatch, LTS, Catture e missioni.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Bulk_Buy/262272_BulkBuy.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bulk_Buy/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394812642,"headline":"線上小訣竅","subtitle":"笑一個","content":"在最近一次的更新中，我們加入了一些額外的 Snapmatic 內容，讓您拍攝的照片可以變得更吸睛。這些內容包括能夠完美表框照片的外框，以及可讓快照變得更加栩栩如生的濾鏡效果。<br /><br />只要開啟相機功能，您就可以使用方向鍵來變更外框或濾鏡。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812642,
+    "headline": "線上小訣竅",
+    "subtitle": "笑一個",
+    "content": "在最近一次的更新中，我們加入了一些額外的 Snapmatic 內容，讓您拍攝的照片可以變得更吸睛。這些內容包括能夠完美表框照片的外框，以及可讓快照變得更加栩栩如生的濾鏡效果。<br /><br />只要開啟相機功能，您就可以使用方向鍵來變更外框或濾鏡。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1487085407,"title":"","headline":"GTA Online","subtitle":"Mejora tus operaciones: 25% bonif. en ventas de negocios de moteros y entregas de mercancía especial","content":"Siente el amor en San Valentín con una bonificación del 25% en todas las ventas de negocios de moteros y entregas de mercancía especial hasta el día 27.<br /><br />¿No tienes pareja? No pasa nada. Consuélate con un 50% de descuento en los servicios del asistente y un 25% de descuento en:<br /><br />- Ropa de Mi media naranja<br />- Albany Roosevelt y Albany Roosevelt Valor<br />- Tatuajes de Importaciones/Exportaciones<br />- Mejoras de Benny's<br />- Ocelot Penetrator<br /><br />Consulta el Rockstar Newswire para obtener más detalles.","url":"","image":{"path":"sc/news/NG_Valentines_Offers/349672_albany-roosevelt-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Valentines_Offers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1487085407,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mejora tus operaciones: 25% bonif. en ventas de negocios de moteros y entregas de mercancía especial",
+    "content": "Siente el amor en San Valentín con una bonificación del 25% en todas las ventas de negocios de moteros y entregas de mercancía especial hasta el día 27.<br /><br />¿No tienes pareja? No pasa nada. Consuélate con un 50% de descuento en los servicios del asistente y un 25% de descuento en:<br /><br />- Ropa de Mi media naranja<br />- Albany Roosevelt y Albany Roosevelt Valor<br />- Tatuajes de Importaciones/Exportaciones<br />- Mejoras de Benny's<br />- Ocelot Penetrator<br /><br />Consulta el Rockstar Newswire para obtener más detalles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_Offers/349672_albany-roosevelt-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_Offers/.dds",
+        "filesize": 2048
+    }
+}

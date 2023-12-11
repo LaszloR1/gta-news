@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423897,"title":"","headline":"GTA Online","subtitle":"Progen GP1","content":"You’ve had flings with curvy concept cars, ditsy prototype roadsters, and heavily-modded trackday racers. And somehow, you’re still not satisfied. Face it, you’re ready to settle down, and there’s only one choice: the GP1. Now available in GTA Online from Legendary Motorsport.","url":"","image":{"path":"sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Progen_GP1/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423897,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Progen GP1",
+    "content": "You’ve had flings with curvy concept cars, ditsy prototype roadsters, and heavily-modded trackday racers. And somehow, you’re still not satisfied. Face it, you’re ready to settle down, and there’s only one choice: the GP1. Now available in GTA Online from Legendary Motorsport.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/.dds",
+        "filesize": 2048
+    }
+}

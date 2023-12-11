@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349603,"title":"","headline":"GTA Online","subtitle":"Achado não é roubado","content":"Corredores armados deixaram uma seleção de mercadorias escondidas por Los Santos e Blaine County. Você pode ficar com as armas e munição que coletar, então pegue o que conseguir. O poder de fogo adicional pode ser útil para conseguir uma vitória de última hora durante um dos Eventos de Modo Livre.","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349603,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Achado não é roubado",
+    "content": "Corredores armados deixaram uma seleção de mercadorias escondidas por Los Santos e Blaine County. Você pode ficar com as armas e munição que coletar, então pegue o que conseguir. O poder de fogo adicional pode ser útil para conseguir uma vitória de última hora durante um dos Eventos de Modo Livre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

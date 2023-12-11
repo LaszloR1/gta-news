@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469971,"title":"","headline":"온라인 팁","subtitle":"랠리 레이스","content":"랠리 레이스로 당신의 길 찾기 능력을 시험하십시오. 길 안내자 역할을 맡아 눈가리개를 한 운전사가 경로를 돌게 지시하거나, 직접 운전석에 앉아 길 안내자가 방향을 제대로 알아볼 수 있는 사람이길 바라십시오.<br /><br />레이스 로비의 옵션을 사용하여 모든 레이스를 랠리 레이스로 플레이할 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Rally_Race/87528_rally_race.dds","filesize":87528},"landscape":{"path":"sc/news/TIP_Rally_Race/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469971,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "랠리 레이스",
+    "content": "랠리 레이스로 당신의 길 찾기 능력을 시험하십시오. 길 안내자 역할을 맡아 눈가리개를 한 운전사가 경로를 돌게 지시하거나, 직접 운전석에 앉아 길 안내자가 방향을 제대로 알아볼 수 있는 사람이길 바라십시오.<br /><br />레이스 로비의 옵션을 사용하여 모든 레이스를 랠리 레이스로 플레이할 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Rally_Race/87528_rally_race.dds",
+        "filesize": 87528
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Rally_Race/.dds",
+        "filesize": 2048
+    }
+}

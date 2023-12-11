@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1492522656,"title":"","headline":"GTA Online","subtitle":"Otwarty rynek","content":"Na rynek trafił cały zestaw popularnych pojazdów i teraz każdy wschodzący król zbrodni może sięgnąć po monster trucka Marshall, hydroplan Dodo czy batyskaf Kraken. Oprócz tego w GTA Online pojawił się groźny Duke O'Death, którego można nabyć w Warstock. Przybył mokry sen każdego postapokaliptycznego retrosurwiwalisty w San Andreas.","url":"","image":{"path":"sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Open_Market/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1492522656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Otwarty rynek",
+    "content": "Na rynek trafił cały zestaw popularnych pojazdów i teraz każdy wschodzący król zbrodni może sięgnąć po monster trucka Marshall, hydroplan Dodo czy batyskaf Kraken. Oprócz tego w GTA Online pojawił się groźny Duke O'Death, którego można nabyć w Warstock. Przybył mokry sen każdego postapokaliptycznego retrosurwiwalisty w San Andreas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Open_Market/262272_Warstock-cache-and-carry.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Open_Market/.dds",
+        "filesize": 2048
+    }
+}

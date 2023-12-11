@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349316,"title":"","headline":"GTA Online","subtitle":"拉瑪大王","content":"拉瑪．戴維斯正處心積慮，想成為洛聖都低底盤車界的盟主，他需要忠心的部下幫他完成這個雄心壯志。接聽拉瑪的電話，遵循他的指示完成八個新的聯絡人任務，實現他雄霸一方的願望。","url":"","image":{"path":"sc/news/NG_King_Lamar/262272_King_Lamar.dds","filesize":262272},"landscape":{"path":"sc/news/NG_King_Lamar/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349316,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "拉瑪大王",
+    "content": "拉瑪．戴維斯正處心積慮，想成為洛聖都低底盤車界的盟主，他需要忠心的部下幫他完成這個雄心壯志。接聽拉瑪的電話，遵循他的指示完成八個新的聯絡人任務，實現他雄霸一方的願望。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_King_Lamar/262272_King_Lamar.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_King_Lamar/.dds",
+        "filesize": 2048
+    }
+}

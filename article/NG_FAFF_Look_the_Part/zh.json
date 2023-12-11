@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292975,"title":"","headline":"GTA Online","subtitle":"佛要金裝，人要衣裝","content":"洛聖都的大小服飾店時尚風潮再起：老大與保鏢的專屬衣飾及全新的保鏢事務所品牌商品。無論您希望別人看到您的第一印象是精明狡詐的犯罪天王，還是個渾身蠻力的僱傭打手，總有適合您的裝扮。","url":"","image":{"path":"sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Look_the_Part/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "佛要金裝，人要衣裝",
+    "content": "洛聖都的大小服飾店時尚風潮再起：老大與保鏢的專屬衣飾及全新的保鏢事務所品牌商品。無論您希望別人看到您的第一印象是精明狡詐的犯罪天王，還是個渾身蠻力的僱傭打手，總有適合您的裝扮。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/.dds",
+        "filesize": 2048
+    }
+}

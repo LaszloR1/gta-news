@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493046303,"title":"","headline":"GTA Online","subtitle":"미니 레이서","content":"레트로 스타일의 미니 레이서 대적 모드에서 폭발하지 않기 위해 정신없이 달리며 좋았던 옛 시절을 떠올려 보세요. 최대 4명의 플레이어가 트랙을 위에서 내려다보는 시점으로 경주를 합니다. 규칙은 단 하나, 1위와 너무 멀어지면 터져 버린다는 겁니다. 요즘 게임이 옛날 같지 않다는 분께 강력히 추천합니다.","url":"","image":{"path":"sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Tiny_Racers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493046303,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "미니 레이서",
+    "content": "레트로 스타일의 미니 레이서 대적 모드에서 폭발하지 않기 위해 정신없이 달리며 좋았던 옛 시절을 떠올려 보세요. 최대 4명의 플레이어가 트랙을 위에서 내려다보는 시점으로 경주를 합니다. 규칙은 단 하나, 1위와 너무 멀어지면 터져 버린다는 겁니다. 요즘 게임이 옛날 같지 않다는 분께 강력히 추천합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Tiny_Racers/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408452757,"headline":"Mise à jour GTA Online","subtitle":"L'école de pilotage est ouverte","content":"Si vous vous sentez l'âme d'un pilote de chasse, mettez donc vos talents à l'épreuve à l'école de pilotage !<br /><br />10 nouveaux défis aéronautiques vous attendent, de la cascade aérienne aux atterrissages à haut risque. Visez la médaille d'or pour rejoindre enfin l'élite.<br /><br />Vous trouverez l'école de pilotage près de l'entrée de l'aéroport international de Los Santos (repérez l'icône d'avion sur votre carte).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Flight_School_Open/65664_FlightSchool.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452757,
+    "headline": "Mise à jour GTA Online",
+    "subtitle": "L'école de pilotage est ouverte",
+    "content": "Si vous vous sentez l'âme d'un pilote de chasse, mettez donc vos talents à l'épreuve à l'école de pilotage !<br /><br />10 nouveaux défis aéronautiques vous attendent, de la cascade aérienne aux atterrissages à haut risque. Visez la médaille d'or pour rejoindre enfin l'élite.<br /><br />Vous trouverez l'école de pilotage près de l'entrée de l'aéroport international de Los Santos (repérez l'icône d'avion sur votre carte).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Flight_School_Open/65664_FlightSchool.dds",
+        "filesize": 65664
+    }
+}

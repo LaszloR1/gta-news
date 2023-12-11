@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425981527,"title":"","headline":"GTA Online","subtitle":"Elite Criminosa","content":"Cada final de Golpe tem seu próprio Desafio de Elite com bônus de dinheiro ao ser completado.<br /><br />Fleeca – Seja rápido, não danifique seu veículo e não perca vidas da equipe.<br />Fuga da Prisão – Proteja o alvo, fuja rápido e fique vivo.<br />Laboratórios Humane – Vença o tempo limite e mantenha todas as vidas da equipe.<br />Financiamento Série A – Mate seus inimigos, seja rápido e não perca vidas da equipe.<br />Pacific Standard – Faça um Golpe rápido em um banco, evite alertar a NOOSE e não morra.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Criminal_Elite/262272_Criminal-Elite.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Criminal_Elite/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425981527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Elite Criminosa",
+    "content": "Cada final de Golpe tem seu próprio Desafio de Elite com bônus de dinheiro ao ser completado.<br /><br />Fleeca – Seja rápido, não danifique seu veículo e não perca vidas da equipe.<br />Fuga da Prisão – Proteja o alvo, fuja rápido e fique vivo.<br />Laboratórios Humane – Vença o tempo limite e mantenha todas as vidas da equipe.<br />Financiamento Série A – Mate seus inimigos, seja rápido e não perca vidas da equipe.<br />Pacific Standard – Faça um Golpe rápido em um banco, evite alertar a NOOSE e não morra.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Criminal_Elite/262272_Criminal-Elite.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Criminal_Elite/.dds",
+        "filesize": 2048
+    }
+}

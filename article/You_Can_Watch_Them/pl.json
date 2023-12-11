@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999848,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Podglądacze mają dobrze","content":"W Los Santos zawsze jest co oglądać.<br /><br />Usiądź wygodnie, odpręż się i zobacz, co porabiają twoi przyjaciele, dzięki opcji obserwowania znajomych. Wybierz w odpowiedniej zakładce znajomego, który akurat gra w GTA Online, a następnie opcję „Obserwuj gracza”.<br /><br />Włącz lub wyłącz znajomym możliwość oglądania twojej rozgrywki w menu Online > Opcje.<br /><br />Pamiętaj, zawsze możesz popatrzeć... ale tylko za ich wiedzą.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds","filesize":262272},"landscape":{"path":"sc/news/You_Can_Watch_Them/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999848,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Podglądacze mają dobrze",
+    "content": "W Los Santos zawsze jest co oglądać.<br /><br />Usiądź wygodnie, odpręż się i zobacz, co porabiają twoi przyjaciele, dzięki opcji obserwowania znajomych. Wybierz w odpowiedniej zakładce znajomego, który akurat gra w GTA Online, a następnie opcję „Obserwuj gracza”.<br /><br />Włącz lub wyłącz znajomym możliwość oglądania twojej rozgrywki w menu Online > Opcje.<br /><br />Pamiętaj, zawsze możesz popatrzeć... ale tylko za ich wiedzą.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/You_Can_Watch_Them/.dds",
+        "filesize": 2048
+    }
+}

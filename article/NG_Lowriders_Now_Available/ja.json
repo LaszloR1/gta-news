@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349737,"title":"","headline":"GTA Online","subtitle":"GTAオンライン: ローライダーズ、好評配信中","content":"最新アップデートにロスサントス唯一のローライダーカルチャーとカスタマイズ専門ガレージ「ベニーズ・オリジナルモーターワークス」が登場。また、2つの新しい乗り物や新たな武器、服、タトゥーなども盛りだくさん。<br /><br />ロスサントスのローライダーシーンのトップを目指すラマーと話して、ギャングと対決する8つの新しいコンタクトのミッションに挑戦、あるいはチームを結成して、乗り物をテーマとした3つの新しい敵対モードで戦いましょう。<br /><br />詳細はRockstar Newswireでご覧ください。","url":"","image":{"path":"sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowriders_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349737,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTAオンライン: ローライダーズ、好評配信中",
+    "content": "最新アップデートにロスサントス唯一のローライダーカルチャーとカスタマイズ専門ガレージ「ベニーズ・オリジナルモーターワークス」が登場。また、2つの新しい乗り物や新たな武器、服、タトゥーなども盛りだくさん。<br /><br />ロスサントスのローライダーシーンのトップを目指すラマーと話して、ギャングと対決する8つの新しいコンタクトのミッションに挑戦、あるいはチームを結成して、乗り物をテーマとした3つの新しい敵対モードで戦いましょう。<br /><br />詳細はRockstar Newswireでご覧ください。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowriders_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

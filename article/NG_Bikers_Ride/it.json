@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519933,"title":"","headline":"GTA Online","subtitle":"In sella","content":"Hai i vestiti giusti, una clubhouse, un laboratorio di classe per produrre metanfetamina, un'ascia da guerra... ma il vero motociclista si riconosce solo da una cosa: la sua due ruote. Dalla velocità folle della Hakuchou Drag all'eleganza da fuoristrada della Manchez, ce n'è per tutti i gusti e per ogni attività nella nuova ondata di moto fiammanti.","url":"","image":{"path":"sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Ride/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519933,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "In sella",
+    "content": "Hai i vestiti giusti, una clubhouse, un laboratorio di classe per produrre metanfetamina, un'ascia da guerra... ma il vero motociclista si riconosce solo da una cosa: la sua due ruote. Dalla velocità folle della Hakuchou Drag all'eleganza da fuoristrada della Manchez, ce n'è per tutti i gusti e per ogni attività nella nuova ondata di moto fiammanti.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Ride/.dds",
+        "filesize": 2048
+    }
+}

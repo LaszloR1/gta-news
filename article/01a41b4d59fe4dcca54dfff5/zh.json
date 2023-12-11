@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285737,"title":"GTA+","headline":"GTA+","subtitle":"鬥技場工坊及折扣優惠","content":"即日起至µ9µ月µ13µ日止，GTA+µ會員可免費領取鬥技場工坊。<br />會員可免費領取鬥技場工坊，將符合資格的載具帶過去，還能以半價優惠購買一系列鬥技場改裝項目，包括鬥技場載具裝甲板、「決戰鬥技場」載具武器、鬥技場車體：利刃、尖刺及防滾架、鬥技場載具垂直跳躍，以及鬥技場加速器。<br />GTA+µ會籍每月將自動續訂，可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_zh_tw.dds","filesize":262272},"button":"選擇以加入µGTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285737,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "鬥技場工坊及折扣優惠",
+    "content": "即日起至µ9µ月µ13µ日止，GTA+µ會員可免費領取鬥技場工坊。<br />會員可免費領取鬥技場工坊，將符合資格的載具帶過去，還能以半價優惠購買一系列鬥技場改裝項目，包括鬥技場載具裝甲板、「決戰鬥技場」載具武器、鬥技場車體：利刃、尖刺及防滾架、鬥技場載具垂直跳躍，以及鬥技場加速器。<br />GTA+µ會籍每月將自動續訂，可隨時取消。如需更多資訊，請前往µrsg.ms/gtaplus。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_zh_tw.dds",
+        "filesize": 262272
+    },
+    "button": "選擇以加入µGTA+"
+}

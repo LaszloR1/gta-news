@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631928,"title":"","headline":"GTA Online","subtitle":"레저렉션","content":"상대편의 뒤통수에 총구멍을 내서 친구를 되살리는 것만큼 우정을 돈독하게 하는 게 없죠. 하지만 그건 상대편을 누를 방법이 하나밖에 없다는 걸 뜻하기도 합니다. 새로운 레저렉션 대적 모드에서 상대가 되살아나기 전에 모조리 죽여 버리십시오. 원래 인정사정없는 분이셨으니까 할 수 있겠죠?<br />","url":"","image":{"path":"sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS_SVC_Resurrection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631928,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "레저렉션",
+    "content": "상대편의 뒤통수에 총구멍을 내서 친구를 되살리는 것만큼 우정을 돈독하게 하는 게 없죠. 하지만 그건 상대편을 누를 방법이 하나밖에 없다는 걸 뜻하기도 합니다. 새로운 레저렉션 대적 모드에서 상대가 되살아나기 전에 모조리 죽여 버리십시오. 원래 인정사정없는 분이셨으니까 할 수 있겠죠?<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/.dds",
+        "filesize": 2048
+    }
+}

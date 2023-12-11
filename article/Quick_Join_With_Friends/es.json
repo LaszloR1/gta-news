@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991417,"headline":"Consejo en línea","subtitle":"Unirse rápidamente con amigos","content":"Unirse rápidamente ahora ofrece una nueva opción, llamada Unirse rápidamente con amigos, disponible en el móvil al unirte a una actividad.<br /><br />Al elegirla, enviarás automáticamente invitaciones a todos los amigos que estén en tu sesión de modo Libre actual. Así te asegurarás de que te acompañan.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991417,
+    "headline": "Consejo en línea",
+    "subtitle": "Unirse rápidamente con amigos",
+    "content": "Unirse rápidamente ahora ofrece una nueva opción, llamada Unirse rápidamente con amigos, disponible en el móvil al unirte a una actividad.<br /><br />Al elegirla, enviarás automáticamente invitaciones a todos los amigos que estén en tu sesión de modo Libre actual. Así te asegurarás de que te acompañan.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds",
+        "filesize": 65664
+    }
+}

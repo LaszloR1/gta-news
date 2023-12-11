@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1494945272,"title":"","headline":"GTA Online","subtitle":"25 % Rabatt auf GP1, Infernus Classic und mehr ","content":"Bis zum 25. Mai kannst du dank eines Rabatts in Höhe von 25 % auf die folgenden Fahrzeuge und Modifikationen aus Cunning Stunts: Special Vehicle Circuit kostengünstig durch die Stadt jagen:<br /><br />• Hijak Ruston<br />• Progen GP1<br />• Pegassi Infernus Classic<br />• Grotti Turismo Classic<br />• Ausgewählte Fahrzeugmodifikationen<br /><br />Weitere Details findest du auf dem Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Discounts_16_05/349672_ProgenGP1.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Discounts_16_05/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1494945272,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "25 % Rabatt auf GP1, Infernus Classic und mehr ",
+    "content": "Bis zum 25. Mai kannst du dank eines Rabatts in Höhe von 25 % auf die folgenden Fahrzeuge und Modifikationen aus Cunning Stunts: Special Vehicle Circuit kostengünstig durch die Stadt jagen:<br /><br />• Hijak Ruston<br />• Progen GP1<br />• Pegassi Infernus Classic<br />• Grotti Turismo Classic<br />• Ausgewählte Fahrzeugmodifikationen<br /><br />Weitere Details findest du auf dem Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Discounts_16_05/349672_ProgenGP1.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Discounts_16_05/.dds",
+        "filesize": 2048
+    }
+}

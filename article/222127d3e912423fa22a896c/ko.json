@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736470,"title":"","headline":"GTA 온라인","subtitle":"클럽 가입","content":"바인우드 클럽은 로스 산토스에서 가장 핫한 회원 전용 클럽으로서 GTA+ 회원을 위한 특별 혜택을 제공합니다.<br /><br />국제 엘리트를 찾고 있다면, 바로 여기가 딱입니다. 지금 바로 가입해 새롭게 오픈한 바인우드 카 클럽을 이용해 보십시오. 회원은 럭셔리 특별 이동 수단을 대여할 수 있으며 할인가에 구매할 수도 있습니다. 또한 무료 GTA+ 이동 수단을 살펴보고 바인우드 카 클럽에서 바로 획득할 수 있습니다.<br /><br />더 많은 내용을 알아보려면 터미널에서 신규 전시장을 방문해 보십시오.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736470,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "클럽 가입",
+    "content": "바인우드 클럽은 로스 산토스에서 가장 핫한 회원 전용 클럽으로서 GTA+ 회원을 위한 특별 혜택을 제공합니다.<br /><br />국제 엘리트를 찾고 있다면, 바로 여기가 딱입니다. 지금 바로 가입해 새롭게 오픈한 바인우드 카 클럽을 이용해 보십시오. 회원은 럭셔리 특별 이동 수단을 대여할 수 있으며 할인가에 구매할 수도 있습니다. 또한 무료 GTA+ 이동 수단을 살펴보고 바인우드 카 클럽에서 바로 획득할 수 있습니다.<br /><br />더 많은 내용을 알아보려면 터미널에서 신규 전시장을 방문해 보십시오.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

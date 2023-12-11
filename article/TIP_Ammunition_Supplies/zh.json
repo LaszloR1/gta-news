@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569646,"headline":"線上小訣竅","subtitle":"火力支援","content":"如果您的彈藥存量偏低，又不想到武裝國度商店購買，您可以在大廳畫面中先儲備好補給然後再開始進行差事。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569646,
+    "headline": "線上小訣竅",
+    "subtitle": "火力支援",
+    "content": "如果您的彈藥存量偏低，又不想到武裝國度商店購買，您可以在大廳畫面中先儲備好補給然後再開始進行差事。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

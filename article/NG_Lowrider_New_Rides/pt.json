@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349484,"title":"","headline":"GTA Online","subtitle":"Novos carros","content":"Dois carros potentes totalmente novos foram adicionados à venda no novo site do Benny, junto a uma seleção de outros projetos de carros favoritos do Benny que podem ser modificados de modo único em sua garagem.<br /><br />Adicione uma bomba hidráulica quádrupla ao Willard Faction para levantar bem, ou entre a bordo do Declasse Moonbeam com seu Comando e dispare das portas deslizantes do passageiro.","url":"","image":{"path":"sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_New_Rides/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349484,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novos carros",
+    "content": "Dois carros potentes totalmente novos foram adicionados à venda no novo site do Benny, junto a uma seleção de outros projetos de carros favoritos do Benny que podem ser modificados de modo único em sua garagem.<br /><br />Adicione uma bomba hidráulica quádrupla ao Willard Faction para levantar bem, ou entre a bordo do Declasse Moonbeam com seu Comando e dispare das portas deslizantes do passageiro.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_New_Rides/.dds",
+        "filesize": 2048
+    }
+}

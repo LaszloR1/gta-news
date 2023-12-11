@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1531322687,"title":"","headline":"GTA Online","subtitle":"Descuentos especiales: 30µ% en tarjetas Megalodón y 20µ% en tarjetas Ballena","content":"Por tiempo limitado, ahorra un 30µ% en tarjetas Megalodón y un 20µ% en tarjetas Ballena. <br /><br />Crea un negocio de contrabando con los descuentos de esta semana:<br />- 40µ% en todos los hangares y el taller de aeronaves<br />- 40µ% en el Bombushka, Tula, Pyro, Starling y más aeronaves armadas de Smuggler's Run<br />- 30µ% en los supercoches Grotti Visione y Coil Cyclone<br /><br />Oferta válida para todas las tarjetas Megalodón y Ballena compradas hasta el 30 de julio. Visita www.rockstarwarehouse.com ","url":"","image":{"path":"sc/news/Warehouse_Wk105_10_07_V2/262272_Bombushka.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1531322687,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos especiales: 30µ% en tarjetas Megalodón y 20µ% en tarjetas Ballena",
+    "content": "Por tiempo limitado, ahorra un 30µ% en tarjetas Megalodón y un 20µ% en tarjetas Ballena. <br /><br />Crea un negocio de contrabando con los descuentos de esta semana:<br />- 40µ% en todos los hangares y el taller de aeronaves<br />- 40µ% en el Bombushka, Tula, Pyro, Starling y más aeronaves armadas de Smuggler's Run<br />- 30µ% en los supercoches Grotti Visione y Coil Cyclone<br /><br />Oferta válida para todas las tarjetas Megalodón y Ballena compradas hasta el 30 de julio. Visita www.rockstarwarehouse.com ",
+    "url": "",
+    "image": {
+        "path": "sc/news/Warehouse_Wk105_10_07_V2/262272_Bombushka.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

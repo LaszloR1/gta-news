@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314471,"title":"","headline":"GTA Online","subtitle":"Freemode Time Trial","content":"Each week there will be a new point-to-point Time Trial challenge. Approach it in a suitable vehicle to trigger a checkpoint that needs to be reached as fast as possible. Beat the Rockstar Par Time to receive the victory reward - and you can then continue to tackle the route and attempt to beat your best time, until a new Time Trial is available.","url":"","image":{"path":"sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Freemode-Time-Trial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Freemode Time Trial",
+    "content": "Each week there will be a new point-to-point Time Trial challenge. Approach it in a suitable vehicle to trigger a checkpoint that needs to be reached as fast as possible. Beat the Rockstar Par Time to receive the victory reward - and you can then continue to tackle the route and attempt to beat your best time, until a new Time Trial is available.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/262272_Freemode-Time-Trial.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Freemode-Time-Trial/.dds",
+        "filesize": 2048
+    }
+}

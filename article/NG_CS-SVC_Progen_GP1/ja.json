@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423897,"title":"","headline":"GTA Online","subtitle":"プロジェンµGP1","content":"流線型のコンセプトカー、プロトタイプのロードスター、そして改造レースカー。これだけ情事を重ねても、どこか満たされない、と感じたことはありませんか？そろそろ落ち着くべき人生のステージを迎えたあなたにふさわしいのは、GP1だけです。「GTAオンライン」のレジェンダリー・モータースポーツから購入可能です。","url":"","image":{"path":"sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Progen_GP1/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423897,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "プロジェンµGP1",
+    "content": "流線型のコンセプトカー、プロトタイプのロードスター、そして改造レースカー。これだけ情事を重ねても、どこか満たされない、と感じたことはありませんか？そろそろ落ち着くべき人生のステージを迎えたあなたにふさわしいのは、GP1だけです。「GTAオンライン」のレジェンダリー・モータースポーツから購入可能です。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/.dds",
+        "filesize": 2048
+    }
+}

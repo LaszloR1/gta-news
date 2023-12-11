@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978549,"title":"","headline":"GTA Online","subtitle":"Kółka do napadu","content":"Wraz z aktualizacją Napady nadchodzi szeroki wachlarz nowych pojazdów, które będziecie mogli kupić za swoje ciężko zarobione GTA$. Już teraz nabyć można:<br />- Dinka Enduro – nowy terenowy motocykl, który sypnie piachem w oczy przeciwników.<br />- Vapid Guardian – wrednie wyglądający 4-osobowy potwór z napędem na 4 koła, który zasieje trwogę w sercach wrogów.<br /><br />Wiele, wiele innych pojazdów zostanie odblokowanych wtedy, gdy natraficie na nie w czasie napadów.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Heist_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978549,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Kółka do napadu",
+    "content": "Wraz z aktualizacją Napady nadchodzi szeroki wachlarz nowych pojazdów, które będziecie mogli kupić za swoje ciężko zarobione GTA$. Już teraz nabyć można:<br />- Dinka Enduro – nowy terenowy motocykl, który sypnie piachem w oczy przeciwników.<br />- Vapid Guardian – wrednie wyglądający 4-osobowy potwór z napędem na 4 koła, który zasieje trwogę w sercach wrogów.<br /><br />Wiele, wiele innych pojazdów zostanie odblokowanych wtedy, gdy natraficie na nie w czasie napadów.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1487085358,"title":"","headline":"GTA Online","subtitle":"Nouvelles cartes pour À la vie à l'amor, GTA$ x2 dans des modes parfaits pour les couples, et plus","content":"Il y a de l'amour dans l'air, et les couples pourront profiter de GTA$ et RP doublés dans À la vie à l'amor, Hasta La Vista, Course de relais et Défense offensive. À la vie à l'amor est de retour avec deux nouveaux endroits romantiques à Legion Square et à La Puerta. Restez l'un près de l'autre pour que votre santé se régénère plus vite, et n'oubliez pas de garder un œil sur votre partenaire, car si l'un de vous meurt, l'autre aussi.<br /><br />Plus d'informations sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Valentines_TDDUP_Maps/349672_tddup-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Valentines_TDDUP_Maps/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1487085358,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouvelles cartes pour À la vie à l'amor, GTA$ x2 dans des modes parfaits pour les couples, et plus",
+    "content": "Il y a de l'amour dans l'air, et les couples pourront profiter de GTA$ et RP doublés dans À la vie à l'amor, Hasta La Vista, Course de relais et Défense offensive. À la vie à l'amor est de retour avec deux nouveaux endroits romantiques à Legion Square et à La Puerta. Restez l'un près de l'autre pour que votre santé se régénère plus vite, et n'oubliez pas de garder un œil sur votre partenaire, car si l'un de vous meurt, l'autre aussi.<br /><br />Plus d'informations sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_TDDUP_Maps/349672_tddup-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_TDDUP_Maps/.dds",
+        "filesize": 2048
+    }
+}

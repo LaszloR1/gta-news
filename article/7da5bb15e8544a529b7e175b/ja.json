@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"ロスサントス・ドラッグウォーズ","headline":"ロスサントス・ドラッグウォーズ","subtitle":"デイリーの隠れ家","content":"新しいデイリーの隠れ家がマップ上に表示されるので、チェックしましょう。隠れ家を襲って金庫をこじ開け、報酬を獲得しましょう。<br /><br />デイリーの隠れ家を毎日襲い、ビジネス用原材料などを手に入れてください。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds","filesize":524416},"button":"フリーモードでデイリーの隠れ家を襲う"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "ロスサントス・ドラッグウォーズ",
+    "headline": "ロスサントス・ドラッグウォーズ",
+    "subtitle": "デイリーの隠れ家",
+    "content": "新しいデイリーの隠れ家がマップ上に表示されるので、チェックしましょう。隠れ家を襲って金庫をこじ開け、報酬を獲得しましょう。<br /><br />デイリーの隠れ家を毎日襲い、ビジネス用原材料などを手に入れてください。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/7da5bb15e8544a529b7e175b/524416_GTAO337_NewDailyFreemodeEvents_FINAL_BigFeed.dds",
+        "filesize": 524416
+    },
+    "button": "フリーモードでデイリーの隠れ家を襲う"
+}

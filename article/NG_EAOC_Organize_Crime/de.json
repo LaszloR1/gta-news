@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174994,"title":"","headline":"GTA Online","subtitle":"Organisiere Verbrechen!","content":"Verdiene als VIP Geld und RP für dich und deine Leibwächter, indem du die spannenden und lukrativen VIP-Auftrags-Modi in Angriff nimmst – zu finden im SecuroServ-Bereich des Interaktionsmenüs.<br /><br />Oder stelle deine Leibwächter auf die Probe, indem du eine VIP-Herausforderung startest und so schnell den wertvollsten Angestellten deiner Organisation identifizierst.","url":"","image":{"path":"sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Organize_Crime/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174994,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Organisiere Verbrechen!",
+    "content": "Verdiene als VIP Geld und RP für dich und deine Leibwächter, indem du die spannenden und lukrativen VIP-Auftrags-Modi in Angriff nimmst – zu finden im SecuroServ-Bereich des Interaktionsmenüs.<br /><br />Oder stelle deine Leibwächter auf die Probe, indem du eine VIP-Herausforderung startest und so schnell den wertvollsten Angestellten deiner Organisation identifizierst.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/262272_Organise_Crime.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Organize_Crime/.dds",
+        "filesize": 2048
+    }
+}

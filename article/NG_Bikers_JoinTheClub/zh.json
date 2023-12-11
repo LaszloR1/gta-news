@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515581,"title":"","headline":"GTA Online","subtitle":"加入摩托幫","content":"從幫會創始人到菜鳥嘍囉，大夥兒都能在摩托幫中找到全新的工作機會。與幫內的兄弟姊妹在全新野蠻的挑戰中較量，回應首領交付的任務並抵禦敵人，捍衛摩托幫的榮耀。最有賺頭的，莫過於經營各種製造廠，生產各式高價值卻也違法犯紀的產品。","url":"","image":{"path":"sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_JoinTheClub/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "加入摩托幫",
+    "content": "從幫會創始人到菜鳥嘍囉，大夥兒都能在摩托幫中找到全新的工作機會。與幫內的兄弟姊妹在全新野蠻的挑戰中較量，回應首領交付的任務並抵禦敵人，捍衛摩托幫的榮耀。最有賺頭的，莫過於經營各種製造廠，生產各式高價值卻也違法犯紀的產品。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/.dds",
+        "filesize": 2048
+    }
+}

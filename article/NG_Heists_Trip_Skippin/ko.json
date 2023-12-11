@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976048,"title":"","headline":"GTA Online","subtitle":"여정 건너뛰기","content":"어떤 습격 임무와 피날레를 다시 플레이할 경우, 특정 지점으로 가는 긴 과정을 건너뛸 수 있습니다.<br /><br />여정 건너뛰기 투표 가능 조건:<br />- 습격 조직원 모두가 현재 임무를 이미 완료했어야 합니다.<br />- 같은 목표로 가는 모든 플레이어가 같은 이동 수단 안에 있어야 합니다.<br /><br />하지만 여정 건너뛰기를 사용하면 보수가 약간 줄고 엘리트 보너스 도전을 할 수 없게 되니 주의하십시오(엘리트 도전을 완료하는 데에는 지름길이 없습니다).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Trip_Skippin/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976048,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "여정 건너뛰기",
+    "content": "어떤 습격 임무와 피날레를 다시 플레이할 경우, 특정 지점으로 가는 긴 과정을 건너뛸 수 있습니다.<br /><br />여정 건너뛰기 투표 가능 조건:<br />- 습격 조직원 모두가 현재 임무를 이미 완료했어야 합니다.<br />- 같은 목표로 가는 모든 플레이어가 같은 이동 수단 안에 있어야 합니다.<br /><br />하지만 여정 건너뛰기를 사용하면 보수가 약간 줄고 엘리트 보너스 도전을 할 수 없게 되니 주의하십시오(엘리트 도전을 완료하는 데에는 지름길이 없습니다).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/.dds",
+        "filesize": 2048
+    }
+}

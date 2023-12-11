@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224412,"title":"","headline":"GTA Online","subtitle":"Fijar la cámara","content":"Si quieres que todo el mundo tenga el mismo tipo de cámara, puedes configurar ese ajuste en la sala antes de cualquier actividad.<br /><br />En la sala, cambia la opción ''Forzar cámara'' por el modo que prefieras e impón a todos los demás tus preferencias de visualización, ya sea en tercera persona, primera persona o ambas.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224412,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fijar la cámara",
+    "content": "Si quieres que todo el mundo tenga el mismo tipo de cámara, puedes configurar ese ajuste en la sala antes de cualquier actividad.<br /><br />En la sala, cambia la opción ''Forzar cámara'' por el modo que prefieras e impón a todos los demás tus preferencias de visualización, ya sea en tercera persona, primera persona o ambas.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

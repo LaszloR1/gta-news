@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223124,"title":"","headline":"GTA Online","subtitle":"Nouveautés de l'Éditeur","content":"Explorez cette zone d'ombre entre la créativité et le sadisme grâce à de toutes nouvelles options maintenant disponibles dans l'Éditeur. Non seulement vous pouvez créer vos propres courses aux points, mais vous avez également le choix parmi de nouvelles options dans toutes les sections de l'Éditeur, dont de nouveaux éléments et de nouveaux véhicules.","url":"","image":{"path":"sc/news/SSASSS_Creator/349672_GTAO-creator.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223124,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouveautés de l'Éditeur",
+    "content": "Explorez cette zone d'ombre entre la créativité et le sadisme grâce à de toutes nouvelles options maintenant disponibles dans l'Éditeur. Non seulement vous pouvez créer vos propres courses aux points, mais vous avez également le choix parmi de nouvelles options dans toutes les sections de l'Éditeur, dont de nouveaux éléments et de nouveaux véhicules.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Creator/349672_GTAO-creator.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

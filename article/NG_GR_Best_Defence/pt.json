@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916830,"title":"","headline":"GTA Online","subtitle":"A melhor defesa","content":"Além de ser a única propriedade no seu portfólio construída para sobreviver a um ataque nuclear direto, o seu bunker pode ser a sede de operações para a sua entrada no mercado mais negro do estado. Chefes, Magnatas ou Presidentes de MC podem desenvolver um negócio de armas aqui: abasteça o seu negócio, fabrique armas e as venda antes que a polícia ou os concorrentes possam interferir. Prepare-se para ter os lucros explosivos que só a economia da guerra pode oferecer.","url":"","image":{"path":"sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Best_Defence/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916830,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "A melhor defesa",
+    "content": "Além de ser a única propriedade no seu portfólio construída para sobreviver a um ataque nuclear direto, o seu bunker pode ser a sede de operações para a sua entrada no mercado mais negro do estado. Chefes, Magnatas ou Presidentes de MC podem desenvolver um negócio de armas aqui: abasteça o seu negócio, fabrique armas e as venda antes que a polícia ou os concorrentes possam interferir. Prepare-se para ter os lucros explosivos que só a economia da guerra pode oferecer.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Best_Defence/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

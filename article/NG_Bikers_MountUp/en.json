@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515682,"title":"","headline":"GTA Online","subtitle":"Mount Up","content":"Taking to the streets on a bike now comes with some extra perks. Cruise in formation with your MC to receive accelerated health regeneration and repairs to your ride. And when it’s time to go on the offensive you can now take hand-to-hand combat to the next level by giving your melee attacks a 200 horsepower boost. Joust with fellow bikers, or wait till they’re on foot and take them down – the choice is yours.","url":"","image":{"path":"sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_MountUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515682,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mount Up",
+    "content": "Taking to the streets on a bike now comes with some extra perks. Cruise in formation with your MC to receive accelerated health regeneration and repairs to your ride. And when it’s time to go on the offensive you can now take hand-to-hand combat to the next level by giving your melee attacks a 200 horsepower boost. Joust with fellow bikers, or wait till they’re on foot and take them down – the choice is yours.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_MountUp/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468921869,"title":"","headline":"GTA Online","subtitle":"Ocelot Lynx, Declasse Drift Tampa и Western Cliffhanger","content":"На этой неделе на улицах Лос-Сантоса появятся три восхитительных новых транспортных средства. Предпочтете ли вы Ocelot Lynx - выбор утонченных лихачей? Или наплюете на красоту и грацию и сядете за руль свирепой Drift Tampa? Или, быть может, вы привыкли ощущать мощь между ног, а значит, вам ближе всего по духу будет Western Cliffhanger? И не забывайте: никто не запрещает вам купить сразу всё.","url":"","image":{"path":"sc/news/NG_Cunning_Stunts_Update_19_07/262272_Legendary_Ocelot.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Cunning_Stunts_Update_19_07/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468921869,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ocelot Lynx, Declasse Drift Tampa и Western Cliffhanger",
+    "content": "На этой неделе на улицах Лос-Сантоса появятся три восхитительных новых транспортных средства. Предпочтете ли вы Ocelot Lynx - выбор утонченных лихачей? Или наплюете на красоту и грацию и сядете за руль свирепой Drift Tampa? Или, быть может, вы привыкли ощущать мощь между ног, а значит, вам ближе всего по духу будет Western Cliffhanger? И не забывайте: никто не запрещает вам купить сразу всё.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Cunning_Stunts_Update_19_07/262272_Legendary_Ocelot.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Cunning_Stunts_Update_19_07/.dds",
+        "filesize": 2048
+    }
+}

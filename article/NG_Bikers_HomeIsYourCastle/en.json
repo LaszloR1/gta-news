@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515628,"title":"","headline":"GTA Online","subtitle":"Your Home is your Castle","content":"It might start out as some foreclosed rat pit, but your MC clubhouse is going to be much more than that. You can add your own personal style to the whole place, ranging from a mural to a fully-fledged in-house mod shop. Your crew can relax here any time they like, and this is where you get serious with MC missions and business management.","url":"","image":{"path":"sc/news/NG_Bikers_HomeIsYourCastle/262272_MazeForeclosure.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_HomeIsYourCastle/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515628,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Your Home is your Castle",
+    "content": "It might start out as some foreclosed rat pit, but your MC clubhouse is going to be much more than that. You can add your own personal style to the whole place, ranging from a mural to a fully-fledged in-house mod shop. Your crew can relax here any time they like, and this is where you get serious with MC missions and business management.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_HomeIsYourCastle/262272_MazeForeclosure.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_HomeIsYourCastle/.dds",
+        "filesize": 2048
+    }
+}

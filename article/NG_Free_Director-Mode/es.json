@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314859,"title":"","headline":"GTA Online","subtitle":"Modo director","content":"Se trata de un modo presente en el editor Rockstar, que ofrece un gran abanico de herramientas para ayudarte a crear vídeos verdaderamente originales.<br /><br />Antes de ponerte a grabar tu partida, inicia el modo director para elegir entre un gran reparto de personajes y animales del modo Individual, y definir variables como el tiempo meteorológico, la hora del día e incluso trucos, como puñetazos explosivos.<br /><br />El modo director se encuentra dentro del editor Rockstar, en el menú de pausa.","url":"","image":{"path":"sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Director-Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314859,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Modo director",
+    "content": "Se trata de un modo presente en el editor Rockstar, que ofrece un gran abanico de herramientas para ayudarte a crear vídeos verdaderamente originales.<br /><br />Antes de ponerte a grabar tu partida, inicia el modo director para elegir entre un gran reparto de personajes y animales del modo Individual, y definir variables como el tiempo meteorológico, la hora del día e incluso trucos, como puñetazos explosivos.<br /><br />El modo director se encuentra dentro del editor Rockstar, en el menú de pausa.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Director-Mode/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356420,"title":"","headline":"GTA Online","subtitle":"Change that Dial","content":"We are very pleased to announce that a brand new radio station has been launched on the airwaves of Los Santos.<br /><br />The Lab features a genre-spanning collection of new music hosted by Dr. No and the Chemical Bro, and is sure to spice up the variety of your drive-by commute.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Change_that_Dial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356420,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Change that Dial",
+    "content": "We are very pleased to announce that a brand new radio station has been launched on the airwaves of Los Santos.<br /><br />The Lab features a genre-spanning collection of new music hosted by Dr. No and the Chemical Bro, and is sure to spice up the variety of your drive-by commute.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/.dds",
+        "filesize": 2048
+    }
+}

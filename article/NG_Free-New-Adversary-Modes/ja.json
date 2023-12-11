@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442257610,"title":"","headline":"GTA Online","subtitle":"新敵対モード","content":"新しいフリーモードイベントで破壊欲求が満たされないという方は、ランク12で解除される2種類の新敵対モードをお試しください。<br /><br />- クロス・ザ・ライン - 戦略と火力を駆使し、速やかにメンバー全員に敵のラインを越えさせて勝利を掴みましょう。<br /><br />- スピード・コンボイ - 爆弾を積んだ乗り物が高速で街を走っています。一方のチームは乗り物を止めないことを目的とし、もう一方は乗り物を減速させようとします。乗り物が一定の速度を下回ると、悲惨な結末が待っています。","url":"","image":{"path":"sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free-New-Adversary-Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442257610,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新敵対モード",
+    "content": "新しいフリーモードイベントで破壊欲求が満たされないという方は、ランク12で解除される2種類の新敵対モードをお試しください。<br /><br />- クロス・ザ・ライン - 戦略と火力を駆使し、速やかにメンバー全員に敵のラインを越えさせて勝利を掴みましょう。<br /><br />- スピード・コンボイ - 爆弾を積んだ乗り物が高速で街を走っています。一方のチームは乗り物を止めないことを目的とし、もう一方は乗り物を減速させようとします。乗り物が一定の速度を下回ると、悲惨な結末が待っています。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/.dds",
+        "filesize": 2048
+    }
+}

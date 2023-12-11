@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380568974,"headline":"Suggerimento online","subtitle":"Icone colorate","content":"La mappa e il radar evidenzieranno i giocatori nelle vicinanze e assegneranno loro dei colori. I tuoi compagni di crew avranno il colore della crew e i tuoi amici avranno il blu. Le icone rosse mostreranno i giocatori con taglie attive sulla loro testa: dai la caccia a questi degenerati per ottenere denaro e un bel senso di superiorità morale.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Colored_Blips/65664_Colored-Blips_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380568974,
+    "headline": "Suggerimento online",
+    "subtitle": "Icone colorate",
+    "content": "La mappa e il radar evidenzieranno i giocatori nelle vicinanze e assegneranno loro dei colori. I tuoi compagni di crew avranno il colore della crew e i tuoi amici avranno il blu. Le icone rosse mostreranno i giocatori con taglie attive sulla loro testa: dai la caccia a questi degenerati per ottenere denaro e un bel senso di superiorità morale.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Colored_Blips/65664_Colored-Blips_portrait.dds",
+        "filesize": 65664
+    }
+}

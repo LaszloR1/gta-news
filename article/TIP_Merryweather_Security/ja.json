@@ -1,1 +1,20 @@
-{"types":["store"],"date":1380466702,"title":"","headline":"オンラインのヒント","subtitle":"メリーウェザー・セキュリティ","content":"今すぐ弾薬が必要？ 逃走の手助けがほしい？ ヘリを要請したい？ それとも憎い敵を始末したい？ そんな時はメリーウェザー・セキュリティ・コンサルティングにお電話を。信頼の警備と民間部隊を提供します。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Merryweather_Security/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1380466702,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "メリーウェザー・セキュリティ",
+    "content": "今すぐ弾薬が必要？ 逃走の手助けがほしい？ ヘリを要請したい？ それとも憎い敵を始末したい？ そんな時はメリーウェザー・セキュリティ・コンサルティングにお電話を。信頼の警備と民間部隊を提供します。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Merryweather_Security/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

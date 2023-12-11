@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469969,"title":"","headline":"Consejo en línea","subtitle":"Rally","content":"Pon a prueba tus dotes de navegación con las carreras de rally. Haz de copiloto y guía al conductor por el circuito, o ponte tú mismo al volante y confía en que tu copiloto distinga entre izquierda y derecha. <br /><br />Convierte cualquier carrera en un Rally a través de las opciones de la sala de una carrera.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Rally_Race/87528_rally_race.dds","filesize":87528},"landscape":{"path":"sc/news/TIP_Rally_Race/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469969,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Rally",
+    "content": "Pon a prueba tus dotes de navegación con las carreras de rally. Haz de copiloto y guía al conductor por el circuito, o ponte tú mismo al volante y confía en que tu copiloto distinga entre izquierda y derecha. <br /><br />Convierte cualquier carrera en un Rally a través de las opciones de la sala de una carrera.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Rally_Race/87528_rally_race.dds",
+        "filesize": 87528
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Rally_Race/.dds",
+        "filesize": 2048
+    }
+}

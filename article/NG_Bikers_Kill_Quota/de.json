@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480010231,"title":"","headline":"GTA Online","subtitle":"Kill Quota","content":"Das Markenzeichen eines wahren Meisters ist Anpassungsfähigkeit, und genau die wird in ''Kill Quota''  auf die Probe gestellt. <br /><br />Dein Team startet mit einer Waffe und erst nach genügend Kills bekommt ihr die nächste. Du musst deine Expertise im Umgang mit allen Waffen aufpolieren – von Panzerfäusten bis hin zu Billardqueues – , um dich durch die ganze Ausrüstung arbeiten zu können.<br /><br />Das Team, das als erstes genügend Kills mit allen Waffen erreicht, gewinnt.","url":"","image":{"path":"sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Kill_Quota/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480010231,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Kill Quota",
+    "content": "Das Markenzeichen eines wahren Meisters ist Anpassungsfähigkeit, und genau die wird in ''Kill Quota''  auf die Probe gestellt. <br /><br />Dein Team startet mit einer Waffe und erst nach genügend Kills bekommt ihr die nächste. Du musst deine Expertise im Umgang mit allen Waffen aufpolieren – von Panzerfäusten bis hin zu Billardqueues – , um dich durch die ganze Ausrüstung arbeiten zu können.<br /><br />Das Team, das als erstes genügend Kills mit allen Waffen erreicht, gewinnt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/.dds",
+        "filesize": 2048
+    }
+}

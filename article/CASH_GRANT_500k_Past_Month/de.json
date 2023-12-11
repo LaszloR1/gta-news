@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1406659194,"title":"Genieße die Welt von GTA Online mit unserem Geschenk in Höhe von 500.000 GTA$.","headline":"Rockstar-Mitteilung","subtitle":"Es ist eine große Welt, die nur darauf wartet, von dir erobert zu werden.","content":"Als treuer Spieler von Grand Theft Auto Online und Abonnent des Rockstar Games-Newsletters belohnen wir dich mit einer kostenlosen Gutschrift von 500.000 GTA$, die du ausgeben kannst wie es dir beliebt. Betrete jetzt die Welt von GTA Online – die 500.000 GTA$ warten bereits auf dem Bankkonto deines Spielcharakters auf dich.<br /><br />500.000 GTA$ wurden dem Bankkonto des Spielcharakters hinzugefügt, der mit diesem Rockstar Games Social Club-Profil verknüpft ist.","image":{"path":"sc/news/CASH_GRANT_500k_Past_Month/60608_cashgrant.dds","filesize":60608}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1406659194,
+    "title": "Genieße die Welt von GTA Online mit unserem Geschenk in Höhe von 500.000 GTA$.",
+    "headline": "Rockstar-Mitteilung",
+    "subtitle": "Es ist eine große Welt, die nur darauf wartet, von dir erobert zu werden.",
+    "content": "Als treuer Spieler von Grand Theft Auto Online und Abonnent des Rockstar Games-Newsletters belohnen wir dich mit einer kostenlosen Gutschrift von 500.000 GTA$, die du ausgeben kannst wie es dir beliebt. Betrete jetzt die Welt von GTA Online – die 500.000 GTA$ warten bereits auf dem Bankkonto deines Spielcharakters auf dich.<br /><br />500.000 GTA$ wurden dem Bankkonto des Spielcharakters hinzugefügt, der mit diesem Rockstar Games Social Club-Profil verknüpft ist.",
+    "image": {
+        "path": "sc/news/CASH_GRANT_500k_Past_Month/60608_cashgrant.dds",
+        "filesize": 60608
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTA 온라인","subtitle":"LSA 작전","content":"대담한 LSA 작전에서 어마무시한 로스 산토스 엔젤스와 함께 세 개의 민간 계약을 수행하십시오. 신규 작전 터미널에서 시작하거나 찰리에게 전화해 시작할 수 있으며, 각 계약을 처음 완료하면 복장을 획득할 기회가 주어지고, 다시 플레이할 때마다 주기적으로 변경되는 선택적 보너스 목표로 추가 보상을 획득할 기회도 주어집니다.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "LSA 작전",
+    "content": "대담한 LSA 작전에서 어마무시한 로스 산토스 엔젤스와 함께 세 개의 민간 계약을 수행하십시오. 신규 작전 터미널에서 시작하거나 찰리에게 전화해 시작할 수 있으며, 각 계약을 처음 완료하면 복장을 획득할 기회가 주어지고, 다시 플레이할 때마다 주기적으로 변경되는 선택적 보너스 목표로 추가 보상을 획득할 기회도 주어집니다.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

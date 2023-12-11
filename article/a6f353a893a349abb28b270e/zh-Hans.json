@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686676156,"title":"GTA+","headline":"GTA+","subtitle":"好麦坞车友俱乐部","content":"隆重推出好麦坞车友俱乐部，这是一个新地点，GTA+µ会员可以在这里找到一系列精选载具，进行试驾、在自由模式下订购并以折扣价购买。会员还将不时获得免费的高级载具。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/a6f353a893a349abb28b270e/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds","filesize":262272},"button":"选择以前往好麦坞车友俱乐部"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686676156,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "好麦坞车友俱乐部",
+    "content": "隆重推出好麦坞车友俱乐部，这是一个新地点，GTA+µ会员可以在这里找到一系列精选载具，进行试驾、在自由模式下订购并以折扣价购买。会员还将不时获得免费的高级载具。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/a6f353a893a349abb28b270e/262272_GTAPLUSTab_VinewoodCarClub_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "选择以前往好麦坞车友俱乐部"
+}

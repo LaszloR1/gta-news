@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513098096,"title":"","headline":"GTA Online","subtitle":"Les bonnes choses de la vie","content":"Vous avez ajouté des teintes, des chargeurs et des viseurs personnalisés à chacune des pièces de votre armurerie, et pourtant, vous n'êtes pas satisfait. Si vous cherchez encore plus de puissance, vous serez ravi de découvrir les nouvelles modifications. Transformez votre fusil à pompe, carabine spéciale, fusil à lunette, revolver lourd, fusil bullpup ou pétoire en arme MkµII à l'atelier d'armes de votre centre d'opérations mobile ou de votre Avenger pour lui donner un nouveau souffle.","url":"","image":{"path":"sc/news/DH_Finer_Things_In_Life/262272_red_gun_2.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513098096,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Les bonnes choses de la vie",
+    "content": "Vous avez ajouté des teintes, des chargeurs et des viseurs personnalisés à chacune des pièces de votre armurerie, et pourtant, vous n'êtes pas satisfait. Si vous cherchez encore plus de puissance, vous serez ravi de découvrir les nouvelles modifications. Transformez votre fusil à pompe, carabine spéciale, fusil à lunette, revolver lourd, fusil bullpup ou pétoire en arme MkµII à l'atelier d'armes de votre centre d'opérations mobile ou de votre Avenger pour lui donner un nouveau souffle.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Finer_Things_In_Life/262272_red_gun_2.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

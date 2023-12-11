@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952127,"title":"","headline":"GTA Online","subtitle":"金色翅膀","content":"必達交通現在多了兩款全新的高級豪華飛機，分別是樂梭豪華版和斯威夫特豪華版，最適合口袋深不見底的洛聖都市民炫富使用。每款載具都有金黃色的外殼設計，還有奢華無比的內裝，搭上載具後就好好放鬆享受，一邊啜飲香檳。按住 ~INPUT_ENTER~ 即可直接進入坐上乘客座椅。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952127,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "金色翅膀",
+    "content": "必達交通現在多了兩款全新的高級豪華飛機，分別是樂梭豪華版和斯威夫特豪華版，最適合口袋深不見底的洛聖都市民炫富使用。每款載具都有金黃色的外殼設計，還有奢華無比的內裝，搭上載具後就好好放鬆享受，一邊啜飲香檳。按住 ~INPUT_ENTER~ 即可直接進入坐上乘客座椅。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

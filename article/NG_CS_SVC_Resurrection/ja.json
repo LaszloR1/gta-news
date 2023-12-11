@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631928,"title":"","headline":"GTA Online","subtitle":"リザレクション","content":"敵の頭を撃ち抜いて味方を生き返らせる、チームの絆が深まるモード。新敵対モード「リザレクション」で勝つ方法は単純明快、敵を全員倒して復活できなくしてやるだけ。情けをかけている時間はない。","url":"","image":{"path":"sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS_SVC_Resurrection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631928,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "リザレクション",
+    "content": "敵の頭を撃ち抜いて味方を生き返らせる、チームの絆が深まるモード。新敵対モード「リザレクション」で勝つ方法は単純明快、敵を全員倒して復活できなくしてやるだけ。情けをかけている時間はない。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/.dds",
+        "filesize": 2048
+    }
+}

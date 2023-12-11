@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140182,"title":"GTA+","headline":"GTA+","subtitle":"Armeria dell'Agenzia","content":"Fino all'8 novembre, gli abbonati a GTA+ possono dotare la propria Agenzia di un'armeria per acquistare armi a prezzi scontati, modificare le armi con i potenziamenti Mk II, acquistare equipaggiamento vitale come per esempio munizioni (con lo sconto del 75% per gli abbonati), giubbotti antiproiettile, paracadute, respiratori e visori notturni.<br /><br />GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per i dettagli.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per iscriverti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140182,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Armeria dell'Agenzia",
+    "content": "Fino all'8 novembre, gli abbonati a GTA+ possono dotare la propria Agenzia di un'armeria per acquistare armi a prezzi scontati, modificare le armi con i potenziamenti Mk II, acquistare equipaggiamento vitale come per esempio munizioni (con lo sconto del 75% per gli abbonati), giubbotti antiproiettile, paracadute, respiratori e visori notturni.<br /><br />GTA+ si rinnova in automatico ogni mese: annullalo quando vuoi. Visita rsg.ms/gtaplus per i dettagli.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per iscriverti a GTA+"
+}

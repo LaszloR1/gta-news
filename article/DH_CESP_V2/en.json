@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513358449,"title":"","headline":"GTA Online","subtitle":"Criminal Enterprise Starter Pack","content":"The Criminal Enterprise Starter Pack is the fastest way for new Grand Theft Auto Online players to jumpstart their criminal empires. Do not purchase if you already own the Criminal Enterprise Starter Pack.<br /><br />Get access to a huge range of the most exciting and popular content in GTA Online including properties, businesses, weapons, vehicles and more – all content valued at over GTA$10,000,000 if purchased separately.","url":"","image":{"path":"sc/news/DH_CESP_V2/262272_CESP.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513358449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Criminal Enterprise Starter Pack",
+    "content": "The Criminal Enterprise Starter Pack is the fastest way for new Grand Theft Auto Online players to jumpstart their criminal empires. Do not purchase if you already own the Criminal Enterprise Starter Pack.<br /><br />Get access to a huge range of the most exciting and popular content in GTA Online including properties, businesses, weapons, vehicles and more – all content valued at over GTA$10,000,000 if purchased separately.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_CESP_V2/262272_CESP.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

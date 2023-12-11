@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631927,"title":"","headline":"GTA Online","subtitle":"Resurrection","content":"Es gibt keine bessere Teambuilding-Maßnahme als seinen Kumpel zurück ins Spiel zu bringen, indem man einem Trottel aus der anderen Crew in den Hinterkopf schießt. Das bedeutet aber auch, dass es im neuen Gegner-Modus ''Resurrection'' nur eine Methode gibt, sich durchzusetzen: Solange du die Gegner nicht komplett ausgeschaltet hast, können sie immer wieder zurückkommen. <br /><br />Aber mit Mitleid hast du dich ja noch nie lang aufgehalten, oder?","url":"","image":{"path":"sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS_SVC_Resurrection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631927,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Resurrection",
+    "content": "Es gibt keine bessere Teambuilding-Maßnahme als seinen Kumpel zurück ins Spiel zu bringen, indem man einem Trottel aus der anderen Crew in den Hinterkopf schießt. Das bedeutet aber auch, dass es im neuen Gegner-Modus ''Resurrection'' nur eine Methode gibt, sich durchzusetzen: Solange du die Gegner nicht komplett ausgeschaltet hast, können sie immer wieder zurückkommen. <br /><br />Aber mit Mitleid hast du dich ja noch nie lang aufgehalten, oder?",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/.dds",
+        "filesize": 2048
+    }
+}

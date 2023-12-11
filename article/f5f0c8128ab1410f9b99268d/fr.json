@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1691151188,"title":"","headline":"GTA Online","subtitle":"Remportez des GTA$ et RP triplés dans les missions de taxi","content":"Cette semaine, proposez vos services et transportez les citoyens de Los Santos dans toute la ville pour Downtown Cab Co. dans des missions de taxi afin d'empocher des GTA$ et RP triplés. <br /><br />Les chauffeurs intéressés peuvent lancer des missions de taxi en achetant le taxi à -30µ% cette semaine. <br /><br />Si vous n'en possédez pas, vous pouvez vous rendre au repère de Downtown Cab Co. sur la carte pour vous lancer.","url":"","image":{"path":"sc/news/f5f0c8128ab1410f9b99268d/262272_GTAO334_TaxiDriverEvent_FINAL_BigFeedcopy.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1691151188,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Remportez des GTA$ et RP triplés dans les missions de taxi",
+    "content": "Cette semaine, proposez vos services et transportez les citoyens de Los Santos dans toute la ville pour Downtown Cab Co. dans des missions de taxi afin d'empocher des GTA$ et RP triplés. <br /><br />Les chauffeurs intéressés peuvent lancer des missions de taxi en achetant le taxi à -30µ% cette semaine. <br /><br />Si vous n'en possédez pas, vous pouvez vous rendre au repère de Downtown Cab Co. sur la carte pour vous lancer.",
+    "url": "",
+    "image": {
+        "path": "sc/news/f5f0c8128ab1410f9b99268d/262272_GTAO334_TaxiDriverEvent_FINAL_BigFeedcopy.dds",
+        "filesize": 262272
+    }
+}

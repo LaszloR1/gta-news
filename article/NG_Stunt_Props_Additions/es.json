@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480420764,"title":"","headline":"GTA Online","subtitle":"Accesorios de acrobacias en creadores de partidas a muerte, Último equipo en pie y capturas","content":"Ahora la comunidad de creadores puede llevar sus partidas a muerte, partidas de Último equipo en pie y capturas a un nuevo nivel con la incorporación de los accesorios de acrobacias de Cunning Stunts. Con más de 200 accesorios de acrobacias adicionales disponibles, las posibilidades creativas son infinitas.","url":"","image":{"path":"sc/news/NG_Stunt_Props_Additions/524416_BIGFEED_2016_1129-512x1024_V01.dds","filesize":524416},"landscape":{"path":"sc/news/NG_Stunt_Props_Additions/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480420764,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Accesorios de acrobacias en creadores de partidas a muerte, Último equipo en pie y capturas",
+    "content": "Ahora la comunidad de creadores puede llevar sus partidas a muerte, partidas de Último equipo en pie y capturas a un nuevo nivel con la incorporación de los accesorios de acrobacias de Cunning Stunts. Con más de 200 accesorios de acrobacias adicionales disponibles, las posibilidades creativas son infinitas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunt_Props_Additions/524416_BIGFEED_2016_1129-512x1024_V01.dds",
+        "filesize": 524416
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunt_Props_Additions/.dds",
+        "filesize": 2048
+    }
+}

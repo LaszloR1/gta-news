@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381831715,"headline":"Wskazówka do gry sieciowej","subtitle":"Telefon twoim przyjacielem","content":"Twój telefon pozwoli Ci na orientowanie się w dostępnych akcjach i innych możliwościach zarobku.<br /><br />Sprawdzaj listę akcji w telefonie – prawie zawsze znajdzie się tam coś nowego, w tym zaproszenia do akcji od innych graczy lub prośby o pomoc od twoich kontaktów. Jeśli stwierdzisz, że nie masz co robić, jest to również najszybszy sposób na znalezienie 'porządnej' roboty.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Phone_Your_Friend/65664_Your_Phone_Is_Your_Friend_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831715,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Telefon twoim przyjacielem",
+    "content": "Twój telefon pozwoli Ci na orientowanie się w dostępnych akcjach i innych możliwościach zarobku.<br /><br />Sprawdzaj listę akcji w telefonie – prawie zawsze znajdzie się tam coś nowego, w tym zaproszenia do akcji od innych graczy lub prośby o pomoc od twoich kontaktów. Jeśli stwierdzisz, że nie masz co robić, jest to również najszybszy sposób na znalezienie 'porządnej' roboty.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Phone_Your_Friend/65664_Your_Phone_Is_Your_Friend_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

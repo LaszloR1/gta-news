@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381831292,"headline":"線上小訣竅","subtitle":"快速開始進行差事","content":"想要取得從死鬥遊戲到競速等差事非常簡單，您可以透過遊戲世界中放置的差事觸發點，或是透過下列選單進行：<br /><br />- 使用您手機上的「快速加入」。<br /><br />- 前往線上模式選單中可瀏覽的清單，然後選擇一項差事。<br /><br />- 從暫停選單中的地圖上選擇某個差事光點，直接開始進行該項差事。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831292,
+    "headline": "線上小訣竅",
+    "subtitle": "快速開始進行差事",
+    "content": "想要取得從死鬥遊戲到競速等差事非常簡單，您可以透過遊戲世界中放置的差事觸發點，或是透過下列選單進行：<br /><br />- 使用您手機上的「快速加入」。<br /><br />- 前往線上模式選單中可瀏覽的清單，然後選擇一項差事。<br /><br />- 從暫停選單中的地圖上選擇某個差事光點，直接開始進行該項差事。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

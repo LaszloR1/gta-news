@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976513,"title":"","headline":"GTA Online","subtitle":"Новое тактическое снаряжение","content":"В «Амму-Нации» появились новые образцы тактического снаряжения, в том числе сигнальный пистолет, гарнитура и многое другое!<br /><br />Кроме того, теперь вам доступно множество новых предметов одежды, чтобы вы смогли выработать единый стиль для своей команды либо, наоборот, подчеркнуть свою индивидуальность. Здесь каждый найдет себе облачение по вкусу.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Tactical_Gear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976513,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Новое тактическое снаряжение",
+    "content": "В «Амму-Нации» появились новые образцы тактического снаряжения, в том числе сигнальный пистолет, гарнитура и многое другое!<br /><br />Кроме того, теперь вам доступно множество новых предметов одежды, чтобы вы смогли выработать единый стиль для своей команды либо, наоборот, подчеркнуть свою индивидуальность. Здесь каждый найдет себе облачение по вкусу.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/262272_TacticalGear.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Tactical_Gear/.dds",
+        "filesize": 2048
+    }
+}

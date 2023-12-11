@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482319891,"title":"","headline":"GTA Online","subtitle":"Niestandardowy Pfister Comet Retro","content":"Wyprowadź tego Cometa, który latami kurzył się w rogu twojego 10-miejscowego garażu, i przygotuj się na świąteczny cud. Benny uwziął się ostatnio, żeby zmienić kryzys wieku średniego Pfistera w auto wyścigowe, które wygląda, jakby właśnie skończyło katować łańcuchem coś małego i puszystego. Spróbuj, jeśli starczy ci odwagi.","url":"","image":{"path":"sc/news/NG_IE_Pfister_Comet_ON/349672_bigFeed-pfister.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Pfister_Comet_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482319891,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Niestandardowy Pfister Comet Retro",
+    "content": "Wyprowadź tego Cometa, który latami kurzył się w rogu twojego 10-miejscowego garażu, i przygotuj się na świąteczny cud. Benny uwziął się ostatnio, żeby zmienić kryzys wieku średniego Pfistera w auto wyścigowe, które wygląda, jakby właśnie skończyło katować łańcuchem coś małego i puszystego. Spróbuj, jeśli starczy ci odwagi.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Pfister_Comet_ON/349672_bigFeed-pfister.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Pfister_Comet_ON/.dds",
+        "filesize": 2048
+    }
+}

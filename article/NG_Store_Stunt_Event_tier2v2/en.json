@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488453994,"title":"","headline":"Limited Time Sale Just for You","subtitle":"","content":"Get exclusive discounts on 3 formidable high-performance vehicles this week: take 50% off the space-age Grotti X80 Proto, the blazingly fast Pegassi Reaper, and the futuristic Nagasaki Shotaro sports bike.<br /><br />The race-ready Dewbauchee Specter Sports car is also on sale at 25% off. Store your growing fleet in a new 10-car garage, which are all 25% off until March 13. ","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488453994,
+    "title": "",
+    "headline": "Limited Time Sale Just for You",
+    "subtitle": "",
+    "content": "Get exclusive discounts on 3 formidable high-performance vehicles this week: take 50% off the space-age Grotti X80 Proto, the blazingly fast Pegassi Reaper, and the futuristic Nagasaki Shotaro sports bike.<br /><br />The race-ready Dewbauchee Specter Sports car is also on sale at 25% off. Store your growing fleet in a new 10-car garage, which are all 25% off until March 13. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543397,"title":"","headline":"GTA Online","subtitle":"상류층의 패션 맛보기","content":"여러분의 범죄 왕국이 부쩍 성장한 만큼, 거물다운 패션 센스를 보여줘야 하지 않을까요? 다양한 신규 의상이 상점에 추가되었으며, 완전히 새로운 문신과 헤어스타일이 여러분의 눈길을 빼앗을 겁니다. 또, 괴상하고 멋지면서도 토할 것처럼 생긴 새로운 가면들도 그냥 지나칠 수 없을 겁니다. 물론 이 놀라운 최첨단 패션에는 새로운 CEO 스타일도 포함되어 있습니다. 상호 작용 메뉴를 통해 연맹 전체의 의상 스타일을 코디할 수도 있답니다.","url":"","image":{"path":"sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Dressed_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543397,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "상류층의 패션 맛보기",
+    "content": "여러분의 범죄 왕국이 부쩍 성장한 만큼, 거물다운 패션 센스를 보여줘야 하지 않을까요? 다양한 신규 의상이 상점에 추가되었으며, 완전히 새로운 문신과 헤어스타일이 여러분의 눈길을 빼앗을 겁니다. 또, 괴상하고 멋지면서도 토할 것처럼 생긴 새로운 가면들도 그냥 지나칠 수 없을 겁니다. 물론 이 놀라운 최첨단 패션에는 새로운 CEO 스타일도 포함되어 있습니다. 상호 작용 메뉴를 통해 연맹 전체의 의상 스타일을 코디할 수도 있답니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Dressed_Kill/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Zagraj w Ostatnią dawkę","content":"Po ukończeniu Pierwszej dawki odwiedź Daxa i kontynuuj swoją przygodę w ramach Los Santos Drug Wars w Ostatniej dawce. W tych pięciu nowych misjach wraz ze swoją trupą wskoczysz do napakowanej akcją króliczej nory pełnej znajomych twarzy, najemników, sabotażu, porwań i nie tylko.<br /><br />Ukończenie tych misji zapewni dostęp do darmowego Ocelota Virtue oraz odblokuje zniżkę na ten pojazd.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds","filesize":262272},"button":"ZAGRAJ W OSTATNIĄ DAWKĘ"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Zagraj w Ostatnią dawkę",
+    "content": "Po ukończeniu Pierwszej dawki odwiedź Daxa i kontynuuj swoją przygodę w ramach Los Santos Drug Wars w Ostatniej dawce. W tych pięciu nowych misjach wraz ze swoją trupą wskoczysz do napakowanej akcją króliczej nory pełnej znajomych twarzy, najemników, sabotażu, porwań i nie tylko.<br /><br />Ukończenie tych misji zapewni dostęp do darmowego Ocelota Virtue oraz odblokuje zniżkę na ten pojazd.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds",
+        "filesize": 262272
+    },
+    "button": "ZAGRAJ W OSTATNIĄ DAWKĘ"
+}

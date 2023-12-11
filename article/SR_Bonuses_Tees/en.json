@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1504113883,"title":"","headline":"GTA Online","subtitle":"New Rockstar Tees in GTA Online","content":"They say good things come in threes. Just for logging in to GTA Online you've unlocked the new Black Rockstar Camo Tee, White Rockstar Camo Tee and the Razor Tee, which can now be found in your wardrobe.","url":"","image":{"path":"sc/news/SR_Bonuses_Tees/349672_tshirts-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1504113883,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "New Rockstar Tees in GTA Online",
+    "content": "They say good things come in threes. Just for logging in to GTA Online you've unlocked the new Black Rockstar Camo Tee, White Rockstar Camo Tee and the Razor Tee, which can now be found in your wardrobe.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Bonuses_Tees/349672_tshirts-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

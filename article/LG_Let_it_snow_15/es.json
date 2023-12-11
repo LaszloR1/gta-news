@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453826,"title":"","headline":"GTA Online","subtitle":"Deja que nieve","content":"Presta atención al cielo, porque se esperan nevadas en torno a Navidad y Año Nuevo en San Andreas.~n~~n~No hace falta que te resistas a la tentación de empezar a lanzar sustancia blanca por ahí, ya puedes hacer bolas de nieve y lanzarlas.~n~~n~Pulsa ~INPUT_DETONATE~ para coger bolas de nieve, y luego apunta y lánzalas como harías con cualquier otra arma arrojadiza.<br />Y no te olvides de buscar hoy los regalos de Papá Noel debajo del árbol para celebrar estas fiestas de forma explosiva.","url":"","image":{"path":"sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Let_it_snow_15/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453826,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Deja que nieve",
+    "content": "Presta atención al cielo, porque se esperan nevadas en torno a Navidad y Año Nuevo en San Andreas.~n~~n~No hace falta que te resistas a la tentación de empezar a lanzar sustancia blanca por ahí, ya puedes hacer bolas de nieve y lanzarlas.~n~~n~Pulsa ~INPUT_DETONATE~ para coger bolas de nieve, y luego apunta y lánzalas como harías con cualquier otra arma arrojadiza.<br />Y no te olvides de buscar hoy los regalos de Papá Noel debajo del árbol para celebrar estas fiestas de forma explosiva.",
+    "url": "",
+    "image": {
+        "path": "sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Let_it_snow_15/.dds",
+        "filesize": 2048
+    }
+}

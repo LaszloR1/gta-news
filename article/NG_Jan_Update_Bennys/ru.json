@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1453977083,"title":"","headline":"GTA Online","subtitle":"Benny's: новые машины и модификации","content":"Бенни расширяет бизнес. На сайте bennysoriginalmotorworks.com появилось два новых спорткара - Karin Sultan и Bravado Banshee. В гараже Бенни можно превратить их в настоящие гоночные машины - Karin Sultan RS и Bravado Banshee 900R.","url":"","image":{"path":"sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Jan_Update_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1453977083,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Benny's: новые машины и модификации",
+    "content": "Бенни расширяет бизнес. На сайте bennysoriginalmotorworks.com появилось два новых спорткара - Karin Sultan и Bravado Banshee. В гараже Бенни можно превратить их в настоящие гоночные машины - Karin Sultan RS и Bravado Banshee 900R.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Jan_Update_Bennys/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477402323,"title":"","headline":"GTA Online","subtitle":"Pegassi Vortex","content":"Can’t make up your mind whether you’re a leather clad vintage racer or a hypermodern speed freak? Luckily for you Pegassi couldn’t choose either, and with their new Vortex they’ve managed to repackage your crippling indecision as a brave fusion of old and new. If this doesn’t put a big, expensive smile on your face, nothing will.","url":"","image":{"path":"sc/news/NG_Nikers_Vortex/262272_Vortex.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Nikers_Vortex/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477402323,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Vortex",
+    "content": "Can’t make up your mind whether you’re a leather clad vintage racer or a hypermodern speed freak? Luckily for you Pegassi couldn’t choose either, and with their new Vortex they’ve managed to repackage your crippling indecision as a brave fusion of old and new. If this doesn’t put a big, expensive smile on your face, nothing will.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Nikers_Vortex/262272_Vortex.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Nikers_Vortex/.dds",
+        "filesize": 2048
+    }
+}

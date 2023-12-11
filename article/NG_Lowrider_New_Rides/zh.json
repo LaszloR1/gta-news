@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349484,"title":"","headline":"GTA Online","subtitle":"新車到港","content":"班尼車坊的新網站有兩輛全新肌肉車到貨了，此外還有其他廣受歡迎的特製車款，都可接受特殊改裝的要求。<br /><br />您可以替威勒宗派裝上四組幫浦液壓裝置，大幅提升彈跳力；或是駕駛絕緻月光載著您的幫友們，讓他們拉開乘客座的拉門大開殺戒。","url":"","image":{"path":"sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_New_Rides/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349484,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新車到港",
+    "content": "班尼車坊的新網站有兩輛全新肌肉車到貨了，此外還有其他廣受歡迎的特製車款，都可接受特殊改裝的要求。<br /><br />您可以替威勒宗派裝上四組幫浦液壓裝置，大幅提升彈跳力；或是駕駛絕緻月光載著您的幫友們，讓他們拉開乘客座的拉門大開殺戒。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_New_Rides/.dds",
+        "filesize": 2048
+    }
+}

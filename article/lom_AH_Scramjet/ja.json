@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534862115,"title":"","headline":"GTA Online","subtitle":"デクラス µスクラムジェット","content":"デクラスµスクラムジェットは文字通り、見た目では判断できない存在です。重心の低い車高からは想像できない、ハイドラも嫉妬するほどの垂直離陸をこなし、ターボをかければロケットヴォルティックも真っ青の勢いでビルに突っ込みます。この秘密を知ったあなたは、手を出さずにはいられないはずです！","url":"","image":{"path":"sc/news/lom_AH_Scramjet/349672_SCRAMJET.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534862115,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "デクラス µスクラムジェット",
+    "content": "デクラスµスクラムジェットは文字通り、見た目では判断できない存在です。重心の低い車高からは想像できない、ハイドラも嫉妬するほどの垂直離陸をこなし、ターボをかければロケットヴォルティックも真っ青の勢いでビルに突っ込みます。この秘密を知ったあなたは、手を出さずにはいられないはずです！",
+    "url": "",
+    "image": {
+        "path": "sc/news/lom_AH_Scramjet/349672_SCRAMJET.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

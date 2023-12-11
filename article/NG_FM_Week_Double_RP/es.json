@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472579019,"title":"","headline":"GTA Online","subtitle":"Semana del modo Libre: doble de GTA$ y RP en eventos del modo Libre y más (del 26/8 al 1/9)","content":"Engrosa tu cuenta del Maze Bank y aumenta tu reputación esta semana. Los eventos del modo Libre esta semana tendrán como premio el doble de GTA$ y RP desde hoy hasta el jueves 1 de septiembre. Además, hay nuevos descuentos en ciertos vehículos y modificaciones, así como en armas y acabados, incluidos los de lujo, metal dorado y muchos más. <br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.","url":"","image":{"path":"sc/news/NG_FM_Week_Double_RP/349672_FMW_BIGFEED_V3.dds","filesize":349672},"landscape":{"path":"sc/news/NG_FM_Week_Double_RP/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472579019,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Semana del modo Libre: doble de GTA$ y RP en eventos del modo Libre y más (del 26/8 al 1/9)",
+    "content": "Engrosa tu cuenta del Maze Bank y aumenta tu reputación esta semana. Los eventos del modo Libre esta semana tendrán como premio el doble de GTA$ y RP desde hoy hasta el jueves 1 de septiembre. Además, hay nuevos descuentos en ciertos vehículos y modificaciones, así como en armas y acabados, incluidos los de lujo, metal dorado y muchos más. <br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FM_Week_Double_RP/349672_FMW_BIGFEED_V3.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_FM_Week_Double_RP/.dds",
+        "filesize": 2048
+    }
+}

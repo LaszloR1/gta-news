@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509130506,"title":"","headline":"GTA Online","subtitle":"Vigilante","content":"Un nouveau genre de justice sillonne les rues de Los Santos, et elle ne fait usage que d'une force écrasante. Alors que la Vigilante fait sa place, il n'y a qu'un moyen de ne pas subir le châtiment de ce véhicule doté d'un propulseurµ: être celui qui balance la sauce. Il est temps pour vous d'incarner le méchant qu'ils méritent.","url":"","image":{"path":"sc/news/SR_Vigilante/524416_BIGFEED_2017_1024_V01_512x1024.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509130506,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vigilante",
+    "content": "Un nouveau genre de justice sillonne les rues de Los Santos, et elle ne fait usage que d'une force écrasante. Alors que la Vigilante fait sa place, il n'y a qu'un moyen de ne pas subir le châtiment de ce véhicule doté d'un propulseurµ: être celui qui balance la sauce. Il est temps pour vous d'incarner le méchant qu'ils méritent.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Vigilante/524416_BIGFEED_2017_1024_V01_512x1024.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

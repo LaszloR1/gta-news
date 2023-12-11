@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469141,"headline":"Wskazówka do gry sieciowej","subtitle":"Szpanuj talentami","content":"Twoje zdolności pozwolą ci na zdobywanie wyjątkowych nagród za konkretne dokonania i osiągnięte cele. Oczywiście niektóre najbardziej ekskluzywne przedmioty w sklepach Los Santos staną się dostępne dopiero po odblokowaniu ich poprzez osiągnięcie wyżej wymienionych celów. W końcu wiadomo, że życie pieści celebrytów.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469141,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Szpanuj talentami",
+    "content": "Twoje zdolności pozwolą ci na zdobywanie wyjątkowych nagród za konkretne dokonania i osiągnięte cele. Oczywiście niektóre najbardziej ekskluzywne przedmioty w sklepach Los Santos staną się dostępne dopiero po odblokowaniu ich poprzez osiągnięcie wyżej wymienionych celów. W końcu wiadomo, że życie pieści celebrytów.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

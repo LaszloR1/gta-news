@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"로스 산토스 마약 전쟁","headline":"로스 산토스 마약 전쟁","subtitle":"길거리 딜러","content":"길거리 딜러를 찾아 플레이어가 소유한 다양한 사업장에서 생산한 마약을 판매하세요.<br /><br />이 딜러들은 매일 새로운 위치에 등장하니 근처에 있는지 지도를 항상 잘 확인하세요.<br /><br />팁: 각 길거리 딜러마다 프리미엄을 지불하는 마약의 종류가 다르니 기회를 잘 포착하여 수익을 최대화해 보세요.<br /><br /><br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds","filesize":262272},"button":"자유 모드에서 길거리 딜러 찾기"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "로스 산토스 마약 전쟁",
+    "headline": "로스 산토스 마약 전쟁",
+    "subtitle": "길거리 딜러",
+    "content": "길거리 딜러를 찾아 플레이어가 소유한 다양한 사업장에서 생산한 마약을 판매하세요.<br /><br />이 딜러들은 매일 새로운 위치에 등장하니 근처에 있는지 지도를 항상 잘 확인하세요.<br /><br />팁: 각 길거리 딜러마다 프리미엄을 지불하는 마약의 종류가 다르니 기회를 잘 포착하여 수익을 최대화해 보세요.<br /><br /><br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "자유 모드에서 길거리 딜러 찾기"
+}

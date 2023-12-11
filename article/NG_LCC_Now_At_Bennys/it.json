@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044034,"title":"","headline":"GTA Online","subtitle":"Disponibili da Benny's: tre nuove auto e nuove modifiche","content":"Amplia la tua collezione di lowrider con gli ultimi arrivi di Benny's Original Motor Works. Per te due nuove muscle car modificabili, il Vapid Slamvan e la nuovissima Dundreary Virgo Classic. Inoltre, come se non bastasse, la riproposizione della Faction, una delle auto preferite da Benny in persona, in versione custom Donk, per troneggiare su tutti gli altri cittadini di Los Santos.","url":"","image":{"path":"sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Now_At_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044034,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Disponibili da Benny's: tre nuove auto e nuove modifiche",
+    "content": "Amplia la tua collezione di lowrider con gli ultimi arrivi di Benny's Original Motor Works. Per te due nuove muscle car modificabili, il Vapid Slamvan e la nuovissima Dundreary Virgo Classic. Inoltre, come se non bastasse, la riproposizione della Faction, una delle auto preferite da Benny in persona, in versione custom Donk, per troneggiare su tutti gli altri cittadini di Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241233,"title":"","headline":"GTA Online","subtitle":"Bonus dans GTA Onlineµ: course casse-cou premium du 30 sept. au 3 oct.","content":"La course casse-cou premium de la semaine va faire grimper la température. Dès aujourd'hui, participez à ''Postcombustion'', course réservée aux motos, pour remporter des RP triplés et, peut-être, beaucoup de GTA$. Il vous suffit pour cela de rejoindre l'icône jaune à Legion Square ou de passer par l'application ''Activité rapide'' de votre téléphone.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241233,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonus dans GTA Onlineµ: course casse-cou premium du 30 sept. au 3 oct.",
+    "content": "La course casse-cou premium de la semaine va faire grimper la température. Dès aujourd'hui, participez à ''Postcombustion'', course réservée aux motos, pour remporter des RP triplés et, peut-être, beaucoup de GTA$. Il vous suffit pour cela de rejoindre l'icône jaune à Legion Square ou de passer par l'application ''Activité rapide'' de votre téléphone.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515687,"title":"","headline":"GTA Online","subtitle":"バイクに跨がれ","content":"モーターサイクルクラブに所属してバイクで街に繰り出すと、ボーナスを獲得できます。他のメンバーとフォーメーションを組んで走ると、ライフ回復速度が上昇し、バイクが修復されます。戦闘状態になったときは、200馬力の相棒に跨ったままスピードの乗った近接攻撃を繰り出し、より過激に戦いましょう。他のバイカーとバイク上で対決するか、降りて拳と拳の戦いに持ち込むか――それはあなた次第です。","url":"","image":{"path":"sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_MountUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515687,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "バイクに跨がれ",
+    "content": "モーターサイクルクラブに所属してバイクで街に繰り出すと、ボーナスを獲得できます。他のメンバーとフォーメーションを組んで走ると、ライフ回復速度が上昇し、バイクが修復されます。戦闘状態になったときは、200馬力の相棒に跨ったままスピードの乗った近接攻撃を繰り出し、より過激に戦いましょう。他のバイカーとバイク上で対決するか、降りて拳と拳の戦いに持ち込むか――それはあなた次第です。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_MountUp/262272_Mount_Up.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_MountUp/.dds",
+        "filesize": 2048
+    }
+}

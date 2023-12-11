@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349512,"title":"","headline":"GTA Online","subtitle":"武器升級","content":"武裝國度進新貨了，包括快槍掃射用的衝鋒手槍，還有讓敵人皮皮挫的見血封喉開山刀。上門物色新貨時，不妨順便為您的特製卡賓步槍或突擊衝鋒槍等特定既有武器添購奢華武器塗裝。","url":"","image":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349512,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "武器升級",
+    "content": "武裝國度進新貨了，包括快槍掃射用的衝鋒手槍，還有讓敵人皮皮挫的見血封喉開山刀。上門物色新貨時，不妨順便為您的特製卡賓步槍或突擊衝鋒槍等特定既有武器添購奢華武器塗裝。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/.dds",
+        "filesize": 2048
+    }
+}

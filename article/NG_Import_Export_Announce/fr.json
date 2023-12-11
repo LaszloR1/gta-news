@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480694400,"title":"","headline":"GTA Online","subtitle":"Import-Export arrive en décembre","content":"Import-Export offre de nouvelles opportunités aux PDG et à leurs organisationsµ: volez, modifiez et revendez les véhicules les plus convoités pour réaliser des bénéfices incroyables. Pour y parvenir, vous devrez faire preuve de coordination et exploiter le potentiel de véhicules spéciaux inédits.<br /><br />Planquez vos larcins dans les nouveaux entrepôts de véhicules et profitez de l'ajout de garages de fonction à 3 niveaux pouvant accueillir 60 véhicules.<br /><br />Plus d'infos sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds","filesize":699216},"landscape":{"path":"sc/news/NG_Import_Export_Announce/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480694400,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Import-Export arrive en décembre",
+    "content": "Import-Export offre de nouvelles opportunités aux PDG et à leurs organisationsµ: volez, modifiez et revendez les véhicules les plus convoités pour réaliser des bénéfices incroyables. Pour y parvenir, vous devrez faire preuve de coordination et exploiter le potentiel de véhicules spéciaux inédits.<br /><br />Planquez vos larcins dans les nouveaux entrepôts de véhicules et profitez de l'ajout de garages de fonction à 3 niveaux pouvant accueillir 60 véhicules.<br /><br />Plus d'infos sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds",
+        "filesize": 699216
+    },
+    "landscape": {
+        "path": "sc/news/NG_Import_Export_Announce/.dds",
+        "filesize": 2048
+    }
+}

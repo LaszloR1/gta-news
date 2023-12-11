@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480694400,"title":"","headline":"GTA Online","subtitle":"Importaciones/Exportaciones llega en diciembre","content":"Importaciones/Exportaciones trae nuevas actividades delictivas en las que los jefes podrán mejorar, modificar y exportar vehículos para obtener grandes beneficios. Harán falta talento, coordinación y los nuevos vehículos especiales para conseguir tus objetivos.<br /><br />Los almacenes de exportación albergarán los resultados de tus operaciones, y podrás añadir enormes garajes de hasta tres plantas a tu oficina en los que podrás guardar hasta 60 vehículos.<br /><br />Más detalles en el Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds","filesize":699216},"landscape":{"path":"sc/news/NG_Import_Export_Announce/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480694400,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Importaciones/Exportaciones llega en diciembre",
+    "content": "Importaciones/Exportaciones trae nuevas actividades delictivas en las que los jefes podrán mejorar, modificar y exportar vehículos para obtener grandes beneficios. Harán falta talento, coordinación y los nuevos vehículos especiales para conseguir tus objetivos.<br /><br />Los almacenes de exportación albergarán los resultados de tus operaciones, y podrás añadir enormes garajes de hasta tres plantas a tu oficina en los que podrás guardar hasta 60 vehículos.<br /><br />Más detalles en el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds",
+        "filesize": 699216
+    },
+    "landscape": {
+        "path": "sc/news/NG_Import_Export_Announce/.dds",
+        "filesize": 2048
+    }
+}

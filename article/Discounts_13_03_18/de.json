@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1520958682,"title":"","headline":"GTA Online","subtitle":"Rabatte in GTA Online","content":"Sichere dir bis zum 19.µMärz Rabatte auf Basen, beliebte Luftfahrzeuge, Supersportwagen, Waffenfahrzeuge und vieles mehr:<br /><br />- Basis am Land-Act-Stausee – 30µ% Rabatt<br />- Buckingham Alpha-Z1 – 25µ% Rabatt<br />- RM-10 Bombushka – 25µ% Rabatt<br />- Progen T20 – 30µ% Rabatt<br />- Coil Cyclone – 25µ% Rabatt<br />- Benefactor Limousine mit Bordgeschütz – 25µ% Rabatt<br /><br />Weitere Details findest du im Rockstar Newswire.","url":"","image":{"path":"sc/news/Discounts_13_03_18/262272_Cyclone.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1520958682,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Rabatte in GTA Online",
+    "content": "Sichere dir bis zum 19.µMärz Rabatte auf Basen, beliebte Luftfahrzeuge, Supersportwagen, Waffenfahrzeuge und vieles mehr:<br /><br />- Basis am Land-Act-Stausee – 30µ% Rabatt<br />- Buckingham Alpha-Z1 – 25µ% Rabatt<br />- RM-10 Bombushka – 25µ% Rabatt<br />- Progen T20 – 30µ% Rabatt<br />- Coil Cyclone – 25µ% Rabatt<br />- Benefactor Limousine mit Bordgeschütz – 25µ% Rabatt<br /><br />Weitere Details findest du im Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_13_03_18/262272_Cyclone.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

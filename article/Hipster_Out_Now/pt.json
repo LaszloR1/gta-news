@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1402996216,"headline":"Atualização do GTA Online","subtitle":"A Atualização ''Não Sou Hipster'' Já Está Disponível","content":"Expresse a sua individualidade e se destaque entre a galera com a Atualização ''Não Sou Hipster'', com novas camisetas, jeans extremamente colados, cortes de cabelo, tatuagens irônicas, pós-irônicas e não-irônicas, máscaras de animais e mais.<br /><br />Escolha entre sete veículos exclusivos, incluindo clássicos como o Glendale, Blade e Rhapsody.<br /><br />Até a Ammu-Nation está entrando nas mais novas tendências não-irônicas com a Pistola Vintage e a Adaga de Cavalaria Antiga.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1402996216,
+    "headline": "Atualização do GTA Online",
+    "subtitle": "A Atualização ''Não Sou Hipster'' Já Está Disponível",
+    "content": "Expresse a sua individualidade e se destaque entre a galera com a Atualização ''Não Sou Hipster'', com novas camisetas, jeans extremamente colados, cortes de cabelo, tatuagens irônicas, pós-irônicas e não-irônicas, máscaras de animais e mais.<br /><br />Escolha entre sete veículos exclusivos, incluindo clássicos como o Glendale, Blade e Rhapsody.<br /><br />Até a Ammu-Nation está entrando nas mais novas tendências não-irônicas com a Pistola Vintage e a Adaga de Cavalaria Antiga.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds",
+        "filesize": 65664
+    }
+}

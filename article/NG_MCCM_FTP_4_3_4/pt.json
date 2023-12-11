@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490288838,"title":"","headline":"GTA Online","subtitle":"Oferta por tempo limitado: Ganhe dinheiro bônus ao comprar um Pacote de Dinheiro Tubarão","content":"Oferta exclusiva para você: ganhe 100% de dinheiro bônus no jogo ao comprar um Pacote Tubarão-Branco! São $1.250.000 de bônus para gastar em Los Santos e Blaine County.<br /><br />Oferta válida até 03/04. Todos os Pacotes de Dinheiro Tubarão devem ser resgatados antes de 03/04. O dinheiro bônus será depositado na sua conta do Maze Bank em até 72 horas após cada resgate de Pacote de Dinheiro Tubarão.<br /><br />Acesse o Boletim para detalhes sobre bônus e descontos desta semana no GTA Online.","url":"","image":{"path":"sc/news/NG_MCCM_FTP_4_3_4/349672_FTP_Offer4.dds","filesize":349672},"landscape":{"path":"sc/news/NG_MCCM_FTP_4_3_4/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490288838,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Oferta por tempo limitado: Ganhe dinheiro bônus ao comprar um Pacote de Dinheiro Tubarão",
+    "content": "Oferta exclusiva para você: ganhe 100% de dinheiro bônus no jogo ao comprar um Pacote Tubarão-Branco! São $1.250.000 de bônus para gastar em Los Santos e Blaine County.<br /><br />Oferta válida até 03/04. Todos os Pacotes de Dinheiro Tubarão devem ser resgatados antes de 03/04. O dinheiro bônus será depositado na sua conta do Maze Bank em até 72 horas após cada resgate de Pacote de Dinheiro Tubarão.<br /><br />Acesse o Boletim para detalhes sobre bônus e descontos desta semana no GTA Online.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_MCCM_FTP_4_3_4/349672_FTP_Offer4.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_MCCM_FTP_4_3_4/.dds",
+        "filesize": 2048
+    }
+}

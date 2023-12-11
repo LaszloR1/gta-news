@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475767265,"title":"","headline":"GTA Online","subtitle":"CONCOURS SNAPMATIC MOTOS, BOULOTS, BOBOS","content":"Envoyez-nous vos plus beaux clichés pour le concours photo Snapmatic #BIKERS. Nous recherchons cinq photos Snapmatic avec des éléments de GTA Onlineµ: Motos, boulots, bobos, des véhicules récents aux QG. Les cinq gagnants verront leurs photos Snapmatic publiées sur le Rockstar Newswire et remporteront 1µ000µ000µGTA$. Vous pouvez poster vos photos jusqu'au 10 octobre. N'oubliez pas de les marquer du tag #BIKERS sur le Social Club.<br /><br />Visitez le Social Club pour lire les règles officielles.","url":"","image":{"path":"sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Snapmatic/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475767265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "CONCOURS SNAPMATIC MOTOS, BOULOTS, BOBOS",
+    "content": "Envoyez-nous vos plus beaux clichés pour le concours photo Snapmatic #BIKERS. Nous recherchons cinq photos Snapmatic avec des éléments de GTA Onlineµ: Motos, boulots, bobos, des véhicules récents aux QG. Les cinq gagnants verront leurs photos Snapmatic publiées sur le Rockstar Newswire et remporteront 1µ000µ000µGTA$. Vous pouvez poster vos photos jusqu'au 10 octobre. N'oubliez pas de les marquer du tag #BIKERS sur le Social Club.<br /><br />Visitez le Social Club pour lire les règles officielles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Snapmatic/.dds",
+        "filesize": 2048
+    }
+}

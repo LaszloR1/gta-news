@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466852,"title":"","headline":"GTA Online","subtitle":"Le Seabreeze","content":"Le nouveau Western Seabreeze est un avion privé pour le businessman qui a besoin de flexibilité. Que vous atterrissiez sur une piste déserte ou que vous amerrissiez juste à côté de votre yacht privé, le Western Seabreeze vous offre le confort de la classe affaires, peu importe l'occasion ou la destination. Et si vous faites partie des gros bonnets qui pourraient avoir besoin de mitrailleuses et de soute à bombes, ne vous en faites pasµ: il y a beaucoup de placeµ!","url":"","image":{"path":"sc/news/SR_Seabreeze/262272_Seabreeze.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466852,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le Seabreeze",
+    "content": "Le nouveau Western Seabreeze est un avion privé pour le businessman qui a besoin de flexibilité. Que vous atterrissiez sur une piste déserte ou que vous amerrissiez juste à côté de votre yacht privé, le Western Seabreeze vous offre le confort de la classe affaires, peu importe l'occasion ou la destination. Et si vous faites partie des gros bonnets qui pourraient avoir besoin de mitrailleuses et de soute à bombes, ne vous en faites pasµ: il y a beaucoup de placeµ!",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Seabreeze/262272_Seabreeze.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

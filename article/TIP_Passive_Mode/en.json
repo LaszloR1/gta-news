@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380568679,"title":"","headline":"Online Tip","subtitle":"Enable Passive Mode","content":"If you need some time to explore without unnecessary and invasive interruptions, turn on Passive Mode. When enabled, and on foot, other players can't shoot you and you can't shoot them.  It’s wildly unrealistic.<br /><br />Find Passive Mode in the Interaction Menu.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Passive_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380568679,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Enable Passive Mode",
+    "content": "If you need some time to explore without unnecessary and invasive interruptions, turn on Passive Mode. When enabled, and on foot, other players can't shoot you and you can't shoot them.  It’s wildly unrealistic.<br /><br />Find Passive Mode in the Interaction Menu.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Passive_Mode/.dds",
+        "filesize": 2048
+    }
+}

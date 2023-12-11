@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285737,"title":"GTA+","headline":"GTA+","subtitle":"Мастерская арены и скидки","content":"Подписчики GTA+ могут бесплатно получить мастерскую арены до 13 сентября.<br /><br />Подписчики могут забрать бесплатную мастерскую арены и установить на подходящий транспорт модификации арены со скидкой 50%, среди которых бронеплиты, оружие, а также лезвия, шипы, вертикальные прыжки и рывки.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц, отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285737,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Мастерская арены и скидки",
+    "content": "Подписчики GTA+ могут бесплатно получить мастерскую арены до 13 сентября.<br /><br />Подписчики могут забрать бесплатную мастерскую арены и установить на подходящий транспорт модификации арены со скидкой 50%, среди которых бронеплиты, оружие, а также лезвия, шипы, вертикальные прыжки и рывки.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц, отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

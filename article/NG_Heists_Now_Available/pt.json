@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425975518,"title":"","headline":"GTA Online","subtitle":"Golpes já disponíveis","content":"Golpes já estão disponíveis em GTA Online, oferecendo uma ampla coleção de novos veículos, roupas, armas e equipamento tático, assim como missões cheias de ação e adrenalina para levar você e os seus amigos até o limite.<br /><br />Quando você atingir o Nível 12 ou mais alto e tiver um apartamento de luxo, Lester vai ligar para apresentá-lo aos Golpes. Vá até o armazém do Lester (marcado com um L no mapa).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Now_Available/262272_Heists-Now-Available.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425975518,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Golpes já disponíveis",
+    "content": "Golpes já estão disponíveis em GTA Online, oferecendo uma ampla coleção de novos veículos, roupas, armas e equipamento tático, assim como missões cheias de ação e adrenalina para levar você e os seus amigos até o limite.<br /><br />Quando você atingir o Nível 12 ou mais alto e tiver um apartamento de luxo, Lester vai ligar para apresentá-lo aos Golpes. Vá até o armazém do Lester (marcado com um L no mapa).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Now_Available/262272_Heists-Now-Available.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

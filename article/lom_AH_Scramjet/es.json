@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534862115,"title":"","headline":"GTA Online","subtitle":"Declasse Scramjet","content":"El Declasse Scramjet es el máximo exponente de que las apariencias engañan. Cuesta imaginar que, con solo pulsar un botón, ese diseño tan hortera pueda realizar un despegue vertical que dejaría en evidencia al Hydra, además de atravesar edificios a toda mecha con un estilo que ya quisiera un Rocket Voltic. Ahora que ya conoces este secretillo, ¿te vas a quedar con las ganas?","url":"","image":{"path":"sc/news/lom_AH_Scramjet/349672_SCRAMJET.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534862115,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Declasse Scramjet",
+    "content": "El Declasse Scramjet es el máximo exponente de que las apariencias engañan. Cuesta imaginar que, con solo pulsar un botón, ese diseño tan hortera pueda realizar un despegue vertical que dejaría en evidencia al Hydra, además de atravesar edificios a toda mecha con un estilo que ya quisiera un Rocket Voltic. Ahora que ya conoces este secretillo, ¿te vas a quedar con las ganas?",
+    "url": "",
+    "image": {
+        "path": "sc/news/lom_AH_Scramjet/349672_SCRAMJET.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467132162,"title":"","headline":"GTA Online","subtitle":"Pfister 811","content":"New and exclusive to legendarymotorsport.net, the Pfister 811 is hybrid tech doing what it was supposed to do: minutely refining the performance of the least carbon efficient vehicles on the planet so you can go from 0 to a 60 car pile-up slightly faster than the next guy. Welcome to the cutting edge.","url":"","image":{"path":"sc/news/NG_Pfister811_Out_Now/262272_NG_Legendarymotorsport.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Pfister811_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467132162,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pfister 811",
+    "content": "New and exclusive to legendarymotorsport.net, the Pfister 811 is hybrid tech doing what it was supposed to do: minutely refining the performance of the least carbon efficient vehicles on the planet so you can go from 0 to a 60 car pile-up slightly faster than the next guy. Welcome to the cutting edge.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Pfister811_Out_Now/262272_NG_Legendarymotorsport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Pfister811_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

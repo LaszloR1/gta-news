@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314860,"title":"","headline":"GTA Online","subtitle":"Tryb reżyserski","content":"Edytor Rockstar zawiera tryb reżyserski, który oferuje wiele narzędzi do tworzenia wyjątkowych filmów.<br /><br />Zanim nagrasz film z rozgrywki, uruchom tryb reżyserski i wybierz z szerokiej gamy postaci z trybu fabularnego lub zwierząt, dostosuj opcje takie jak pogoda, pora dnia, miejsce, a nawet zastosuj oszustwa w stylu wybuchowych uderzeń.<br /><br />Tryb reżyserski znajdziesz poprzez menu pauzy, w zakładce edytora Rockstar.","url":"","image":{"path":"sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Director-Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314860,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tryb reżyserski",
+    "content": "Edytor Rockstar zawiera tryb reżyserski, który oferuje wiele narzędzi do tworzenia wyjątkowych filmów.<br /><br />Zanim nagrasz film z rozgrywki, uruchom tryb reżyserski i wybierz z szerokiej gamy postaci z trybu fabularnego lub zwierząt, dostosuj opcje takie jak pogoda, pora dnia, miejsce, a nawet zastosuj oszustwa w stylu wybuchowych uderzeń.<br /><br />Tryb reżyserski znajdziesz poprzez menu pauzy, w zakładce edytora Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Director-Mode/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467861,"title":"","headline":"Consejo en línea","subtitle":"¿Buscas trabajo? ","content":"Consulta la lista de actividades de tu móvil o llama a uno de tus contactos para conseguir un trabajo. Cuantos más trabajos realices para ellos, más contactos nuevos conocerás y más ofertas de trabajo te surgirán. Sube de nivel y pronto te sacarás un buen dinero con todos estos empleos extra.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Need_a_Job/262272_NeedAJob.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Need_a_Job/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467861,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "¿Buscas trabajo? ",
+    "content": "Consulta la lista de actividades de tu móvil o llama a uno de tus contactos para conseguir un trabajo. Cuantos más trabajos realices para ellos, más contactos nuevos conocerás y más ofertas de trabajo te surgirán. Sube de nivel y pronto te sacarás un buen dinero con todos estos empleos extra.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Need_a_Job/262272_NeedAJob.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Need_a_Job/.dds",
+        "filesize": 2048
+    }
+}

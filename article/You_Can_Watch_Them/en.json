@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999847,"title":"","headline":"Online Tip","subtitle":"You Can Always Watch Them","content":"Los Santos is full of excitement and drama available for your viewing pleasure. Sit back, relax and watch your Friends on their own adventures via ‘Friend Spectate’ – simply highlight any friend in the Friends tab who is currently playing GTA Online and select ‘Spectate Player.’<br /><br />Enable or disable the option for allowing Friends to Spectate in the Online > Options menu.<br /><br />Remember, you can always watch them… though they will know.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds","filesize":262272},"landscape":{"path":"sc/news/You_Can_Watch_Them/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999847,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "You Can Always Watch Them",
+    "content": "Los Santos is full of excitement and drama available for your viewing pleasure. Sit back, relax and watch your Friends on their own adventures via ‘Friend Spectate’ – simply highlight any friend in the Friends tab who is currently playing GTA Online and select ‘Spectate Player.’<br /><br />Enable or disable the option for allowing Friends to Spectate in the Online > Options menu.<br /><br />Remember, you can always watch them… though they will know.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/You_Can_Watch_Them/.dds",
+        "filesize": 2048
+    }
+}

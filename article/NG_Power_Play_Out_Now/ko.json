@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527662,"title":"","headline":"GTA Online","subtitle":"파워 플레이","content":"파워 플레이에서 전투의 규칙을 바꿔버리세요. 이 새로운 대적 모드에서는 최후의 승리를 거머쥐기 위하여 자신과 아군을 특수 능력으로 강화하거나 상대를 방해하는 등 다양한 효과를 이용할 수 있습니다.<br />이 모드에서 이용할 수 있는 여섯 가지 아이템은 일시적인 효과를 내므로 적절한 타이밍에 사용해야 합니다. 각 플레이어는 한 번에 하나의 아이템만 사용할 수 있지만, 아군 팀원과 함께 아이템을 동시에 사용하면 전투를 더욱 유리하게 이끌어 나갈 수 있습니다.","url":"","image":{"path":"sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Power_Play_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527662,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "파워 플레이",
+    "content": "파워 플레이에서 전투의 규칙을 바꿔버리세요. 이 새로운 대적 모드에서는 최후의 승리를 거머쥐기 위하여 자신과 아군을 특수 능력으로 강화하거나 상대를 방해하는 등 다양한 효과를 이용할 수 있습니다.<br />이 모드에서 이용할 수 있는 여섯 가지 아이템은 일시적인 효과를 내므로 적절한 타이밍에 사용해야 합니다. 각 플레이어는 한 번에 하나의 아이템만 사용할 수 있지만, 아군 팀원과 함께 아이템을 동시에 사용하면 전투를 더욱 유리하게 이끌어 나갈 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Power_Play_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

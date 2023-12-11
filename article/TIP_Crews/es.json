@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470553,"title":"","headline":"Consejo en línea","subtitle":"Crews","content":"Encontrarás Crews activas abiertas en el sitio web del Social Club de Rockstar Games. Haz amigos y aliados nuevos y enfréntate a otras Crews. Mejora tu reputación y gana dinero completando actividades con una Crew. Si consigues subir el nivel de tu Crew, desbloquearás premios especiales. Puedes crear una Crew privada con tus amigos o jugar solo si no quieres entrar en una Crew.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Crews/262272_Crews.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Crews/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470553,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Crews",
+    "content": "Encontrarás Crews activas abiertas en el sitio web del Social Club de Rockstar Games. Haz amigos y aliados nuevos y enfréntate a otras Crews. Mejora tu reputación y gana dinero completando actividades con una Crew. Si consigues subir el nivel de tu Crew, desbloquearás premios especiales. Puedes crear una Crew privada con tus amigos o jugar solo si no quieres entrar en una Crew.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Crews/262272_Crews.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Crews/.dds",
+        "filesize": 2048
+    }
+}

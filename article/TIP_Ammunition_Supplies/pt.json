@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569645,"headline":"Dica online","subtitle":"Reservas de munição","content":"Se você estiver ficando sem munição, mas não quiser passar em uma Ammu-Nation, você pode recarregar no lobby antes de um Serviço.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569645,
+    "headline": "Dica online",
+    "subtitle": "Reservas de munição",
+    "content": "Se você estiver ficando sem munição, mas não quiser passar em uma Ammu-Nation, você pode recarregar no lobby antes de um Serviço.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

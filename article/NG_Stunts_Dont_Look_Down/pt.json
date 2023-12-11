@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324850,"title":"","headline":"GTA Online","subtitle":"Não olhe para baixo","content":"Experimente San Andreas de um ângulo totalmente novo com as Corridas Acrobáticas, agora disponíveis exclusivamente no GTA Online. Diferente de tudo que você já viu antes: pistas serpenteando no céu, saltos de arranha-céus, saltos em espiral com aceleração a uma altura de 6.000 metros. E isso é antes dos pinos de boliche gigantes e anéis de fogo.","url":"","image":{"path":"sc/news/NG_Stunts_Dont_Look_Down/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dont_Look_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324850,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Não olhe para baixo",
+    "content": "Experimente San Andreas de um ângulo totalmente novo com as Corridas Acrobáticas, agora disponíveis exclusivamente no GTA Online. Diferente de tudo que você já viu antes: pistas serpenteando no céu, saltos de arranha-céus, saltos em espiral com aceleração a uma altura de 6.000 metros. E isso é antes dos pinos de boliche gigantes e anéis de fogo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dont_Look_Down/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dont_Look_Down/.dds",
+        "filesize": 2048
+    }
+}

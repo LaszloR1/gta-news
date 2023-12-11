@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480010057,"title":"","headline":"GTA Online","subtitle":"브라바도 요우가","content":"산 안드레아스의 따끈따끈한 신상, 브라바도 요우가입니다. 많은 가능성을 지닌 소형 밴이죠. 은밀한 상품 운송 수단부터 이동식 모텔, 방음이 확실한 바퀴 달린 감옥까지... 이 조그만 녀석은 필요에 따라 뭐든지 될 수 있습니다.","url":"","image":{"path":"sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Youga/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480010057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "브라바도 요우가",
+    "content": "산 안드레아스의 따끈따끈한 신상, 브라바도 요우가입니다. 많은 가능성을 지닌 소형 밴이죠. 은밀한 상품 운송 수단부터 이동식 모텔, 방음이 확실한 바퀴 달린 감옥까지... 이 조그만 녀석은 필요에 따라 뭐든지 될 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Youga/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811016,"title":"","headline":"Online-Tipp","subtitle":"Schnellstart von Jobs","content":"Wenn du eine Einladung zu einem Job erhältst, kannst du sie einfach annehmen, indem du das Steuerkreuz nach oben gedrückt hältst. Du musst nicht erst dein Telefon rausholen und die Job-Liste öffnen.~n~~n~Wenn du die Karte im Pause-Menü geöffnet hast, kannst du jeden Job starten, indem du die entsprechende Markierung auf der Karte auswählst und anschließend ~INPUT_FRONTEND_X~ drückst.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811016,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Schnellstart von Jobs",
+    "content": "Wenn du eine Einladung zu einem Job erhältst, kannst du sie einfach annehmen, indem du das Steuerkreuz nach oben gedrückt hältst. Du musst nicht erst dein Telefon rausholen und die Job-Liste öffnen.~n~~n~Wenn du die Karte im Pause-Menü geöffnet hast, kannst du jeden Job starten, indem du die entsprechende Markierung auf der Karte auswählst und anschließend ~INPUT_FRONTEND_X~ drückst.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/.dds",
+        "filesize": 2048
+    }
+}

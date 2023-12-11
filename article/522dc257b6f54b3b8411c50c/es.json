@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686326174,"title":"Club de coches de Vinewood","headline":"Club de coches de Vinewood","subtitle":"La nueva incorporación a GTA+ abre el 13 de junio","content":"Presentamos el club de coches de Vinewood. Se trata de un lugar solo para socios y es la primera propuesta del club de Vinewood, un nuevo servicio prémium en Los Santos para miembros de GTA+ que dará comienzo el 13 de junio.<br /><br />Los miembros del club de Vinewood podrán acceder a una cuidada selección de vehículos peculiares para probarlos, solicitarlos en su ubicación para usarlos en modo Libre y comprarlos con una rebaja exclusiva del 20% o más.<br /><br />Más detalles en el Rockstar Newswire.","url":"","image":{"path":"sc/news/522dc257b6f54b3b8411c50c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686326174,
+    "title": "Club de coches de Vinewood",
+    "headline": "Club de coches de Vinewood",
+    "subtitle": "La nueva incorporación a GTA+ abre el 13 de junio",
+    "content": "Presentamos el club de coches de Vinewood. Se trata de un lugar solo para socios y es la primera propuesta del club de Vinewood, un nuevo servicio prémium en Los Santos para miembros de GTA+ que dará comienzo el 13 de junio.<br /><br />Los miembros del club de Vinewood podrán acceder a una cuidada selección de vehículos peculiares para probarlos, solicitarlos en su ubicación para usarlos en modo Libre y comprarlos con una rebaja exclusiva del 20% o más.<br /><br />Más detalles en el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/522dc257b6f54b3b8411c50c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

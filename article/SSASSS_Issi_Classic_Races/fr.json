@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1529425068,"title":"","headline":"GTA Online","subtitle":"Épreuves Issi classique","content":"C'est le spectacle le plus émouvant des courses de San Andreasµ: trente pilotes estropiés et très concentrés qui prennent place dans trente petites voitures britanniques classiques pour entrer quelques secondes plus tard dans l'Histoire. Dans ces nouvelles courses, on ne peut être sûr de rien, à part que le danger sera bravé, que les turbos seront chargés, que la mort sera défiée, que la victoire sera remportée et que les pantalons seront fréquemment changés. Prenez le volant.","url":"","image":{"path":"sc/news/SSASSS_Issi_Classic_Races/524416_Issi_Classic_Races.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1529425068,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Épreuves Issi classique",
+    "content": "C'est le spectacle le plus émouvant des courses de San Andreasµ: trente pilotes estropiés et très concentrés qui prennent place dans trente petites voitures britanniques classiques pour entrer quelques secondes plus tard dans l'Histoire. Dans ces nouvelles courses, on ne peut être sûr de rien, à part que le danger sera bravé, que les turbos seront chargés, que la mort sera défiée, que la victoire sera remportée et que les pantalons seront fréquemment changés. Prenez le volant.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Issi_Classic_Races/524416_Issi_Classic_Races.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

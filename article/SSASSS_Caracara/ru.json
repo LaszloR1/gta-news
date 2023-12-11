@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522771252,"title":"","headline":"GTA Online","subtitle":"Vapid Caracara","content":"Спросите любого ценителя грузовиков с оружием, и он подтвердит вам, что больше всегда значит лучше. А если вы хотите посмотреть, как он утирает слюну, просто шепните ему на ухо одно слово: Caracara. Отныне у чудовищно несоразмерной силы есть новое название.","url":"","image":{"path":"sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522771252,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Caracara",
+    "content": "Спросите любого ценителя грузовиков с оружием, и он подтвердит вам, что больше всегда значит лучше. А если вы хотите посмотреть, как он утирает слюну, просто шепните ему на ухо одно слово: Caracara. Отныне у чудовищно несоразмерной силы есть новое название.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

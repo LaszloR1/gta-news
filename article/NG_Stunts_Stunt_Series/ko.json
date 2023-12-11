@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324935,"title":"","headline":"GTA Online","subtitle":"스턴트 시리즈","content":"시간은 소중하죠. 특히 로스 산토스에서는요. 그래서 여러분처럼 아드레날린에 중독된 레이서들이 스턴트 레이스에 빠르게 참가할 수 있도록 준비해 놓았습니다. 레이더에 표시되는 분홍색 스턴트 레이스 표식에 주목하세요. 이중 한 곳에 들어가면 난장판의 소용돌이 속으로 곧장 뛰어들 수 있습니다.","url":"","image":{"path":"sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Stunt_Series/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324935,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "스턴트 시리즈",
+    "content": "시간은 소중하죠. 특히 로스 산토스에서는요. 그래서 여러분처럼 아드레날린에 중독된 레이서들이 스턴트 레이스에 빠르게 참가할 수 있도록 준비해 놓았습니다. 레이더에 표시되는 분홍색 스턴트 레이스 표식에 주목하세요. 이중 한 곳에 들어가면 난장판의 소용돌이 속으로 곧장 뛰어들 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/.dds",
+        "filesize": 2048
+    }
+}

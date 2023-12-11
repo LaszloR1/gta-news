@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349545,"title":"","headline":"GTA Online","subtitle":"好物共賞","content":"現在您可以完全掌控載具門，大肆炫耀個人載具的改裝汽缸組與講究的內裝等等。<br /><br />不管是在載具中或站在載具旁，您都可以從互動選單進入載具門選項，手動開啟或關閉載具上的門。快向大家炫耀新的引擎機體或是後車廂的改裝吧。<br /><br />您在車外時還可以打亮大燈，大聲播放自己最喜愛的廣播電台。","url":"","image":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349545,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "好物共賞",
+    "content": "現在您可以完全掌控載具門，大肆炫耀個人載具的改裝汽缸組與講究的內裝等等。<br /><br />不管是在載具中或站在載具旁，您都可以從互動選單進入載具門選項，手動開啟或關閉載具上的門。快向大家炫耀新的引擎機體或是後車廂的改裝吧。<br /><br />您在車外時還可以打亮大燈，大聲播放自己最喜愛的廣播電台。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349449,"title":"","headline":"GTA Online","subtitle":"Dernière place explosive","content":"Les derniers ne seront pas les premiers, mais bien les explosés dans cette variation frénétique des courses classiques : à intervalles réguliers, le joueur qui se trouve en dernière place explose et est éliminé de la course. L'hôte peut se servir de l'option ''Dernière place explosive'' dans n'importe quel salon de course et définir lui-même la durée entre chaque élimination pour ajouter un peu de piment à vos courses préférées.","url":"","image":{"path":"sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Destroy_Last_Place/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dernière place explosive",
+    "content": "Les derniers ne seront pas les premiers, mais bien les explosés dans cette variation frénétique des courses classiques : à intervalles réguliers, le joueur qui se trouve en dernière place explose et est éliminé de la course. L'hôte peut se servir de l'option ''Dernière place explosive'' dans n'importe quel salon de course et définir lui-même la durée entre chaque élimination pour ajouter un peu de piment à vos courses préférées.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Destroy_Last_Place/.dds",
+        "filesize": 2048
+    }
+}

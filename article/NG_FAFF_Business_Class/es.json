@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292575,"title":"","headline":"GTA Online","subtitle":"Clase preferente","content":"¿Te gusta lo brutalmente rápido, lo brutalmente eficiente o lo simplemente brutal? Sea cual sea tu respuesta, sin duda te gustará la última tanda de opciones de transporte de las tiendas de Los Santos. Encontrarás desde el monstruoso HVY Brickade de Warstock Cache and Carry hasta el superveloz Buckingham Nimbus de Elitas Travel. ¡Ir del punto A al punto B nunca había sido tan fabuloso!","url":"","image":{"path":"sc/news/NG_FAFF_Business_Class/262272_NG_Business_Class.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Business_Class/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292575,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Clase preferente",
+    "content": "¿Te gusta lo brutalmente rápido, lo brutalmente eficiente o lo simplemente brutal? Sea cual sea tu respuesta, sin duda te gustará la última tanda de opciones de transporte de las tiendas de Los Santos. Encontrarás desde el monstruoso HVY Brickade de Warstock Cache and Carry hasta el superveloz Buckingham Nimbus de Elitas Travel. ¡Ir del punto A al punto B nunca había sido tan fabuloso!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Business_Class/262272_NG_Business_Class.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Business_Class/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1449571592,"title":"","headline":"GTA Online","subtitle":"Naboje na wagę złota","content":"Chwytajcie swoje pistolety wyborowe, bo nadszedł czas postawić swoje jedyne życie na szali w pojedynku z innymi strzelcami w tym nowym, emocjonującym trybie adwersarza. W pistolecie są tylko 2 naboje, więc albo będziecie oszczędzać amunicję... albo zostanie wam tylko ostrze!","url":"","image":{"path":"sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Every_Bullet_Counts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1449571592,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Naboje na wagę złota",
+    "content": "Chwytajcie swoje pistolety wyborowe, bo nadszedł czas postawić swoje jedyne życie na szali w pojedynku z innymi strzelcami w tym nowym, emocjonującym trybie adwersarza. W pistolecie są tylko 2 naboje, więc albo będziecie oszczędzać amunicję... albo zostanie wam tylko ostrze!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Every_Bullet_Counts/.dds",
+        "filesize": 2048
+    }
+}

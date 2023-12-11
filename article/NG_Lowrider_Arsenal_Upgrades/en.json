@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349511,"title":"","headline":"GTA Online","subtitle":"Arsenal Upgrades","content":"Fresh arrivals just in at Ammu-Nation, including a rapid fire Machine Pistol and a devastating Machete that will have your enemies trembling in fear. While there, why not pick up a luxury weapon finish newly available for a selection of existing weapons such as the Special Carbine and Assault SMG?","url":"","image":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_Arsenal_Upgrades/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349511,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Arsenal Upgrades",
+    "content": "Fresh arrivals just in at Ammu-Nation, including a rapid fire Machine Pistol and a devastating Machete that will have your enemies trembling in fear. While there, why not pick up a luxury weapon finish newly available for a selection of existing weapons such as the Special Carbine and Assault SMG?",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/262272_Arsenal_Upgrades.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_Arsenal_Upgrades/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285760,"title":"GTA+","headline":"GTA+","subtitle":"Boni für Arena War","content":"Mitglieder bei GTA+ können sich bis zum 13.µSeptember in der Arenaserie doppelte GTA$, RP und Arenapunkte sichern.<br /><br />Die Mitgliedschaft bei GTA+ verlängert sich jeden Monat automatisch. Kündigung jederzeit möglich. Weitere Informationen unter rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_de_de.dds","filesize":262272},"button":"Auswählen, um GTA+ zu abonnieren."}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285760,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Boni für Arena War",
+    "content": "Mitglieder bei GTA+ können sich bis zum 13.µSeptember in der Arenaserie doppelte GTA$, RP und Arenapunkte sichern.<br /><br />Die Mitgliedschaft bei GTA+ verlängert sich jeden Monat automatisch. Kündigung jederzeit möglich. Weitere Informationen unter rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_de_de.dds",
+        "filesize": 262272
+    },
+    "button": "Auswählen, um GTA+ zu abonnieren."
+}

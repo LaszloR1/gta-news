@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349573,"title":"","headline":"GTA Online","subtitle":"追加の保管庫","content":"最大4件までアパートやガレージを所有可能になりました。街にベニーズ・オリジナルモーターワークスが新規開店した今こそ、新しいカスタムマシンの保管スペースを追加購入する絶好の機会です。","url":"","image":{"path":"sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Extra_Storage/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349573,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "追加の保管庫",
+    "content": "最大4件までアパートやガレージを所有可能になりました。街にベニーズ・オリジナルモーターワークスが新規開店した今こそ、新しいカスタムマシンの保管スペースを追加購入する絶好の機会です。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Extra_Storage/.dds",
+        "filesize": 2048
+    }
+}

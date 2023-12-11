@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511203,"title":"","headline":"GTA Online","subtitle":"デッドライン","content":"ロスサントスの住民が憧れる未来。それは超大作のSFから飛び出してきたようなバイクにまたがり、対戦相手をケシズミにしながら、振り落とされそうな想像を絶するスピードで夕暮れの都市を駆け抜けることです。未来は明るく、速く、危険な場所です！","url":"","image":{"path":"sc/news/NG_Bikers_Deadline/262272_Deadline.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Deadline/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511203,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "デッドライン",
+    "content": "ロスサントスの住民が憧れる未来。それは超大作のSFから飛び出してきたようなバイクにまたがり、対戦相手をケシズミにしながら、振り落とされそうな想像を絶するスピードで夕暮れの都市を駆け抜けることです。未来は明るく、速く、危険な場所です！",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Deadline/262272_Deadline.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Deadline/.dds",
+        "filesize": 2048
+    }
+}

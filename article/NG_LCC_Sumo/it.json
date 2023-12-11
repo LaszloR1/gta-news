@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044119,"title":"","headline":"GTA Online","subtitle":"Sumo","content":"Spingi, ammacca e schiva gli avversari in questa nuova modalità Competizione che vede le squadre scontrarsi con l'obiettivo di buttare i nemici fuori dall'arena. Dimensioni, velocità o maneggevolezza: scegli il veicolo che più si adatta alle tue necessità e cerca di rimanere l'unico all'interno dell'arena prima dello scadere del tempo.","url":"","image":{"path":"sc/news/NG_LCC_Sumo/262272_Sumo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Sumo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumo",
+    "content": "Spingi, ammacca e schiva gli avversari in questa nuova modalità Competizione che vede le squadre scontrarsi con l'obiettivo di buttare i nemici fuori dall'arena. Dimensioni, velocità o maneggevolezza: scegli il veicolo che più si adatta alle tue necessità e cerca di rimanere l'unico all'interno dell'arena prima dello scadere del tempo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Sumo/262272_Sumo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Sumo/.dds",
+        "filesize": 2048
+    }
+}

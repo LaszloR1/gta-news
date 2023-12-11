@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430365,"title":"","headline":"GTA Online","subtitle":"Bônus GTA Online da semana: Corrida Acrobática Premium (9 a 15 de setembro)","content":"A Corrida Acrobática Premium desta semana contém o popular ''Loop do centro'' e é preparada para o Banshee 900R. Como o nome diz, é uma série de voltas, parafusos e saltos no centro de Los Santos. Essa Corrida Acrobática Premium terá prêmios para os primeiros 3 finalistas e o triplo de RP para todos os participantes. Para entrar direto na ação, use o aplicativo Serviço Rápido ou visite o ícone amarelo de Corrida Premium na Legion Square.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430365,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bônus GTA Online da semana: Corrida Acrobática Premium (9 a 15 de setembro)",
+    "content": "A Corrida Acrobática Premium desta semana contém o popular ''Loop do centro'' e é preparada para o Banshee 900R. Como o nome diz, é uma série de voltas, parafusos e saltos no centro de Los Santos. Essa Corrida Acrobática Premium terá prêmios para os primeiros 3 finalistas e o triplo de RP para todos os participantes. Para entrar direto na ação, use o aplicativo Serviço Rápido ou visite o ícone amarelo de Corrida Premium na Legion Square.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/.dds",
+        "filesize": 2048
+    }
+}

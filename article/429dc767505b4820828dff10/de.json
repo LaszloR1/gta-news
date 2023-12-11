@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA Online","subtitle":"SO LEGST DU LOS","content":"Nimm Charlie Reeds Anruf entgegen und führe Aufträge mit den Los Santos Angels aus. Du brauchst eine Mammoth Avenger, um die neuen Missionen über das Avenger-Operationsterminal zu starten. Falls du noch keine Avenger besitzt, kannst du sie bei Warstock Cacheµ& Carry kaufen.<br /><br />Für neue Geschäftsmöglichkeiten kannst du dir das ''Free Trade Shipping Co.''-Terminal in deinem Hangar ansehen oder über Maze Bank Foreclosures einen Hangar kaufen, um Zugriff auf Schmuggelunternehmen zu erhalten.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SO LEGST DU LOS",
+    "content": "Nimm Charlie Reeds Anruf entgegen und führe Aufträge mit den Los Santos Angels aus. Du brauchst eine Mammoth Avenger, um die neuen Missionen über das Avenger-Operationsterminal zu starten. Falls du noch keine Avenger besitzt, kannst du sie bei Warstock Cacheµ& Carry kaufen.<br /><br />Für neue Geschäftsmöglichkeiten kannst du dir das ''Free Trade Shipping Co.''-Terminal in deinem Hangar ansehen oder über Maze Bank Foreclosures einen Hangar kaufen, um Zugriff auf Schmuggelunternehmen zu erhalten.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

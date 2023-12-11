@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430256,"title":"","headline":"GTA Online","subtitle":"이번 주의 GTA 온라인 보너스: 모든 요트, 부동산, 오피스 50% 할인(9월 9일 - 15일)","content":"일주일 동안, 독티즈에서 모든 갤럭시 슈퍼 요트와 모든 모델 업그레이드를 50% 할인 판매합니다. 크롬 도금, 색상 조합, 조명 등이 포함된 요트 개조도 25% 할인합니다.<br /><br />다이너스티 8에서는 모든 부동산 50% 할인은 물론 고급 아파트 인테리어도 25% 할인합니다. 또한 다이너스티 8 Executive에서는 업무용 부동산을 파격적인 가격에 제공하며, 모든 오피스를 50% 할인하고 모든 오피스 인테리어와 개조를 25% 할인 판매합니다.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Sales_9_9/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Sales_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430256,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "이번 주의 GTA 온라인 보너스: 모든 요트, 부동산, 오피스 50% 할인(9월 9일 - 15일)",
+    "content": "일주일 동안, 독티즈에서 모든 갤럭시 슈퍼 요트와 모든 모델 업그레이드를 50% 할인 판매합니다. 크롬 도금, 색상 조합, 조명 등이 포함된 요트 개조도 25% 할인합니다.<br /><br />다이너스티 8에서는 모든 부동산 50% 할인은 물론 고급 아파트 인테리어도 25% 할인합니다. 또한 다이너스티 8 Executive에서는 업무용 부동산을 파격적인 가격에 제공하며, 모든 오피스를 50% 할인하고 모든 오피스 인테리어와 개조를 25% 할인 판매합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Sales_9_9/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Sales_9_9/.dds",
+        "filesize": 2048
+    }
+}

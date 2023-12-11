@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979852,"title":"","headline":"GTA Online","subtitle":"Novos Modos de Adversários","content":"A Atualização de Golpes inclui novos modos de Adversário, em que pode participar de esportes sangrentos antes do próximo grande golpe. São desbloqueados no Nível 12.<br /><br />Mentalidade de Cerco – Proteja seu território a todo custo, com coragem, determinação e armas pesadas.<br />Hasta La Vista – Corra mais que os adversários que dirigem caminhões letais. Você não vai precisar de motor... né?<br />Vem Brincar – Uma equipe deve alcançar o seu destino a pé, enquanto os caçadores vão atrás deles.  ","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979852,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novos Modos de Adversários",
+    "content": "A Atualização de Golpes inclui novos modos de Adversário, em que pode participar de esportes sangrentos antes do próximo grande golpe. São desbloqueados no Nível 12.<br /><br />Mentalidade de Cerco – Proteja seu território a todo custo, com coragem, determinação e armas pesadas.<br />Hasta La Vista – Corra mais que os adversários que dirigem caminhões letais. Você não vai precisar de motor... né?<br />Vem Brincar – Uma equipe deve alcançar o seu destino a pé, enquanto os caçadores vão atrás deles.  ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

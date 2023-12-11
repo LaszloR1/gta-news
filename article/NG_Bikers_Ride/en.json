@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519932,"title":"","headline":"GTA Online","subtitle":"Ride","content":"You have the clothes, the Clubhouse, the boutique meth lab, the battle axe – but there’s only one thing that really makes you a biker. From the sheer, demented speed of the Hakuchou Drag to the off-road panache of the Manchez, a new wave of two-wheeled fury has something to suit every rider on every job.","url":"","image":{"path":"sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Ride/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519932,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ride",
+    "content": "You have the clothes, the Clubhouse, the boutique meth lab, the battle axe – but there’s only one thing that really makes you a biker. From the sheer, demented speed of the Hakuchou Drag to the off-road panache of the Manchez, a new wave of two-wheeled fury has something to suit every rider on every job.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Ride/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174950,"title":"","headline":"GTA Online","subtitle":"冷酷如鐵","content":"運用兩款新武器，為自己的組織贏得街頭霸權吧。拿起口徑大、效率高的重型左輪手槍，或者選擇低調而殘暴的近身攻擊彈簧刀。成為老大或保鏢，還可以取得這些全新武器的獨家款式。","url":"","image":{"path":"sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Cold_Steel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174950,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "冷酷如鐵",
+    "content": "運用兩款新武器，為自己的組織贏得街頭霸權吧。拿起口徑大、效率高的重型左輪手槍，或者選擇低調而殘暴的近身攻擊彈簧刀。成為老大或保鏢，還可以取得這些全新武器的獨家款式。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/.dds",
+        "filesize": 2048
+    }
+}

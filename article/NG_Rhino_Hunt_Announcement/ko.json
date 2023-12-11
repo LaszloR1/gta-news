@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1456487317,"title":"","headline":"GTA Online","subtitle":"라이노 사냥","content":"이동 수단을 전술적으로 이용하는 이 새로운 대적 모드에서는 점착 폭탄만으로 무장한 사냥꾼들이 라이노 탱크를 파괴하려는 무모한 도전에 몸을 던집니다. <br />수적으로 열세하지만 단단한 내구력과 화력을 지닌 라이노를 잘 활용하여 제한 시간이 끝날 때까지 사냥꾼들로부터 살아남으면 승리합니다.","url":"","image":{"path":"sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rhino_Hunt_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1456487317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "라이노 사냥",
+    "content": "이동 수단을 전술적으로 이용하는 이 새로운 대적 모드에서는 점착 폭탄만으로 무장한 사냥꾼들이 라이노 탱크를 파괴하려는 무모한 도전에 몸을 던집니다. <br />수적으로 열세하지만 단단한 내구력과 화력을 지닌 라이노를 잘 활용하여 제한 시간이 끝날 때까지 사냥꾼들로부터 살아남으면 승리합니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/.dds",
+        "filesize": 2048
+    }
+}

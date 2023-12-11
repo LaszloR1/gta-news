@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832178,"headline":"Suggerimento online","subtitle":"Problemi di streaming?","content":"Se mentre guidi in giro per Los Santos noti comportamenti bizzarri nell'ambiente circostante (come per esempio auto o oggetti che si spostano in modo innaturale), o sei di nuovo ubriaco oppure sei in una sessione con qualcuno che ha una connessione pessima o con problemi di rete. Se i problemi persistono, cambia sessione o evita di invitare l'utente responsabile. Oppure smetti di bere.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832178,
+    "headline": "Suggerimento online",
+    "subtitle": "Problemi di streaming?",
+    "content": "Se mentre guidi in giro per Los Santos noti comportamenti bizzarri nell'ambiente circostante (come per esempio auto o oggetti che si spostano in modo innaturale), o sei di nuovo ubriaco oppure sei in una sessione con qualcuno che ha una connessione pessima o con problemi di rete. Se i problemi persistono, cambia sessione o evita di invitare l'utente responsabile. Oppure smetti di bere.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

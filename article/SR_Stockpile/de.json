@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507049430,"title":"","headline":"GTA Online","subtitle":"Stockpile","content":"Bei der derzeitigen Wirtschaftslage kann der Kampf um begrenzte Ressourcen ganz schön fies sein. Kaum sind ein paar Kampfjets im Spiel, schon wird ''Jeder gegen jeden'' zum wärmesuchenden Luftkampf. Bis zu vier Teams in Flugzeugen kämpfen darum, am meisten Ladung aufzusammeln und zur Basis zu bringen und wie auf jedem nicht regulierten Markt lautet die Erfolgsformel Totschlag, Diebstahl und Täuschung. ","url":"","image":{"path":"sc/news/SR_Stockpile/349672_bigfeed-stockpile-512x1024.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507049430,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stockpile",
+    "content": "Bei der derzeitigen Wirtschaftslage kann der Kampf um begrenzte Ressourcen ganz schön fies sein. Kaum sind ein paar Kampfjets im Spiel, schon wird ''Jeder gegen jeden'' zum wärmesuchenden Luftkampf. Bis zu vier Teams in Flugzeugen kämpfen darum, am meisten Ladung aufzusammeln und zur Basis zu bringen und wie auf jedem nicht regulierten Markt lautet die Erfolgsformel Totschlag, Diebstahl und Täuschung. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Stockpile/349672_bigfeed-stockpile-512x1024.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

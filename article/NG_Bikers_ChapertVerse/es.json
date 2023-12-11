@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515530,"title":"","headline":"GTA Online","subtitle":"La ley de la carretera","content":"Adquiere una sede para convertirte en el fundador y presidente de un club de moteros con lugar hasta para siete reclutas. Los clubes de moteros ofrecen un montón de oportunidades y cometidos especiales: ¿Quién será tu vicepresidente? ¿Y tu matón? Cooperad, y vuestra hermandad de moteros será imparable.","url":"","image":{"path":"sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChapertVerse/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515530,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La ley de la carretera",
+    "content": "Adquiere una sede para convertirte en el fundador y presidente de un club de moteros con lugar hasta para siete reclutas. Los clubes de moteros ofrecen un montón de oportunidades y cometidos especiales: ¿Quién será tu vicepresidente? ¿Y tu matón? Cooperad, y vuestra hermandad de moteros será imparable.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543617,"title":"","headline":"GTA Online","subtitle":"Pisa fuerte","content":"No importa si deseas velocidad, elegancia o la última obra maestra del taller de Benny; tu nuevo coche acaba de llegar a la ciudad, y al añadir el taller privado a tu oficina de ejecutivo, podrás modificar y mejorar tus vehículos para crear versiones personalizadas aquí mismo, a dos pasos de tu habitación del pánico. Si buscas algo más atrevido, echa un vistazo a los nuevos ejemplos de decadencia y barbarie vehicular que acaban de llegar a Warstock Cache and Carry.","url":"","image":{"path":"sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Jet_Fuel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543617,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pisa fuerte",
+    "content": "No importa si deseas velocidad, elegancia o la última obra maestra del taller de Benny; tu nuevo coche acaba de llegar a la ciudad, y al añadir el taller privado a tu oficina de ejecutivo, podrás modificar y mejorar tus vehículos para crear versiones personalizadas aquí mismo, a dos pasos de tu habitación del pánico. Si buscas algo más atrevido, echa un vistazo a los nuevos ejemplos de decadencia y barbarie vehicular que acaban de llegar a Warstock Cache and Carry.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Jet_Fuel/.dds",
+        "filesize": 2048
+    }
+}

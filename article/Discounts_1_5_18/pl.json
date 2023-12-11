@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525254476,"title":"","headline":"GTA Online","subtitle":"Zniżki na pojazdy specjalne","content":"Abyście mogli zaklepać sobie miejsce w panteonie sław wyścigów podniebnych, podwodnych i odrzutowych, Warstock Cache & Carry oferuje 25% zniżki na wybrane pojazdy specjalne.<br /><br />Mammoth Thruster – zniżka 25%<br />Imponte Deluxo – zniżka 25%<br />Ocelot Stromberg – zniżka 25%<br />Ruiner 2000 – zniżka 25%<br />Rocket Voltic – zniżka 25%<br />Blazer Aqua – zniżka 25%<br /><br />Po więcej informacji zajrzyjcie na stronę Rockstar Newswire.","url":"","image":{"path":"sc/news/Discounts_1_5_18/349672_Thruster.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525254476,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zniżki na pojazdy specjalne",
+    "content": "Abyście mogli zaklepać sobie miejsce w panteonie sław wyścigów podniebnych, podwodnych i odrzutowych, Warstock Cache & Carry oferuje 25% zniżki na wybrane pojazdy specjalne.<br /><br />Mammoth Thruster – zniżka 25%<br />Imponte Deluxo – zniżka 25%<br />Ocelot Stromberg – zniżka 25%<br />Ruiner 2000 – zniżka 25%<br />Rocket Voltic – zniżka 25%<br />Blazer Aqua – zniżka 25%<br /><br />Po więcej informacji zajrzyjcie na stronę Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_1_5_18/349672_Thruster.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

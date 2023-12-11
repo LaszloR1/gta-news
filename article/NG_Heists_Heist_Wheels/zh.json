@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978550,"title":"","headline":"GTA Online","subtitle":"搶劫任務載具","content":"這次搶劫任務內容更新中的一部分，就是我們推出種類繁多的全新載具，讓您可以盡情揮霍自己的 GTA 遊戲幣。以下是目前開放的載具種類：<br />- 丁卡恩迪羅——全新的越野機車，保證讓看您尾燈的人吃土。<br />- 威皮守護者——外型強悍的 4 輪傳動 4 人座怪獸，讓敵人一看到就嚇得屁滾尿流。<br /><br />另外還會有更多的載具，將在您進行搶劫任務期間需要時逐一解鎖。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Heist_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978550,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "搶劫任務載具",
+    "content": "這次搶劫任務內容更新中的一部分，就是我們推出種類繁多的全新載具，讓您可以盡情揮霍自己的 GTA 遊戲幣。以下是目前開放的載具種類：<br />- 丁卡恩迪羅——全新的越野機車，保證讓看您尾燈的人吃土。<br />- 威皮守護者——外型強悍的 4 輪傳動 4 人座怪獸，讓敵人一看到就嚇得屁滾尿流。<br /><br />另外還會有更多的載具，將在您進行搶劫任務期間需要時逐一解鎖。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/.dds",
+        "filesize": 2048
+    }
+}

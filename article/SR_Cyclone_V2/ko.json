@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1510680628,"title":"","headline":"GTA Online","subtitle":"사이클론","content":"자동차가 전기로 달린다고 하면, 출력이 약하고 환경에 민감한 척하는 사람들이나 타는 차라고 생각하셨겠죠. 과연 그럴까요? 이번에 등장한 코일 사이클론을 보면 여러분의 마음이 1000볼트 전기에 감전되는 것보다 빠르게 바뀔 겁니다. 저희를 믿고 가속 페달을 밟아 보세요. 백 마디 말보다 행동이 중요한 법이니까요.","url":"","image":{"path":"sc/news/SR_Cyclone_V2/262272_Cyclone.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1510680628,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "사이클론",
+    "content": "자동차가 전기로 달린다고 하면, 출력이 약하고 환경에 민감한 척하는 사람들이나 타는 차라고 생각하셨겠죠. 과연 그럴까요? 이번에 등장한 코일 사이클론을 보면 여러분의 마음이 1000볼트 전기에 감전되는 것보다 빠르게 바뀔 겁니다. 저희를 믿고 가속 페달을 밟아 보세요. 백 마디 말보다 행동이 중요한 법이니까요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cyclone_V2/262272_Cyclone.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

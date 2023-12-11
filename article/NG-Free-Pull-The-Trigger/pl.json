@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314255,"title":"","headline":"GTA Online","subtitle":"Wyzwalacze","content":"Rozsiane po mapie wyzwalacze akcji włączane są teraz ręcznie poprzez naciśnięcie ~INPUT_CONTEXT~. Pozwala to przejść przez wyzwalacze bez uruchamiania akcji, co ułatwia gonienie za ruchomym celem bądź ucieczkę z gorącym towarem. Jeśli chcecie zupełnie ukryć wyzwalacze, wybierzcie odpowiednie ustawienia w oknie „Ukryj opcje” menu interakcji.","url":"","image":{"path":"sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Pull-The-Trigger/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314255,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wyzwalacze",
+    "content": "Rozsiane po mapie wyzwalacze akcji włączane są teraz ręcznie poprzez naciśnięcie ~INPUT_CONTEXT~. Pozwala to przejść przez wyzwalacze bez uruchamiania akcji, co ułatwia gonienie za ruchomym celem bądź ucieczkę z gorącym towarem. Jeśli chcecie zupełnie ukryć wyzwalacze, wybierzcie odpowiednie ustawienia w oknie „Ukryj opcje” menu interakcji.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/.dds",
+        "filesize": 2048
+    }
+}

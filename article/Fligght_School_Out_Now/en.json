@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1408447172,"headline":"GTA Online Update","subtitle":"San Andreas Flight School Update Now Available","content":"Enjoy the thrill and exhilaration of being a patriotic hero with the San Andreas Flight School Update.<br /><br />Master absolute air superiority in 10 new solo missions that will make you comfortable in any pilot’s danger zone. Head to Los Santos International Airport to enroll.<br /><br />Then spend your shore leave in a collection of new air and land vehicles, including the Western Besra training jet, the luxury Swift helo, the 16-seater Buckingham Miljet and the shapely Invetero Coquette Classic sports car.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1408447172,
+    "headline": "GTA Online Update",
+    "subtitle": "San Andreas Flight School Update Now Available",
+    "content": "Enjoy the thrill and exhilaration of being a patriotic hero with the San Andreas Flight School Update.<br /><br />Master absolute air superiority in 10 new solo missions that will make you comfortable in any pilot’s danger zone. Head to Los Santos International Airport to enroll.<br /><br />Then spend your shore leave in a collection of new air and land vehicles, including the Western Besra training jet, the luxury Swift helo, the 16-seater Buckingham Miljet and the shapely Invetero Coquette Classic sports car.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314656,"title":"","headline":"GTA Online","subtitle":"Представляем редактор Rockstar","content":"Записывайте и редактируйте видеоролики из Grand Theft Auto V и Grand Theft Auto Online с помощью редактора Rockstar, затем делитесь ими с друзьями в YouTube и Social Club.<br /><br />Чтобы получить доступ к режиму режиссера, пройдите до конца задание «Франклин и Ламар». Записывайте клипы вручную или в режиме повтора, затем входите в режим редактора через меню паузы и создавайте полноценный видеоролик из записанных вами игровых клипов.","url":"","image":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Представляем редактор Rockstar",
+    "content": "Записывайте и редактируйте видеоролики из Grand Theft Auto V и Grand Theft Auto Online с помощью редактора Rockstar, затем делитесь ими с друзьями в YouTube и Social Club.<br /><br />Чтобы получить доступ к режиму режиссера, пройдите до конца задание «Франклин и Ламар». Записывайте клипы вручную или в режиме повтора, затем входите в режим редактора через меню паузы и создавайте полноценный видеоролик из записанных вами игровых клипов.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds",
+        "filesize": 2048
+    }
+}

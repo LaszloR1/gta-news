@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699542340,"title":"GTA+","headline":"GTA+","subtitle":"欧斯洛放逐者","content":"GTA+µ会员可以免费领取欧斯洛放逐者，截至µ12µ月µ11µ日。这是一辆高贵的跑车，拥有定制三件套西装般的流畅线条、奢华腕表般的精致设计，以及冰镇脏马天尼般的潇洒魅力。<br /><br />GTA+µ会员每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解更多信息。<br />","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/ced72834ffe7408b8a4eda43/262272_GTAP_MP20_Lead_OcelotPariah_FINAL_BigFeed_zh_hans.dds","filesize":262272},"button":"选择以注册µGTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699542340,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "欧斯洛放逐者",
+    "content": "GTA+µ会员可以免费领取欧斯洛放逐者，截至µ12µ月µ11µ日。这是一辆高贵的跑车，拥有定制三件套西装般的流畅线条、奢华腕表般的精致设计，以及冰镇脏马天尼般的潇洒魅力。<br /><br />GTA+µ会员每月自动续订，可随时取消。前往µrsg.ms/gtaplusµ了解更多信息。<br />",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ced72834ffe7408b8a4eda43/262272_GTAP_MP20_Lead_OcelotPariah_FINAL_BigFeed_zh_hans.dds",
+        "filesize": 262272
+    },
+    "button": "选择以注册µGTA+"
+}

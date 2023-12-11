@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978984,"title":"","headline":"GTA Online","subtitle":"Warstock Cache and Carry atualizada","content":"A Warstock Cache and Carry atualizou o seu estoque para incluir o Canis Mesa devido à demanda popular.<br /><br />Conforme você encontrar novos veículos durante os Golpes, eles serão disponibilizados para compra, então continue olhando o estoque em Warstock-cache-and-carry.com","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Warstock_Cache/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Warstock Cache and Carry atualizada",
+    "content": "A Warstock Cache and Carry atualizou o seu estoque para incluir o Canis Mesa devido à demanda popular.<br /><br />Conforme você encontrar novos veículos durante os Golpes, eles serão disponibilizados para compra, então continue olhando o estoque em Warstock-cache-and-carry.com",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/.dds",
+        "filesize": 2048
+    }
+}

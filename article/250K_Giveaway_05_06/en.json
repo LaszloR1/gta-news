@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223113,"title":"","headline":"GTA Online","subtitle":"GTA$250,000 in GTA Online","content":"The world’s game is nearly upon us. <br /><br />Log in to GTA Online any time between now and June 11th to register for a special celebratory GTA$ Cash Giveaway, then return after June 14th to receive GTA$250,000 in bonus cash. All GTA$ will arrive in your Maze Bank account no later than June 18th.","url":"","image":{"path":"sc/news/250K_Giveaway_05_06/349672_GTAO-footie.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223113,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA$250,000 in GTA Online",
+    "content": "The world’s game is nearly upon us. <br /><br />Log in to GTA Online any time between now and June 11th to register for a special celebratory GTA$ Cash Giveaway, then return after June 14th to receive GTA$250,000 in bonus cash. All GTA$ will arrive in your Maze Bank account no later than June 18th.",
+    "url": "",
+    "image": {
+        "path": "sc/news/250K_Giveaway_05_06/349672_GTAO-footie.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

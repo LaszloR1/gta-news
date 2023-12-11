@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467022,"title":"","headline":"Astuce en ligne","subtitle":"Lester Crest","content":"Vous voulez mettre la tête de quelqu'un à prix ou annuler un indice de recherche avec un petit pot-de-vin ? Vous avez besoin d'anonymat pour vous rapprocher de quelqu'un ou simplement d'un moyen de transport ? Passez un coup de fil à Lester. Il se sent si seul, ça lui fera plaisir.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Lester_Crest/262272_LesterCrest.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Lester_Crest/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467022,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Lester Crest",
+    "content": "Vous voulez mettre la tête de quelqu'un à prix ou annuler un indice de recherche avec un petit pot-de-vin ? Vous avez besoin d'anonymat pour vous rapprocher de quelqu'un ou simplement d'un moyen de transport ? Passez un coup de fil à Lester. Il se sent si seul, ça lui fera plaisir.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Lester_Crest/262272_LesterCrest.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Lester_Crest/.dds",
+        "filesize": 2048
+    }
+}

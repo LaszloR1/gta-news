@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635617,"title":"Guest List Benefits","headline":"Guest List Benefits","subtitle":"You’re on the list!","content":"Your exclusive weekly Guest List Rewards are now available:<br /><br />- Cash Gift of GTA$100,000<br />- Technologie Tee<br />- Free HVY Nightshark armored vehicle<br />- Free Übermacht Revolter weaponizable Sports Car<br />- Exclusive “Pink & Camo” and “Sessanta Nova Multi-Color” liveries for the Nightshark and the Revolter<br /><br />Thank you for joining the Guest List. Stay tuned to the Rockstar Newswire for more exclusive events coming to Los Santos.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_ENG.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635617,
+    "title": "Guest List Benefits",
+    "headline": "Guest List Benefits",
+    "subtitle": "You’re on the list!",
+    "content": "Your exclusive weekly Guest List Rewards are now available:<br /><br />- Cash Gift of GTA$100,000<br />- Technologie Tee<br />- Free HVY Nightshark armored vehicle<br />- Free Übermacht Revolter weaponizable Sports Car<br />- Exclusive “Pink & Camo” and “Sessanta Nova Multi-Color” liveries for the Nightshark and the Revolter<br /><br />Thank you for joining the Guest List. Stay tuned to the Rockstar Newswire for more exclusive events coming to Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_ENG.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

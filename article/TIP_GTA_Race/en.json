@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469746,"headline":"Online Tip","subtitle":"GTA Race","content":"If you like racing but also love cheating, try a GTA Race. The pickups will help you deal with anyone with the cheek to try and beat you.<br /><br />Turn any Race in to a GTA Race or Team GTA Race via the options in any Race lobby.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469746,
+    "headline": "Online Tip",
+    "subtitle": "GTA Race",
+    "content": "If you like racing but also love cheating, try a GTA Race. The pickups will help you deal with anyone with the cheek to try and beat you.<br /><br />Turn any Race in to a GTA Race or Team GTA Race via the options in any Race lobby.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

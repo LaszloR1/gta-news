@@ -1,1 +1,13 @@
-{"types":["transition"],"date":1408453306,"headline":"GTA 線上模式更新","content":"準備好迎接飛行學校包中新增的全新對戰模式：<br /><br />- 取得目標 – 守住旗幟 20 秒，即可為團隊取得一分，得分最高的隊伍即獲勝。全場只有一面旗幟。<br />- 空軍零號 – 空軍零號要在防守組的協助之下逃脫，而進攻隊伍則要在空軍零號抵達目的地前將他殺死。<br />- G 級 (火熱/冷酷) – 這是一場與時間和對手賽跑的競速，您必須盡快搶先奪得旗幟。在「火熱」模式中，玩家可以使用武器。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/New_Versus_Modes/65664_VersusMode.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408453306,
+    "headline": "GTA 線上模式更新",
+    "content": "準備好迎接飛行學校包中新增的全新對戰模式：<br /><br />- 取得目標 – 守住旗幟 20 秒，即可為團隊取得一分，得分最高的隊伍即獲勝。全場只有一面旗幟。<br />- 空軍零號 – 空軍零號要在防守組的協助之下逃脫，而進攻隊伍則要在空軍零號抵達目的地前將他殺死。<br />- G 級 (火熱/冷酷) – 這是一場與時間和對手賽跑的競速，您必須盡快搶先奪得旗幟。在「火熱」模式中，玩家可以使用武器。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/New_Versus_Modes/65664_VersusMode.dds",
+        "filesize": 65664
+    }
+}

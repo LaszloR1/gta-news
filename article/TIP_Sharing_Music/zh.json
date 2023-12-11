@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394811298,"headline":"線上小訣竅","subtitle":"分享音樂","content":"如果喜歡電台正在播放的歌曲，只要開啟廣播撥盤，然後使用 ~INPUT_FRONTEND_X~，就可以在 Social Club 上與大家分享這首歌曲。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Sharing_Music/65664_Sharing_Music.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811298,
+    "headline": "線上小訣竅",
+    "subtitle": "分享音樂",
+    "content": "如果喜歡電台正在播放的歌曲，只要開啟廣播撥盤，然後使用 ~INPUT_FRONTEND_X~，就可以在 Social Club 上與大家分享這首歌曲。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Sharing_Music/65664_Sharing_Music.dds",
+        "filesize": 65664
+    }
+}

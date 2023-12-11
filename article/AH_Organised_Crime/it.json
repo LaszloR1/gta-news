@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455336,"title":"","headline":"GTA Online","subtitle":"Criminalità ben organizzata","content":"Il magazzino centrale del tuo nuovo night club porta i tuoi affari a un livello superiore: potrai ottenere profitti aggiuntivi da ogni tua altra impresa, dall'hangar al laboratorio di metanfetamina. Per espandere la tua rete criminale, dovrai comunque rimboccarti le maniche e lavorare alla vecchia maniera, acquisendo proprietà ed espandendo il tuo giro d'affari. Dopodiché, la tua squadra di tecnici sfrutterà il nuovo flusso d'introiti mentre tu ti rilassi nell'area VIP, di sopra.","url":"","image":{"path":"sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455336,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Criminalità ben organizzata",
+    "content": "Il magazzino centrale del tuo nuovo night club porta i tuoi affari a un livello superiore: potrai ottenere profitti aggiuntivi da ogni tua altra impresa, dall'hangar al laboratorio di metanfetamina. Per espandere la tua rete criminale, dovrai comunque rimboccarti le maniche e lavorare alla vecchia maniera, acquisendo proprietà ed espandendo il tuo giro d'affari. Dopodiché, la tua squadra di tecnici sfrutterà il nuovo flusso d'introiti mentre tu ti rilassi nell'area VIP, di sopra.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

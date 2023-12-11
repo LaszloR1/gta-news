@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1670961392,"title":"","headline":"GTAオンライン","subtitle":"レイトレース・リフレクション","content":"「GTAµV」と「GTAオンライン」の効率的なレイトレース・リフレクションをサポートするため、変更と最適化が行われました。レイトレース・リフレクションは忠実度重視モードからすべての反射面、屋内、屋外に適用できます。","url":"","image":{"path":"sc/news/a923c8bf2f93473d96838d34/262272_GTAO_LSDW_Ray_Traced_Reflections_FINAL_BigFeedcopy_V3.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1670961392,
+    "title": "",
+    "headline": "GTAオンライン",
+    "subtitle": "レイトレース・リフレクション",
+    "content": "「GTAµV」と「GTAオンライン」の効率的なレイトレース・リフレクションをサポートするため、変更と最適化が行われました。レイトレース・リフレクションは忠実度重視モードからすべての反射面、屋内、屋外に適用できます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/a923c8bf2f93473d96838d34/262272_GTAO_LSDW_Ray_Traced_Reflections_FINAL_BigFeedcopy_V3.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455482,"title":"","headline":"GTA Online","subtitle":"Vente en gros ou au détail","content":"Certes, ça fait des dépenses, mais vous allez adorer rassembler vos affaires illégales, vos franchises illicites, vos usines cachées et vos fermes louches sous le même toit. Depuis votre nouvel entrepôt, vous pouvez vendre tous vos différents biens en masse, ou microgérer vos stratégies pour chaque type de bien. Et faites attention aux acheteurs spéciauxµ: ces clients exclusifs sont pointilleux, mais ils ont de l'argent.","url":"","image":{"path":"sc/news/AH_Sell/349672_Big_Feed_Only_Sell_Missions.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vente en gros ou au détail",
+    "content": "Certes, ça fait des dépenses, mais vous allez adorer rassembler vos affaires illégales, vos franchises illicites, vos usines cachées et vos fermes louches sous le même toit. Depuis votre nouvel entrepôt, vous pouvez vendre tous vos différents biens en masse, ou microgérer vos stratégies pour chaque type de bien. Et faites attention aux acheteurs spéciauxµ: ces clients exclusifs sont pointilleux, mais ils ont de l'argent.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Sell/349672_Big_Feed_Only_Sell_Missions.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

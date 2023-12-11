@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1638466048,"title":"","headline":"GTA Online","subtitle":"Pojazd na podium w tym tygodniu: Mammoth Squaddie","content":"Odwiedź Diamond Casino & Resort i zakręć kołem fortuny, żeby wygrać GTA$, RP, ubrania, przekąski i przeróżne tajemnicze nagrody. Nagrodą główną jest Mammoth Squaddie, czyli bezpretensjonalny pojazd wojskowy zaprojektowany pod kątem zastosowania cywilnego. Fryzura na żołnierza nie jest obowiązkowa, choć zalecana.","url":"","image":{"path":"sc/news/b2a5da5ea90149a48a6ed1c7/349672_podium_wheel1.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1638466048,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pojazd na podium w tym tygodniu: Mammoth Squaddie",
+    "content": "Odwiedź Diamond Casino & Resort i zakręć kołem fortuny, żeby wygrać GTA$, RP, ubrania, przekąski i przeróżne tajemnicze nagrody. Nagrodą główną jest Mammoth Squaddie, czyli bezpretensjonalny pojazd wojskowy zaprojektowany pod kątem zastosowania cywilnego. Fryzura na żołnierza nie jest obowiązkowa, choć zalecana.",
+    "url": "",
+    "image": {
+        "path": "sc/news/b2a5da5ea90149a48a6ed1c7/349672_podium_wheel1.dds",
+        "filesize": 349672
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223899,"title":"","headline":"GTA Online","subtitle":"Saca pecho","content":"En el menú Interacción hay una nueva característica que te permite cambiar el estilo con el que camina el personaje. Hay varias opciones entre las que elegir, así que busca la que más se adecue a ti, ya prefieras pasear elegantemente o pavoneándote.<br /><br />Encuentra la opción Forma de andar al lado del Humor del jugador, en el menú Interacción.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Strut_Your_Stuff/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223899,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Saca pecho",
+    "content": "En el menú Interacción hay una nueva característica que te permite cambiar el estilo con el que camina el personaje. Hay varias opciones entre las que elegir, así que busca la que más se adecue a ti, ya prefieras pasear elegantemente o pavoneándote.<br /><br />Encuentra la opción Forma de andar al lado del Humor del jugador, en el menú Interacción.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Strut_Your_Stuff/.dds",
+        "filesize": 2048
+    }
+}

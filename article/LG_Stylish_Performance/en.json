@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433953265,"title":"","headline":"GTA Online","subtitle":"Stylish Performance","content":"Visit Legendarymotorsport.net today to see the latest stock of eye-catching vehicles, including one of the most beautiful supercars to ever grace the streets of Los Santos: the Pegassi Osiris.<br /><br />Also in stock is the new Enus Windsor, with a variety of exclusive, striking liveries.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Stylish_Performance/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433953265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stylish Performance",
+    "content": "Visit Legendarymotorsport.net today to see the latest stock of eye-catching vehicles, including one of the most beautiful supercars to ever grace the streets of Los Santos: the Pegassi Osiris.<br /><br />Also in stock is the new Enus Windsor, with a variety of exclusive, striking liveries.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Stylish_Performance/.dds",
+        "filesize": 2048
+    }
+}

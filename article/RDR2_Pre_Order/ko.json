@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528133240,"title":"Red Dead Redemption 2","headline":"Red Dead Redemption 2","subtitle":"디지털 예약 구매 시 보너스 GTA 달러 획득","content":"모든 Red Dead Redemption 2 예약 구매 제품에는 Red Dead Redemption 2 스토리 모드용 전투마, 무법자 생존 도구가 포함됩니다. 그리고 디지털 예약 구매 시에는 Grand Theft Auto 온라인에서 즉시 사용 가능한 보너스 GTA 달러 등의 추가 보상이 제공됩니다.<br /> <br />자세한 내용 및 스페셜 에디션에 포함된 특별 한정 Red Dead Redemption 2 스토리 모드 콘텐츠와 얼티밋 에디션의 보너스 온라인 콘텐츠 등에 관한 추가 정보를 보려면 Rockstar 뉴스와이어를 확인해 주십시오.","url":"","image":{"path":"sc/news/RDR2_Pre_Order/349672_bigfeed-rdr2.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528133240,
+    "title": "Red Dead Redemption 2",
+    "headline": "Red Dead Redemption 2",
+    "subtitle": "디지털 예약 구매 시 보너스 GTA 달러 획득",
+    "content": "모든 Red Dead Redemption 2 예약 구매 제품에는 Red Dead Redemption 2 스토리 모드용 전투마, 무법자 생존 도구가 포함됩니다. 그리고 디지털 예약 구매 시에는 Grand Theft Auto 온라인에서 즉시 사용 가능한 보너스 GTA 달러 등의 추가 보상이 제공됩니다.<br /> <br />자세한 내용 및 스페셜 에디션에 포함된 특별 한정 Red Dead Redemption 2 스토리 모드 콘텐츠와 얼티밋 에디션의 보너스 온라인 콘텐츠 등에 관한 추가 정보를 보려면 Rockstar 뉴스와이어를 확인해 주십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_Pre_Order/349672_bigfeed-rdr2.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

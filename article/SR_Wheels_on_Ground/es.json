@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999992,"title":"","headline":"GTA Online","subtitle":"Toca tierra","content":"Puede que tengas la cabeza en las nubes, pero eso no significa que hayas olvidado el olor a neumático quemado. Quizá sea la seductora elegancia del Vapid Retinue o la genialidad del Grotti Visione, destructor de la capa de ozono; pero siempre hay algo nuevo en la ciudad que te recuerda que no hay nada como la carretera, por muchas millas de vuelo que acumules. ","url":"","image":{"path":"sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999992,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Toca tierra",
+    "content": "Puede que tengas la cabeza en las nubes, pero eso no significa que hayas olvidado el olor a neumático quemado. Quizá sea la seductora elegancia del Vapid Retinue o la genialidad del Grotti Visione, destructor de la capa de ozono; pero siempre hay algo nuevo en la ciudad que te recuerda que no hay nada como la carretera, por muchas millas de vuelo que acumules. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

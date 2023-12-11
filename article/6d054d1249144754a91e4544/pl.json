@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTA Online","subtitle":"ALPHA BRAVO CHARLIE DELTA","content":"Do wszystkich renegatów, mącicieli i agitatorów. Co zrobić, gdy prywatna armia finansowana przez rząd zaczyna rozrabiać? Narozrabiać bardziej.<br /><br />Oto Anioły Los Santos, doborowy oddział tajnych i nieustraszonych wywrotowców, którzy rzucą wyzwanie Merryweather Security. Ekipa ma Charliego Reeda, a Charlie ma plan. Teraz potrzebują tylko zdolnego i zuchwałego operatora, który rzuci się w wir walki, ale podobno mają już twój numer.<br /><br />Walcz z Merryweather w Operacji: Przewrót — już dostępna.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/6d054d1249144754a91e4544/262272_GTAO_SummerTULaunch_ProjectOverthrow_wLogo_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ALPHA BRAVO CHARLIE DELTA",
+    "content": "Do wszystkich renegatów, mącicieli i agitatorów. Co zrobić, gdy prywatna armia finansowana przez rząd zaczyna rozrabiać? Narozrabiać bardziej.<br /><br />Oto Anioły Los Santos, doborowy oddział tajnych i nieustraszonych wywrotowców, którzy rzucą wyzwanie Merryweather Security. Ekipa ma Charliego Reeda, a Charlie ma plan. Teraz potrzebują tylko zdolnego i zuchwałego operatora, który rzuci się w wir walki, ale podobno mają już twój numer.<br /><br />Walcz z Merryweather w Operacji: Przewrót — już dostępna.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/6d054d1249144754a91e4544/262272_GTAO_SummerTULaunch_ProjectOverthrow_wLogo_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

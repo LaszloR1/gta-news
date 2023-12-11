@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978983,"title":"","headline":"GTA Online","subtitle":"Nouvelles offres chez Warstock Cache and Carry","content":"À la demande générale, Warstock Cache and Carry a ajouté la Canis Mesa à son catalogue.<br /><br />Les nouveaux véhicules que vous découvrirez au cours de vos braquages seront mis en vente sur Warstock-cache-and-carry.com, alors n'oubliez pas de consulter régulièrement leur site.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Warstock_Cache/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978983,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouvelles offres chez Warstock Cache and Carry",
+    "content": "À la demande générale, Warstock Cache and Carry a ajouté la Canis Mesa à son catalogue.<br /><br />Les nouveaux véhicules que vous découvrirez au cours de vos braquages seront mis en vente sur Warstock-cache-and-carry.com, alors n'oubliez pas de consulter régulièrement leur site.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/.dds",
+        "filesize": 2048
+    }
+}

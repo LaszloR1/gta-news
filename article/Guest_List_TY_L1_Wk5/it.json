@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635617,"title":"Benefici della Guest List","headline":"Benefici della Guest List","subtitle":"Sei in Lista!","content":"Le tue ricompense settimanali esclusive della Guest List sono disponibili:<br /><br />- 100.000 GTA$ omaggio<br />- Maglia Technologie<br />- Veicolo blindato HVY Nightshark gratuito<br />- Auto sportiva armabile Übermacht Revolter gratuita<br />- Le livree esclusive ''Mimetica rosa e verde'' e ''Sessanta Nove multicolore'' per Nightshark e Revolter<br /><br />Ti ringraziamo per esserti unito alla Guest List. Continua a seguire il Newswire di Rockstar per altri eventi esclusivi in arrivo a Los Santos.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_ITA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635617,
+    "title": "Benefici della Guest List",
+    "headline": "Benefici della Guest List",
+    "subtitle": "Sei in Lista!",
+    "content": "Le tue ricompense settimanali esclusive della Guest List sono disponibili:<br /><br />- 100.000 GTA$ omaggio<br />- Maglia Technologie<br />- Veicolo blindato HVY Nightshark gratuito<br />- Auto sportiva armabile Übermacht Revolter gratuita<br />- Le livree esclusive ''Mimetica rosa e verde'' e ''Sessanta Nove multicolore'' per Nightshark e Revolter<br /><br />Ti ringraziamo per esserti unito alla Guest List. Continua a seguire il Newswire di Rockstar per altri eventi esclusivi in arrivo a Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_ITA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

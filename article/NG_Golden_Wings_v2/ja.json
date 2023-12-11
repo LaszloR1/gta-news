@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952126,"title":"","headline":"GTA Online","subtitle":"黄金の翼","content":"エリータス・トラベルに2種類の豪華な最先端航空機「ルクソールデラックス」と「スイフトデラックス」が新たに入荷されました。ロスサントスの富裕層の羨望の的です。黄金に輝くボディに加え、両機はそれぞれ驚くほど豪華な内装を備えています。シャンパン片手に、ゆったりとくつろいで空の旅をお楽しみください。~INPUT_ENTER~長押しで、直接乗客席に乗り込めます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "黄金の翼",
+    "content": "エリータス・トラベルに2種類の豪華な最先端航空機「ルクソールデラックス」と「スイフトデラックス」が新たに入荷されました。ロスサントスの富裕層の羨望の的です。黄金に輝くボディに加え、両機はそれぞれ驚くほど豪華な内装を備えています。シャンパン片手に、ゆったりとくつろいで空の旅をお楽しみください。~INPUT_ENTER~長押しで、直接乗客席に乗り込めます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

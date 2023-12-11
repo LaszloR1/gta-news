@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314656,"title":"","headline":"GTA Online","subtitle":"Editor Rockstar","content":"Registra e monta con l'Editor Rockstar i video delle tue esperienze con Grand Theft Auto V e Grand Theft Auto Online e poi condividili con i tuoi amici su YouTube e sul Social Club di Rockstar Games.<br /><br />La modalità Regista verrà sbloccata dopo aver completato la missione Franklin e Lamar. Registra clip di gioco con le modalità di registrazione Manuale o Replay azione, accedi all'Editor Rockstar tramite il menu di pausa e monta le clip a tuo piacimento per realizzare dei fantastici video.","url":"","image":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Editor Rockstar",
+    "content": "Registra e monta con l'Editor Rockstar i video delle tue esperienze con Grand Theft Auto V e Grand Theft Auto Online e poi condividili con i tuoi amici su YouTube e sul Social Club di Rockstar Games.<br /><br />La modalità Regista verrà sbloccata dopo aver completato la missione Franklin e Lamar. Registra clip di gioco con le modalità di registrazione Manuale o Replay azione, accedi all'Editor Rockstar tramite il menu di pausa e monta le clip a tuo piacimento per realizzare dei fantastici video.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds",
+        "filesize": 2048
+    }
+}

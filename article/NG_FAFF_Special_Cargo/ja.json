@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294450,"title":"","headline":"GTA Online","subtitle":"セキュリサーブ極秘貨物ネットワーク","content":"エグゼクティブオフィスの購入者には、セキュリサーブの極秘貨物ネットワークへのアクセス権が与えられます。オフィスの立派な回転椅子から街中の倉庫を購入し、極秘貨物の購入などあらゆる手段を用いて街を支配しましょう。","url":"","image":{"path":"sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Special_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294450,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "セキュリサーブ極秘貨物ネットワーク",
+    "content": "エグゼクティブオフィスの購入者には、セキュリサーブの極秘貨物ネットワークへのアクセス権が与えられます。オフィスの立派な回転椅子から街中の倉庫を購入し、極秘貨物の購入などあらゆる手段を用いて街を支配しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Special_Cargo/.dds",
+        "filesize": 2048
+    }
+}

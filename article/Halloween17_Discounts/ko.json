@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466859,"title":"","headline":"GTA Online","subtitle":"11월 6일까지 계속되는 GTA 온라인의 할로윈 보너스","content":"밀수 작전 판매 임무, 스톡파일, 사형수에서 GTA 달러와 RP 두 배 혜택과 다음 이동 수단 25% 할인 혜택도 놓치지 마세요:<br /><br />프로젠 GP1<br />웨스턴 베스라<br />나가사키 블레이저 아쿠아<br />그로티 치타 클래식<br />HVY 인서전트<br />람파다티 토로<br /><br />이번 한 주, 수행원과 직원의 급여가 두 배로 인상되니 잊지 마세요.<br /><br />자세한 내용은 Rockstar 뉴스와이어를 확인하세요.","url":"","image":{"path":"sc/news/Halloween17_Discounts/349672_gp1-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466859,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "11월 6일까지 계속되는 GTA 온라인의 할로윈 보너스",
+    "content": "밀수 작전 판매 임무, 스톡파일, 사형수에서 GTA 달러와 RP 두 배 혜택과 다음 이동 수단 25% 할인 혜택도 놓치지 마세요:<br /><br />프로젠 GP1<br />웨스턴 베스라<br />나가사키 블레이저 아쿠아<br />그로티 치타 클래식<br />HVY 인서전트<br />람파다티 토로<br /><br />이번 한 주, 수행원과 직원의 급여가 두 배로 인상되니 잊지 마세요.<br /><br />자세한 내용은 Rockstar 뉴스와이어를 확인하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Discounts/349672_gp1-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

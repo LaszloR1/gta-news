@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978983,"title":"","headline":"GTA Online","subtitle":"Novedades en Warstock Cache and Carry","content":"Warstock Cache and Carry ha renovado sus existencias, incluidas las de Canis Mesa, debido a la demanda popular.<br /><br />A medida que te encuentres nuevos vehículos en los golpes, pasarán a estar disponibles para comprar, así que no dejes de mirar las últimas novedades en Warstock-cache-and-carry.com.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Warstock_Cache/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978983,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novedades en Warstock Cache and Carry",
+    "content": "Warstock Cache and Carry ha renovado sus existencias, incluidas las de Canis Mesa, debido a la demanda popular.<br /><br />A medida que te encuentres nuevos vehículos en los golpes, pasarán a estar disponibles para comprar, así que no dejes de mirar las últimas novedades en Warstock-cache-and-carry.com.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/.dds",
+        "filesize": 2048
+    }
+}

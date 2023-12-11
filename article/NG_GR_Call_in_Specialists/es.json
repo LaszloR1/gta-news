@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917447,"title":"","headline":"GTA Online","subtitle":"Llama a los especialistas","content":"La nueva generación de armas móviles crea un horizonte totalmente inexplorado para las organizaciones criminales. Una vez pongas en marcha un negocio de tráfico de armas y lo reabastezcas de manera habitual, estate atento a las nuevas oportunidades de negocio que te ofrecen las misiones de vehículos armados.","url":"","image":{"path":"sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Call_in_Specialists/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917447,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Llama a los especialistas",
+    "content": "La nueva generación de armas móviles crea un horizonte totalmente inexplorado para las organizaciones criminales. Una vez pongas en marcha un negocio de tráfico de armas y lo reabastezcas de manera habitual, estate atento a las nuevas oportunidades de negocio que te ofrecen las misiones de vehículos armados.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/262272_CallSpecialists.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Call_in_Specialists/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

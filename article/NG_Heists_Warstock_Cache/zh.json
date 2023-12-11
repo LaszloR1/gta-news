@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978984,"title":"","headline":"GTA Online","subtitle":"軍火大亨更新","content":"軍火大亨新貨到！為響應廣大支持者的需求，這次他們特地進了卡尼斯岩魔。<br /><br />當您在進行搶劫任務期間需要使用新載具時，這些載具就會開放提供購買，因此記得前往 Warstock-cache-and-carry.com 看看是否有新貨。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Warstock_Cache/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "軍火大亨更新",
+    "content": "軍火大亨新貨到！為響應廣大支持者的需求，這次他們特地進了卡尼斯岩魔。<br /><br />當您在進行搶劫任務期間需要使用新載具時，這些載具就會開放提供購買，因此記得前往 Warstock-cache-and-carry.com 看看是否有新貨。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/262272_Warstock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Warstock_Cache/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466874,"title":"","headline":"GTA Online","subtitle":"GTA Online fête Halloween jusqu'au 6 novembre","content":"C'est Halloween à Los Santosµ: il est temps de terroriser le quartier tout en récoltant les bénéfices de nombreux bonus à glacer le sang et de réductions mortelles.<br /><br />Profitez de -25µ% sur tout le contenu d'Halloween, dont les masques, les maquillages, la Fränken Stange, la Lurcher et la démoniaque LCC Sanctus, ainsi que sur la Duke O'Death.<br /><br />Plus d'informations sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466874,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online fête Halloween jusqu'au 6 novembre",
+    "content": "C'est Halloween à Los Santosµ: il est temps de terroriser le quartier tout en récoltant les bénéfices de nombreux bonus à glacer le sang et de réductions mortelles.<br /><br />Profitez de -25µ% sur tout le contenu d'Halloween, dont les masques, les maquillages, la Fränken Stange, la Lurcher et la démoniaque LCC Sanctus, ainsi que sur la Duke O'Death.<br /><br />Plus d'informations sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

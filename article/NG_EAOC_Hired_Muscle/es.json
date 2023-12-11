@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174976,"title":"","headline":"GTA Online","subtitle":"Gorilas a sueldo","content":"Ha llegado una nueva clase de ejecutivo, y ofrece trabajo. Busca trabajo en la sección SecuroServ del menú Interacción para que los vip sepan que estás disponible para ser su escolta. Una vez que estés en una organización, demuestra lo que vales consiguiendo dinero para tu vip en actividades del modo Libre y ayudando a tu organización en los nuevos modos de trabajo vip.","url":"","image":{"path":"sc/news/NG_EAOC_Hired_Muscle/262272_Hired_Muscle.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Hired_Muscle/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174976,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Gorilas a sueldo",
+    "content": "Ha llegado una nueva clase de ejecutivo, y ofrece trabajo. Busca trabajo en la sección SecuroServ del menú Interacción para que los vip sepan que estás disponible para ser su escolta. Una vez que estés en una organización, demuestra lo que vales consiguiendo dinero para tu vip en actividades del modo Libre y ayudando a tu organización en los nuevos modos de trabajo vip.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Hired_Muscle/262272_Hired_Muscle.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Hired_Muscle/.dds",
+        "filesize": 2048
+    }
+}

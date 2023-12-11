@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175033,"title":"","headline":"GTA Online","subtitle":"A Home in the Hills","content":"Get a taste of Vinewood glamor with the new stilt houses available for sale on dynasty8realestate.com. These sophisticated dwellings come with an unrivalled view over Los Santos – and you can’t put a price on that sought-after zip code.","url":"","image":{"path":"sc/news/NG_EAOC_Home_in_the_Hills/262272_A_Home_In_the_Hills.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Home_in_the_Hills/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175033,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "A Home in the Hills",
+    "content": "Get a taste of Vinewood glamor with the new stilt houses available for sale on dynasty8realestate.com. These sophisticated dwellings come with an unrivalled view over Los Santos – and you can’t put a price on that sought-after zip code.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Home_in_the_Hills/262272_A_Home_In_the_Hills.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Home_in_the_Hills/.dds",
+        "filesize": 2048
+    }
+}

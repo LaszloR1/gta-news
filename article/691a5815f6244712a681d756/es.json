@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Cómo conseguir el laboratorio de ácido","content":"Puedes completar las seis misiones de la Primera dosis para desbloquear el MTL Brickade 6x6 gratis, que puede mejorarse en la tienda friki para convertirlo en un laboratorio de ácido. O pásate directamente por la web de Warstock Cache & Carry para comprarlo.<br /><br />Una vez en tu poder, podrás acceder a él a través del menú Interacción cuando estés en el modo Libre o desde la tienda friki.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds","filesize":262272},"button":"Visita la web de Warstock Cache & Carry"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Cómo conseguir el laboratorio de ácido",
+    "content": "Puedes completar las seis misiones de la Primera dosis para desbloquear el MTL Brickade 6x6 gratis, que puede mejorarse en la tienda friki para convertirlo en un laboratorio de ácido. O pásate directamente por la web de Warstock Cache & Carry para comprarlo.<br /><br />Una vez en tu poder, podrás acceder a él a través del menú Interacción cuando estés en el modo Libre o desde la tienda friki.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Visita la web de Warstock Cache & Carry"
+}

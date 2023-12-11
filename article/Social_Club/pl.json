@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571729,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"Strona Social Club pozwala ci być na bieżąco ze wszystkim, co się dzieje, w tym:<br /><br />Zdjęcia – Rób fotki za pomocą telefonu i dziel się ze światem swoimi szalonymi wyczynami, nieprzemyślanymi fryzurami i masywnym, przerośniętym ego. Natychmiast zostaną opublikowane w Social Club.<br />Wiadomości – Dowiedz się, co nowego działo się i będzie się dziać w Social Club.<br />Samoocena – Śledź kluczowe statystyki swojej gry i dowiedz się, jak plasujesz się na ogólnoświatowych tablicach wyników.<br />I o wiele więcej...","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571729,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "Strona Social Club pozwala ci być na bieżąco ze wszystkim, co się dzieje, w tym:<br /><br />Zdjęcia – Rób fotki za pomocą telefonu i dziel się ze światem swoimi szalonymi wyczynami, nieprzemyślanymi fryzurami i masywnym, przerośniętym ego. Natychmiast zostaną opublikowane w Social Club.<br />Wiadomości – Dowiedz się, co nowego działo się i będzie się dziać w Social Club.<br />Samoocena – Śledź kluczowe statystyki swojej gry i dowiedz się, jak plasujesz się na ogólnoświatowych tablicach wyników.<br />I o wiele więcej...",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

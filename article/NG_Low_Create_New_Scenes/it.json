@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349212,"title":"","headline":"GTA Online","subtitle":"Crea nuove scene con la modalità Regista","content":"Il Creatore di scene è una nuova funzione della modalità Regista che permette di realizzare dei set nei quali filmare le clip per l'Editor Rockstar. Scegli tra oltre 200 elementi scenografici (tra cui anche... esplosivi!) e posizionali per creare il set perfetto per i tuoi filmati. È possibile salvare fino a quattro scene, da riutilizzare ogni volta che vuoi.<br /><br />Quando ti trovi nella modalità Regista, puoi accedere al Creatore di scene tramite il menu Interazione.","url":"","image":{"path":"sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Create_New_Scenes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349212,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Crea nuove scene con la modalità Regista",
+    "content": "Il Creatore di scene è una nuova funzione della modalità Regista che permette di realizzare dei set nei quali filmare le clip per l'Editor Rockstar. Scegli tra oltre 200 elementi scenografici (tra cui anche... esplosivi!) e posizionali per creare il set perfetto per i tuoi filmati. È possibile salvare fino a quattro scene, da riutilizzare ogni volta che vuoi.<br /><br />Quando ti trovi nella modalità Regista, puoi accedere al Creatore di scene tramite il menu Interazione.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/.dds",
+        "filesize": 2048
+    }
+}

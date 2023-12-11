@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543225,"title":"","headline":"GTA Online","subtitle":"Vehicle Cargo","content":"As a CEO with a Vehicle Warehouse you’ll be able to access Vehicle Cargo missions via the SecuroServ portal in your office. One click later, you’ll be stealing high-value cars, dodging competitors on high-risk export missions, and basking atop sky-high profits.","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Vehicle_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543225,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vehicle Cargo",
+    "content": "As a CEO with a Vehicle Warehouse you’ll be able to access Vehicle Cargo missions via the SecuroServ portal in your office. One click later, you’ll be stealing high-value cars, dodging competitors on high-risk export missions, and basking atop sky-high profits.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/.dds",
+        "filesize": 2048
+    }
+}

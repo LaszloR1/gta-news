@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367294,"title":"","headline":"GTA Online","subtitle":"여러분을 위해 준비한 기간 한정 특별 할인","content":"이번 주에 여러분께 제공되는 다양한 기본 차량, 오토바이, 비행기 할인 혜택을 누리십시오. 방탄 베네팩터 XLS SUV, 이너스 윈저 드롭 럭셔리 쿠페, 날쌘 하쿠초우 드래그 오토바이, 바피드 FMJ 슈퍼카 등이 모두 50% 할인됩니다. 신규 차량을 모셔둘 10대짜리 차고 역시 2월 13일까지 25% 할인됩니다.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367294,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "여러분을 위해 준비한 기간 한정 특별 할인",
+    "content": "이번 주에 여러분께 제공되는 다양한 기본 차량, 오토바이, 비행기 할인 혜택을 누리십시오. 방탄 베네팩터 XLS SUV, 이너스 윈저 드롭 럭셔리 쿠페, 날쌘 하쿠초우 드래그 오토바이, 바피드 FMJ 슈퍼카 등이 모두 50% 할인됩니다. 신규 차량을 모셔둘 10대짜리 차고 역시 2월 13일까지 25% 할인됩니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/.dds",
+        "filesize": 2048
+    }
+}

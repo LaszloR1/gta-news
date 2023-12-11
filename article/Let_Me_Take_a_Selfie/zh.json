@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991950,"headline":"線上小訣竅","subtitle":"我來自拍一下......","content":"使用手機相機快速拍照，記錄下令人難忘的 GTA 時刻，讓大家都可以一起欣賞。您也可以將相機鏡頭轉向自己，自拍一下！~n~~n~我們還有許多外框和濾鏡效果，能為您的照片帶來更多不同的風格筆觸。~n~~n~我們甚至還有模因製作器，方便您在照片上加入文字，馬上可與 Social Club 廣大群眾分享。只要在相冊中瀏覽您的照片，然後按 ~INPUT_FRONTEND_X~ 即可進入模因製作器。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991950,
+    "headline": "線上小訣竅",
+    "subtitle": "我來自拍一下......",
+    "content": "使用手機相機快速拍照，記錄下令人難忘的 GTA 時刻，讓大家都可以一起欣賞。您也可以將相機鏡頭轉向自己，自拍一下！~n~~n~我們還有許多外框和濾鏡效果，能為您的照片帶來更多不同的風格筆觸。~n~~n~我們甚至還有模因製作器，方便您在照片上加入文字，馬上可與 Social Club 廣大群眾分享。只要在相冊中瀏覽您的照片，然後按 ~INPUT_FRONTEND_X~ 即可進入模因製作器。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

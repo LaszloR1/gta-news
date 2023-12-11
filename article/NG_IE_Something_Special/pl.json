@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543318,"title":"","headline":"GTA Online","subtitle":"Coś specjalnego w wysokiej emisji dwutlenku węgla","content":"W mieście pojawiła się nowa klasa pojazdów dostępna wyłącznie w Warstock Cache and Carry. Czysta brutalność Phantoma Wedge, samobójcza prędkość Voltica Rocket i nie tylko – te potwory wprowadzą was w nowy wymiar chaosu i szaleństwa. Aby kupić któryś z nich, należy posiadać własny magazyn pojazdów. Zniżkę SecuroServ otrzymuje się dopiero po wykonaniu odpowiedniej misji na pojazd specjalny.","url":"","image":{"path":"sc/news/NG_IE_Something_Special/262272_Something_Nice.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Something_Special/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543318,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Coś specjalnego w wysokiej emisji dwutlenku węgla",
+    "content": "W mieście pojawiła się nowa klasa pojazdów dostępna wyłącznie w Warstock Cache and Carry. Czysta brutalność Phantoma Wedge, samobójcza prędkość Voltica Rocket i nie tylko – te potwory wprowadzą was w nowy wymiar chaosu i szaleństwa. Aby kupić któryś z nich, należy posiadać własny magazyn pojazdów. Zniżkę SecuroServ otrzymuje się dopiero po wykonaniu odpowiedniej misji na pojazd specjalny.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Something_Special/262272_Something_Nice.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Something_Special/.dds",
+        "filesize": 2048
+    }
+}

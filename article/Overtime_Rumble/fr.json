@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1499781065,"title":"","headline":"GTA Online","subtitle":"Sauts au but groupés","content":"Imaginez cette sensation de calme, de rigueur et d'amusement lorsque vous vous élancez dans le ciel pour essayer d'atteindre le centre d'une cible lointaine au volant d'une Ruiner 2000 seulement munie d'un parachute, qui fera la différence entre un très bon score et une explosion mortelle. Voilà comment on pourrait décrire Sauts au but groupés, sauf qu'ici, c'est vous et d'autres accros à l'adrénaline de Los Santos qui appuyez sur l'accélérateur en même temps. Ça ne peut que bien se finir.","url":"","image":{"path":"sc/news/Overtime_Rumble/262272_OvertimeRumble.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1499781065,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sauts au but groupés",
+    "content": "Imaginez cette sensation de calme, de rigueur et d'amusement lorsque vous vous élancez dans le ciel pour essayer d'atteindre le centre d'une cible lointaine au volant d'une Ruiner 2000 seulement munie d'un parachute, qui fera la différence entre un très bon score et une explosion mortelle. Voilà comment on pourrait décrire Sauts au but groupés, sauf qu'ici, c'est vous et d'autres accros à l'adrénaline de Los Santos qui appuyez sur l'accélérateur en même temps. Ça ne peut que bien se finir.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Overtime_Rumble/262272_OvertimeRumble.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

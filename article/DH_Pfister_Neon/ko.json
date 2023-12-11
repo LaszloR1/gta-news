@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1517331820,"title":"","headline":"GTA Online","subtitle":"피스터 네온","content":"피스터가 전기차 시장에 뛰어드는 건 시간문제였으며, 그 등장은 아주 화려했습니다. 한번 네온을 경험하면 같은 클래스의 다른 차들은 모두 건전지로 작동하는 잔디 깎는 기계 같을 겁니다. 다가오는 혁명에서 승자의 편에 서고 싶지 않습니까?","url":"","image":{"path":"sc/news/DH_Pfister_Neon/524416_BIGFEED_2017_1212_V01_B_512x1024_Pfister_Neon.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1517331820,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "피스터 네온",
+    "content": "피스터가 전기차 시장에 뛰어드는 건 시간문제였으며, 그 등장은 아주 화려했습니다. 한번 네온을 경험하면 같은 클래스의 다른 차들은 모두 건전지로 작동하는 잔디 깎는 기계 같을 겁니다. 다가오는 혁명에서 승자의 편에 서고 싶지 않습니까?",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Pfister_Neon/524416_BIGFEED_2017_1212_V01_B_512x1024_Pfister_Neon.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

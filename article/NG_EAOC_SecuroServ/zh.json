@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175108,"title":"","headline":"GTA Online","subtitle":"保鏢事務所","content":"你手上的金錢多到不知道怎麼花嗎？那麼保鑣事務所的老大保護計劃正符合您的需要。現在就透過玩家互動選單註冊成為老大，你就能聘雇老大保護計劃貼身保鏢，來完成他人無法完成的任務。以全新命名的組織的名義展開行動吧，開始自己的老大工作或挑戰，立即開始大撈特撈，享受使喚武裝保鏢的特權。","url":"","image":{"path":"sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_SecuroServ/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175108,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "保鏢事務所",
+    "content": "你手上的金錢多到不知道怎麼花嗎？那麼保鑣事務所的老大保護計劃正符合您的需要。現在就透過玩家互動選單註冊成為老大，你就能聘雇老大保護計劃貼身保鏢，來完成他人無法完成的任務。以全新命名的組織的名義展開行動吧，開始自己的老大工作或挑戰，立即開始大撈特撈，享受使喚武裝保鏢的特權。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_SecuroServ/.dds",
+        "filesize": 2048
+    }
+}

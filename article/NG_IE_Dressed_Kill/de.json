@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543397,"title":"","headline":"GTA Online","subtitle":"Todschick","content":"Angesichts der massiven Erweiterung deines kriminellen Imperiums, benötigt auch dein krimineller Kleiderschrank eine massive Erweiterung. Neben der riesigen Auswahl an neuen Outfits solltest du dir auch unbedingt die brandneuen Tattoos und Frisuren sowie eine neue Kollektion seltsamer, wundervoller und brechreizerregender Masken anschauen. Natürlich beinhaltet diese Welle topaktueller Mode auch neue CEO-Stile, die über das Interaktionsmenü an die ganze Organisation verteilt werden können.","url":"","image":{"path":"sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Dressed_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543397,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Todschick",
+    "content": "Angesichts der massiven Erweiterung deines kriminellen Imperiums, benötigt auch dein krimineller Kleiderschrank eine massive Erweiterung. Neben der riesigen Auswahl an neuen Outfits solltest du dir auch unbedingt die brandneuen Tattoos und Frisuren sowie eine neue Kollektion seltsamer, wundervoller und brechreizerregender Masken anschauen. Natürlich beinhaltet diese Welle topaktueller Mode auch neue CEO-Stile, die über das Interaktionsmenü an die ganze Organisation verteilt werden können.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Dressed_Kill/.dds",
+        "filesize": 2048
+    }
+}

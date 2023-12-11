@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527661,"title":"","headline":"GTA Online","subtitle":"Power Play","content":"Change the rules of combat in Power Play, the new Adversary Mode giving players the chance to boost themselves and their allies with special abilities in pursuit of ultimate victory. <br /><br />The effects of these six power-ups are temporary and will need to be timed wisely. Each player can use one power up at a time, and stack power-ups with other teammates to create huge advantages.","url":"","image":{"path":"sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Power_Play_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527661,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Power Play",
+    "content": "Change the rules of combat in Power Play, the new Adversary Mode giving players the chance to boost themselves and their allies with special abilities in pursuit of ultimate victory. <br /><br />The effects of these six power-ups are temporary and will need to be timed wisely. Each player can use one power up at a time, and stack power-ups with other teammates to create huge advantages.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Power_Play_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

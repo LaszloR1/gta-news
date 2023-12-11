@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292369,"title":"","headline":"GTA Online","subtitle":"Trading Places","content":"In the land of the Haves and the Have-Nots, this Adversary Mode is your chance to engage in some aggressive social climbing. The Winners team is destined for success, the Losers team is doomed to fail, and there’s only one way to move between the two: brutally murder a Winner and take their place. This is your chance to get some transferable skills that matter.","url":"","image":{"path":"sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Trading_Places/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292369,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Trading Places",
+    "content": "In the land of the Haves and the Have-Nots, this Adversary Mode is your chance to engage in some aggressive social climbing. The Winners team is destined for success, the Losers team is doomed to fail, and there’s only one way to move between the two: brutally murder a Winner and take their place. This is your chance to get some transferable skills that matter.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Trading_Places/.dds",
+        "filesize": 2048
+    }
+}

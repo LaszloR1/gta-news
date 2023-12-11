@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1498761723,"title":"","headline":"GTA Online","subtitle":"Asalto al alba","content":"¿Qué tal se te da hacer varias cosas a la vez? Sí, sabes usar programas de seguimiento para identificar el contrabando; sabes tirarte en paracaídas desde un helicóptero para caer en una zona de guerra, por supuesto; y, cómo no, sabes usar la visión nocturna y térmica en combate, pero ¿podrás hacer todo eso al mismo tiempo mientras compites con un montón de psicópatas tan preparados para el combate como tú? Para descubrirlo, echa un vistazo al nuevo modo Adversario: Asalto al alba.","url":"","image":{"path":"sc/news/GR_Dawn_Raid/262272_DawnRaid.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1498761723,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Asalto al alba",
+    "content": "¿Qué tal se te da hacer varias cosas a la vez? Sí, sabes usar programas de seguimiento para identificar el contrabando; sabes tirarte en paracaídas desde un helicóptero para caer en una zona de guerra, por supuesto; y, cómo no, sabes usar la visión nocturna y térmica en combate, pero ¿podrás hacer todo eso al mismo tiempo mientras compites con un montón de psicópatas tan preparados para el combate como tú? Para descubrirlo, echa un vistazo al nuevo modo Adversario: Asalto al alba.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Dawn_Raid/262272_DawnRaid.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

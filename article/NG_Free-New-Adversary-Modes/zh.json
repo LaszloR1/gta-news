@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442257610,"title":"","headline":"GTA Online","subtitle":"全新競爭模式","content":"如果新的自由模式活動仍然不能滿足您對於破壞的渴望，那麼就來試試這兩個全新的競爭模式活動吧！這兩個活動會在您達到等級12時解鎖：<br /><br />-火線穿越：運用策略和火力，讓整支隊伍可以越過敵方界線並奪得勝利。<br /><br />-快速護送：一輛裝滿炸藥的載具正加速穿過城市。一支隊伍要盡力不讓這輛載具停下來，而另一支隊伍則要想辦法降低這輛載具的速度。如果載具的速度變得太慢，結果可是很悲慘的。<br />","url":"","image":{"path":"sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free-New-Adversary-Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442257610,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "全新競爭模式",
+    "content": "如果新的自由模式活動仍然不能滿足您對於破壞的渴望，那麼就來試試這兩個全新的競爭模式活動吧！這兩個活動會在您達到等級12時解鎖：<br /><br />-火線穿越：運用策略和火力，讓整支隊伍可以越過敵方界線並奪得勝利。<br /><br />-快速護送：一輛裝滿炸藥的載具正加速穿過城市。一支隊伍要盡力不讓這輛載具停下來，而另一支隊伍則要想辦法降低這輛載具的速度。如果載具的速度變得太慢，結果可是很悲慘的。<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/.dds",
+        "filesize": 2048
+    }
+}

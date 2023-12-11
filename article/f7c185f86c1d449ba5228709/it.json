@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973254,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"11 missioni della storia, un nuovo luogo di produzione di acidi e altre ricompense gratis","content":"Rispondi alla chiamata di Ron e poi recati a Blaine County per soddisfare la sua richiesta e iniziare questa nuova avventura. Dopo aver incontrato i Fooliganz, vai al Freakshop per affrontare tutte le missioni della storia.<br /><br />Via via, sbloccherai nuove ricompense e opportunità, come il Laboratorio di acidi per creare una linea di stupefacenti tutta tua, una Manchez Scout C gratuita per aiutarti a consegnare la merce, una supercar Ocelot Virtue e altro.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds","filesize":262272},"button":"Gioca a Los Santos Drug Wars"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973254,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "11 missioni della storia, un nuovo luogo di produzione di acidi e altre ricompense gratis",
+    "content": "Rispondi alla chiamata di Ron e poi recati a Blaine County per soddisfare la sua richiesta e iniziare questa nuova avventura. Dopo aver incontrato i Fooliganz, vai al Freakshop per affrontare tutte le missioni della storia.<br /><br />Via via, sbloccherai nuove ricompense e opportunità, come il Laboratorio di acidi per creare una linea di stupefacenti tutta tua, una Manchez Scout C gratuita per aiutarti a consegnare la merce, una supercar Ocelot Virtue e altro.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds",
+        "filesize": 262272
+    },
+    "button": "Gioca a Los Santos Drug Wars"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635601,"title":"Avantages de la liste des invités","headline":"Avantages de la liste des invités","subtitle":"Vous êtes sur la listeµ!","content":"Vous avez reçu les récompenses exclusives suivantesµ:<br /><br />- 350µ000 GTA$ bonus<br />- T-shirt Maisonette Los Santos<br />- -40µ% sur le Maibatsu Mule custom et le MTL Pounder custom <br />- -40µ% sur les améliorations du blindage du Mule et du Pounder custom<br />- Motif exclusif “Joyau de la Couronne” pour la Swinger<br />- Motifs “Camouflage vert et rose” et “Sessanta Nove multicolore” pour le Speedo custom, le Mule custom et le Pounder custom<br /><br />Revenez la semaine prochaine pour obtenir vos prochaines récompenses.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk3/349672_bigfeed-guestlist-V3_FRE.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635601,
+    "title": "Avantages de la liste des invités",
+    "headline": "Avantages de la liste des invités",
+    "subtitle": "Vous êtes sur la listeµ!",
+    "content": "Vous avez reçu les récompenses exclusives suivantesµ:<br /><br />- 350µ000 GTA$ bonus<br />- T-shirt Maisonette Los Santos<br />- -40µ% sur le Maibatsu Mule custom et le MTL Pounder custom <br />- -40µ% sur les améliorations du blindage du Mule et du Pounder custom<br />- Motif exclusif “Joyau de la Couronne” pour la Swinger<br />- Motifs “Camouflage vert et rose” et “Sessanta Nove multicolore” pour le Speedo custom, le Mule custom et le Pounder custom<br /><br />Revenez la semaine prochaine pour obtenir vos prochaines récompenses.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk3/349672_bigfeed-guestlist-V3_FRE.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

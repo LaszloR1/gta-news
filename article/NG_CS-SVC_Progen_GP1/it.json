@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423897,"title":"","headline":"GTA Online","subtitle":"Progen GP1","content":"Hai flirtato con concept car tutte curve, roadster svampite e bolidi truccati all'inverosimile, ma non sei ancora soddisfatto. Rassegnati, ormai sei pronto a mettere la testa a posto e per riuscire in questa impresa l'unica scelta possibile è la Progen GP1. Disponibile ora da Legendary Motorsport in GTA Online.","url":"","image":{"path":"sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Progen_GP1/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423897,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Progen GP1",
+    "content": "Hai flirtato con concept car tutte curve, roadster svampite e bolidi truccati all'inverosimile, ma non sei ancora soddisfatto. Rassegnati, ormai sei pronto a mettere la testa a posto e per riuscire in questa impresa l'unica scelta possibile è la Progen GP1. Disponibile ora da Legendary Motorsport in GTA Online.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/349672_ProgenGP1.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Progen_GP1/.dds",
+        "filesize": 2048
+    }
+}

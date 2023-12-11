@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349573,"title":"","headline":"GTA Online","subtitle":"추가 차고","content":"이제 보유할 수 있는 부동산이 늘어나서 아파트나 차고를 최대 4개까지 소유할 수 있게 되었습니다. 베니즈 오리지널 모터 웍스가 신규 오픈함에 따라, 새로운 개조 차량들을 보관할 공간이 필요해진 여러분에게 그야말로 최적의 타이밍이로군요.","url":"","image":{"path":"sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Extra_Storage/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349573,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "추가 차고",
+    "content": "이제 보유할 수 있는 부동산이 늘어나서 아파트나 차고를 최대 4개까지 소유할 수 있게 되었습니다. 베니즈 오리지널 모터 웍스가 신규 오픈함에 따라, 새로운 개조 차량들을 보관할 공간이 필요해진 여러분에게 그야말로 최적의 타이밍이로군요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Extra_Storage/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453722,"title":"","headline":"GTA Online","subtitle":"ビーストVSスラッシャー","content":"仲間を引き連れ、ビーストが再び帰ってきます。奴らを止める希望は、完全武装した寄せ集めのスラッシャーチームに託されました。ビーストは全てのチェックポイントを回収し、スラッシャーはビーストを倒しましょう。","url":"","image":{"path":"sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds","filesize":262272},"landscape":{"path":"sc/news/NG_BeastvSlasher/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453722,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ビーストVSスラッシャー",
+    "content": "仲間を引き連れ、ビーストが再び帰ってきます。奴らを止める希望は、完全武装した寄せ集めのスラッシャーチームに託されました。ビーストは全てのチェックポイントを回収し、スラッシャーはビーストを倒しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_BeastvSlasher/.dds",
+        "filesize": 2048
+    }
+}

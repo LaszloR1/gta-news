@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467025,"title":"","headline":"Dica online","subtitle":"Lester Crest","content":"Quer botar uma recompensa pela cabeça de alguém? Subornar a polícia e perder o seu Nível de Procurado? Quem sabe só um pouco de anonimato no Radar para poder chegar pertinho de alguém? Ou você só precisa encontrar algum transporte? Ligue para aquele esquisitão solitário chamado Lester.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Lester_Crest/262272_LesterCrest.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Lester_Crest/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467025,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Lester Crest",
+    "content": "Quer botar uma recompensa pela cabeça de alguém? Subornar a polícia e perder o seu Nível de Procurado? Quem sabe só um pouco de anonimato no Radar para poder chegar pertinho de alguém? Ou você só precisa encontrar algum transporte? Ligue para aquele esquisitão solitário chamado Lester.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Lester_Crest/262272_LesterCrest.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Lester_Crest/.dds",
+        "filesize": 2048
+    }
+}

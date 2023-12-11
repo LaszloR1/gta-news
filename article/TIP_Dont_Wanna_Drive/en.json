@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832739,"headline":"Online Tip","subtitle":"Don't Want to Drive?","content":"When opening an invitation you receive on your phone’s Job list, it will tell you how far away the Job is. If a Job is farther than you want to travel, you are under no obligation to accept – either check your Job List for something closer or launch a Job yourself.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Dont_Wanna_Drive/65664_Dont_Want_to_Drive_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832739,
+    "headline": "Online Tip",
+    "subtitle": "Don't Want to Drive?",
+    "content": "When opening an invitation you receive on your phone’s Job list, it will tell you how far away the Job is. If a Job is farther than you want to travel, you are under no obligation to accept – either check your Job List for something closer or launch a Job yourself.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Dont_Wanna_Drive/65664_Dont_Want_to_Drive_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

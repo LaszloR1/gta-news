@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1518532405,"title":"","headline":"GTA Online","subtitle":"Hustler","content":"En este mundo hay dos tipos de personas. Hay quienes ven un Vapid Hustler y se quedan petrificados, intentando entender cómo es posible combinar el glamour de un cupé de los años 30 con la ferocidad de un bólido blindado. Y luego están los que ya lo conducen a toda velocidad por la carretera y se ríen a carcajadas como locos porque saben que finalmente tienen lo que querían. Es hora de elegir un bando.","url":"","image":{"path":"sc/news/DH_Vapid_Hustler/524416_BIGFEED_2017_1212_V01_E_512x1024_Hustler.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1518532405,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hustler",
+    "content": "En este mundo hay dos tipos de personas. Hay quienes ven un Vapid Hustler y se quedan petrificados, intentando entender cómo es posible combinar el glamour de un cupé de los años 30 con la ferocidad de un bólido blindado. Y luego están los que ya lo conducen a toda velocidad por la carretera y se ríen a carcajadas como locos porque saben que finalmente tienen lo que querían. Es hora de elegir un bando.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Vapid_Hustler/524416_BIGFEED_2017_1212_V01_E_512x1024_Hustler.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

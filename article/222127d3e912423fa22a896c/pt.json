@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736470,"title":"","headline":"GTA Online","subtitle":"JUNTE-SE AO CLUBE","content":"O Clube Vinewood é o maior clube privado de Los Santos e oferece benefícios exclusivos para membros do GTA+.<br /><br />Se estava procurando a elite internacional, aqui está ela. Junte-se para acessar o novo Clube de Carros Vinewood, onde os membros podem pegar emprestado ou comprar com desconto diversos veículos luxuosos de uma seleção exclusiva. Você também pode conferir o veículo GTA+ gratuito e obtê-lo direto do Clube de Carros.<br /><br />Vá até a exposição deles em Terminal e saiba mais.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736470,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "JUNTE-SE AO CLUBE",
+    "content": "O Clube Vinewood é o maior clube privado de Los Santos e oferece benefícios exclusivos para membros do GTA+.<br /><br />Se estava procurando a elite internacional, aqui está ela. Junte-se para acessar o novo Clube de Carros Vinewood, onde os membros podem pegar emprestado ou comprar com desconto diversos veículos luxuosos de uma seleção exclusiva. Você também pode conferir o veículo GTA+ gratuito e obtê-lo direto do Clube de Carros.<br /><br />Vá até a exposição deles em Terminal e saiba mais.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

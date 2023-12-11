@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1403000037,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Sport bezkontaktowy","content":"Wyścigi znów mogą być sportem gentlemanów dzięki wprowadzeniu opcji wyścigów bezkontaktowych.<br /><br />Gospodarz lobby wyścigu może zmienić rodzaj zawodów na wyścig bezkontaktowy, dzięki czemu pojazdy graczy będą przez siebie przenikać, a cień aerodynamiczny zostanie wyłączony.<br /><br />Pamiętaj jednak, że wciąż trzeba uważać na drodze na przypadkowych kierowców, którzy mogą porysować ci karoserię.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Non_Contact_Sport/262272_NonContactSport.dds","filesize":262272},"landscape":{"path":"sc/news/Non_Contact_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1403000037,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Sport bezkontaktowy",
+    "content": "Wyścigi znów mogą być sportem gentlemanów dzięki wprowadzeniu opcji wyścigów bezkontaktowych.<br /><br />Gospodarz lobby wyścigu może zmienić rodzaj zawodów na wyścig bezkontaktowy, dzięki czemu pojazdy graczy będą przez siebie przenikać, a cień aerodynamiczny zostanie wyłączony.<br /><br />Pamiętaj jednak, że wciąż trzeba uważać na drodze na przypadkowych kierowców, którzy mogą porysować ci karoserię.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Non_Contact_Sport/262272_NonContactSport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Non_Contact_Sport/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294918,"title":"","headline":"GTA Online","subtitle":"연맹의 본부","content":"다이너스티 8에서는 시큐어 에이전시 스페셜 패키지 네트워크와 협력해서 전문 범죄자를 위한 호화 오피스를 새롭게 선보입니다. 이 품격 있는 오피스는 CEO를 위하여 매일 24시간 동안 상시 근무하는 비서와 헬기 착륙장, 리모델링 서비스, 커스터마이징 옵션을 제공합니다. 오피스를 구매한 후 시큐어 에이전시를 통해 CEO로 등록하면 도시 곳곳에서 불법적인 스페셜 패키지 거래를 시도할 수 있습니다.","url":"","image":{"path":"sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Head_Quarters/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294918,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "연맹의 본부",
+    "content": "다이너스티 8에서는 시큐어 에이전시 스페셜 패키지 네트워크와 협력해서 전문 범죄자를 위한 호화 오피스를 새롭게 선보입니다. 이 품격 있는 오피스는 CEO를 위하여 매일 24시간 동안 상시 근무하는 비서와 헬기 착륙장, 리모델링 서비스, 커스터마이징 옵션을 제공합니다. 오피스를 구매한 후 시큐어 에이전시를 통해 CEO로 등록하면 도시 곳곳에서 불법적인 스페셜 패키지 거래를 시도할 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Head_Quarters/.dds",
+        "filesize": 2048
+    }
+}

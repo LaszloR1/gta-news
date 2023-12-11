@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423791,"title":"","headline":"GTA Online","subtitle":"Karkołomne wyczyny: wyścigi pojazdów specjalnych","content":"Masz za sobą solidną porcję pętli, skoków i zjazdów z każdego wyścigu kaskaderskiego w San Andreas. Każdy pojazd specjalny z twojego podziemnego garażu już fruwał, szybował ze spadochronem i surfował. Co teraz? Załóż kombinezon i przygotuj się na 20 nowych wyścigów kaskaderskich zaprojektowanych dla pojazdów, których rząd by zakazał, gdyby tylko mógł.","url":"","image":{"path":"sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423791,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Karkołomne wyczyny: wyścigi pojazdów specjalnych",
+    "content": "Masz za sobą solidną porcję pętli, skoków i zjazdów z każdego wyścigu kaskaderskiego w San Andreas. Każdy pojazd specjalny z twojego podziemnego garażu już fruwał, szybował ze spadochronem i surfował. Co teraz? Załóż kombinezon i przygotuj się na 20 nowych wyścigów kaskaderskich zaprojektowanych dla pojazdów, których rząd by zakazał, gdyby tylko mógł.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

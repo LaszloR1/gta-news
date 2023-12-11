@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175563,"title":"","headline":"GTA Online","subtitle":"VIP와 수행원 이제 이용 가능","content":"이번 최신 업데이트로 자신만의 범죄 연맹을 운영하고, 다른 플레이어들을 고용하거나 해고하고, 자유 모드에서 라이벌 연맹과 대결을 벌일 수도 있습니다.<br /><br />눈 돌아갈 정도로 럭셔리한 주택이 추가되어 로스 산토스에서 더욱 멋지게 살 수 있게 되었습니다. 바인우드 힐즈에선 스틸트 하우스와 인테리어를 원하는 대로 설정할 수 있는 새로운 이클립스 펜트하우스 아파트를 구매할 수 있으며, 유능한 승무원들까지 있는 업그레이드 가능한 슈퍼 요트도 있습니다.<br /><br />새로운 방탄 이동 수단과 2개의 새로운 무기 등 여러 가지 요소가 추가되니 놓치지 마십시오!","url":"","image":{"path":"sc/news/NG_EOC_Out_Now/262272_executive_criminalv2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EOC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175563,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "VIP와 수행원 이제 이용 가능",
+    "content": "이번 최신 업데이트로 자신만의 범죄 연맹을 운영하고, 다른 플레이어들을 고용하거나 해고하고, 자유 모드에서 라이벌 연맹과 대결을 벌일 수도 있습니다.<br /><br />눈 돌아갈 정도로 럭셔리한 주택이 추가되어 로스 산토스에서 더욱 멋지게 살 수 있게 되었습니다. 바인우드 힐즈에선 스틸트 하우스와 인테리어를 원하는 대로 설정할 수 있는 새로운 이클립스 펜트하우스 아파트를 구매할 수 있으며, 유능한 승무원들까지 있는 업그레이드 가능한 슈퍼 요트도 있습니다.<br /><br />새로운 방탄 이동 수단과 2개의 새로운 무기 등 여러 가지 요소가 추가되니 놓치지 마십시오!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EOC_Out_Now/262272_executive_criminalv2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EOC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

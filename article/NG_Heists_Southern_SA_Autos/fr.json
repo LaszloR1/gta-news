@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979449,"title":"","headline":"GTA Online","subtitle":"Nouvelles offres chez SSA Super Autos","content":"SSA Super Autos a ajouté certains des véhicules les plus populaires de Los Santos à son catalogue, et notamment :<br />- Ocelot Jackal<br />- Ubermacht Oracle XS<br />- Benefactor Schafter<br /><br />... et beaucoup d'autres. Les nouveaux véhicules que vous découvrirez au cours de vos braquages seront mis en vente sur SouthernSanAndreasSuperAutos.com, alors n'oubliez pas de consulter régulièrement leur site.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Southern_SA_Autos/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouvelles offres chez SSA Super Autos",
+    "content": "SSA Super Autos a ajouté certains des véhicules les plus populaires de Los Santos à son catalogue, et notamment :<br />- Ocelot Jackal<br />- Ubermacht Oracle XS<br />- Benefactor Schafter<br /><br />... et beaucoup d'autres. Les nouveaux véhicules que vous découvrirez au cours de vos braquages seront mis en vente sur SouthernSanAndreasSuperAutos.com, alors n'oubliez pas de consulter régulièrement leur site.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/.dds",
+        "filesize": 2048
+    }
+}

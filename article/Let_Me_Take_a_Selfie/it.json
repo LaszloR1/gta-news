@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991947,"headline":"Suggerimento online","subtitle":"Aspetta, devo farmi un selfie...","content":"Rendi eterni e visibili a tutti gli incredibili momenti di GTA scattando una foto con la fotocamera del tuo cellulare. Puoi anche usare quella frontale e farti un bell'autoscatto!~n~~n~Ci sono molti filtri e cornici a disposizione, per un tocco di classe in più.~n~~n~C'è anche un creatore di meme per aggiungere didascalie alle immagini e darle in pasto al popolo del Social Club. Visualizza le foto nella galleria e premi ~INPUT_FRONTEND_X~ per accedere al creatore di meme.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991947,
+    "headline": "Suggerimento online",
+    "subtitle": "Aspetta, devo farmi un selfie...",
+    "content": "Rendi eterni e visibili a tutti gli incredibili momenti di GTA scattando una foto con la fotocamera del tuo cellulare. Puoi anche usare quella frontale e farti un bell'autoscatto!~n~~n~Ci sono molti filtri e cornici a disposizione, per un tocco di classe in più.~n~~n~C'è anche un creatore di meme per aggiungere didascalie alle immagini e darle in pasto al popolo del Social Club. Visualizza le foto nella galleria e premi ~INPUT_FRONTEND_X~ per accedere al creatore di meme.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

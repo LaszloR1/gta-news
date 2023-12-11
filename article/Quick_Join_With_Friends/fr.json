@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991416,"headline":"Astuce en ligne","subtitle":"Rejoindre rapidement des amis","content":"Une nouvelle option 'Avec des amis' est maintenant disponible sur votre téléphone quand vous rejoignez une 'Activité rapide'.<br /><br />Sélectionnez cette option pour inviter automatiquement tous vos amis présents dans votre session en mode libre et vous assurer ainsi qu'ils pourront participer à la fête !","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991416,
+    "headline": "Astuce en ligne",
+    "subtitle": "Rejoindre rapidement des amis",
+    "content": "Une nouvelle option 'Avec des amis' est maintenant disponible sur votre téléphone quand vous rejoignez une 'Activité rapide'.<br /><br />Sélectionnez cette option pour inviter automatiquement tous vos amis présents dans votre session en mode libre et vous assurer ainsi qu'ils pourront participer à la fête !",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds",
+        "filesize": 65664
+    }
+}

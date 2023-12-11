@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1387887193,"headline":"GTA Online","subtitle":"Feiertagsgeschenk","content":"Frohe Feiertage! Packe dich für einen begrenzten Zeitraum in festliche Bekleidung samt Accessoires ein, wie Weihnachtsmützen, Elfenjacken, Schneemann-Masken und mehr. <br /><br />Verschönere deine Selbstporträts und teile deine Snapmatic-Festtagsfotos mit brandneuen Foto-Filtern, Rahmen, Gesichtsanimationen, einem Meme-Generator und vielem mehr.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Holiday_Gift/65664_Holiday_Gift_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Holiday_Gift/65664_Holiday_Gift_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1387887193,
+    "headline": "GTA Online",
+    "subtitle": "Feiertagsgeschenk",
+    "content": "Frohe Feiertage! Packe dich für einen begrenzten Zeitraum in festliche Bekleidung samt Accessoires ein, wie Weihnachtsmützen, Elfenjacken, Schneemann-Masken und mehr. <br /><br />Verschönere deine Selbstporträts und teile deine Snapmatic-Festtagsfotos mit brandneuen Foto-Filtern, Rahmen, Gesichtsanimationen, einem Meme-Generator und vielem mehr.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Holiday_Gift/65664_Holiday_Gift_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Holiday_Gift/65664_Holiday_Gift_Landscape.dds",
+        "filesize": 65664
+    }
+}

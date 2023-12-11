@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999992,"title":"","headline":"GTA Online","subtitle":"Nach der Landung","content":"Du steckst mit deinen Gedanken momentan vielleicht in den Wolken, aber das bedeutet ja nicht, dass du den Geruch von verbranntem Gummi komplett vergessen hast.<br /><br />Es gibt neue Autos in der Stadt: Die verführerische Ausdruckskraft des Vapid Retinue und die ozonvernichtende Brillanz des Grotti Visione sollen dich daran erinnern, dass – ganz gleich wie viele Flugmeilen du sammelst – nichts die offene Straße ersetzen kann.","url":"","image":{"path":"sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999992,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nach der Landung",
+    "content": "Du steckst mit deinen Gedanken momentan vielleicht in den Wolken, aber das bedeutet ja nicht, dass du den Geruch von verbranntem Gummi komplett vergessen hast.<br /><br />Es gibt neue Autos in der Stadt: Die verführerische Ausdruckskraft des Vapid Retinue und die ozonvernichtende Brillanz des Grotti Visione sollen dich daran erinnern, dass – ganz gleich wie viele Flugmeilen du sammelst – nichts die offene Straße ersetzen kann.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

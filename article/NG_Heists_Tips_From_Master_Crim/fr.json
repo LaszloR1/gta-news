@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977033,"title":"","headline":"GTA Online","subtitle":"Astuces de braqueurs professionnels","content":"Si les braquages vous donnent du fil à retordre, voici quelques conseils pour vous en sortir :<br /><br />- Assurez-vous de communiquer avec votre équipe. Une communication efficace améliorera considérablement vos chances de réussite. <br />- Emportez plusieurs gilets de protection. Faites le plein à Ammu-Nation et équipez un gilet neuf via le menu Interaction.<br />- Pensez à restaurer rapidement votre santé en avalant un ou deux en-cas quand vous êtes à couvert. <br />","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977033,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Astuces de braqueurs professionnels",
+    "content": "Si les braquages vous donnent du fil à retordre, voici quelques conseils pour vous en sortir :<br /><br />- Assurez-vous de communiquer avec votre équipe. Une communication efficace améliorera considérablement vos chances de réussite. <br />- Emportez plusieurs gilets de protection. Faites le plein à Ammu-Nation et équipez un gilet neuf via le menu Interaction.<br />- Pensez à restaurer rapidement votre santé en avalant un ou deux en-cas quand vous êtes à couvert. <br />",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

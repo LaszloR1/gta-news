@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973236,"title":"로스 산토스 마약 전쟁","headline":"로스 산토스 마약 전쟁","subtitle":"상점 강도","content":"절박한 강도들이 손쉬운 돈벌이를 위해 로스 산토스의 상점들을 목표로 삼는 만큼, 소매상점도 가열되는 범죄 행각에서 자유롭지 못한 실정입니다.<br /><br />상점 강도에서 범죄를 저지르는 강도를 찾아 처치한 후, 현금을 돌려주거나 직접 챙기세요.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/6219b5ce27424821b471d279/262272_GTAO_337_ShopRobbery_FINAL_BigFeed.dds","filesize":262272},"button":"자유 모드에서 상점 강도 저지하기"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973236,
+    "title": "로스 산토스 마약 전쟁",
+    "headline": "로스 산토스 마약 전쟁",
+    "subtitle": "상점 강도",
+    "content": "절박한 강도들이 손쉬운 돈벌이를 위해 로스 산토스의 상점들을 목표로 삼는 만큼, 소매상점도 가열되는 범죄 행각에서 자유롭지 못한 실정입니다.<br /><br />상점 강도에서 범죄를 저지르는 강도를 찾아 처치한 후, 현금을 돌려주거나 직접 챙기세요.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/6219b5ce27424821b471d279/262272_GTAO_337_ShopRobbery_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "자유 모드에서 상점 강도 저지하기"
+}

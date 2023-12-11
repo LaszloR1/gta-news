@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380472161,"headline":"Suggerimento online","subtitle":"Ricercato? ","content":"Quando sei inseguito dalla polizia, diventa meno riconoscibile per ridurre istantaneamente il livello di sospetto. Funziona anche commettere meno crimini, combinare meno guai e trovare un lavoro vero. ","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Wanted/65664_Wanted_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380472161,
+    "headline": "Suggerimento online",
+    "subtitle": "Ricercato? ",
+    "content": "Quando sei inseguito dalla polizia, diventa meno riconoscibile per ridurre istantaneamente il livello di sospetto. Funziona anche commettere meno crimini, combinare meno guai e trovare un lavoro vero. ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Wanted/65664_Wanted_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

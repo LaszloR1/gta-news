@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1538496527,"title":"","headline":"GTA Online","subtitle":"Sumo (remiks)","content":"Do GTA Online powraca klasyczny tryb adwersarza. Jednak nie sądź, że płynnie wskoczysz w stare nawyki. Bezpieczna strefa wciąż jest jedynym miejscem, gdzie nie grozi Ci spalenie, ale tym razem przesuwa się ona, gdy czas dobiegnie końca, a spore fragmenty toru mogą losowo znikać. Rozwałka 2.0.","url":"","image":{"path":"sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1538496527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sumo (remiks)",
+    "content": "Do GTA Online powraca klasyczny tryb adwersarza. Jednak nie sądź, że płynnie wskoczysz w stare nawyki. Bezpieczna strefa wciąż jest jedynym miejscem, gdzie nie grozi Ci spalenie, ale tym razem przesuwa się ona, gdy czas dobiegnie końca, a spore fragmenty toru mogą losowo znikać. Rozwałka 2.0.",
+    "url": "",
+    "image": {
+        "path": "sc/news/pb4_AH_Sumo_RM/349672_SUMO_layout_V02_Bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

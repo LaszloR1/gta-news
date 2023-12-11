@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1516719927,"title":"","headline":"GTA Online","subtitle":"Ubermacht Revolter","content":"Wyobrażasz sobie, że jesteś kimś więcej niż tylko szeregowym prezesiną, więc potrzebujesz czegoś więcej niż zwykłego luksusowego sedana. Czegoś z większą mocą, większym charakterem, większą przestrzenią na montaż karabinu maszynowego z przodu. Ubermacht Revolter jest już w sprzedaży i stanowi odzwierciedlenie Twojej szybkiej i zabójczej determinacji oraz wybujałego ego.","url":"","image":{"path":"sc/news/DH_Ubermacht_Revolter/524416_BIGFEED_2017_1212_V01_A_512x1024_Ubermacht_Revolter.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1516719927,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ubermacht Revolter",
+    "content": "Wyobrażasz sobie, że jesteś kimś więcej niż tylko szeregowym prezesiną, więc potrzebujesz czegoś więcej niż zwykłego luksusowego sedana. Czegoś z większą mocą, większym charakterem, większą przestrzenią na montaż karabinu maszynowego z przodu. Ubermacht Revolter jest już w sprzedaży i stanowi odzwierciedlenie Twojej szybkiej i zabójczej determinacji oraz wybujałego ego.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Ubermacht_Revolter/524416_BIGFEED_2017_1212_V01_A_512x1024_Ubermacht_Revolter.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

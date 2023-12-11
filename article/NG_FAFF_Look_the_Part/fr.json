@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292975,"title":"","headline":"GTA Online","subtitle":"La classe en toutes circonstances","content":"Cette saison, rendez-vous dans les boutiques de Los Santos et faites sensation avec les vêtements de gros bonnets et de gardes du corps, ainsi qu'avec les tout derniers produits signés SecuroServ. Que vous souhaitiez donner l'impression d'être un grand criminel sophistiqué ou un gorille qui propose ses services, vous trouverez votre bonheur.","url":"","image":{"path":"sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Look_the_Part/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La classe en toutes circonstances",
+    "content": "Cette saison, rendez-vous dans les boutiques de Los Santos et faites sensation avec les vêtements de gros bonnets et de gardes du corps, ainsi qu'avec les tout derniers produits signés SecuroServ. Que vous souhaitiez donner l'impression d'être un grand criminel sophistiqué ou un gorille qui propose ses services, vous trouverez votre bonheur.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/.dds",
+        "filesize": 2048
+    }
+}

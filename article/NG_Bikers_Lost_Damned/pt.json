@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477562017,"title":"","headline":"GTA Online","subtitle":"Luta no Limbo","content":"Dia e noite impõem as regras do mais novo Modo Adversário do GTAO. Se você estiver do lado dos Anjos, aproveite ao máximo os bônus que receber enquanto for dia para punir os seus oponentes. Se estiver do lado dos Demônios, aguente firme até a escuridão cair para exercer sua vingança. O jogo vira a cada 60 segundos e quem ficar na frente vence. Que venha o apocalipse!","url":"","image":{"path":"sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Lost_Damned/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477562017,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Luta no Limbo",
+    "content": "Dia e noite impõem as regras do mais novo Modo Adversário do GTAO. Se você estiver do lado dos Anjos, aproveite ao máximo os bônus que receber enquanto for dia para punir os seus oponentes. Se estiver do lado dos Demônios, aguente firme até a escuridão cair para exercer sua vingança. O jogo vira a cada 60 segundos e quem ficar na frente vence. Que venha o apocalipse!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/.dds",
+        "filesize": 2048
+    }
+}

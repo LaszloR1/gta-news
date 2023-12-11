@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991946,"headline":"Astuce en ligne","subtitle":"L'art du selfie...","content":"Immortalisez vos grands moments GTA pour les partager avec la communauté grâce à l'appareil-photo intégré à votre téléphone. Vous pouvez même tourner l'objectif vers vous pour faire un selfie !~n~~n~Utilisez les nombreux cadres et filtres proposés pour embellir vos clichés.~n~~n~Un éditeur de mème vous permet d'ajouter une légende à vos images, à l'attention des masses du Social Club. Parcourez votre galerie et appuyez sur ~INPUT_FRONTEND_X~ pour accéder à cet éditeur.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991946,
+    "headline": "Astuce en ligne",
+    "subtitle": "L'art du selfie...",
+    "content": "Immortalisez vos grands moments GTA pour les partager avec la communauté grâce à l'appareil-photo intégré à votre téléphone. Vous pouvez même tourner l'objectif vers vous pour faire un selfie !~n~~n~Utilisez les nombreux cadres et filtres proposés pour embellir vos clichés.~n~~n~Un éditeur de mème vous permet d'ajouter une légende à vos images, à l'attention des masses du Social Club. Parcourez votre galerie et appuyez sur ~INPUT_FRONTEND_X~ pour accéder à cet éditeur.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

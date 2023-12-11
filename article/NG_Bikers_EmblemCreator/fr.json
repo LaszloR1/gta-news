@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515786,"title":"","headline":"GTA Online","subtitle":"L'Éditeur d'emblème du Social Club","content":"Tout club de motards se doit d'exhiber un insigne d'honneur, et le vôtre n'y fait pas exception. L'Éditeur d'emblème du Social Club vous propose désormais des motifs et des designs sur le thème des motards, ainsi que de nouvelles options pour personnaliser vos créations. C'est la première impression qui compte, alors soignez la vôtre.","url":"","image":{"path":"sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_EmblemCreator/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515786,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "L'Éditeur d'emblème du Social Club",
+    "content": "Tout club de motards se doit d'exhiber un insigne d'honneur, et le vôtre n'y fait pas exception. L'Éditeur d'emblème du Social Club vous propose désormais des motifs et des designs sur le thème des motards, ainsi que de nouvelles options pour personnaliser vos créations. C'est la première impression qui compte, alors soignez la vôtre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/262272_Social_Club_Emblem_Creator.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_EmblemCreator/.dds",
+        "filesize": 2048
+    }
+}

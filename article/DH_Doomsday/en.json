@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513097130,"title":"","headline":"GTA Online","subtitle":"Doomsday","content":"A vast new level of criminal enterprise has come to San Andreas, and the stakes have never been higher. Hunker down deep underground in an abandoned top secret government facility with your finger on the button marked “Orbital Cannon”. Get your hands on the Avenger: a flying, death-dealing HQ that redefines tactical flexibility and devastating strength. And when you think you’re ready, take on the Doomsday Heist itself - a massive series of interconnected adventures. Buckle up.","url":"","image":{"path":"sc/news/DH_Doomsday/262272_GTAO407_Heists2_Layout_V16_c9.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513097130,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Doomsday",
+    "content": "A vast new level of criminal enterprise has come to San Andreas, and the stakes have never been higher. Hunker down deep underground in an abandoned top secret government facility with your finger on the button marked “Orbital Cannon”. Get your hands on the Avenger: a flying, death-dealing HQ that redefines tactical flexibility and devastating strength. And when you think you’re ready, take on the Doomsday Heist itself - a massive series of interconnected adventures. Buckle up.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Doomsday/262272_GTAO407_Heists2_Layout_V16_c9.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455282,"title":"","headline":"GTA Online","subtitle":"After Hours","content":"Los Santos è fatta di luci sfavillanti, notti interminabili e denaro scottante. E fidati, nulla sarà più sfavillante, interminabile e scottante di After Hours. Gestisci il night club più esclusivo della città, attira DJ di fama mondiale e sfrutta il tutto come copertura per l'impresa criminale più esplosiva nella storia di San Andreas.<br />","url":"","image":{"path":"sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455282,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "After Hours",
+    "content": "Los Santos è fatta di luci sfavillanti, notti interminabili e denaro scottante. E fidati, nulla sarà più sfavillante, interminabile e scottante di After Hours. Gestisci il night club più esclusivo della città, attira DJ di fama mondiale e sfrutta il tutto come copertura per l'impresa criminale più esplosiva nella storia di San Andreas.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Hours/349672_Big_Feed_After_Hours.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

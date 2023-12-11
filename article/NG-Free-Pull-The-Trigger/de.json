@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314254,"title":"","headline":"GTA Online","subtitle":"Drück den Auslöser","content":"Die Job-Auslöser, die auf der Karte verteilt sind, werden jetzt manuell einfach durch das Drücken von ~INPUT_CONTEXT~ aktiviert. Das erlaubt es dir, einen Auslöser zu passieren, ohne den Job zu starten – perfekt, wenn du ein Bewegliches Ziel verfolgst oder eine Flucht mit der Heißen Ware durchziehst. Wenn du die Auslöser komplett ausblenden willst, dann kannst du das über ''Markierungen ausblenden'' im Interaktionsmenü machen.","url":"","image":{"path":"sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Pull-The-Trigger/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314254,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Drück den Auslöser",
+    "content": "Die Job-Auslöser, die auf der Karte verteilt sind, werden jetzt manuell einfach durch das Drücken von ~INPUT_CONTEXT~ aktiviert. Das erlaubt es dir, einen Auslöser zu passieren, ohne den Job zu starten – perfekt, wenn du ein Bewegliches Ziel verfolgst oder eine Flucht mit der Heißen Ware durchziehst. Wenn du die Auslöser komplett ausblenden willst, dann kannst du das über ''Markierungen ausblenden'' im Interaktionsmenü machen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/262272_Pull-The-Trigger-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Pull-The-Trigger/.dds",
+        "filesize": 2048
+    }
+}

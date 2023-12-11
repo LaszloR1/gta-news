@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736470,"title":"","headline":"GTA Online","subtitle":"DOŁĄCZ DO KLUBU","content":"Klub Vinewood to najmodniejszy klub tylko dla członków w Los Santos ze szczególnymi korzyściami dla subskrybentów GTA+.<br /><br />Już teraz dołącz do międzynarodowej elity, aby uzyskać dostęp do nowo otwartego Automobilklubu Vinewood, którego członkowie mogą swobodnie wypożyczać ekskluzywne pojazdy i kupować je w niższej cenie. Członkowie GTA+ mogą też oglądać i odbierać darmowe pojazdy prosto z Automobilklubu. <br /><br />Zajrzyj do salonu w Terminalu, aby dowiedzieć się więcej.<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE","image":{"path":"sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736470,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "DOŁĄCZ DO KLUBU",
+    "content": "Klub Vinewood to najmodniejszy klub tylko dla członków w Los Santos ze szczególnymi korzyściami dla subskrybentów GTA+.<br /><br />Już teraz dołącz do międzynarodowej elity, aby uzyskać dostęp do nowo otwartego Automobilklubu Vinewood, którego członkowie mogą swobodnie wypożyczać ekskluzywne pojazdy i kupować je w niższej cenie. Członkowie GTA+ mogą też oglądać i odbierać darmowe pojazdy prosto z Automobilklubu. <br /><br />Zajrzyj do salonu w Terminalu, aby dowiedzieć się więcej.<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/222127d3e912423fa22a896c/262272_GTAO_354_VinewoodAnnounce_Lead_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

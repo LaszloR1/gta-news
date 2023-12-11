@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356421,"title":"","headline":"GTA Online","subtitle":"Zmień stację","content":"Z radością oznajmiamy, że na falach radiowych Los Santos pojawiła się nowa stacja.<br /><br />W The Lab można usłyszeć muzykę z przeróżnych gatunków, a chwile pomiędzy nowymi utworami umilą wam Dr No and the Chemical Bro. Z tą stacją strzelanie z samochodu stanie się jeszcze przyjemniejsze.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Change_that_Dial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356421,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zmień stację",
+    "content": "Z radością oznajmiamy, że na falach radiowych Los Santos pojawiła się nowa stacja.<br /><br />W The Lab można usłyszeć muzykę z przeróżnych gatunków, a chwile pomiędzy nowymi utworami umilą wam Dr No and the Chemical Bro. Z tą stacją strzelanie z samochodu stanie się jeszcze przyjemniejsze.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/262272_TheLab.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Change_that_Dial/.dds",
+        "filesize": 2048
+    }
+}

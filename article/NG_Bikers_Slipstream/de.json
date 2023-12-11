@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519976,"title":"","headline":"GTA Online","subtitle":"Slipstream","content":"In Slipstream, dem neuesten Gegner-Modus auf den Straßen von Los Santos, ist es an der Zeit, den ungestümen Individualismus hinter sich zu lassen.<br /><br />Slipstream ist ein Teamrennen mit einem ganz besonderen Dreh: Alle Teammitglieder müssen Kontrollpunkte zusammen passieren, um im Rennen voranzukommen. Das Team, dessen Mitglieder als Erstes zusammen über die Ziellinie kommen, gewinnt.<br /><br />Und eines kannst du uns glauben: Das Fahren im Windschatten ist dabei bestimmt nicht optional.","url":"","image":{"path":"sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Slipstream/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519976,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Slipstream",
+    "content": "In Slipstream, dem neuesten Gegner-Modus auf den Straßen von Los Santos, ist es an der Zeit, den ungestümen Individualismus hinter sich zu lassen.<br /><br />Slipstream ist ein Teamrennen mit einem ganz besonderen Dreh: Alle Teammitglieder müssen Kontrollpunkte zusammen passieren, um im Rennen voranzukommen. Das Team, dessen Mitglieder als Erstes zusammen über die Ziellinie kommen, gewinnt.<br /><br />Und eines kannst du uns glauben: Das Fahren im Windschatten ist dabei bestimmt nicht optional.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Slipstream/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1470048391,"title":"","headline":"GTA Online","subtitle":"Stunt editor","content":"Un nuovo, versatile strumento per creare le proprie gare stunt è ora disponibile nel creatore di gare. Oltre agli insidiosi tubi, ai blocchi e alle rampe, avrai accesso a turbo per i veicoli, checkpoint secondari, fuochi d'artificio e tanto altro: perfetti per stunt fuori di testa e per i loro creatori.","url":"","image":{"path":"sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunt_Editor_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1470048391,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stunt editor",
+    "content": "Un nuovo, versatile strumento per creare le proprie gare stunt è ora disponibile nel creatore di gare. Oltre agli insidiosi tubi, ai blocchi e alle rampe, avrai accesso a turbo per i veicoli, checkpoint secondari, fuochi d'artificio e tanto altro: perfetti per stunt fuori di testa e per i loro creatori.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

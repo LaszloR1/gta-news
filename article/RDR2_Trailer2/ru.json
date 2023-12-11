@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1506609933,"title":"RED DEAD REDEMPTION II","headline":"RED DEAD REDEMPTION II","subtitle":"Смотрите новый трейлер","content":"Предлагаем вашему вниманию новый трейлер Red Dead Redemption 2. Артуру Моргану и другим бандитам из шайки Ван дер Линде предстоит участвовать в кражах, грабежах и перестрелках в самом сердце Америки, на неприветливой земле, где каждый день – это борьба за выживание. Выход игры запланирован на весну 2018 года.<br /><br />Ознакомиться с трейлером можно на сайте www.rockstargames.com/ru/","url":"","image":{"path":"sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-RUS.dds","filesize":349672},"style":"rdr"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1506609933,
+    "title": "RED DEAD REDEMPTION II",
+    "headline": "RED DEAD REDEMPTION II",
+    "subtitle": "Смотрите новый трейлер",
+    "content": "Предлагаем вашему вниманию новый трейлер Red Dead Redemption 2. Артуру Моргану и другим бандитам из шайки Ван дер Линде предстоит участвовать в кражах, грабежах и перестрелках в самом сердце Америки, на неприветливой земле, где каждый день – это борьба за выживание. Выход игры запланирован на весну 2018 года.<br /><br />Ознакомиться с трейлером можно на сайте www.rockstargames.com/ru/",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-RUS.dds",
+        "filesize": 349672
+    },
+    "style": "rdr"
+}

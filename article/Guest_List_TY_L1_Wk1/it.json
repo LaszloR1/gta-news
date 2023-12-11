@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635576,"title":"Benefici della Guest List","headline":"Benefici della Guest List","subtitle":"Sei in Lista!","content":"Grazie per essere entrato nella Guest List! Le tue ricompense settimanali esclusive della Guest List sono ora disponibili:<br /><br />- 300.000 GTA$ omaggio<br />- L'esclusivo Completo integrale reticolato arancione (puoi accedervi tramite il guardaroba o averlo gratis in tutti i negozi d'abbigliamento di Los Santos)<br /><br />Ci vediamo la prossima settimana per le nuove ricompense esclusive della Guest List!","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_ITA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635576,
+    "title": "Benefici della Guest List",
+    "headline": "Benefici della Guest List",
+    "subtitle": "Sei in Lista!",
+    "content": "Grazie per essere entrato nella Guest List! Le tue ricompense settimanali esclusive della Guest List sono ora disponibili:<br /><br />- 300.000 GTA$ omaggio<br />- L'esclusivo Completo integrale reticolato arancione (puoi accedervi tramite il guardaroba o averlo gratis in tutti i negozi d'abbigliamento di Los Santos)<br /><br />Ci vediamo la prossima settimana per le nuove ricompense esclusive della Guest List!",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_ITA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

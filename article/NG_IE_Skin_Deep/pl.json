@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543434,"title":"","headline":"GTA Online","subtitle":"Głębsza zmiana","content":"Nowe ciuchy, tatuaże, włosy, samochód, znajomi – ale wciąż odczuwasz nieznośny dyskomfort. Nie, to wcale nie dlatego, że jesteś pustą, bezduszną skorupą. Po prostu podstawowe elementy anatomii powinny być równie wymienne, co partnerzy seksualni. Teraz to marzenie staje się faktem. Zmień wygląd swojej postaci, wystarczy udać się do sekcji styl w menu interakcji, aby sprawić sobie kompletną przeróbkę. Wypełnij pustkę, jak na bogatą osobę przystało.","url":"","image":{"path":"sc/news/NG_IE_Skin_Deep/262272_skindeep.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Skin_Deep/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543434,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Głębsza zmiana",
+    "content": "Nowe ciuchy, tatuaże, włosy, samochód, znajomi – ale wciąż odczuwasz nieznośny dyskomfort. Nie, to wcale nie dlatego, że jesteś pustą, bezduszną skorupą. Po prostu podstawowe elementy anatomii powinny być równie wymienne, co partnerzy seksualni. Teraz to marzenie staje się faktem. Zmień wygląd swojej postaci, wystarczy udać się do sekcji styl w menu interakcji, aby sprawić sobie kompletną przeróbkę. Wypełnij pustkę, jak na bogatą osobę przystało.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Skin_Deep/262272_skindeep.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Skin_Deep/.dds",
+        "filesize": 2048
+    }
+}

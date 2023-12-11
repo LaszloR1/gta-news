@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433953265,"title":"","headline":"GTA Online","subtitle":"Motorleistung mit Stil","content":"Besuche noch heute LegendaryMotorsport.net, um die neuen Augenweiden unter den Fahrzeugen zu entdecken. Zum Beispiel einen der schönsten Supersportwagen, die jemals in den Straßen von Los Santos zu sehen waren: den Pegassi Osiris.<br /><br />Außerdem erhältlich ist jetzt der neue Enus Windsor, mit einer Auswahl an exklusiven, auffälligen Lackierungen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Stylish_Performance/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433953265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Motorleistung mit Stil",
+    "content": "Besuche noch heute LegendaryMotorsport.net, um die neuen Augenweiden unter den Fahrzeugen zu entdecken. Zum Beispiel einen der schönsten Supersportwagen, die jemals in den Straßen von Los Santos zu sehen waren: den Pegassi Osiris.<br /><br />Außerdem erhältlich ist jetzt der neue Enus Windsor, mit einer Auswahl an exklusiven, auffälligen Lackierungen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_Stylish_Performance/65664_Hot_Wheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Stylish_Performance/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677133,"title":"GTA+","headline":"GTA+","subtitle":"アベンジャーの作戦端末","content":"GTA+メンバーは7月19日までアベンジャーの作戦端末を無料で実装できます。<br /><br />作戦端末は内部アップグレードで、「プロジェクトオーバースロー」と「LSAオペレーション」が解除されます。<br /><br />アベンジャーを格納庫に持って行けば、チャーリーがアベンジャーの作戦端末を実装してくれます。チャーリーのアップグレードメニューからアベンジャーをカスタマイズしましょう。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_ja_jp.dds","filesize":262272},"button":"選択してGTA+に登録"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677133,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "アベンジャーの作戦端末",
+    "content": "GTA+メンバーは7月19日までアベンジャーの作戦端末を無料で実装できます。<br /><br />作戦端末は内部アップグレードで、「プロジェクトオーバースロー」と「LSAオペレーション」が解除されます。<br /><br />アベンジャーを格納庫に持って行けば、チャーリーがアベンジャーの作戦端末を実装してくれます。チャーリーのアップグレードメニューからアベンジャーをカスタマイズしましょう。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_ja_jp.dds",
+        "filesize": 262272
+    },
+    "button": "選択してGTA+に登録"
+}

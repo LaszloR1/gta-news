@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513701284,"title":"","headline":"GTA Online","subtitle":"占領","content":" 「GTAオンライン」の敵対モードに、戦略を駆使して領地拡大を目指す「占領」モードが登場しました。キルストリークは気にせず、より多くのキーエリアをチームの支配下に置きましょう。とはいえ、空飛ぶバイクからの攻撃を避ける方法も知っておいて損はありません。","url":"","image":{"path":"sc/news/DH_Occupy/262272_bigfeed-occupy.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513701284,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "占領",
+    "content": " 「GTAオンライン」の敵対モードに、戦略を駆使して領地拡大を目指す「占領」モードが登場しました。キルストリークは気にせず、より多くのキーエリアをチームの支配下に置きましょう。とはいえ、空飛ぶバイクからの攻撃を避ける方法も知っておいて損はありません。",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Occupy/262272_bigfeed-occupy.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471929,"headline":"Consejo en línea","subtitle":"Manos a la obra","content":"¿Quieres pasar a la acción de inmediato? Elige Actividad rápida en tu móvil para pasar directamente a una carrera, partida a muerte, misión o lista de partidas. Esta opción te llevará a la actividad abierta más cercana y que se adapte a tus requisitos.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471929,
+    "headline": "Consejo en línea",
+    "subtitle": "Manos a la obra",
+    "content": "¿Quieres pasar a la acción de inmediato? Elige Actividad rápida en tu móvil para pasar directamente a una carrera, partida a muerte, misión o lista de partidas. Esta opción te llevará a la actividad abierta más cercana y que se adapte a tus requisitos.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285749,"title":"GTA+","headline":"GTA+","subtitle":"Darmowa odzież","content":"Członkowie GTA+ mogą do 13 września za darmo odebrać strój Furia pięści (dla kobiet), koszulkę Love Fist i flanelową koszulę Love Fist.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_pl_pl.dds","filesize":262272},"button":"Wybierz, aby dołączyć do GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285749,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Darmowa odzież",
+    "content": "Członkowie GTA+ mogą do 13 września za darmo odebrać strój Furia pięści (dla kobiet), koszulkę Love Fist i flanelową koszulę Love Fist.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby dołączyć do GTA+"
+}

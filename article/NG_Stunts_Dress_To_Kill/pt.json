@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324792,"title":"","headline":"GTA Online","subtitle":"Vista-se para matar","content":"Agora, nos vendedores de Los Santos, uma variedade de modas inovadoras e radicais com a temática de corrida. Ostente seus vínculos corporativos com blusas de corrida patrocinadas, vista-se dos pés à cabeça com roupas de corrida ou entre totalmente no papel com o macacão retrô. Você pode não se misturar na multidão, mas isso não é motivo para não se vestir de acordo.","url":"","image":{"path":"sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dress_To_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vista-se para matar",
+    "content": "Agora, nos vendedores de Los Santos, uma variedade de modas inovadoras e radicais com a temática de corrida. Ostente seus vínculos corporativos com blusas de corrida patrocinadas, vista-se dos pés à cabeça com roupas de corrida ou entre totalmente no papel com o macacão retrô. Você pode não se misturar na multidão, mas isso não é motivo para não se vestir de acordo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/.dds",
+        "filesize": 2048
+    }
+}

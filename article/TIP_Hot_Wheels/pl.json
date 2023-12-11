@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471718,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Gorący towar?","content":"Żaden szanujący się warsztat nie zajmie się samochodem, który został 'pożyczony' od prawowitych właścicieli. Najbardziej zaawansowane i luksusowe pojazdy muszą zostać zakupione z legalnego źródła, więc najlepiej podejść do sprawy rozsądnie i skorzystać z sieci.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Hot_Wheels/65664_HotWheels.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Hot_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471718,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Gorący towar?",
+    "content": "Żaden szanujący się warsztat nie zajmie się samochodem, który został 'pożyczony' od prawowitych właścicieli. Najbardziej zaawansowane i luksusowe pojazdy muszą zostać zakupione z legalnego źródła, więc najlepiej podejść do sprawy rozsądnie i skorzystać z sieci.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Hot_Wheels/65664_HotWheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Hot_Wheels/.dds",
+        "filesize": 2048
+    }
+}

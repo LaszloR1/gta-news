@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677117,"title":"GTA+","headline":"GTA+","subtitle":"Эксклюзивная одежда","content":"В Лос-Сантосе самое главное – имидж, улучшить который вы сможете с помощью этих эксклюзивных предметов одежды, доступных по подписке GTA+ до 19 июля:<br /><br />- Спортивные шорты Hinterland<br />- Футболка Hinterland<br />- Зеленая светящаяся маска «Леди свобода»<br /><br />Подписка GTA+ автоматически продлевается каждый месяц, отменить ее можно в любой момент. Все подробности – на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677117,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Эксклюзивная одежда",
+    "content": "В Лос-Сантосе самое главное – имидж, улучшить который вы сможете с помощью этих эксклюзивных предметов одежды, доступных по подписке GTA+ до 19 июля:<br /><br />- Спортивные шорты Hinterland<br />- Футболка Hinterland<br />- Зеленая светящаяся маска «Леди свобода»<br /><br />Подписка GTA+ автоматически продлевается каждый месяц, отменить ее можно в любой момент. Все подробности – на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

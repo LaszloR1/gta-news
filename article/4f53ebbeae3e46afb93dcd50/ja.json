@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1677166660,"title":"","headline":"GTAオンライン","subtitle":"「オフェンス・ディフェンス」でGTAマネーとRP2倍","content":"オフェンス・ディフェンスでは、各チームにランナーとブロッカーが存在します。<br /><br />ランナーは敵チームのブロッカーをかわしながらゴールを目指します。ブロッカーは敵をコースから押し出しつつ、味方のランナーも守らなければなりません。<br /><br />3月1日までの期間中は、勝敗に関わらず2倍の報酬を手に入れられます。","url":"","image":{"path":"sc/news/4f53ebbeae3e46afb93dcd50/262272_GTAO268_OffenseDefense_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1677166660,
+    "title": "",
+    "headline": "GTAオンライン",
+    "subtitle": "「オフェンス・ディフェンス」でGTAマネーとRP2倍",
+    "content": "オフェンス・ディフェンスでは、各チームにランナーとブロッカーが存在します。<br /><br />ランナーは敵チームのブロッカーをかわしながらゴールを目指します。ブロッカーは敵をコースから押し出しつつ、味方のランナーも守らなければなりません。<br /><br />3月1日までの期間中は、勝敗に関わらず2倍の報酬を手に入れられます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/4f53ebbeae3e46afb93dcd50/262272_GTAO268_OffenseDefense_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

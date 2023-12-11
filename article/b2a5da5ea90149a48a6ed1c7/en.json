@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1638466048,"title":"","headline":"GTA Online","subtitle":"This Week on the Podium: The Mammoth Squaddie","content":"Visit The Diamond Casino & Resort to spin the Lucky Wheel and walk away with GTA$, RP, clothes, snacks, and all manner of mystery prizes. The top prize is the Mammoth Squaddie, an honest-to-goodness piece of military equipment deigned appropriate for civilian consumption. Crew cuts are optional but encouraged.","url":"","image":{"path":"sc/news/b2a5da5ea90149a48a6ed1c7/349672_podium_wheel1.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1638466048,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "This Week on the Podium: The Mammoth Squaddie",
+    "content": "Visit The Diamond Casino & Resort to spin the Lucky Wheel and walk away with GTA$, RP, clothes, snacks, and all manner of mystery prizes. The top prize is the Mammoth Squaddie, an honest-to-goodness piece of military equipment deigned appropriate for civilian consumption. Crew cuts are optional but encouraged.",
+    "url": "",
+    "image": {
+        "path": "sc/news/b2a5da5ea90149a48a6ed1c7/349672_podium_wheel1.dds",
+        "filesize": 349672
+    }
+}

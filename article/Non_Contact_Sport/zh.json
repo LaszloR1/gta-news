@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1403000038,"title":"","headline":"線上小訣竅","subtitle":"無碰撞式運動","content":"在我們推出「無碰撞式競速」的選擇後，競速終於可以再度成為有紳士風範的運動了。<br /><br />任何競速的主持人，都可以透過大廳的選項將「競速類型」變更為「無碰撞式」；變更後，玩家的載具就不會有碰撞，而且也不會有尾流效果。<br /><br />不過您必須注意洛聖都的一般通勤人士，因為他們的載具仍然會撞凹您精美的板金。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Non_Contact_Sport/262272_NonContactSport.dds","filesize":262272},"landscape":{"path":"sc/news/Non_Contact_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1403000038,
+    "title": "",
+    "headline": "線上小訣竅",
+    "subtitle": "無碰撞式運動",
+    "content": "在我們推出「無碰撞式競速」的選擇後，競速終於可以再度成為有紳士風範的運動了。<br /><br />任何競速的主持人，都可以透過大廳的選項將「競速類型」變更為「無碰撞式」；變更後，玩家的載具就不會有碰撞，而且也不會有尾流效果。<br /><br />不過您必須注意洛聖都的一般通勤人士，因為他們的載具仍然會撞凹您精美的板金。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Non_Contact_Sport/262272_NonContactSport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Non_Contact_Sport/.dds",
+        "filesize": 2048
+    }
+}

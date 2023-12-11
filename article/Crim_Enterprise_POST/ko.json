@@ -1,1 +1,16 @@
-{"types":["starterpackowned"],"date":1513241739,"title":"범죄 조직 스타터 팩","headline":"범죄 조직 스타터 팩","subtitle":"","content":"범죄 조직 스타터 팩을 구입하셨군요. 이제 다양한 부동산, 사업장, 무기, 이동 수단 등 GTA 온라인에서 가장 재미있고 인기 많은 콘텐츠를 이용할 수 있습니다.<br /><br />콘텐츠에 대한 자세한 내용 및 이용 방법을 확인하려면 계속하십시오.","url":"","image":{"path":"sc/news/Crim_Enterprise_POST/218528_GTAO_StarterPack_Pausemenu.dds","filesize":218528},"style":"gta"}
+{
+    "types": [
+        "starterpackowned"
+    ],
+    "date": 1513241739,
+    "title": "범죄 조직 스타터 팩",
+    "headline": "범죄 조직 스타터 팩",
+    "subtitle": "",
+    "content": "범죄 조직 스타터 팩을 구입하셨군요. 이제 다양한 부동산, 사업장, 무기, 이동 수단 등 GTA 온라인에서 가장 재미있고 인기 많은 콘텐츠를 이용할 수 있습니다.<br /><br />콘텐츠에 대한 자세한 내용 및 이용 방법을 확인하려면 계속하십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Crim_Enterprise_POST/218528_GTAO_StarterPack_Pausemenu.dds",
+        "filesize": 218528
+    },
+    "style": "gta"
+}

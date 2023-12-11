@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1384446979,"headline":"GTA Online","subtitle":"Strandliebhaber-Update bald erhältlich","content":"Das kostenlose Update wird nächste Woche erhältlich sein und bietet einen Haufen neuer Strand- und Freizeitinhalte. Mit drin:<br /><br />- Vier neue, tolle Strandspaßfahrzeuge, unter anderem der neue Speeder. <br />- Zahlreiche neue, unglaublich entspannte, lässige Kleidungsstücke, plus neue Tätowierungen und Frisuren. <br />- 2 neue, eher weniger entspannte Waffen. <br />- Jede Menge exklusive Jobs, falls dir die Entspannung zu viel wird.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1384446979,
+    "headline": "GTA Online",
+    "subtitle": "Strandliebhaber-Update bald erhältlich",
+    "content": "Das kostenlose Update wird nächste Woche erhältlich sein und bietet einen Haufen neuer Strand- und Freizeitinhalte. Mit drin:<br /><br />- Vier neue, tolle Strandspaßfahrzeuge, unter anderem der neue Speeder. <br />- Zahlreiche neue, unglaublich entspannte, lässige Kleidungsstücke, plus neue Tätowierungen und Frisuren. <br />- 2 neue, eher weniger entspannte Waffen. <br />- Jede Menge exklusive Jobs, falls dir die Entspannung zu viel wird.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds",
+        "filesize": 65664
+    }
+}

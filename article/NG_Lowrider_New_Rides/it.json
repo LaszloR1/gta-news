@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349483,"title":"","headline":"GTA Online","subtitle":"Nuove vetture","content":"Dal sito di Benny è possibile acquistare due nuove muscle car, oltre a una selezione di auto curata da Benny, che con il suo intervento potranno trasformarsi in meravigliose lowrider. <br /><br />Monta un impianto idraulico a pompe quadruple sulla Willard Faction per saltare come si deve, oppure fai salire la tua banda a bordo di una Declasse Moonbeam ed effettua agguati in corsa sparando dagli sportelli scorrevoli.","url":"","image":{"path":"sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowrider_New_Rides/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349483,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuove vetture",
+    "content": "Dal sito di Benny è possibile acquistare due nuove muscle car, oltre a una selezione di auto curata da Benny, che con il suo intervento potranno trasformarsi in meravigliose lowrider. <br /><br />Monta un impianto idraulico a pompe quadruple sulla Willard Faction per saltare come si deve, oppure fai salire la tua banda a bordo di una Declasse Moonbeam ed effettua agguati in corsa sparando dagli sportelli scorrevoli.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowrider_New_Rides/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowrider_New_Rides/.dds",
+        "filesize": 2048
+    }
+}

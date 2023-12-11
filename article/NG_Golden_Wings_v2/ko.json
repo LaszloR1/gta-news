@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952127,"title":"","headline":"GTA Online","subtitle":"황금 날개","content":"로스 산토스 사회에서 가장 부유한 멤버들이 탐낼 새로운 최고급 호화 비행기, 룩소르 디럭스와 스위프트 디럭스를 엘리타스 여행에서 준비했습니다. 이 두 비행기의 인테리어는 황금으로 된 외관만큼이나 사치스럽습니다. 의자에 편히 기대 시원한 샴페인을 마시면서 여행을 즐기십시오. ~INPUT_ENTER~를 누르고 있으면 바로 승객 좌석으로 갑니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952127,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "황금 날개",
+    "content": "로스 산토스 사회에서 가장 부유한 멤버들이 탐낼 새로운 최고급 호화 비행기, 룩소르 디럭스와 스위프트 디럭스를 엘리타스 여행에서 준비했습니다. 이 두 비행기의 인테리어는 황금으로 된 외관만큼이나 사치스럽습니다. 의자에 편히 기대 시원한 샴페인을 마시면서 여행을 즐기십시오. ~INPUT_ENTER~를 누르고 있으면 바로 승객 좌석으로 갑니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

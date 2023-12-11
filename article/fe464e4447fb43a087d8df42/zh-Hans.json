@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686319815,"title":"体验改进","headline":"体验改进","subtitle":"即将于µGTAµ在线模式推出","content":"作为µGTAµ在线模式：圣安地列斯雇佣兵的一部分，我们将继续通过一系列体验方面的更新和升级来改善在线体验，包括：<br /><br />-µ在提交共荣保险索赔时，可以一次对所有被毁坏的载具提出索赔。<br />-µ为车库增加了自定义描述标签。<br />-µ在“设置菜单”中可以选择替代的冲刺控制方式（按住以冲刺）。<br /><br />以及更多精彩内容。请查看µRockstarµ新闻专线了解更多详情。","url":"","image":{"path":"sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686319815,
+    "title": "体验改进",
+    "headline": "体验改进",
+    "subtitle": "即将于µGTAµ在线模式推出",
+    "content": "作为µGTAµ在线模式：圣安地列斯雇佣兵的一部分，我们将继续通过一系列体验方面的更新和升级来改善在线体验，包括：<br /><br />-µ在提交共荣保险索赔时，可以一次对所有被毁坏的载具提出索赔。<br />-µ为车库增加了自定义描述标签。<br />-µ在“设置菜单”中可以选择替代的冲刺控制方式（按住以冲刺）。<br /><br />以及更多精彩内容。请查看µRockstarµ新闻专线了解更多详情。",
+    "url": "",
+    "image": {
+        "path": "sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

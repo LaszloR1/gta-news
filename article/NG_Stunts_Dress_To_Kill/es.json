@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324792,"title":"","headline":"GTA Online","subtitle":"Vestido para matar","content":"Ya hay disponible una amplia e innovadora gama de ropa de carreras en las tiendas de todo Los Santos. Presume de tus patrocinadores con camisetas de carreras que incluyen el logotipo de las marcas. Vístete de la cabeza a los pies con equipo de carreras o ponte un mono de acróbata para meterte de lleno en el papel. Puede que apenas se te vea, pero eso no significa que no tengas que vestirte como es debido.","url":"","image":{"path":"sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dress_To_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vestido para matar",
+    "content": "Ya hay disponible una amplia e innovadora gama de ropa de carreras en las tiendas de todo Los Santos. Presume de tus patrocinadores con camisetas de carreras que incluyen el logotipo de las marcas. Vístete de la cabeza a los pies con equipo de carreras o ponte un mono de acróbata para meterte de lleno en el papel. Puede que apenas se te vea, pero eso no significa que no tengas que vestirte como es debido.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/.dds",
+        "filesize": 2048
+    }
+}

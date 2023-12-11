@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380568682,"title":"","headline":"Сетевые подсказки","subtitle":"Используйте пассивный режим","content":"Чтобы спокойно исследовать игровой мир, включите пассивный режим. Когда вы передвигаетесь пешком в этом режиме, другие игроки не могут стрелять в вас, а вы не можете стрелять в них. Чудовищно нереалистичный режим!<br /><br />Пассивный режим можно включить в меню взаимодействия.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Passive_Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380568682,
+    "title": "",
+    "headline": "Сетевые подсказки",
+    "subtitle": "Используйте пассивный режим",
+    "content": "Чтобы спокойно исследовать игровой мир, включите пассивный режим. Когда вы передвигаетесь пешком в этом режиме, другие игроки не могут стрелять в вас, а вы не можете стрелять в них. Чудовищно нереалистичный режим!<br /><br />Пассивный режим можно включить в меню взаимодействия.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Passive_Mode/65664_enable_passive_mode.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Passive_Mode/.dds",
+        "filesize": 2048
+    }
+}

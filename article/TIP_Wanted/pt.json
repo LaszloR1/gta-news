@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380472163,"headline":"Dica online","subtitle":"Procurado? ","content":"Trocar de veículo para algo menos reconhecível enquanto a polícia está atrás de você reduz o seu Nível de Procurado instantaneamente. Assim como cometer menos crimes, causar menos problemas e pegar um Serviço decente. ","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Wanted/65664_Wanted_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380472163,
+    "headline": "Dica online",
+    "subtitle": "Procurado? ",
+    "content": "Trocar de veículo para algo menos reconhecível enquanto a polícia está atrás de você reduz o seu Nível de Procurado instantaneamente. Assim como cometer menos crimes, causar menos problemas e pegar um Serviço decente. ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Wanted/65664_Wanted_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

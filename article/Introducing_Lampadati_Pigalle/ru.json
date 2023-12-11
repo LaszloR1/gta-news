@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402999102,"headline":"Обновление GTA Online","subtitle":"Новая машина: Lampadati Pigalle","content":"Французский дизайн и итальянская конструкция - нам пытаются сделать красиво снаружи и делают плохо внутри. Pigalle, высококачественное купе, символ 70-х и плохого вкуса. Неудивительно, что хипстерам он нравится.<br /><br />Автомобиль можно уже сегодня купить на сайте SouthernSanAndreasSuperAutos.com. Он также представлен в гонке ''Пляжная одиссея'' из обновления ''Я не хипстер''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Lampadati_Pigalle/65664_Pigalle.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999102,
+    "headline": "Обновление GTA Online",
+    "subtitle": "Новая машина: Lampadati Pigalle",
+    "content": "Французский дизайн и итальянская конструкция - нам пытаются сделать красиво снаружи и делают плохо внутри. Pigalle, высококачественное купе, символ 70-х и плохого вкуса. Неудивительно, что хипстерам он нравится.<br /><br />Автомобиль можно уже сегодня купить на сайте SouthernSanAndreasSuperAutos.com. Он также представлен в гонке ''Пляжная одиссея'' из обновления ''Я не хипстер''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Lampadati_Pigalle/65664_Pigalle.dds",
+        "filesize": 65664
+    }
+}

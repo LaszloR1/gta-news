@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493046303,"title":"","headline":"GTA Online","subtitle":"Tiny Racers","content":"Schwelge in Erinnerungen an die guten alten Zeiten, während du im retroartigen Gegner-Modus ''Tiny Racers'' hysterisch durch die Straßen rast, um nicht in Flammen aufzugehen. Bis zu vier Spieler treten in der Vogelperspektive gegeneinander an. Es gibt nur eine Regel: Wenn du zu weit zurückfällst, bist du erledigt. Wie man sieht, haben sie es immer noch so drauf wie früher.","url":"","image":{"path":"sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Tiny_Racers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493046303,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tiny Racers",
+    "content": "Schwelge in Erinnerungen an die guten alten Zeiten, während du im retroartigen Gegner-Modus ''Tiny Racers'' hysterisch durch die Straßen rast, um nicht in Flammen aufzugehen. Bis zu vier Spieler treten in der Vogelperspektive gegeneinander an. Es gibt nur eine Regel: Wenn du zu weit zurückfällst, bist du erledigt. Wie man sieht, haben sie es immer noch so drauf wie früher.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Tiny_Racers/.dds",
+        "filesize": 2048
+    }
+}

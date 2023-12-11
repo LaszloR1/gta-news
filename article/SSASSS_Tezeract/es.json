@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168342,"title":"","headline":"GTA Online","subtitle":"Pegassi Tezeract","content":"No es simplemente un coche: es el primer ataque de la humanidad a la barrera del sonido, y es legalmente conducible. El Pegassi Tezeract ha llegado. Pero ten mucho cuidado, no estás preparado.","url":"","image":{"path":"sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168342,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Tezeract",
+    "content": "No es simplemente un coche: es el primer ataque de la humanidad a la barrera del sonido, y es legalmente conducible. El Pegassi Tezeract ha llegado. Pero ten mucho cuidado, no estás preparado.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

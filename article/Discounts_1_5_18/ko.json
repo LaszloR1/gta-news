@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525254476,"title":"","headline":"GTA Online","subtitle":"특수 차량 할인","content":"하늘과, 바다, 그리고 로켓 추진 등 모든 면에서 최고의 자리를 지킬 수 있도록 군수품 캐시 앤 캐리에서 일부 특수 차량을 25% 할인합니다.<br /><br />매머드 쓰러스터 - 25% 할인<br />임폰테 디럭소 - 25% 할인<br />오셀럿 스트롬버그 - 25% 할인<br />루이너 2000 - 25% 할인<br />로켓 볼틱 - 25% 할인<br />블레이저 아쿠아 - 25% 할인<br /><br />자세한 내용을 보려면 Rockstar 뉴스와이어를 방문하십시오.","url":"","image":{"path":"sc/news/Discounts_1_5_18/349672_Thruster.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525254476,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "특수 차량 할인",
+    "content": "하늘과, 바다, 그리고 로켓 추진 등 모든 면에서 최고의 자리를 지킬 수 있도록 군수품 캐시 앤 캐리에서 일부 특수 차량을 25% 할인합니다.<br /><br />매머드 쓰러스터 - 25% 할인<br />임폰테 디럭소 - 25% 할인<br />오셀럿 스트롬버그 - 25% 할인<br />루이너 2000 - 25% 할인<br />로켓 볼틱 - 25% 할인<br />블레이저 아쿠아 - 25% 할인<br /><br />자세한 내용을 보려면 Rockstar 뉴스와이어를 방문하십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_1_5_18/349672_Thruster.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285737,"title":"GTA+","headline":"GTA+","subtitle":"Oficina da Arena e descontos","content":"Membros do GTA+ podem resgatar a Oficina da Arena de graça até 13 de setembro.<br /><br />Os membros podem resgatar a Oficina da Arena de graça e levar veículos elegíveis até ela para receber 50% de desconto em uma variedade de modificações da Arena, incluindo blindagem, armas para veículos, latarias (lâminas, spikes e santantônios), salto vertical e turbos da Arena.<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_pt_br.dds","filesize":262272},"button":"Selecione para se afiliar ao GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285737,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Oficina da Arena e descontos",
+    "content": "Membros do GTA+ podem resgatar a Oficina da Arena de graça até 13 de setembro.<br /><br />Os membros podem resgatar a Oficina da Arena de graça e levar veículos elegíveis até ela para receber 50% de desconto em uma variedade de modificações da Arena, incluindo blindagem, armas para veículos, latarias (lâminas, spikes e santantônios), salto vertical e turbos da Arena.<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/01a41b4d59fe4dcca54dfff5/262272_GTAPlus_MP17_ArenaWorkshop_FINAL_BigFeed_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se afiliar ao GTA+"
+}

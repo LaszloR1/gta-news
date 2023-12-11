@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175082,"title":"","headline":"GTA Online","subtitle":"Executive Protection","content":"Need extra protection? Several new vehicles available for purchase on legendarymotorsport.net come with an armored upgrade option which includes bullet resistant glass – or if you need extra firepower, purchase the weaponized Turreted Limo from warstock-cache-and-carry.com. Offense is the best defense after all.","url":"","image":{"path":"sc/news/NG_EAOC_Exec_Protection/262272_Exectutive_Protection.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Exec_Protection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175082,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Executive Protection",
+    "content": "Need extra protection? Several new vehicles available for purchase on legendarymotorsport.net come with an armored upgrade option which includes bullet resistant glass – or if you need extra firepower, purchase the weaponized Turreted Limo from warstock-cache-and-carry.com. Offense is the best defense after all.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Exec_Protection/262272_Exectutive_Protection.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Exec_Protection/.dds",
+        "filesize": 2048
+    }
+}

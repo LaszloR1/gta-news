@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1408453059,"title":"","headline":"Online Tip","subtitle":"Go ''On Call'' and Stay in the Action","content":"Your phone’s Quick Job app has been upgraded with a new ‘‘On Call’‘ feature.<br /><br />Going ‘‘On Call’‘ to a job allows you to continue your criminal activities in Freemode until the Job lobby is ready to launch, at which point you will be whisked away straight in to your desired activity.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/On_Call/262272_OnCall.dds","filesize":262272},"landscape":{"path":"sc/news/On_Call/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408453059,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Go ''On Call'' and Stay in the Action",
+    "content": "Your phone’s Quick Job app has been upgraded with a new ‘‘On Call’‘ feature.<br /><br />Going ‘‘On Call’‘ to a job allows you to continue your criminal activities in Freemode until the Job lobby is ready to launch, at which point you will be whisked away straight in to your desired activity.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/On_Call/262272_OnCall.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/On_Call/.dds",
+        "filesize": 2048
+    }
+}

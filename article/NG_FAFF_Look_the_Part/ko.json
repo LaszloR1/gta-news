@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292975,"title":"","headline":"GTA Online","subtitle":"패션으로 자신을 표현해보세요","content":"VIP와 수행원 전용 의상과 시큐어 에이전시의 신상품이 로스 산토스 의상점에 입고됩니다. 상대에게 어떤 첫인상을 주고 싶으신가요? 세련된 범죄의 제왕? 아니면 돈만 주면 뭐든지 하는 건달? 어느 쪽이든 마음에 드는 옷을 찾을 수 있을 겁니다.","url":"","image":{"path":"sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Look_the_Part/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "패션으로 자신을 표현해보세요",
+    "content": "VIP와 수행원 전용 의상과 시큐어 에이전시의 신상품이 로스 산토스 의상점에 입고됩니다. 상대에게 어떤 첫인상을 주고 싶으신가요? 세련된 범죄의 제왕? 아니면 돈만 주면 뭐든지 하는 건달? 어느 쪽이든 마음에 드는 옷을 찾을 수 있을 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/.dds",
+        "filesize": 2048
+    }
+}

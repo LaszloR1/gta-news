@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430365,"title":"","headline":"GTA Online","subtitle":"GTA Online-Boni in dieser Woche: Premium-Stuntrennen (9. – 15. September)","content":"Das Premium-Stuntrennen dieser Woche ist das beliebte ''Loopings über der Stadt'' mit dem Banshee 900R. Wie der Name schon verrät, besteht das Stuntrennen aus einer Reihe von Loopings, Korkenzieherloopings und Sprüngen in Downtown Los Santos. Hier winken GTA$-Auszahlungen für die drei Erstplatzierten sowie dreifache RP für alle Teilnehmer. Um sofort in die Action einzusteigen, könnt ihr entweder die Option ''Schneller Job'' nutzen oder die gelbe Markierung am Legion Square betreten.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430365,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online-Boni in dieser Woche: Premium-Stuntrennen (9. – 15. September)",
+    "content": "Das Premium-Stuntrennen dieser Woche ist das beliebte ''Loopings über der Stadt'' mit dem Banshee 900R. Wie der Name schon verrät, besteht das Stuntrennen aus einer Reihe von Loopings, Korkenzieherloopings und Sprüngen in Downtown Los Santos. Hier winken GTA$-Auszahlungen für die drei Erstplatzierten sowie dreifache RP für alle Teilnehmer. Um sofort in die Action einzusteigen, könnt ihr entweder die Option ''Schneller Job'' nutzen oder die gelbe Markierung am Legion Square betreten.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/.dds",
+        "filesize": 2048
+    }
+}

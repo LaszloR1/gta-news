@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515738,"title":"","headline":"GTA Online","subtitle":"Au travailµ!","content":"Devenez président d'un club de motards et vous pourrez vous lancer dans le monde de la production. Que vous souhaitiez produire du cannabis, de la fausse monnaie, de la cocaïne, des faux papiers ou autre, investissez dans une micro-usine artisanale qui ne demande qu'à être dirigée d'une main de fer. Achetez-la, fournissez-vous en matières premières, lancez la production et gérez les ventes comme un vrai entrepreneur.","url":"","image":{"path":"sc/news/NG_Bikers_DownToBusiness/262272_Down_to_Business.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_DownToBusiness/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515738,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Au travailµ!",
+    "content": "Devenez président d'un club de motards et vous pourrez vous lancer dans le monde de la production. Que vous souhaitiez produire du cannabis, de la fausse monnaie, de la cocaïne, des faux papiers ou autre, investissez dans une micro-usine artisanale qui ne demande qu'à être dirigée d'une main de fer. Achetez-la, fournissez-vous en matières premières, lancez la production et gérez les ventes comme un vrai entrepreneur.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_DownToBusiness/262272_Down_to_Business.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_DownToBusiness/.dds",
+        "filesize": 2048
+    }
+}

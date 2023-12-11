@@ -1,1 +1,20 @@
-{"types":["newswire","store"],"date":1379146714,"headline":"Store","subtitle":"原子飛船","content":"預購《GTA 5》的玩家將在遊戲盒中發現印有專屬代碼的小卡。別忘了透過 PlayStation®Store 兌換該組代碼，這樣就能駕駛原子飛船翱翔洛聖都天際。","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "store"
+    ],
+    "date": 1379146714,
+    "headline": "Store",
+    "subtitle": "原子飛船",
+    "content": "預購《GTA 5》的玩家將在遊戲盒中發現印有專屬代碼的小卡。別忘了透過 PlayStation®Store 兌換該組代碼，這樣就能駕駛原子飛船翱翔洛聖都天際。",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds",
+        "filesize": 65664
+    }
+}

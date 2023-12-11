@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677117,"title":"GTA+","headline":"GTA+","subtitle":"Roupas exclusivas","content":"Em Los Santos o que conta é a imagem - melhore a sua com essas peças de roupa exclusivas, grátis com a sua Afiliação GTA+ até 19 de julho:<br /><br />- Bermudas Hinterland<br />- Camiseta Hinterland<br />- Máscara Estátua da Liberdade verde<br /><br />A Afiliação GTA+ é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_pt_br.dds","filesize":262272},"button":"Selecione para se inscrever no GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677117,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Roupas exclusivas",
+    "content": "Em Los Santos o que conta é a imagem - melhore a sua com essas peças de roupa exclusivas, grátis com a sua Afiliação GTA+ até 19 de julho:<br /><br />- Bermudas Hinterland<br />- Camiseta Hinterland<br />- Máscara Estátua da Liberdade verde<br /><br />A Afiliação GTA+ é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b2d2d3ede93a404fa28ca76b/262272_GTAPLUSTab_HinterlandOutfit_FINAL_BigFeed_R03_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se inscrever no GTA+"
+}

@@ -1,1 +1,20 @@
-{"types":["newswire","store"],"date":1379148822,"headline":"Store","subtitle":"Atomic Blimp","content":"Se hai prenotato la tua copia di GTAV, troverai un foglio con un codice stampato all'interno della confezione. Non dimenticare di riscattarlo tramite Xbox Games Store per poter pilotare l'Atomic Blimp nei cieli di Los Santos!","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Atomic_Blimp_XBL/65664_Atomic_Blimp_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Atomic_Blimp_XBL/65664_Atomic_Blimp_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "store"
+    ],
+    "date": 1379148822,
+    "headline": "Store",
+    "subtitle": "Atomic Blimp",
+    "content": "Se hai prenotato la tua copia di GTAV, troverai un foglio con un codice stampato all'interno della confezione. Non dimenticare di riscattarlo tramite Xbox Games Store per poter pilotare l'Atomic Blimp nei cieli di Los Santos!",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Atomic_Blimp_XBL/65664_Atomic_Blimp_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Atomic_Blimp_XBL/65664_Atomic_Blimp_landscape.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292575,"title":"","headline":"GTA Online","subtitle":"Business-Klasse","content":"Stehst du auf brutal schnell, brutal effizient oder einfach nur brutal? Was auch immer deine Präferenz ist, die neuesten Fortbewegungsmöglichkeiten bei den Händlern in Los Santos dürften deinen Geschmack treffen. Von A nach B zu kommen sah noch nie so gut aus oder fühlte sich so gut an wie mit dem monströsen HVY Brickade von Warstock Cache and Carry oder dem superschnellen Buckingham Nimbus von Elitas Travel.","url":"","image":{"path":"sc/news/NG_FAFF_Business_Class/262272_NG_Business_Class.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Business_Class/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292575,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Business-Klasse",
+    "content": "Stehst du auf brutal schnell, brutal effizient oder einfach nur brutal? Was auch immer deine Präferenz ist, die neuesten Fortbewegungsmöglichkeiten bei den Händlern in Los Santos dürften deinen Geschmack treffen. Von A nach B zu kommen sah noch nie so gut aus oder fühlte sich so gut an wie mit dem monströsen HVY Brickade von Warstock Cache and Carry oder dem superschnellen Buckingham Nimbus von Elitas Travel.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Business_Class/262272_NG_Business_Class.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Business_Class/.dds",
+        "filesize": 2048
+    }
+}

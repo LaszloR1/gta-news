@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1521543832,"title":"","headline":"GTA Online","subtitle":"Chegando com tudo","content":"Agora nos showrooms por toda Los Santos há uma série de carros novos que fazem a sua garagem parecer incompleta. Entregue-se à elegância do Vulcar Fagaloa, à fúria perfeitamente refinada do Overflod Entity XXR – ou, se estiver em busca de algo um pouco menos rebuscado, você sempre pode contar com o Declasse Hotring Sabre.","url":"","image":{"path":"sc/news/SSASSS_Coming_In_Hot/349672_bigfeed-hotring.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1521543832,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Chegando com tudo",
+    "content": "Agora nos showrooms por toda Los Santos há uma série de carros novos que fazem a sua garagem parecer incompleta. Entregue-se à elegância do Vulcar Fagaloa, à fúria perfeitamente refinada do Overflod Entity XXR – ou, se estiver em busca de algo um pouco menos rebuscado, você sempre pode contar com o Declasse Hotring Sabre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Coming_In_Hot/349672_bigfeed-hotring.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

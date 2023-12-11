@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477562016,"title":"","headline":"GTA Online","subtitle":"Lost vs Damned","content":"Day and night set the terms in this latest Adversary Mode. If you’re on the side of the Angels, make the most of the bonuses you receive while it’s light to pass judgement on your foes. If you’re on the side of the Devils, bide your time till darkness comes to wreak your revenge. The tables turn every 60 seconds, and whoever comes out on top wins. Let the apocalypse begin.","url":"","image":{"path":"sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Lost_Damned/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477562016,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lost vs Damned",
+    "content": "Day and night set the terms in this latest Adversary Mode. If you’re on the side of the Angels, make the most of the bonuses you receive while it’s light to pass judgement on your foes. If you’re on the side of the Devils, bide your time till darkness comes to wreak your revenge. The tables turn every 60 seconds, and whoever comes out on top wins. Let the apocalypse begin.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/.dds",
+        "filesize": 2048
+    }
+}

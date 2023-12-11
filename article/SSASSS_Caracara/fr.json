@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522771252,"title":"","headline":"GTA Online","subtitle":"Le Vapid Caracara","content":"N'importe quel amateur de véhicules militaires et armés vous confirmera qu'effectivement, plus c'est gros, mieux c'est. Et si vous voulez les voir essuyer la bave qui coule de leur bouche grand ouverte, murmurez-leur à l'oreille le mot “Caracara”. C'est officielµ: la force démesurée a un nouveau nom.","url":"","image":{"path":"sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522771252,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le Vapid Caracara",
+    "content": "N'importe quel amateur de véhicules militaires et armés vous confirmera qu'effectivement, plus c'est gros, mieux c'est. Et si vous voulez les voir essuyer la bave qui coule de leur bouche grand ouverte, murmurez-leur à l'oreille le mot “Caracara”. C'est officielµ: la force démesurée a un nouveau nom.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Caracara/349672_bigfeed-caracara.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

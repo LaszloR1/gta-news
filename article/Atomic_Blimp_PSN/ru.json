@@ -1,1 +1,20 @@
-{"types":["newswire","store"],"date":1379146714,"headline":"Store","subtitle":"Дирижабль Atomic Blimp","content":"Если вы оформили предварительный заказ на GTA V, в упаковке с игрой вы найдете уникальный код. Погасите его в PlayStation®Store, и вы получите возможность полетать над Лос-Сантосом на дирижабле Atomic Blimp.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "store"
+    ],
+    "date": 1379146714,
+    "headline": "Store",
+    "subtitle": "Дирижабль Atomic Blimp",
+    "content": "Если вы оформили предварительный заказ на GTA V, в упаковке с игрой вы найдете уникальный код. Погасите его в PlayStation®Store, и вы получите возможность полетать над Лос-Сантосом на дирижабле Atomic Blimp.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Atomic_Blimp_PSN/65664_Atomic_Blimp_landscape.dds",
+        "filesize": 65664
+    }
+}

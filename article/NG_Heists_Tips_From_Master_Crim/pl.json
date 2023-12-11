@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977033,"title":"","headline":"GTA Online","subtitle":"Porady mistrzów napadów","content":"Oto garść porad, które pomogą Wam ukończyć najtrudniejsze napady:<br /><br />- Korzystajcie z rozmowy głosowej. Dobra komunikacja znacząco zwiększa szanse powodzenia napadu.<br />- Od tej pory możecie nosić przy sobie kilka kamizelek, więc zróbcie w Ammu-Nation porządne zakupy i zakładajcie nowe pancerze za pomocą menu interakcji.<br />- Aby szybko podreperować nadszarpnięte zdrowie, schowajcie się za osłoną i zjedzcie przekąskę.<br />","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977033,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Porady mistrzów napadów",
+    "content": "Oto garść porad, które pomogą Wam ukończyć najtrudniejsze napady:<br /><br />- Korzystajcie z rozmowy głosowej. Dobra komunikacja znacząco zwiększa szanse powodzenia napadu.<br />- Od tej pory możecie nosić przy sobie kilka kamizelek, więc zróbcie w Ammu-Nation porządne zakupy i zakładajcie nowe pancerze za pomocą menu interakcji.<br />- Aby szybko podreperować nadszarpnięte zdrowie, schowajcie się za osłoną i zjedzcie przekąskę.<br />",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

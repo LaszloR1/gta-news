@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979449,"title":"","headline":"GTA Online","subtitle":"南サンアンドレアススーパーオートのアップデート","content":"南サンアンドレアススーパーオートに新商品を追加しました。ロスサントスで最も人気が高い以下のモデルも含まれます:<br />- オセロット・ジャッカル<br />- ウーバーマフト・オラクルXS<br />- ベネファクター・シャフター<br /><br />...他にも数多く登場します。強盗をプレイ中に登場した新しい乗り物は購入可能になるため、SouthernSanAndreasSuperAutos.comで最新の商品を忘れずにチェックしましょう。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Southern_SA_Autos/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "南サンアンドレアススーパーオートのアップデート",
+    "content": "南サンアンドレアススーパーオートに新商品を追加しました。ロスサントスで最も人気が高い以下のモデルも含まれます:<br />- オセロット・ジャッカル<br />- ウーバーマフト・オラクルXS<br />- ベネファクター・シャフター<br /><br />...他にも数多く登場します。強盗をプレイ中に登場した新しい乗り物は購入可能になるため、SouthernSanAndreasSuperAutos.comで最新の商品を忘れずにチェックしましょう。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/262272_SouthernSan.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Southern_SA_Autos/.dds",
+        "filesize": 2048
+    }
+}

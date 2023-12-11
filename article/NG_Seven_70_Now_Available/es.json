@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467815311,"title":"","headline":"GTA Online","subtitle":"Consigue el nuevo Dewbauchee Seven-70 y juega en 3 nuevos mapas de Acción ofensiva","content":"La clase deportiva de GTA Online sigue mejorando en estilo y sofisticación con el nuevo Dewbauchee Seven-70, ya disponible en Legendary Motorsport.<br /><br />También hemos añadido tres nuevas ubicaciones al modo de batalla por equipos Acción ofensiva. Prepárate para la acción en el Aeropuerto Internacional de Los Santos, en el puerto de Los Santos, o monta un buen caos turbopropulsado en las orillas del Alamo Sea.","url":"","image":{"path":"sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Seven_70_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467815311,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Consigue el nuevo Dewbauchee Seven-70 y juega en 3 nuevos mapas de Acción ofensiva",
+    "content": "La clase deportiva de GTA Online sigue mejorando en estilo y sofisticación con el nuevo Dewbauchee Seven-70, ya disponible en Legendary Motorsport.<br /><br />También hemos añadido tres nuevas ubicaciones al modo de batalla por equipos Acción ofensiva. Prepárate para la acción en el Aeropuerto Internacional de Los Santos, en el puerto de Los Santos, o monta un buen caos turbopropulsado en las orillas del Alamo Sea.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Seven_70_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453861,"title":"","headline":"GTA Online","subtitle":"Zona de salto","content":"Un máximo de cuatro equipos saltan en paracaídas desde un Cargobob en una carrera por llegar a tierra, donde lucharán por controlar la zona de salto. El primer equipo que la conserve hasta que el medidor se llene ganará. Si ningún equipo gana antes de que acabe el tiempo, se activará la muerte súbita.","url":"","image":{"path":"sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drop_Zone/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453861,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zona de salto",
+    "content": "Un máximo de cuatro equipos saltan en paracaídas desde un Cargobob en una carrera por llegar a tierra, donde lucharán por controlar la zona de salto. El primer equipo que la conserve hasta que el medidor se llene ganará. Si ningún equipo gana antes de que acabe el tiempo, se activará la muerte súbita.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Drop_Zone/262272_NG_Dropzone.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drop_Zone/.dds",
+        "filesize": 2048
+    }
+}

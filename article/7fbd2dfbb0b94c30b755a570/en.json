@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1688141749,"title":"GTA+","headline":"GTA+","subtitle":"Exclusive Clothing","content":"Los Santos is all about image - improve yours with these exclusive clothing items, free with your GTA+ Membership through July 19:<br /><br />- Green Emissive Lady Liberty mask<br />- Hinterland Track Shorts<br />- Hinterland T-Shirt<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/7fbd2dfbb0b94c30b755a570/262272_GTAOPlus_Period15_LadyLibertyMask_DRAFT_BigFeed_en_us.dds","filesize":262272},"button":"Select to sign up to GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1688141749,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Exclusive Clothing",
+    "content": "Los Santos is all about image - improve yours with these exclusive clothing items, free with your GTA+ Membership through July 19:<br /><br />- Green Emissive Lady Liberty mask<br />- Hinterland Track Shorts<br />- Hinterland T-Shirt<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/7fbd2dfbb0b94c30b755a570/262272_GTAOPlus_Period15_LadyLibertyMask_DRAFT_BigFeed_en_us.dds",
+        "filesize": 262272
+    },
+    "button": "Select to sign up to GTA+"
+}

@@ -1,1 +1,16 @@
-{"types":["starterpackowned"],"date":1513241739,"title":"Criminal Enterprise Starter Pack","headline":"Criminal Enterprise Starter Pack","subtitle":"","content":"With your purchase of the Criminal Enterprise Starter Pack, you now have access to a huge range of the most exciting and popular content in GTA Online including properties, businesses, weapons, vehicles and more.<br /><br />Continue for specific details on the content and where to claim in-game.<br />","url":"","image":{"path":"sc/news/Crim_Enterprise_POST/218528_GTAO_StarterPack_Pausemenu.dds","filesize":218528},"style":"gta"}
+{
+    "types": [
+        "starterpackowned"
+    ],
+    "date": 1513241739,
+    "title": "Criminal Enterprise Starter Pack",
+    "headline": "Criminal Enterprise Starter Pack",
+    "subtitle": "",
+    "content": "With your purchase of the Criminal Enterprise Starter Pack, you now have access to a huge range of the most exciting and popular content in GTA Online including properties, businesses, weapons, vehicles and more.<br /><br />Continue for specific details on the content and where to claim in-game.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/Crim_Enterprise_POST/218528_GTAO_StarterPack_Pausemenu.dds",
+        "filesize": 218528
+    },
+    "style": "gta"
+}

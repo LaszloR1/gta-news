@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991948,"headline":"オンラインのヒント","subtitle":"自分の写真を撮ろう…","content":"携帯電話のカメラで素早くスナップ写真を取って、GTAのあの素晴らしい瞬間を永久保存しましょう。カメラを自分に向けて、自分の写真を撮ることもできます！~n~~n~様々なフレームやフィルターを追加して、写真をスタイリッシュに仕上げることも可能です。~n~~n~SocialClubの皆さんに向けての画像にキャプションをつけられるミームクリエイターもあります。ギャラリーの写真を選択して、~INPUT_FRONTEND_X~ ボタンでミームクリエイターを使用できます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991948,
+    "headline": "オンラインのヒント",
+    "subtitle": "自分の写真を撮ろう…",
+    "content": "携帯電話のカメラで素早くスナップ写真を取って、GTAのあの素晴らしい瞬間を永久保存しましょう。カメラを自分に向けて、自分の写真を撮ることもできます！~n~~n~様々なフレームやフィルターを追加して、写真をスタイリッシュに仕上げることも可能です。~n~~n~SocialClubの皆さんに向けての画像にキャプションをつけられるミームクリエイターもあります。ギャラリーの写真を選択して、~INPUT_FRONTEND_X~ ボタンでミームクリエイターを使用できます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

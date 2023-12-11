@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367293,"title":"","headline":"GTA Online","subtitle":"Promotions exceptionnelles rien que pour vous","content":"Cette semaine, profitez d'une vente privée de voitures, de motos et d'avions indispensables, avec par exemple 50µ% de réduction sur la Benefactor XLS blindée, sur des coupés de luxe comme l'Enus Windsor Drop, sur des motos ultrarapides comme la Hakuchou drag et sur des supersportives comme la Vapid FMJ. Entreposez votre nouvelle collection dans un garage à 10µplaces que vous pourrez acheter pour l'occasion à -25µ% jusqu'au 13 février.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367293,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promotions exceptionnelles rien que pour vous",
+    "content": "Cette semaine, profitez d'une vente privée de voitures, de motos et d'avions indispensables, avec par exemple 50µ% de réduction sur la Benefactor XLS blindée, sur des coupés de luxe comme l'Enus Windsor Drop, sur des motos ultrarapides comme la Hakuchou drag et sur des supersportives comme la Vapid FMJ. Entreposez votre nouvelle collection dans un garage à 10µplaces que vous pourrez acheter pour l'occasion à -25µ% jusqu'au 13 février.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/.dds",
+        "filesize": 2048
+    }
+}

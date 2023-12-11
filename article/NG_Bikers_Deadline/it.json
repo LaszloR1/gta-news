@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511202,"title":"","headline":"GTA Online","subtitle":"Scia mortale","content":"Assapora un morso di mondo nuovo nella modalità Competizione Scia mortale. Una visione del futuro che i cittadini di Los Santos non avrebbero difficoltà ad accogliere: alla guida di una moto uscita da un porno fantascientifico ad alto budget, sfrecciando nel crepuscolo urbano a velocità incomprensibili e lasciando dietro di sé una scia luminosa che riduce in cenere gli avversari. Il futuro è colorato, veloce e sorprendentemente pericoloso.","url":"","image":{"path":"sc/news/NG_Bikers_Deadline/262272_Deadline.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Deadline/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511202,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Scia mortale",
+    "content": "Assapora un morso di mondo nuovo nella modalità Competizione Scia mortale. Una visione del futuro che i cittadini di Los Santos non avrebbero difficoltà ad accogliere: alla guida di una moto uscita da un porno fantascientifico ad alto budget, sfrecciando nel crepuscolo urbano a velocità incomprensibili e lasciando dietro di sé una scia luminosa che riduce in cenere gli avversari. Il futuro è colorato, veloce e sorprendentemente pericoloso.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Deadline/262272_Deadline.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Deadline/.dds",
+        "filesize": 2048
+    }
+}

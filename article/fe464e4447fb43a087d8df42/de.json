@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686319815,"title":"Verbesserungen der Spielerfahrung","headline":"Verbesserungen der Spielerfahrung","subtitle":"Demnächst in GTA Online","content":"Mit GTA Online: San Andreas Mercenaries verbessern wir weiterhin die Online-Spielerfahrung durch eine Reihe von Updates. Dazu zählen:<br /><br />– Die Möglichkeit, durch einen Anruf bei Mors Mutual Insurance alle zerstörten Fahrzeuge gleichzeitig reparieren zu lassen<br />– Anpassbare Information für Garagen<br />– Eine alternative Sprintsteuerung im Einstellungsmenü<br /><br />Und vieles mehr. Weitere Details findest du auf dem Rockstar Newswire.","url":"","image":{"path":"sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686319815,
+    "title": "Verbesserungen der Spielerfahrung",
+    "headline": "Verbesserungen der Spielerfahrung",
+    "subtitle": "Demnächst in GTA Online",
+    "content": "Mit GTA Online: San Andreas Mercenaries verbessern wir weiterhin die Online-Spielerfahrung durch eine Reihe von Updates. Dazu zählen:<br /><br />– Die Möglichkeit, durch einen Anruf bei Mors Mutual Insurance alle zerstörten Fahrzeuge gleichzeitig reparieren zu lassen<br />– Anpassbare Information für Garagen<br />– Eine alternative Sprintsteuerung im Einstellungsmenü<br /><br />Und vieles mehr. Weitere Details findest du auf dem Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/fe464e4447fb43a087d8df42/262272_GTAO_354_QoLPost_LeadAsset_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

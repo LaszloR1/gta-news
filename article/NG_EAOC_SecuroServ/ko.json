@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175108,"title":"","headline":"GTA Online","subtitle":"시큐어 에이전시","content":"평생 돈을 써도 다 쓰기 어려울 만큼 부자이신가요? 그렇다면 시큐어 에이전시 VIP 프로그램이 여러분에게 딱 맞겠군요. 바로 지금, 상호 작용 메뉴에서 VIP로 등록하시면 그 어느 경호대도 따라올 수 없는 여러분만의 VIP 수행원을 모집할 수 있습니다. 연맹의 이름을 정하고 VIP 명령이나 VIP 도전을 시작하십시오. 언제든지 마음대로 부릴 수 있는 무장 수행원이 얼마나 편리한지 경험하십시오!","url":"","image":{"path":"sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_SecuroServ/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175108,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "시큐어 에이전시",
+    "content": "평생 돈을 써도 다 쓰기 어려울 만큼 부자이신가요? 그렇다면 시큐어 에이전시 VIP 프로그램이 여러분에게 딱 맞겠군요. 바로 지금, 상호 작용 메뉴에서 VIP로 등록하시면 그 어느 경호대도 따라올 수 없는 여러분만의 VIP 수행원을 모집할 수 있습니다. 연맹의 이름을 정하고 VIP 명령이나 VIP 도전을 시작하십시오. 언제든지 마음대로 부릴 수 있는 무장 수행원이 얼마나 편리한지 경험하십시오!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_SecuroServ/.dds",
+        "filesize": 2048
+    }
+}

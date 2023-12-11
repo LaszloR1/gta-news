@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952126,"title":"","headline":"GTA Online","subtitle":"Alas de oro","content":"Elitas Travel tiene en stock dos nuevas aeronaves de lujo para que las ansíen los miembros más influyentes de la sociedad en Los Santos: el Luxor y el Swift Deluxe. El exterior de oro de cada vehículo se complementa con un interior igual de despampanante en el que te puedes sentar, relajarte y disfrutar del viaje mientras bebes champán. Mantén pulsado ~INPUT_ENTER~ para colocarte directamente en los asientos de pasajeros.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Alas de oro",
+    "content": "Elitas Travel tiene en stock dos nuevas aeronaves de lujo para que las ansíen los miembros más influyentes de la sociedad en Los Santos: el Luxor y el Swift Deluxe. El exterior de oro de cada vehículo se complementa con un interior igual de despampanante en el que te puedes sentar, relajarte y disfrutar del viaje mientras bebes champán. Mantén pulsado ~INPUT_ENTER~ para colocarte directamente en los asientos de pasajeros.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

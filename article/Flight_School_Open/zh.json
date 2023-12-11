@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408452758,"headline":"GTA 線上模式更新","subtitle":"飛行學校現已開放","content":"如果想要風風光光地當個飛行員，現在就去全新開幕的飛行學校報名課程、好好磨練一下自己的技術吧！<br /><br />我們推出 10 種全新的飛行挑戰，從花式特技飛行到困難的降落方式都有。接受挑戰、拿下金牌，成為飛行菁英並好好風光一下！<br /><br />飛行學校位於洛聖都國際機場入口附近 (請在地圖上尋找有飛機圖示的地點)。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Flight_School_Open/65664_FlightSchool.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452758,
+    "headline": "GTA 線上模式更新",
+    "subtitle": "飛行學校現已開放",
+    "content": "如果想要風風光光地當個飛行員，現在就去全新開幕的飛行學校報名課程、好好磨練一下自己的技術吧！<br /><br />我們推出 10 種全新的飛行挑戰，從花式特技飛行到困難的降落方式都有。接受挑戰、拿下金牌，成為飛行菁英並好好風光一下！<br /><br />飛行學校位於洛聖都國際機場入口附近 (請在地圖上尋找有飛機圖示的地點)。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Flight_School_Open/65664_FlightSchool.dds",
+        "filesize": 65664
+    }
+}

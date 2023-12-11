@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349636,"title":"","headline":"GTA Online","subtitle":"救急彈藥","content":"急需火力支援嗎？現在您在互動選單裡可以直接購買彈藥，不過可別忘了到武裝國度看看，那兒的武器永遠是洛聖都價格最實惠、款式最新穎的首選。","url":"","image":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Ammo_Bout_To_Blow/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349636,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "救急彈藥",
+    "content": "急需火力支援嗎？現在您在互動選單裡可以直接購買彈藥，不過可別忘了到武裝國度看看，那兒的武器永遠是洛聖都價格最實惠、款式最新穎的首選。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/262272_Ammo_Bout_to_Blow.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Ammo_Bout_To_Blow/.dds",
+        "filesize": 2048
+    }
+}

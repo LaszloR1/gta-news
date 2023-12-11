@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455438,"title":"","headline":"GTA Online","subtitle":"Vida nocturna","content":"Una vez que tu almacén esté en marcha, tendrás tiempo para dedicarte a las cosas importantes, como dirigir el mejor club nocturno de Los Santos. Hay trabajo que hacer: realiza misiones para asegurar los recursos del club, ficha a un DJ de fama internacional y llama la atención. Y ya que estás en ello, por qué no divertirte un poco: lánzate a la pista de baile, destroza la zona vip, desmáyate en el bar, peléate con alguien en la acera... Toda publicidad es buena.","url":"","image":{"path":"sc/news/AH_Night_Life/349672_GTAO_AfterHours_Nightlife.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455438,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vida nocturna",
+    "content": "Una vez que tu almacén esté en marcha, tendrás tiempo para dedicarte a las cosas importantes, como dirigir el mejor club nocturno de Los Santos. Hay trabajo que hacer: realiza misiones para asegurar los recursos del club, ficha a un DJ de fama internacional y llama la atención. Y ya que estás en ello, por qué no divertirte un poco: lánzate a la pista de baile, destroza la zona vip, desmáyate en el bar, peléate con alguien en la acera... Toda publicidad es buena.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Night_Life/349672_GTAO_AfterHours_Nightlife.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

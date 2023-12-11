@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980694,"title":"","headline":"GTA Online","subtitle":"Der wahrhafte Meisterverbrecher","content":"Für jedes Raubüberfall-Finale gibt es eine Elite-Herausforderung mit bestimmten Kriterien, die darauf ausgelegt sind, dass sie nur von den besten Raubüberfall-Crews gemeistert werden können.<br /><br />Hier zählt nicht nur Geschwindigkeit. Ihr müsst alle Ziele erfüllen, um den Bonus zu erhalten. Teamwork ist der Schlüssel zum Erfolg.<br /><br />Wenn deine Crew das Zeug dazu hat, könnt ihr so zusätzliche Beute einfahren. Wie ihr abgeschnitten habt, erfahrt ihr in der Übersicht am Ende des Raubüberfalls.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980694,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Der wahrhafte Meisterverbrecher",
+    "content": "Für jedes Raubüberfall-Finale gibt es eine Elite-Herausforderung mit bestimmten Kriterien, die darauf ausgelegt sind, dass sie nur von den besten Raubüberfall-Crews gemeistert werden können.<br /><br />Hier zählt nicht nur Geschwindigkeit. Ihr müsst alle Ziele erfüllen, um den Bonus zu erhalten. Teamwork ist der Schlüssel zum Erfolg.<br /><br />Wenn deine Crew das Zeug dazu hat, könnt ihr so zusätzliche Beute einfahren. Wie ihr abgeschnitten habt, erfahrt ihr in der Übersicht am Ende des Raubüberfalls.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

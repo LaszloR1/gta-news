@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533654205,"title":"","headline":"GTA Online","subtitle":"隆重介绍：迪克森","content":"神秘而不拘一格，世界级的德国µDJµ迪克森，现已可被洛圣都的各大夜总会雇用。英国人戴夫会与您讨论细节。安全护送迪克森回您的夜总会即可让他成为您的常驻µDJ。别忘了通过夜总会办公室电脑查看更多信息，用它随时预约您中意的常驻µDJ。<br /><br />您还可以通过洛圣都地下电台品鉴“我们的故事”的最新演出。","url":"","image":{"path":"sc/news/sjp_AH_Dixon/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Dixon.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533654205,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "隆重介绍：迪克森",
+    "content": "神秘而不拘一格，世界级的德国µDJµ迪克森，现已可被洛圣都的各大夜总会雇用。英国人戴夫会与您讨论细节。安全护送迪克森回您的夜总会即可让他成为您的常驻µDJ。别忘了通过夜总会办公室电脑查看更多信息，用它随时预约您中意的常驻µDJ。<br /><br />您还可以通过洛圣都地下电台品鉴“我们的故事”的最新演出。",
+    "url": "",
+    "image": {
+        "path": "sc/news/sjp_AH_Dixon/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Dixon.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

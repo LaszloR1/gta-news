@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1412256184,"headline":"GTA Online Update","subtitle":"The Last Team Standing Update Now Available","content":"The Last Team Standing Update introduces powerful weaponry, tactical gear, high-performance vehicles and all-new Creator features.<br /><br />With the LTS Creator Mode, you can now design original GTA Online Jobs in this strategic and deadly mode that pits teams against one another with no second chances.<br /><br />This update features 10 new Last Team Standing Jobs and lots of additional changes and tweaks to GTA Online. You’ve only got one life, use it wisely.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds","filesize":65664},"landscape":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1412256184,
+    "headline": "GTA Online Update",
+    "subtitle": "The Last Team Standing Update Now Available",
+    "content": "The Last Team Standing Update introduces powerful weaponry, tactical gear, high-performance vehicles and all-new Creator features.<br /><br />With the LTS Creator Mode, you can now design original GTA Online Jobs in this strategic and deadly mode that pits teams against one another with no second chances.<br /><br />This update features 10 new Last Team Standing Jobs and lots of additional changes and tweaks to GTA Online. You’ve only got one life, use it wisely.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453826,"title":"","headline":"GTA Online","subtitle":"창밖을 보라","content":"하늘을 잘 보십시오. 일기예보에 따르면 산 안드레아스의 크리스마스와 새해쯤에 눈이 내릴 거라 하던데요.~n~~n~그동안 하얀 눈덩이를 던지고 싶었는데 많이 참으셨죠? 참을 필요 없습니다! 이젠 눈덩이를 만들고 던질 수 있으니까요.~n~~n~~INPUT_DETONATE~를 누르면 눈덩이를 만들고, 다른 발사형 무기처럼 조준해서 던질 수 있습니다.<br /><br />그리고 더욱 멋진 연말을 위해 크리스마스 트리 아래에 산타클로스가 보낸 선물을 꼭 살펴보세요!","url":"","image":{"path":"sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Let_it_snow_15/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453826,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "창밖을 보라",
+    "content": "하늘을 잘 보십시오. 일기예보에 따르면 산 안드레아스의 크리스마스와 새해쯤에 눈이 내릴 거라 하던데요.~n~~n~그동안 하얀 눈덩이를 던지고 싶었는데 많이 참으셨죠? 참을 필요 없습니다! 이젠 눈덩이를 만들고 던질 수 있으니까요.~n~~n~~INPUT_DETONATE~를 누르면 눈덩이를 만들고, 다른 발사형 무기처럼 조준해서 던질 수 있습니다.<br /><br />그리고 더욱 멋진 연말을 위해 크리스마스 트리 아래에 산타클로스가 보낸 선물을 꼭 살펴보세요!",
+    "url": "",
+    "image": {
+        "path": "sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Let_it_snow_15/.dds",
+        "filesize": 2048
+    }
+}

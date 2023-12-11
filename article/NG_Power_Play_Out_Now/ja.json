@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527661,"title":"","headline":"GTA Online","subtitle":"パワープレイ","content":"パワープレイで、戦場のルールを覆しましょう。新しい敵対モードで自分や味方を押し上げ、勝利を追い求められます。<br />6種類あるパワーアップの効果はいずれも一時的なものなので、タイミングを見計らって使う必要があります。同じチーム内でパワーアップの効果を重ね合い、不利な戦局を覆しましょう。","url":"","image":{"path":"sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Power_Play_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527661,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "パワープレイ",
+    "content": "パワープレイで、戦場のルールを覆しましょう。新しい敵対モードで自分や味方を押し上げ、勝利を追い求められます。<br />6種類あるパワーアップの効果はいずれも一時的なものなので、タイミングを見計らって使う必要があります。同じチーム内でパワーアップの効果を重ね合い、不利な戦局を覆しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Power_Play_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

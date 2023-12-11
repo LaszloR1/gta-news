@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1505227300,"title":"","headline":"GTA Online","subtitle":"La Dewbauchee Rapid GT classique","content":"Pour les vrais connaisseurs, la flamme de la conception automobile des années 80 ne s'est jamais éteinteµ: elle était juste partie en croisière de luxe. Désormais, après une longue pause loin des chaînes de montage, la Rapid GT classique est de retour dans les rues de Los Santos, et croyez-nousµ: la vieillesse lui va bien.","url":"","image":{"path":"sc/news/SR_Dewbauchee_Rapid/262272_RapidGT.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1505227300,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "La Dewbauchee Rapid GT classique",
+    "content": "Pour les vrais connaisseurs, la flamme de la conception automobile des années 80 ne s'est jamais éteinteµ: elle était juste partie en croisière de luxe. Désormais, après une longue pause loin des chaînes de montage, la Rapid GT classique est de retour dans les rues de Los Santos, et croyez-nousµ: la vieillesse lui va bien.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Dewbauchee_Rapid/262272_RapidGT.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

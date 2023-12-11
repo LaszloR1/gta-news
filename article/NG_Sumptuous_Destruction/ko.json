@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433954895,"title":"","headline":"GTA Online","subtitle":"화려한 파괴자","content":"아뮤네이션을 방문해서 여러분의 강력한 무기에 호화로운 문양을 새기십시오.<br /><br />이제 다양한 무기에 특별한 문양을 새길 수 있습니다. 믿음직한 무기를 좀 더 화려하게 꾸며보십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Sumptuous_Destruction/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sumptuous_Destruction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433954895,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "화려한 파괴자",
+    "content": "아뮤네이션을 방문해서 여러분의 강력한 무기에 호화로운 문양을 새기십시오.<br /><br />이제 다양한 무기에 특별한 문양을 새길 수 있습니다. 믿음직한 무기를 좀 더 화려하게 꾸며보십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Sumptuous_Destruction/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sumptuous_Destruction/.dds",
+        "filesize": 2048
+    }
+}

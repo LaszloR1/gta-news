@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423790,"title":"","headline":"GTA Online","subtitle":"Cunning Stunts: Special Vehicle Circuit","content":"Du hast jeden Looping und jeden Sprung, jede Kurve und jede Steilabfahrt in wirklich jedem Stuntrennen gemeistert. Und du hast den Raketenantrieb, den Gleitschirm und die Seetüchtigkeit eines jeden Spezialfahrzeugs ausgereizt, das Platz in deiner unterirdischen Garage hat. Und jetzt? <br /><br />Schmeiß dich in deinen Stuntanzug und mach dich für 20 neue Stuntrennen bereit, die speziell auf die Fahrzeuge ausgerichtet wurden, die die Regierung gerne verbieten würde, wenn sie denn könnte.","url":"","image":{"path":"sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423790,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cunning Stunts: Special Vehicle Circuit",
+    "content": "Du hast jeden Looping und jeden Sprung, jede Kurve und jede Steilabfahrt in wirklich jedem Stuntrennen gemeistert. Und du hast den Raketenantrieb, den Gleitschirm und die Seetüchtigkeit eines jeden Spezialfahrzeugs ausgereizt, das Platz in deiner unterirdischen Garage hat. Und jetzt? <br /><br />Schmeiß dich in deinen Stuntanzug und mach dich für 20 neue Stuntrennen bereit, die speziell auf die Fahrzeuge ausgerichtet wurden, die die Regierung gerne verbieten würde, wenn sie denn könnte.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

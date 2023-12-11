@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736471,"title":"","headline":"GTA Online","subtitle":"NUOVI VEICOLI","content":"Preparati all'impatto! Un nuovo stock di veicoli e velivoli sta per colpire Los Santos! I tuoi nuovi mezzi di aria e di terra preferiti sono a portata di click: per la distruzione causata da armi di tipo militare rivolgersi a Warstock, per la velocità che elimina la necessità del chirurgo estetico per farsi un lifting al volto, pregasi visitare Legendary Motorsport.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "NUOVI VEICOLI",
+    "content": "Preparati all'impatto! Un nuovo stock di veicoli e velivoli sta per colpire Los Santos! I tuoi nuovi mezzi di aria e di terra preferiti sono a portata di click: per la distruzione causata da armi di tipo militare rivolgersi a Warstock, per la velocità che elimina la necessità del chirurgo estetico per farsi un lifting al volto, pregasi visitare Legendary Motorsport.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

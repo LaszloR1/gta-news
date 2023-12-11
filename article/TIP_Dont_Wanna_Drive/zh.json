@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832743,"headline":"線上小訣竅","subtitle":"不想開車？","content":"用手機打開差事清單中收到的邀請時，它會告訴您差事距離您有多遠。萬一差事太遠而您又不想前往的話，您可以不要接受它——去看看差事清單中有沒有近一點的差事，或乾脆自己進行一個差事吧。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Dont_Wanna_Drive/65664_Dont_Want_to_Drive_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832743,
+    "headline": "線上小訣竅",
+    "subtitle": "不想開車？",
+    "content": "用手機打開差事清單中收到的邀請時，它會告訴您差事距離您有多遠。萬一差事太遠而您又不想前往的話，您可以不要接受它——去看看差事清單中有沒有近一點的差事，或乾脆自己進行一個差事吧。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Dont_Wanna_Drive/65664_Dont_Want_to_Drive_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

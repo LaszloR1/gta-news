@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241169,"title":"","headline":"GTA Online","subtitle":"Premie GTA Online: żółte piżamy i bonżurka (30.09-3.10)","content":"Za zalogowanie się do GTA Online odblokowujesz żółtą piżamę oraz bonżurkę. Możesz je za darmo odebrać w każdym ze sklepów odzieżowych w Los Santos. To idealny ubiór na wieczory spędzane na wyrafinowanym relaksie po ciężkim dniu pracy, z pewnością zechcesz je dołączyć do swojej kolekcji ubrań.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Unlocks/349672_LSE_BIGFEED_PAJAMAS.dds","filesize":349672},"landscape":{"path":"sc/news/NG_LSEW_30_3_Unlocks/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241169,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Premie GTA Online: żółte piżamy i bonżurka (30.09-3.10)",
+    "content": "Za zalogowanie się do GTA Online odblokowujesz żółtą piżamę oraz bonżurkę. Możesz je za darmo odebrać w każdym ze sklepów odzieżowych w Los Santos. To idealny ubiór na wieczory spędzane na wyrafinowanym relaksie po ciężkim dniu pracy, z pewnością zechcesz je dołączyć do swojej kolekcji ubrań.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Unlocks/349672_LSE_BIGFEED_PAJAMAS.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Unlocks/.dds",
+        "filesize": 2048
+    }
+}

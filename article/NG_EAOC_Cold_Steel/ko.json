@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174950,"title":"","headline":"GTA Online","subtitle":"냉혹한 무기","content":"새로운 2종의 무기로 여러분의 연맹과 함께 거리를 지배하십시오. 확실한 위력을 보장하는 인정사정없이 잔인한 헤비 리볼버? 아니면 가까이 다가가서 잔혹하게 끝장낼 수 있는 스위치블레이드? VIP 또는 수행원이 되어 새로운 무기를 사용해 보십시오!","url":"","image":{"path":"sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Cold_Steel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174950,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "냉혹한 무기",
+    "content": "새로운 2종의 무기로 여러분의 연맹과 함께 거리를 지배하십시오. 확실한 위력을 보장하는 인정사정없이 잔인한 헤비 리볼버? 아니면 가까이 다가가서 잔혹하게 끝장낼 수 있는 스위치블레이드? VIP 또는 수행원이 되어 새로운 무기를 사용해 보십시오!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/262272_Cold_Steel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Cold_Steel/.dds",
+        "filesize": 2048
+    }
+}

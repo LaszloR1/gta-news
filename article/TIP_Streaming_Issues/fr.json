@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832177,"headline":"Astuce en ligne","subtitle":"Problèmes de streaming ?","content":"Si vous observez des anomalies dans Los Santos, par exemple des voitures ou des objets qui se déplacent bizarrement, soit vous êtes sous l'influence de substances illicites, soit vous partagez votre session avec un utilisateur ayant des problèmes de réseau ou disposant d'une connexion trop lente. Si le problème persiste, vous pouvez changer de session ou éviter d'inviter le responsable dans vos activités.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832177,
+    "headline": "Astuce en ligne",
+    "subtitle": "Problèmes de streaming ?",
+    "content": "Si vous observez des anomalies dans Los Santos, par exemple des voitures ou des objets qui se déplacent bizarrement, soit vous êtes sous l'influence de substances illicites, soit vous partagez votre session avec un utilisateur ayant des problèmes de réseau ou disposant d'une connexion trop lente. Si le problème persiste, vous pouvez changer de session ou éviter d'inviter le responsable dans vos activités.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

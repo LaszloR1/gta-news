@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991138,"headline":"Online-Tipp","subtitle":"Wisst ihr nicht, dass ich crazy bin?","content":"Mit der neuen Geisteszustand-Statistik überwachen wir dein Verhalten. Wenn du gerne Passanten angreifst oder andere Spieler terrorisierst, färbt sich deine Markierung auf den Karten anderer Spieler langsam rot. Umso roter die Markierung ist, desto durchgeknallter ist der Spieler; umso weißer die Markierung ist, desto freundlicher ist er.<br /><br />Du gelangst automatisch in Sitzungen im Freien Modus, in dem sich Leute aufhalten, die mit deinem Spielstil 'kompatibel' sind.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991138,
+    "headline": "Online-Tipp",
+    "subtitle": "Wisst ihr nicht, dass ich crazy bin?",
+    "content": "Mit der neuen Geisteszustand-Statistik überwachen wir dein Verhalten. Wenn du gerne Passanten angreifst oder andere Spieler terrorisierst, färbt sich deine Markierung auf den Karten anderer Spieler langsam rot. Umso roter die Markierung ist, desto durchgeknallter ist der Spieler; umso weißer die Markierung ist, desto freundlicher ist er.<br /><br />Du gelangst automatisch in Sitzungen im Freien Modus, in dem sich Leute aufhalten, die mit deinem Spielstil 'kompatibel' sind.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds",
+        "filesize": 65664
+    }
+}

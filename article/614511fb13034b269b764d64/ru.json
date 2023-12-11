@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677133,"title":"GTA+","headline":"GTA+","subtitle":"Командный терминал для Avenger","content":"Подписчики GTA+ могут бесплатно установить командный терминал для Avenger до 19 июля.<br /><br />Командный терминал – это улучшение Avenger, которое открывает доступ к проекту «Переворот» и заданиям Los Santos Angels<br /><br />Чтобы установить командный терминал, отправляйтесь на своем Avenger к Чарли в ангар или же зайдите в меню улучшений Чарли во время модификации Avenger.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц, отменить ее можно в любой момент. Все подробности – на сайте rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_ru_ru.dds","filesize":262272},"button":"Оформить подписку GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677133,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Командный терминал для Avenger",
+    "content": "Подписчики GTA+ могут бесплатно установить командный терминал для Avenger до 19 июля.<br /><br />Командный терминал – это улучшение Avenger, которое открывает доступ к проекту «Переворот» и заданиям Los Santos Angels<br /><br />Чтобы установить командный терминал, отправляйтесь на своем Avenger к Чарли в ангар или же зайдите в меню улучшений Чарли во время модификации Avenger.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц, отменить ее можно в любой момент. Все подробности – на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314860,"title":"","headline":"GTA Online","subtitle":"디렉터 모드","content":"Rockstar 편집기에는 나만의 독특한 동영상을 만들게 도와주는 유용한 도구인 디렉터 모드가 있습니다.<br /><br />게임 플레이를 녹화하기 전에 디렉터 모드를 실행하여 스토리 모드의 다양한 캐릭터와 동물들을 배우로 등장시키고 날씨와 시간대, 위치 같은 변수를 설정하십시오. 또, 폭발 펀치 같은 치트도 이용할 수 있습니다.<br /><br />디렉터 모드는 일시 중지 메뉴의 Rockstar 편집기 탭에서 이용할 수 있습니다.","url":"","image":{"path":"sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Director-Mode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314860,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "디렉터 모드",
+    "content": "Rockstar 편집기에는 나만의 독특한 동영상을 만들게 도와주는 유용한 도구인 디렉터 모드가 있습니다.<br /><br />게임 플레이를 녹화하기 전에 디렉터 모드를 실행하여 스토리 모드의 다양한 캐릭터와 동물들을 배우로 등장시키고 날씨와 시간대, 위치 같은 변수를 설정하십시오. 또, 폭발 펀치 같은 치트도 이용할 수 있습니다.<br /><br />디렉터 모드는 일시 중지 메뉴의 Rockstar 편집기 탭에서 이용할 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Director-Mode/262272_Director-Mode.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Director-Mode/.dds",
+        "filesize": 2048
+    }
+}

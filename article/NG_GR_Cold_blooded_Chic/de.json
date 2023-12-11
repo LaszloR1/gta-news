@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916655,"title":"","headline":"GTA Online","subtitle":"Unbarmherzige Mode","content":"In dieser Saison statten dich die Boutiquen und Salons von Los Santos mit den aktuellen Modetrends der Söldner und Überlebenskünstler aus: Tarnparkas, Ex-Militär-Barette, strapazierfähige Kampfstiefel, blutrünstige Tattoos und kurzgeschorene Frisuren. Mach dich schick – schließlich wirst du das Letzte sein, was sie jemals sehen.","url":"","image":{"path":"sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Cold_blooded_Chic/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916655,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Unbarmherzige Mode",
+    "content": "In dieser Saison statten dich die Boutiquen und Salons von Los Santos mit den aktuellen Modetrends der Söldner und Überlebenskünstler aus: Tarnparkas, Ex-Militär-Barette, strapazierfähige Kampfstiefel, blutrünstige Tattoos und kurzgeschorene Frisuren. Mach dich schick – schließlich wirst du das Letzte sein, was sie jemals sehen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

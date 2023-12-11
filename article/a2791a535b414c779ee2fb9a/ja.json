@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705112,"title":"GTA+","headline":"GTA+","subtitle":"コサトカ用誘導ミサイル","content":"GTA+のメンバーは10月11日まで潜水艦「コサトカ」用の誘導ミサイルアップグレードを無料で受け取れます。<br /><br />この遠隔操作で手動制御のロケットを使って、敵対勢力を消し去りましょう。「カヨ・ペリコ強盗」のルビオの島の部隊を含む、あらゆるターゲットに対して利用できます。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_ja_jp.dds","filesize":262272},"button":"選択してGTA+に登録"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705112,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "コサトカ用誘導ミサイル",
+    "content": "GTA+のメンバーは10月11日まで潜水艦「コサトカ」用の誘導ミサイルアップグレードを無料で受け取れます。<br /><br />この遠隔操作で手動制御のロケットを使って、敵対勢力を消し去りましょう。「カヨ・ペリコ強盗」のルビオの島の部隊を含む、あらゆるターゲットに対して利用できます。<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_ja_jp.dds",
+        "filesize": 262272
+    },
+    "button": "選択してGTA+に登録"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979852,"title":"","headline":"GTA Online","subtitle":"새로운 대적 모드","content":"습격 업데이트에는 신나는 몇 가지 새로운 대적 모드가 포함되어 있으므로 다음번 큰 작업을 하기 전에 피의 제전에 참가할 수 있습니다. 새로운 모드는 모두 랭킹 12에 잠금 해제됩니다.<br /><br />놈들은 사방에 있다: 무슨 수를 써서라도 자기 영역을 지키십시오. 투지와 각오, 그리고 중화기가 필요할 겁니다.<br />또 만나자: 죽음의 트럭을 타고 쫓아오는 적보다 빨리 목적지에 도착하십시오. 오직 자전거와 두 다리만 써서요.<br />나와서 놀자: 한 팀은 쫓아오는 사냥꾼들을 물리치며 도보로 목적지에 도착해야 합니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979852,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "새로운 대적 모드",
+    "content": "습격 업데이트에는 신나는 몇 가지 새로운 대적 모드가 포함되어 있으므로 다음번 큰 작업을 하기 전에 피의 제전에 참가할 수 있습니다. 새로운 모드는 모두 랭킹 12에 잠금 해제됩니다.<br /><br />놈들은 사방에 있다: 무슨 수를 써서라도 자기 영역을 지키십시오. 투지와 각오, 그리고 중화기가 필요할 겁니다.<br />또 만나자: 죽음의 트럭을 타고 쫓아오는 적보다 빨리 목적지에 도착하십시오. 오직 자전거와 두 다리만 써서요.<br />나와서 놀자: 한 팀은 쫓아오는 사냥꾼들을 물리치며 도보로 목적지에 도착해야 합니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

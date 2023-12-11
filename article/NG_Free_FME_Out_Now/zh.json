@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442335249,"title":"","headline":"GTA Online","subtitle":"現已推出自由模式活動內容更新","content":"以全新的方式暢玩GTA線上模式中各種瘋狂的遊戲，包括：獵殺野獸、載具卡位戰等刺激的內容。不需要載入遊戲畫面或大廳，即可直接進入開放的自由模式遊戲戰局。<br /><br />在自由模式中，隨時都可能會有活動，您還可以自訂選項，決定究竟要玩哪些內容，隨您的喜好決定要體驗新遊戲中的哪些內容。<br /><br />另外還包括兩款精彩的競爭模式：火線穿越和快速護送。","url":"","image":{"path":"sc/news/NG_Free_FME_Out_Now/262272_FME-art.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_FME_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442335249,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "現已推出自由模式活動內容更新",
+    "content": "以全新的方式暢玩GTA線上模式中各種瘋狂的遊戲，包括：獵殺野獸、載具卡位戰等刺激的內容。不需要載入遊戲畫面或大廳，即可直接進入開放的自由模式遊戲戰局。<br /><br />在自由模式中，隨時都可能會有活動，您還可以自訂選項，決定究竟要玩哪些內容，隨您的喜好決定要體驗新遊戲中的哪些內容。<br /><br />另外還包括兩款精彩的競爭模式：火線穿越和快速護送。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_FME_Out_Now/262272_FME-art.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_FME_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1670961392,"title":"","headline":"GTA Online","subtitle":"REFLEXOS COM RAYTRACING","content":"Alterações e otimizações para oferecer suporte para reflexos eficientes com raytracing no GTAV e no GTA Online. Os reflexos com raytracing já estão ativados no modo Fidelidade para todas as superfícies, interiores e exteriores refletivos.","url":"","image":{"path":"sc/news/a923c8bf2f93473d96838d34/262272_GTAO_LSDW_Ray_Traced_Reflections_FINAL_BigFeedcopy_V3.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1670961392,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "REFLEXOS COM RAYTRACING",
+    "content": "Alterações e otimizações para oferecer suporte para reflexos eficientes com raytracing no GTAV e no GTA Online. Os reflexos com raytracing já estão ativados no modo Fidelidade para todas as superfícies, interiores e exteriores refletivos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/a923c8bf2f93473d96838d34/262272_GTAO_LSDW_Ray_Traced_Reflections_FINAL_BigFeedcopy_V3.dds",
+        "filesize": 262272
+    }
+}

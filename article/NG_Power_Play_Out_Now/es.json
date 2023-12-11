@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527661,"title":"","headline":"GTA Online","subtitle":"Acción ofensiva","content":"Cambia las reglas del juego en Acción ofensiva, el nuevo modo Adversario que dará a los jugadores la oportunidad de dar ventaja tanto a ellos mismos como a sus aliados en búsqueda de la victoria definitiva.<br />Los efectos de estos seis potenciadores son temporales y deben usarse en el momento adecuado. Cada jugador solo puede usar un potenciador a la vez, aunque estos pueden combinarse con los de otros compañeros para tener mucha más ventaja.","url":"","image":{"path":"sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Power_Play_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527661,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Acción ofensiva",
+    "content": "Cambia las reglas del juego en Acción ofensiva, el nuevo modo Adversario que dará a los jugadores la oportunidad de dar ventaja tanto a ellos mismos como a sus aliados en búsqueda de la victoria definitiva.<br />Los efectos de estos seis potenciadores son temporales y deben usarse en el momento adecuado. Cada jugador solo puede usar un potenciador a la vez, aunque estos pueden combinarse con los de otros compañeros para tener mucha más ventaja.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Power_Play_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

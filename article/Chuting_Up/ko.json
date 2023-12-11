@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1408452488,"title":"","headline":"GTA 온라인 업데이트","subtitle":"낙하산을 펴다","content":"아뮤네이션에서 예비 낙하산을 구입하여 스카이 다이빙의 다음 단계를 경험하십시오. 다양한 패러포일, 낙하산 연막, 백팩 스타일이 마련되어 있습니다.~n~~n~~INPUT_FRONTEND_Y~를 눌러 1차 낙하산을 끊고 다시 자유 낙하를 하다가 ~INPUT_FRONTEND_ACCEPT~를 눌러 예비 낙하산을 펴십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Chuting_Up/65664_chuting_up.dds","filesize":65664},"landscape":{"path":"sc/news/Chuting_Up/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452488,
+    "title": "",
+    "headline": "GTA 온라인 업데이트",
+    "subtitle": "낙하산을 펴다",
+    "content": "아뮤네이션에서 예비 낙하산을 구입하여 스카이 다이빙의 다음 단계를 경험하십시오. 다양한 패러포일, 낙하산 연막, 백팩 스타일이 마련되어 있습니다.~n~~n~~INPUT_FRONTEND_Y~를 눌러 1차 낙하산을 끊고 다시 자유 낙하를 하다가 ~INPUT_FRONTEND_ACCEPT~를 눌러 예비 낙하산을 펴십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Chuting_Up/65664_chuting_up.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Chuting_Up/.dds",
+        "filesize": 2048
+    }
+}

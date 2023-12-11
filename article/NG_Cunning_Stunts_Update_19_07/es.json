@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468921868,"title":"","headline":"GTA Online","subtitle":"Ocelot Lynx, Declasse Drift Tampa y Western Cliffhanger","content":"Esta semana llegan tres nuevos e impresionantes vehículos a las calles de Los Santos. ¿Elegirás un vehículo para locos de la velocidad sofisticados, como el Ocelot Lynx, o dejarás atrás cualquier atisbo de decoro con el bestial Drift Tampa? Quizá estés acostumbrado a sentir algo poderoso entre las piernas, y si es el caso, podrás conseguir la Western Cliffhanger con un préstamo a corto plazo. Y recuerda: no hay ninguna ley que te impida tenerlos todos.","url":"","image":{"path":"sc/news/NG_Cunning_Stunts_Update_19_07/262272_Legendary_Ocelot.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Cunning_Stunts_Update_19_07/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468921868,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ocelot Lynx, Declasse Drift Tampa y Western Cliffhanger",
+    "content": "Esta semana llegan tres nuevos e impresionantes vehículos a las calles de Los Santos. ¿Elegirás un vehículo para locos de la velocidad sofisticados, como el Ocelot Lynx, o dejarás atrás cualquier atisbo de decoro con el bestial Drift Tampa? Quizá estés acostumbrado a sentir algo poderoso entre las piernas, y si es el caso, podrás conseguir la Western Cliffhanger con un préstamo a corto plazo. Y recuerda: no hay ninguna ley que te impida tenerlos todos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Cunning_Stunts_Update_19_07/262272_Legendary_Ocelot.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Cunning_Stunts_Update_19_07/.dds",
+        "filesize": 2048
+    }
+}

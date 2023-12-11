@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"ТАКТИЧЕСКИЙ ПП","content":"Отличные новости: ваш знакомый торговец оружием вернулся в город с целым фургоном не совсем легальных товаров. <br /><br />Загляните к нему, чтобы приобрести скорострельный тактический ПП с увеличенным магазином, который уже снискал популярность среди ведущих оружейных экспертов города. Ищите его в оружейном фургоне.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ТАКТИЧЕСКИЙ ПП",
+    "content": "Отличные новости: ваш знакомый торговец оружием вернулся в город с целым фургоном не совсем легальных товаров. <br /><br />Загляните к нему, чтобы приобрести скорострельный тактический ПП с увеличенным магазином, который уже снискал популярность среди ведущих оружейных экспертов города. Ищите его в оружейном фургоне.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

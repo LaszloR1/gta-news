@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1510054908,"title":"","headline":"GTA Online","subtitle":"Le P-45 Nokota","content":"Certes, vous pourriez faire comme tout le monde et opter pour des avions à réaction et des systèmes de guidage par ordinateur hypermodernes, mais vous désirez quelque chose de plus authentique. Le P-45 Nokota sort tout droit d'une époque où les avions étaient élégants, les armes bruyantes et les ennemis facilement repérables. Si avoir la classe d'un pilote de chasse des années 40 vous fait envie, n'allez pas chercher plus loin.","url":"","image":{"path":"sc/news/SR_P-45_Nokota/262272_P45Nokota.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1510054908,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le P-45 Nokota",
+    "content": "Certes, vous pourriez faire comme tout le monde et opter pour des avions à réaction et des systèmes de guidage par ordinateur hypermodernes, mais vous désirez quelque chose de plus authentique. Le P-45 Nokota sort tout droit d'une époque où les avions étaient élégants, les armes bruyantes et les ennemis facilement repérables. Si avoir la classe d'un pilote de chasse des années 40 vous fait envie, n'allez pas chercher plus loin.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_P-45_Nokota/262272_P45Nokota.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

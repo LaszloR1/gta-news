@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608039604,"title":"","headline":"GTA Online","subtitle":"라디오를 켜세요","content":"플라이로 FM의 몽롱한 비트나 월드와이드 FM의 짜릿한 음악을 청취해 보세요. 창문을 내리고 크루즈 컨트롤로 전환한 뒤 상큼하고 새로운 음악에 귀를 기울이면 됩니다. 아주 부드럽고 편안한 운전을 즐기시게 될 겁니다.","url":"","image":{"path":"sc/news/9cc0bc2323224e6a8417b5ee/262272_GTAO_IslandHeist_BigFeed_Flylo.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608039604,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "라디오를 켜세요",
+    "content": "플라이로 FM의 몽롱한 비트나 월드와이드 FM의 짜릿한 음악을 청취해 보세요. 창문을 내리고 크루즈 컨트롤로 전환한 뒤 상큼하고 새로운 음악에 귀를 기울이면 됩니다. 아주 부드럽고 편안한 운전을 즐기시게 될 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9cc0bc2323224e6a8417b5ee/262272_GTAO_IslandHeist_BigFeed_Flylo.dds",
+        "filesize": 262272
+    }
+}

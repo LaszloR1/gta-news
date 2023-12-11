@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTAµ在线模式","subtitle":"陆上交通","content":"太多人盯着天空？那就保持低调，通过陆路进行全新的“货物获取任务”和“出售任务”，现在可供空运业务所有者使用。<br /><br />在您的机库办公室中通过“自由贸易航运”安排送货和取货，或者打电话给小罗来设定您的下一个目标。","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR","image":{"path":"sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTAµ在线模式",
+    "subtitle": "陆上交通",
+    "content": "太多人盯着天空？那就保持低调，通过陆路进行全新的“货物获取任务”和“出售任务”，现在可供空运业务所有者使用。<br /><br />在您的机库办公室中通过“自由贸易航运”安排送货和取货，或者打电话给小罗来设定您的下一个目标。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR",
+    "image": {
+        "path": "sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

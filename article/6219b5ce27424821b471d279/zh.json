@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973236,"title":"洛聖都毒梟大戰","headline":"洛聖都毒梟大戰","subtitle":"商店搶案","content":"隨著犯罪的規模不斷提升，現在就連磚瓦水泥建築也自身難保，走投無路的竊賊開始對洛聖都各處的商店下手，打算賺快錢逍遙自在。<br /><br />注意搶劫商店的竊賊，解決掉他們以後，您可以選擇把現金物歸原主，或是自己私吞。<br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/6219b5ce27424821b471d279/262272_GTAO_337_ShopRobbery_FINAL_BigFeed.dds","filesize":262272},"button":"在自由模式中阻止商店盜竊"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973236,
+    "title": "洛聖都毒梟大戰",
+    "headline": "洛聖都毒梟大戰",
+    "subtitle": "商店搶案",
+    "content": "隨著犯罪的規模不斷提升，現在就連磚瓦水泥建築也自身難保，走投無路的竊賊開始對洛聖都各處的商店下手，打算賺快錢逍遙自在。<br /><br />注意搶劫商店的竊賊，解決掉他們以後，您可以選擇把現金物歸原主，或是自己私吞。<br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/6219b5ce27424821b471d279/262272_GTAO_337_ShopRobbery_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "在自由模式中阻止商店盜竊"
+}

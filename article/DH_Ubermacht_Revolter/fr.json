@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1516719927,"title":"","headline":"GTA Online","subtitle":"L'Ubermacht Revolter","content":"Dans votre esprit, vous êtes un peu plus important qu'un cadre ordinaire, et vous avez donc besoin de quelque chose d'un peu plus important qu'une berline de luxe ordinaire. Quelque chose avec plus de puissance, plus de présence et l'espace nécessaire pour accueillir une mitrailleuse dirigée vers l'avant. Disponible chez les concessionnaires de Los Santos, l'Ubermacht Revolter est la voiture rapide et redoutable à l'égo surdimensionné qu'il vous faut.","url":"","image":{"path":"sc/news/DH_Ubermacht_Revolter/524416_BIGFEED_2017_1212_V01_A_512x1024_Ubermacht_Revolter.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1516719927,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "L'Ubermacht Revolter",
+    "content": "Dans votre esprit, vous êtes un peu plus important qu'un cadre ordinaire, et vous avez donc besoin de quelque chose d'un peu plus important qu'une berline de luxe ordinaire. Quelque chose avec plus de puissance, plus de présence et l'espace nécessaire pour accueillir une mitrailleuse dirigée vers l'avant. Disponible chez les concessionnaires de Los Santos, l'Ubermacht Revolter est la voiture rapide et redoutable à l'égo surdimensionné qu'il vous faut.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Ubermacht_Revolter/524416_BIGFEED_2017_1212_V01_A_512x1024_Ubermacht_Revolter.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140171,"title":"GTA+","headline":"GTA+","subtitle":"Roupas exclusivas","content":"Membros do GTA+ podem criar um visual aterrorizante e assustar a população local resgatando as seguintes peças de roupa até 8 de novembro:<br /><br />– Traje monocromático listras<br />– Body de esqueleto<br />– Camiseta PRB<br />– Bermuda PRB<br />– Moletom PRB<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_pt_br.dds","filesize":262272},"button":"Selecione para se afiliar ao GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140171,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Roupas exclusivas",
+    "content": "Membros do GTA+ podem criar um visual aterrorizante e assustar a população local resgatando as seguintes peças de roupa até 8 de novembro:<br /><br />– Traje monocromático listras<br />– Body de esqueleto<br />– Camiseta PRB<br />– Bermuda PRB<br />– Moletom PRB<br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se afiliar ao GTA+"
+}

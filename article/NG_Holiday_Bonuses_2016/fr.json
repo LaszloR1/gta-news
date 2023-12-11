@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482244340,"title":"","headline":"GTA Online","subtitle":"Bonus des fêtes de fin d'annéeµ: promotions à -25µ%, veste d'intérieur & pyjama rayés à débloquer","content":"Jusqu'au 2 janvier, offrez-vous quelque chose de spécial grâce aux 25µ% de réduction sur des voitures de luxe comme l'Enus Super Diamond, sur des propriétés comme les penthouses d'Eclipse Tower, ou sur des armes comme le fusil à pompe compact.<br /><br />Vous avez débloqué la veste d'intérieur bleue rayée et le pyjama assorti en vous connectant. Rendez-vous dans n'importe quelle boutique de Los Santos pour récupérer vos vêtements gratuitement.<br /><br />Plus d'informations sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Holiday_Bonuses_2016/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482244340,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonus des fêtes de fin d'annéeµ: promotions à -25µ%, veste d'intérieur & pyjama rayés à débloquer",
+    "content": "Jusqu'au 2 janvier, offrez-vous quelque chose de spécial grâce aux 25µ% de réduction sur des voitures de luxe comme l'Enus Super Diamond, sur des propriétés comme les penthouses d'Eclipse Tower, ou sur des armes comme le fusil à pompe compact.<br /><br />Vous avez débloqué la veste d'intérieur bleue rayée et le pyjama assorti en vous connectant. Rendez-vous dans n'importe quelle boutique de Los Santos pour récupérer vos vêtements gratuitement.<br /><br />Plus d'informations sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/.dds",
+        "filesize": 2048
+    }
+}

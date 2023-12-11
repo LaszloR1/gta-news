@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356750,"title":"","headline":"GTA Online","subtitle":"雙輪也很威","content":"最新的丁卡系列機車，也就是裝甲戰車，現在於傳奇車業獨家開放提供：<br /><br />此款剽悍的機車特別採用 KERS 技術，騎上它來做個花式翹孤輪，保證所有其他人都要眼紅忌妒！","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356750,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "雙輪也很威",
+    "content": "最新的丁卡系列機車，也就是裝甲戰車，現在於傳奇車業獨家開放提供：<br /><br />此款剽悍的機車特別採用 KERS 技術，騎上它來做個花式翹孤輪，保證所有其他人都要眼紅忌妒！",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/.dds",
+        "filesize": 2048
+    }
+}

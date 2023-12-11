@@ -1,1 +1,15 @@
-{"types":["store"],"date":1647006573,"title":"Karty Shark","headline":"Karty Shark","subtitle":"Shark Cards","content":"Forsa otwiera w tym mieście każde drzwi. W Los Santos i hrabstwie Blaine problemy z kasą możesz rozwiązać, raz na jakiś czas kupując karty gotówkowe dla Grand Theft Auto Online. Cała zakupiona gotówka jest automatycznie przelewana na rachunek bankowy twojej postaci. Wydawaj z głową, forsa jest ulotna.","url":"","image":{"path":"sc/news/120ef96175c94b10b78c82db/258176_GTAV_GEN9_STORE_DRAFT_BigFeed.dds","filesize":258176}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1647006573,
+    "title": "Karty Shark",
+    "headline": "Karty Shark",
+    "subtitle": "Shark Cards",
+    "content": "Forsa otwiera w tym mieście każde drzwi. W Los Santos i hrabstwie Blaine problemy z kasą możesz rozwiązać, raz na jakiś czas kupując karty gotówkowe dla Grand Theft Auto Online. Cała zakupiona gotówka jest automatycznie przelewana na rachunek bankowy twojej postaci. Wydawaj z głową, forsa jest ulotna.",
+    "url": "",
+    "image": {
+        "path": "sc/news/120ef96175c94b10b78c82db/258176_GTAV_GEN9_STORE_DRAFT_BigFeed.dds",
+        "filesize": 258176
+    }
+}

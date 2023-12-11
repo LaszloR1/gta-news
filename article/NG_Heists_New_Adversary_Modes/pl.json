@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425979852,"title":"","headline":"GTA Online","subtitle":"Nowe tryby adwersarza","content":"Aktualizacja Napady wprowadzi nowe tryby adwersarza, które są fajną, krwawą odskocznią od wielkich skoków. Wszystkie odblokowywane są na 12. randze.<br /><br />Mentalność oblężenia – Obrońcie swój teren za wszelką cenę, dzięki determinacji, hartowi ducha i ciężkim spluwom .<br />Hasta La Vista – Ucieknijcie przeciwnikom w zabójczych ciężarówkach – silnik nie będzie Wam potrzebny... co nie?<br />Zabawmy się – Jedna drużyna musi dotrzeć do celu na piechotę, a druga na nią poluje.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425979852,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nowe tryby adwersarza",
+    "content": "Aktualizacja Napady wprowadzi nowe tryby adwersarza, które są fajną, krwawą odskocznią od wielkich skoków. Wszystkie odblokowywane są na 12. randze.<br /><br />Mentalność oblężenia – Obrońcie swój teren za wszelką cenę, dzięki determinacji, hartowi ducha i ciężkim spluwom .<br />Hasta La Vista – Ucieknijcie przeciwnikom w zabójczych ciężarówkach – silnik nie będzie Wam potrzebny... co nie?<br />Zabawmy się – Jedna drużyna musi dotrzeć do celu na piechotę, a druga na nią poluje.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/262272_New-Adversary-Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534862115,"title":"","headline":"GTA Online","subtitle":"Declasse Scramjet","content":"The Declasse Scramjet is the world’s number one reason not to judge by appearances. You’d never guess from those outrageous low-slung curves that with a press of a button this thing will do the kind of vertical take-off that’ll make a Hydra jealous, and turbo boost itself into buildings with the kind of panache that a Rocket Voltic can only dream of. Now that you know its dirty little secret, how can you resist?","url":"","image":{"path":"sc/news/lom_AH_Scramjet/349672_SCRAMJET.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534862115,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Declasse Scramjet",
+    "content": "The Declasse Scramjet is the world’s number one reason not to judge by appearances. You’d never guess from those outrageous low-slung curves that with a press of a button this thing will do the kind of vertical take-off that’ll make a Hydra jealous, and turbo boost itself into buildings with the kind of panache that a Rocket Voltic can only dream of. Now that you know its dirty little secret, how can you resist?",
+    "url": "",
+    "image": {
+        "path": "sc/news/lom_AH_Scramjet/349672_SCRAMJET.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

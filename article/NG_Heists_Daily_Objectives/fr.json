@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980266,"title":"","headline":"GTA Online","subtitle":"Objectifs quotidiens","content":"Chaque jour, le menu Interaction de GTA Online propose 3 défis aléatoires. Relevez-les pour gagner des dollars GTA et de la réputation.<br /><br />Vous pouvez gagner encore plus gros en terminant tous les défis quotidiens sur plusieurs journées consécutives. Remportez tous ces défis pendant une semaine ou un mois pour recevoir de gros bonus de réputation et de dollars GTA.<br /><br />Les défis quotidiens sont accessibles à partir du rang 15.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Daily_Objectives/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Objectifs quotidiens",
+    "content": "Chaque jour, le menu Interaction de GTA Online propose 3 défis aléatoires. Relevez-les pour gagner des dollars GTA et de la réputation.<br /><br />Vous pouvez gagner encore plus gros en terminant tous les défis quotidiens sur plusieurs journées consécutives. Remportez tous ces défis pendant une semaine ou un mois pour recevoir de gros bonus de réputation et de dollars GTA.<br /><br />Les défis quotidiens sont accessibles à partir du rang 15.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/.dds",
+        "filesize": 2048
+    }
+}

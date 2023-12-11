@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399988980,"headline":"Actualización de GTA Online","subtitle":"Presentamos la nueva Dinka Thrust","content":"La Dinka Thrust. No es sutil. No es barata. No es segura. Es perfecta para ti.<br /><br />Ya disponible en legendarymotorsport.net. Aparece en la nueva carrera de La gran vida: Empuje. Pruébala ya. Te encantará.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Dinka_Thrust/65664_GTAVhighLife_THRUST.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399988980,
+    "headline": "Actualización de GTA Online",
+    "subtitle": "Presentamos la nueva Dinka Thrust",
+    "content": "La Dinka Thrust. No es sutil. No es barata. No es segura. Es perfecta para ti.<br /><br />Ya disponible en legendarymotorsport.net. Aparece en la nueva carrera de La gran vida: Empuje. Pruébala ya. Te encantará.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Dinka_Thrust/65664_GTAVhighLife_THRUST.dds",
+        "filesize": 65664
+    }
+}

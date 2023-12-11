@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTA Online","subtitle":"ALPHA BRAVO CHARLIE DELTA","content":"Calling all renegades, lawbreakers, and agitators. When a government-funded militia goes rogue, how do you stop them? Go roguer. <br /><br />Meet the Los Santos Angels, a crack team of covert vigilantes with the bravado necessary to take on Merryweather Security. They’ve got Charlie Reed, and Charlie’s got a plan. Now all they need is a skilled operative reckless enough to join the fight and word is, they’ve got your number. <br /><br />Take on Merryweather in Project Overthrow — available now. <br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/6d054d1249144754a91e4544/262272_GTAO_SummerTULaunch_ProjectOverthrow_wLogo_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ALPHA BRAVO CHARLIE DELTA",
+    "content": "Calling all renegades, lawbreakers, and agitators. When a government-funded militia goes rogue, how do you stop them? Go roguer. <br /><br />Meet the Los Santos Angels, a crack team of covert vigilantes with the bravado necessary to take on Merryweather Security. They’ve got Charlie Reed, and Charlie’s got a plan. Now all they need is a skilled operative reckless enough to join the fight and word is, they’ve got your number. <br /><br />Take on Merryweather in Project Overthrow — available now. <br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/6d054d1249144754a91e4544/262272_GTAO_SummerTULaunch_ProjectOverthrow_wLogo_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

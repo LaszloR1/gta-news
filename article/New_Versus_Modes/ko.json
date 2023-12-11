@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408453306,"headline":"GTA 온라인 업데이트","subtitle":"새로운 VS 모드","content":"비행 학교 팩에 추가된 새로운 VS 모드를 준비하십시오.<br /><br />- 표적 확보: 깃발을 획득하고 20초 동안 유지하면 아군 팀이 1점을 얻습니다. 가장 많은 점수를 얻은 팀이 승리합니다. 깃발은 하나뿐입니다.<br />- 에어 포스 제로: 에어 포스 제로는 수비 요원의 도움을 받아 도망치며, 공격 팀은 에어 포스 제로가 목적지에 도착하기 전에 격추해야 합니다.<br />- G 레이팅(핫/콜드): 상대보다 최대한 빨리 깃발을 획득하기 위해 시간을 다투는 레이스입니다. 핫 유형에서는 무기를 사용할 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/New_Versus_Modes/65664_VersusMode.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408453306,
+    "headline": "GTA 온라인 업데이트",
+    "subtitle": "새로운 VS 모드",
+    "content": "비행 학교 팩에 추가된 새로운 VS 모드를 준비하십시오.<br /><br />- 표적 확보: 깃발을 획득하고 20초 동안 유지하면 아군 팀이 1점을 얻습니다. 가장 많은 점수를 얻은 팀이 승리합니다. 깃발은 하나뿐입니다.<br />- 에어 포스 제로: 에어 포스 제로는 수비 요원의 도움을 받아 도망치며, 공격 팀은 에어 포스 제로가 목적지에 도착하기 전에 격추해야 합니다.<br />- G 레이팅(핫/콜드): 상대보다 최대한 빨리 깃발을 획득하기 위해 시간을 다투는 레이스입니다. 핫 유형에서는 무기를 사용할 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/New_Versus_Modes/65664_VersusMode.dds",
+        "filesize": 65664
+    }
+}

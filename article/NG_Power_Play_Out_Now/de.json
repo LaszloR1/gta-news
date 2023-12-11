@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1466527661,"title":"","headline":"GTA Online","subtitle":"Power Play","content":"Definiere im neuen Gegner-Modus ''Power Play'' die Kampfregeln neu. Power-ups können Spielern und ihren Verbündeten durch Spezialfähigkeiten helfen, am Ende den Sieg zu erringen.<br /><br />Die Effekte dieser Power-ups sind zeitlich begrenzt und müssen daher weise eingesetzt werden. Jeder Spieler kann immer nur ein Power-up einsetzen oder Power-ups mit Teammitgliedern kombinieren, um dem Team einen enormen Vorteil zu verschaffen.","url":"","image":{"path":"sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Power_Play_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1466527661,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Power Play",
+    "content": "Definiere im neuen Gegner-Modus ''Power Play'' die Kampfregeln neu. Power-ups können Spielern und ihren Verbündeten durch Spezialfähigkeiten helfen, am Ende den Sieg zu erringen.<br /><br />Die Effekte dieser Power-ups sind zeitlich begrenzt und müssen daher weise eingesetzt werden. Jeder Spieler kann immer nur ein Power-up einsetzen oder Power-ups mit Teammitgliedern kombinieren, um dem Team einen enormen Vorteil zu verschaffen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Power_Play_Out_Now/349672_GTAONLINE-POWERPLAY-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Power_Play_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

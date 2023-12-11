@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513097116,"title":"","headline":"GTA Online","subtitle":"舒适家园","content":"没有谁会像µIAAµ那样建造胡乱延伸的地下设施，也没有谁会像µIAAµ那样为了还债而通过花园银行法拍网站将其设施标价出售。这里是您发起“末日豪劫”的基地，如果您想投资组建一支属于自己的战术刺杀小队，或是拥有一门可让您讨厌的任何地方灰飞烟灭的天基炮，它将会是您第一也是唯一的选择。","url":"","image":{"path":"sc/news/DH_No_Place_Like_Home/262272_IAA_V01d.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513097116,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "舒适家园",
+    "content": "没有谁会像µIAAµ那样建造胡乱延伸的地下设施，也没有谁会像µIAAµ那样为了还债而通过花园银行法拍网站将其设施标价出售。这里是您发起“末日豪劫”的基地，如果您想投资组建一支属于自己的战术刺杀小队，或是拥有一门可让您讨厌的任何地方灰飞烟灭的天基炮，它将会是您第一也是唯一的选择。",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_No_Place_Like_Home/262272_IAA_V01d.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

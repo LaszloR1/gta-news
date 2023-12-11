@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381834843,"title":"","headline":"Wskazówka do gry sieciowej","subtitle":"Warstock-cache-and-carry.com","content":"Odwiedź dostępny w przeglądarce twojego telefonu sklep Warstock-cache-and-carry.com, by zakupić jedną z oferowanych tam naziemnych lub powietrznych machin bojowych.<br /><br />Po dokonaniu zakupu możesz zorganizować dostawę za pośrednictwem firmy kurierskiej Pegasus, którą znajdziesz w swoich telefonicznych kontaktach.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Warstock/262272_Warstock-cache-and-carry.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Warstock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381834843,
+    "title": "",
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Warstock-cache-and-carry.com",
+    "content": "Odwiedź dostępny w przeglądarce twojego telefonu sklep Warstock-cache-and-carry.com, by zakupić jedną z oferowanych tam naziemnych lub powietrznych machin bojowych.<br /><br />Po dokonaniu zakupu możesz zorganizować dostawę za pośrednictwem firmy kurierskiej Pegasus, którą znajdziesz w swoich telefonicznych kontaktach.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Warstock/262272_Warstock-cache-and-carry.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Warstock/.dds",
+        "filesize": 2048
+    }
+}

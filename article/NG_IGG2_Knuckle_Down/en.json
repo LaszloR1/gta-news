@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436354142,"title":"","headline":"GTA Online","subtitle":"Knuckle Down","content":"Ammu-Nation now has a range of different knuckle dusters available for purchase - with a variety of different styles and looks to choose from you can charm people and communicate clearly in a variety of styles.<br /><br />Also in stock is the Marksman Pistol, packing more stopping power than a pump-action shotgun.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436354142,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Knuckle Down",
+    "content": "Ammu-Nation now has a range of different knuckle dusters available for purchase - with a variety of different styles and looks to choose from you can charm people and communicate clearly in a variety of styles.<br /><br />Also in stock is the Marksman Pistol, packing more stopping power than a pump-action shotgun.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

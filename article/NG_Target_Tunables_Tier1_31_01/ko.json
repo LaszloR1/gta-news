@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367126,"title":"","headline":"GTA Online","subtitle":"여러분을 위해 준비한 기간 한정 특별 할인","content":"이번 주에 실시되는 특별 할인과 함께 MC를 시작하십시오. 바이커 클럽하우스와 10대짜리 차고 특별 할인과 웨스턴 좀비 바버 오토바이 25% 할인이 기다리고 있습니다. 혹시 쏜살같이 빠른 속도를 원하는 분이라면 2월 13일까지 50% 할인하는 트루페이드 애더 슈퍼카도 한번 생각해 보십시오.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "여러분을 위해 준비한 기간 한정 특별 할인",
+    "content": "이번 주에 실시되는 특별 할인과 함께 MC를 시작하십시오. 바이커 클럽하우스와 10대짜리 차고 특별 할인과 웨스턴 좀비 바버 오토바이 25% 할인이 기다리고 있습니다. 혹시 쏜살같이 빠른 속도를 원하는 분이라면 2월 13일까지 50% 할인하는 트루페이드 애더 슈퍼카도 한번 생각해 보십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/.dds",
+        "filesize": 2048
+    }
+}

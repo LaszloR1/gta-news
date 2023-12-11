@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313881,"title":"","headline":"GTA Online","subtitle":"Freemode Challenges","content":"There are now a variety of dynamic challenges that will see you compete against the rest of your Freemode foes - ranging from the longest jumps, fastest speed, most players sniped and many more.<br />See how you compare to the top 3 live throughout the Challenge, but be prepared for a target on your back when you take the top spot.","url":"","image":{"path":"sc/news/NG-Free-Freemode-Challenges/262272_Freemode-Challenges-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Challenges/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313881,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Freemode Challenges",
+    "content": "There are now a variety of dynamic challenges that will see you compete against the rest of your Freemode foes - ranging from the longest jumps, fastest speed, most players sniped and many more.<br />See how you compare to the top 3 live throughout the Challenge, but be prepared for a target on your back when you take the top spot.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Challenges/262272_Freemode-Challenges-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Challenges/.dds",
+        "filesize": 2048
+    }
+}

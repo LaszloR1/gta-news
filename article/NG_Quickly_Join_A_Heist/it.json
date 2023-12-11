@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1426615367,"title":"","headline":"GTA Online","subtitle":"Accedi velocemente ad un Colpo","content":"Usa Partita veloce dal tuo telefono per partecipare direttamente ad un colpo.<br /><br />Seleziona 'In attesa' per restare in Freemode finché il colpo non inizia, o 'Unisciti alla sala d'attesa' per incontrare la tua squadra prima del colpo.","url":" www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Quickly_Join_A_Heist/262272_Ifruitphone.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Quickly_Join_A_Heist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1426615367,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Accedi velocemente ad un Colpo",
+    "content": "Usa Partita veloce dal tuo telefono per partecipare direttamente ad un colpo.<br /><br />Seleziona 'In attesa' per restare in Freemode finché il colpo non inizia, o 'Unisciti alla sala d'attesa' per incontrare la tua squadra prima del colpo.",
+    "url": " www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Quickly_Join_A_Heist/262272_Ifruitphone.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Quickly_Join_A_Heist/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736474,"title":"","headline":"GTAオンライン","subtitle":"進捗情報","content":"ゲームの腕を上げたいですか？それなら、自分自身に時間を与えてあげましょう。「キャリア進行状況」は、自分がロスサントス最強の犯罪者であることを証明するための新たな方法となります。<br /><br />詳しくは「キャリア進行状況」で確認できます。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_CAREER_HUB arg=NONE","image":{"path":"sc/news/6c77f529f35c436b9ddd69b5/262272_GTAO_SummerTULaunch_SecuroservHoodie_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736474,
+    "title": "",
+    "headline": "GTAオンライン",
+    "subtitle": "進捗情報",
+    "content": "ゲームの腕を上げたいですか？それなら、自分自身に時間を与えてあげましょう。「キャリア進行状況」は、自分がロスサントス最強の犯罪者であることを証明するための新たな方法となります。<br /><br />詳しくは「キャリア進行状況」で確認できます。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_CAREER_HUB arg=NONE",
+    "image": {
+        "path": "sc/news/6c77f529f35c436b9ddd69b5/262272_GTAO_SummerTULaunch_SecuroservHoodie_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349349,"title":"","headline":"GTA Online","subtitle":"新しい敵対モード","content":"ローライダーで3種類の新しい敵対モードで戦いの真っ只中に飛び込みましょう:<br />リレーµ-µ1人のドライバーが運転し、もう1人はスタートラインで待機します。周回ごとに役割を交替します。<br /><br />オフェンス・ディフェンスµ-µ1人のランナーがローライダーに乗って回収ポイントを通過していきます。味方のブロッカーはランナーを守り、邪魔者を排除しなければなりません。<br /><br />キープ・ザ・ペースµ-µ最低速度以上をキープしながら、ジャンプや障害物が散りばめられたコースを回ります。速度を落としすぎると爆発してしまいます。","url":"","image":{"path":"sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Adversary_Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349349,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新しい敵対モード",
+    "content": "ローライダーで3種類の新しい敵対モードで戦いの真っ只中に飛び込みましょう:<br />リレーµ-µ1人のドライバーが運転し、もう1人はスタートラインで待機します。周回ごとに役割を交替します。<br /><br />オフェンス・ディフェンスµ-µ1人のランナーがローライダーに乗って回収ポイントを通過していきます。味方のブロッカーはランナーを守り、邪魔者を排除しなければなりません。<br /><br />キープ・ザ・ペースµ-µ最低速度以上をキープしながら、ジャンプや障害物が散りばめられたコースを回ります。速度を落としすぎると爆発してしまいます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_New_Adversary_Modes/262272_New_Adversary_Modes.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Adversary_Modes/.dds",
+        "filesize": 2048
+    }
+}

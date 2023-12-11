@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349544,"title":"","headline":"GTA Online","subtitle":"Nuove armi","content":"Nuovi arrivi da Ammu-Nation: una pistola automatica a fuoco rapido e un devastante machete che incuterà terrore nei nemici. E già che ci sei, perché non approfittare della possibilità di rifinire con finiture di lusso un'arma già esistente, come per esempio la carabina speciale o il mitra d'assalto?","url":"","image":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Vehicle_Exhibitionist/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349544,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuove armi",
+    "content": "Nuovi arrivi da Ammu-Nation: una pistola automatica a fuoco rapido e un devastante machete che incuterà terrore nei nemici. E già che ci sei, perché non approfittare della possibilità di rifinire con finiture di lusso un'arma già esistente, come per esempio la carabina speciale o il mitra d'assalto?",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/262272_Vehicle_Exhibitionist.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Vehicle_Exhibitionist/.dds",
+        "filesize": 2048
+    }
+}

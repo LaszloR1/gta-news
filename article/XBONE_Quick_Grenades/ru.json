@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224935,"title":"","headline":"GTAV","subtitle":"Быстрые гранаты","content":"Находясь вне машины, нажмите одновременно ~INPUT_FRONTEND_LT~ и ~INPUT_FRONTEND_LEFT~, чтобы бросить гранату.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/XBONE_Quick_Grenades/65664_quick_grenades.dds","filesize":65664},"landscape":{"path":"sc/news/XBONE_Quick_Grenades/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224935,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Быстрые гранаты",
+    "content": "Находясь вне машины, нажмите одновременно ~INPUT_FRONTEND_LT~ и ~INPUT_FRONTEND_LEFT~, чтобы бросить гранату.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/XBONE_Quick_Grenades/65664_quick_grenades.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/XBONE_Quick_Grenades/.dds",
+        "filesize": 2048
+    }
+}

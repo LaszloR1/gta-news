@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677128,"title":"GTA+","headline":"GTA+","subtitle":"Maibatsu MonstroCiti","content":"Les abonnés à GTA+ peuvent récupérer le nouveau Maibatsu MonstroCiti gratuitement jusqu'au 19µjuillet.<br /><br />La réputation du Maibatsu MonstroCiti le précède déjàµ: SUV familial le jour, redoutable compétiteur la nuit. De plus, vous pouvez lui ajouter des modifications d'Imani Tech, comme l'unité de contrôle à distance ou le brouilleur de verrouillage de missile.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/1f167a4fcea6410da4cfc1b4/262272_GTAPLUSTab_Monstrocity_FINAL_BigFeed_R01_fr_fr.dds","filesize":262272},"button":"Abonnez-vous à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677128,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Maibatsu MonstroCiti",
+    "content": "Les abonnés à GTA+ peuvent récupérer le nouveau Maibatsu MonstroCiti gratuitement jusqu'au 19µjuillet.<br /><br />La réputation du Maibatsu MonstroCiti le précède déjàµ: SUV familial le jour, redoutable compétiteur la nuit. De plus, vous pouvez lui ajouter des modifications d'Imani Tech, comme l'unité de contrôle à distance ou le brouilleur de verrouillage de missile.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/1f167a4fcea6410da4cfc1b4/262272_GTAPLUSTab_Monstrocity_FINAL_BigFeed_R01_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "Abonnez-vous à GTA+"
+}

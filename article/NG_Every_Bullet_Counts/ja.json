@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1449571592,"title":"","headline":"GTA Online","subtitle":"一発必中","content":"マークスマンピストルを手にし、この血迷った新敵対モードに登場する敵を相手に、命懸けの戦いに挑みましょう。ピストルには2発しかないので、有効に使いましょう… さもなければ、近接武器で切り抜けるしかありません！","url":"","image":{"path":"sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Every_Bullet_Counts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1449571592,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "一発必中",
+    "content": "マークスマンピストルを手にし、この血迷った新敵対モードに登場する敵を相手に、命懸けの戦いに挑みましょう。ピストルには2発しかないので、有効に使いましょう… さもなければ、近接武器で切り抜けるしかありません！",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Every_Bullet_Counts/.dds",
+        "filesize": 2048
+    }
+}

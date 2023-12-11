@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241233,"title":"","headline":"GTA Online","subtitle":"Bônus no GTA Online: Corrida Acrobática Premium (30 de setembro a 3 de outubro)","content":"A Corrida Acrobática Premium do final de semana fará o sangue ferver. A partir de hoje, participe de ''Queimando o anel'' apenas para motos para receber o triplo de RP e ter a chance de obter grandes prêmios em GTA$. Para participar, vá ao ícone amarelo de Corrida Premium na Legion Square ou participe por meio do aplicativo Serviço Rápido.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241233,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bônus no GTA Online: Corrida Acrobática Premium (30 de setembro a 3 de outubro)",
+    "content": "A Corrida Acrobática Premium do final de semana fará o sangue ferver. A partir de hoje, participe de ''Queimando o anel'' apenas para motos para receber o triplo de RP e ter a chance de obter grandes prêmios em GTA$. Para participar, vá ao ícone amarelo de Corrida Premium na Legion Square ou participe por meio do aplicativo Serviço Rápido.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/.dds",
+        "filesize": 2048
+    }
+}

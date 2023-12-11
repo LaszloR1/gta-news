@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1403000037,"title":"","headline":"Dica online","subtitle":"Esporte Fantasma","content":"Corridas de carro podem se tornar novamente um esporte para cavalheiros com a introdução da opção de Corrida Fantasma.<br /><br />O host de qualquer corrida poderá mudar o Tipo de Corrida para Fantasma via opções do Lobby, que irá habilitar os veículos dos jogadores a passarem uns pelos outros e desabilitará o uso de vácuo nas corridas.<br /><br />Você ainda precisará ter cuidado com os outros motoristas de Los Santos, que ainda poderão causar estragos na sua lataria.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Non_Contact_Sport/262272_NonContactSport.dds","filesize":262272},"landscape":{"path":"sc/news/Non_Contact_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1403000037,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Esporte Fantasma",
+    "content": "Corridas de carro podem se tornar novamente um esporte para cavalheiros com a introdução da opção de Corrida Fantasma.<br /><br />O host de qualquer corrida poderá mudar o Tipo de Corrida para Fantasma via opções do Lobby, que irá habilitar os veículos dos jogadores a passarem uns pelos outros e desabilitará o uso de vácuo nas corridas.<br /><br />Você ainda precisará ter cuidado com os outros motoristas de Los Santos, que ainda poderão causar estragos na sua lataria.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Non_Contact_Sport/262272_NonContactSport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Non_Contact_Sport/.dds",
+        "filesize": 2048
+    }
+}

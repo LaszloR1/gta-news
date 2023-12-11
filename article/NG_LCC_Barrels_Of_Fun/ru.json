@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044061,"title":"","headline":"GTA Online","subtitle":"Тонна удовольствия","content":"Любители скорострельности и огневой мощи найдут, чем порадовать себя в ''Амму-Нации''. Укороченная винтовка - это еще один вариант для стрельбы на бегу, а двуствольный обрез - это простая арифметика: вдвое больше стволов - вдвое больше мяса.","url":"","image":{"path":"sc/news/NG_LCC_Barrels_Of_Fun/262272_NG_Barrels_Of_Fun.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Barrels_Of_Fun/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044061,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Тонна удовольствия",
+    "content": "Любители скорострельности и огневой мощи найдут, чем порадовать себя в ''Амму-Нации''. Укороченная винтовка - это еще один вариант для стрельбы на бегу, а двуствольный обрез - это простая арифметика: вдвое больше стволов - вдвое больше мяса.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Barrels_Of_Fun/262272_NG_Barrels_Of_Fun.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Barrels_Of_Fun/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044034,"title":"","headline":"GTA Online","subtitle":"Teraz u Benny'ego: 3 nowe auta i ulepszenia","content":"Rozszerzcie swoją kolekcję lowriderów dzięki nowym wozom dostępnym w warsztacie Benny's Original Motor Works. Sprawdźcie dwa nowe modyfikowalne samochody muscle: Vapid Slamvan i zupełnie nowy Dundreary Virgo Classic. Jeśli chcecie więcej, to Benny odświeżył też znanego klasyka Faction i teraz oferuje dla niego nowy styl modyfikacji, dzięki któremu będziecie mogli patrzeć na innych mieszkańców Los Santos z góry.","url":"","image":{"path":"sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Now_At_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044034,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Teraz u Benny'ego: 3 nowe auta i ulepszenia",
+    "content": "Rozszerzcie swoją kolekcję lowriderów dzięki nowym wozom dostępnym w warsztacie Benny's Original Motor Works. Sprawdźcie dwa nowe modyfikowalne samochody muscle: Vapid Slamvan i zupełnie nowy Dundreary Virgo Classic. Jeśli chcecie więcej, to Benny odświeżył też znanego klasyka Faction i teraz oferuje dla niego nowy styl modyfikacji, dzięki któremu będziecie mogli patrzeć na innych mieszkańców Los Santos z góry.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Now_At_Bennys/.dds",
+        "filesize": 2048
+    }
+}

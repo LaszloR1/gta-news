@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766143,"title":"","headline":"GTA Online","subtitle":"Espacio para crecer","content":"¿Has llenado hasta arriba tus garajes con coches demasiado bonitos como para venderlos? ¿Tienes más motos perfectamente tuneadas de las que entran en la sede de tu club? ¿O tal vez te has hartado de tener solo un apartamento de lujo para cada día de la semana laboral? Entendemos tu dolor, pero te traemos la solución: ahora puedes comprar una sexta propiedad.","url":"","image":{"path":"sc/news/NG_Bikers_RoomForGrowth/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_RoomForGrowth/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766143,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Espacio para crecer",
+    "content": "¿Has llenado hasta arriba tus garajes con coches demasiado bonitos como para venderlos? ¿Tienes más motos perfectamente tuneadas de las que entran en la sede de tu club? ¿O tal vez te has hartado de tener solo un apartamento de lujo para cada día de la semana laboral? Entendemos tu dolor, pero te traemos la solución: ahora puedes comprar una sexta propiedad.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_RoomForGrowth/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_RoomForGrowth/.dds",
+        "filesize": 2048
+    }
+}

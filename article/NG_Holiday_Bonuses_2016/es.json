@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482244341,"title":"","headline":"GTA Online","subtitle":"Bonificaciones festivas: descuentos del 25% y conjunto de batín y pijama a rayas desbloqueado","content":"Regálate algo especial con descuentos del 25% en una selección de artículos, desde ahora hasta el 2 de enero, incluyendo vehículos de lujo como el Enus Super Diamond, áticos en Eclipse Towers y armamento como la escopeta Sweeper.<br /><br />Además, has desbloqueado el sofisticado conjunto de batín y pijama a rayas solo por iniciar sesión. Recoge tu conjunto gratis en cualquier tienda de ropa de Los Santos.<br /><br />Más detalles en el Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Holiday_Bonuses_2016/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482244341,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonificaciones festivas: descuentos del 25% y conjunto de batín y pijama a rayas desbloqueado",
+    "content": "Regálate algo especial con descuentos del 25% en una selección de artículos, desde ahora hasta el 2 de enero, incluyendo vehículos de lujo como el Enus Super Diamond, áticos en Eclipse Towers y armamento como la escopeta Sweeper.<br /><br />Además, has desbloqueado el sofisticado conjunto de batín y pijama a rayas solo por iniciar sesión. Recoge tu conjunto gratis en cualquier tienda de ropa de Los Santos.<br /><br />Más detalles en el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/.dds",
+        "filesize": 2048
+    }
+}

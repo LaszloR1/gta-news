@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223899,"title":"","headline":"GTA Online","subtitle":"Vá se exibindo","content":"Há uma opção nova no Menu de Interação que permite que você mude o estilo de caminhar do seu personagem. São várias opções disponíveis, então encontre uma que combine com você, quer seja pavoneando ou rebolando por aí.<br /><br />Encontre a opção Jeito de Andar ao lado do Humor do Jogador no Menu de Interação.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Strut_Your_Stuff/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223899,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vá se exibindo",
+    "content": "Há uma opção nova no Menu de Interação que permite que você mude o estilo de caminhar do seu personagem. São várias opções disponíveis, então encontre uma que combine com você, quer seja pavoneando ou rebolando por aí.<br /><br />Encontre a opção Jeito de Andar ao lado do Humor do Jogador no Menu de Interação.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Strut_Your_Stuff/.dds",
+        "filesize": 2048
+    }
+}

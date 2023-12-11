@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999848,"title":"","headline":"オンラインのヒント","subtitle":"皆を好きなときに観察","content":"ロスサントスは興奮とドラマで溢れていて、皆さんを楽しませてくれることでしょう。<br /><br />座ってリラックスしながら「フレンドを見る」で、彼らの冒険を覗いてみましょう。「FRIENDS」メニューから「GTAオンライン」をプレイしているフレンドをハイライトし、「プレイヤーを見る」を選択するだけで見れます。<br /><br />フレンドによる観戦は、「ONLINE」の「オプション」メニューから有効・無効を切り替えられます。<br /><br />好きなときに彼らを見れます… ただし彼らに通知されることをお忘れなく。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds","filesize":262272},"landscape":{"path":"sc/news/You_Can_Watch_Them/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999848,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "皆を好きなときに観察",
+    "content": "ロスサントスは興奮とドラマで溢れていて、皆さんを楽しませてくれることでしょう。<br /><br />座ってリラックスしながら「フレンドを見る」で、彼らの冒険を覗いてみましょう。「FRIENDS」メニューから「GTAオンライン」をプレイしているフレンドをハイライトし、「プレイヤーを見る」を選択するだけで見れます。<br /><br />フレンドによる観戦は、「ONLINE」の「オプション」メニューから有効・無効を切り替えられます。<br /><br />好きなときに彼らを見れます… ただし彼らに通知されることをお忘れなく。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/You_Can_Watch_Them/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1569517048,"title":"","headline":"GTA Online","subtitle":"Survival of the Fittest","content":"Load out, take cover and get ready for the Survival Series. Withstand wave after ruthless wave of enemies and do whatever it takes to battle through this collection of newly created and classic Survival missions.","url":"","image":{"path":"sc/news/ff7b231521aa463db7473aa6/262272_Survival_of_the_Fittest.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1569517048,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Survival of the Fittest",
+    "content": "Load out, take cover and get ready for the Survival Series. Withstand wave after ruthless wave of enemies and do whatever it takes to battle through this collection of newly created and classic Survival missions.",
+    "url": "",
+    "image": {
+        "path": "sc/news/ff7b231521aa463db7473aa6/262272_Survival_of_the_Fittest.dds",
+        "filesize": 262272
+    }
+}

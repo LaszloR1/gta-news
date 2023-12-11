@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485192529,"title":"","headline":"GTA Online","subtitle":"Oferta de tiempo limitado: recibe una bonificación de dinero del juego comprando una tarjeta Tiburón","content":"Oferta exclusiva: ¡50% de bonificación de dinero del juego al comprar una tarjeta Tiburón Megalodón! 4µ000µ000µ$ de bonificación para gastar como quieras.<br /><br />Oferta válida hasta el 28/2. Todas las tarjetas Tiburón deben canjearse antes del 28/2. El dinero de bonificación se ingresará en tu cuenta del Maze Bank en un plazo de hasta 72 horas tras canjear cada tarjeta.<br /><br />Para saber más sobre descuentos y bonificaciones disponibles esta semana en GTA Online, consulta el Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_MCCM_RPO_3_28_2/349672_RP_Offer3.dds","filesize":349672},"landscape":{"path":"sc/news/NG_MCCM_RPO_3_28_2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485192529,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Oferta de tiempo limitado: recibe una bonificación de dinero del juego comprando una tarjeta Tiburón",
+    "content": "Oferta exclusiva: ¡50% de bonificación de dinero del juego al comprar una tarjeta Tiburón Megalodón! 4µ000µ000µ$ de bonificación para gastar como quieras.<br /><br />Oferta válida hasta el 28/2. Todas las tarjetas Tiburón deben canjearse antes del 28/2. El dinero de bonificación se ingresará en tu cuenta del Maze Bank en un plazo de hasta 72 horas tras canjear cada tarjeta.<br /><br />Para saber más sobre descuentos y bonificaciones disponibles esta semana en GTA Online, consulta el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_MCCM_RPO_3_28_2/349672_RP_Offer3.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_MCCM_RPO_3_28_2/.dds",
+        "filesize": 2048
+    }
+}

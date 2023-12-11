@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224089,"title":"","headline":"GTA Online","subtitle":"New Jobs for New Platforms","content":"To make the most of the increased player count, a selection of brand new, 30 player Jobs have been added– there are now 30 player Races, DMs, LTS and Captures as well as 16 player Parachute Jobs.<br /><br />Additionally there are some action-packed Playlists for 30 players, if you can handle the heat.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Jobs_New_Platforms/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224089,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "New Jobs for New Platforms",
+    "content": "To make the most of the increased player count, a selection of brand new, 30 player Jobs have been added– there are now 30 player Races, DMs, LTS and Captures as well as 16 player Parachute Jobs.<br /><br />Additionally there are some action-packed Playlists for 30 players, if you can handle the heat.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/.dds",
+        "filesize": 2048
+    }
+}

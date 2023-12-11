@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515825,"title":"","headline":"GTA Online","subtitle":"Cambia marcia","content":"Elmetti con punte, smanicati in denim, nuove bandane, occhiali da motociclista, catene e teschi a volontà, abiti in pelle sgualcita di ogni tipo: se qualcosa è adatto a essere indossato in sella, lo troverai nei negozi. Per non parlare dei nuovi tagli di capelli e tatuaggi.","url":"","image":{"path":"sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChangeGear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515825,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cambia marcia",
+    "content": "Elmetti con punte, smanicati in denim, nuove bandane, occhiali da motociclista, catene e teschi a volontà, abiti in pelle sgualcita di ogni tipo: se qualcosa è adatto a essere indossato in sella, lo troverai nei negozi. Per non parlare dei nuovi tagli di capelli e tatuaggi.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChangeGear/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380566406,"headline":"Suggerimento online","subtitle":"Punto di partenza","content":"Normalmente, all'avvio di GTA Online, inizierai nell'ultimo punto in cui ti trovavi. Se possiedi una proprietà puoi scegliere di partire da lì: basta cambiare il luogo di rientro dalle Opzioni del menu Online.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Launch_Location/65664_Launch_Location_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380566406,
+    "headline": "Suggerimento online",
+    "subtitle": "Punto di partenza",
+    "content": "Normalmente, all'avvio di GTA Online, inizierai nell'ultimo punto in cui ti trovavi. Se possiedi una proprietà puoi scegliere di partire da lì: basta cambiare il luogo di rientro dalle Opzioni del menu Online.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Launch_Location/65664_Launch_Location_portrait.dds",
+        "filesize": 65664
+    }
+}

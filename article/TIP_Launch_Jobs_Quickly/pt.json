@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381831290,"headline":"Dica online","subtitle":"Iniciar Serviços Rapidamente","content":"Você pode ter acesso aos Serviços, desde Mata-matas até Corridas, pelos acionadores localizados pelo mundo ou pelos menus:<br /><br />- Usando Serviço Rápido pelo seu celular.<br />- Selecionando um Serviço pela lista no Menu Online.<br />- Iniciando um Serviço diretamente do Mapa do Menu de Pausa selecionando um ícone de Serviço.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831290,
+    "headline": "Dica online",
+    "subtitle": "Iniciar Serviços Rapidamente",
+    "content": "Você pode ter acesso aos Serviços, desde Mata-matas até Corridas, pelos acionadores localizados pelo mundo ou pelos menus:<br /><br />- Usando Serviço Rápido pelo seu celular.<br />- Selecionando um Serviço pela lista no Menu Online.<br />- Iniciando um Serviço diretamente do Mapa do Menu de Pausa selecionando um ícone de Serviço.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

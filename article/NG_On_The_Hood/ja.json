@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433955146,"title":"","headline":"GTA Online","subtitle":"ボンネット視点","content":"乗り物を運転中、運転席からではなくボンネットからの視点で楽しめる新しいカメラアングルが追加されました。<br /><br />ポーズメニューの「OPTIONS」から「カメラ」を選択し、「1人称視点乗り物ボンネット」を「オン」にした後、視点モードを切り替えてこの設定に変更できます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_On_The_Hood/262272_OnTheHood.dds","filesize":262272},"landscape":{"path":"sc/news/NG_On_The_Hood/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433955146,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ボンネット視点",
+    "content": "乗り物を運転中、運転席からではなくボンネットからの視点で楽しめる新しいカメラアングルが追加されました。<br /><br />ポーズメニューの「OPTIONS」から「カメラ」を選択し、「1人称視点乗り物ボンネット」を「オン」にした後、視点モードを切り替えてこの設定に変更できます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_On_The_Hood/262272_OnTheHood.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_On_The_Hood/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1515523695,"title":"","headline":"GTA Online","subtitle":"Lampadati Viseris","content":"Puede que Los Santos sea el paraíso del obseso del automóvil, pero no sabes lo que es la verdadera felicidad hasta que te pones al volante de un Viseris. El aspecto de este bestial bólido solo es equiparable al estremecedor rugido de su motor, perjudicial para el medioambiente. Si ese aspecto y esos sonidos tan magníficos no te bastan, prueba a apretar el gatillo de su ametralladora doble opcional y ya nos cuentas.","url":"","image":{"path":"sc/news/DH_Lampadati_Viseris/262272_bigfeedLampadatiViserisVF2.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1515523695,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lampadati Viseris",
+    "content": "Puede que Los Santos sea el paraíso del obseso del automóvil, pero no sabes lo que es la verdadera felicidad hasta que te pones al volante de un Viseris. El aspecto de este bestial bólido solo es equiparable al estremecedor rugido de su motor, perjudicial para el medioambiente. Si ese aspecto y esos sonidos tan magníficos no te bastan, prueba a apretar el gatillo de su ametralladora doble opcional y ya nos cuentas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Lampadati_Viseris/262272_bigfeedLampadatiViserisVF2.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

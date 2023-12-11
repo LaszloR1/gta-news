@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991729,"headline":"Wskazówka do gry sieciowej","subtitle":"Niech cię usłyszą","content":"Załóż zestaw słuchawkowy i wyciśnij z GTA Online maksimum możliwości – Los Santos najfajniej zwiedza się w towarzystwie.<br /><br />Ikona głośnika przy nazwie gracza pokazuje, czy ktoś posiada podłączony zestaw słuchawkowy. Nie martw się jednak, że trafisz do sesji dyszącego w mikrofon oblecha albo innego nieprzyjemniaka – niepożądanych graczy można wyciszyć za pomocą opcji Online > Gracze > Wycisz.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991729,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Niech cię usłyszą",
+    "content": "Załóż zestaw słuchawkowy i wyciśnij z GTA Online maksimum możliwości – Los Santos najfajniej zwiedza się w towarzystwie.<br /><br />Ikona głośnika przy nazwie gracza pokazuje, czy ktoś posiada podłączony zestaw słuchawkowy. Nie martw się jednak, że trafisz do sesji dyszącego w mikrofon oblecha albo innego nieprzyjemniaka – niepożądanych graczy można wyciszyć za pomocą opcji Online > Gracze > Wycisz.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds",
+        "filesize": 65664
+    }
+}

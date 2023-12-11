@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1517940165,"title":"","headline":"GTA Online","subtitle":"Canis Kamacho","content":"Bei einem Geländewagen geht es nur um eines: Schlichtheit. Die Schlichtheit großer Reifen, eines unzerstörbaren Chassis, einer Ladefläche voller Bier und einiger Hundert wütender Pferde unter der Haube. Der Canis Kamacho ist angetreten, um all diese Dinge zu liefern. Und das war es dann auch – jedes weitere Extra würde dich nur langsamer machen.","url":"","image":{"path":"sc/news/DH_Canis_Kamacho/524416_BIGFEED_2017_1212_V01_F_512x1024_canis_kamacho.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1517940165,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Canis Kamacho",
+    "content": "Bei einem Geländewagen geht es nur um eines: Schlichtheit. Die Schlichtheit großer Reifen, eines unzerstörbaren Chassis, einer Ladefläche voller Bier und einiger Hundert wütender Pferde unter der Haube. Der Canis Kamacho ist angetreten, um all diese Dinge zu liefern. Und das war es dann auch – jedes weitere Extra würde dich nur langsamer machen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Canis_Kamacho/524416_BIGFEED_2017_1212_V01_F_512x1024_canis_kamacho.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

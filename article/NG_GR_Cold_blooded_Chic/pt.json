@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916656,"title":"","headline":"GTA Online","subtitle":"Estilo sanguinário","content":"Nessa temporada, as boutiques e salões de Los Santos estão prontas para equipar você com o que há de mais novo em produtos de estilo mercenário sobrevivencialista: parcas militares, boinas de veteranos, botas pesadas de combate, tatuagens sanguinárias e cortes militares. Vista-se a caráter – você será a última coisa que eles verão na vida.","url":"","image":{"path":"sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Cold_blooded_Chic/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Estilo sanguinário",
+    "content": "Nessa temporada, as boutiques e salões de Los Santos estão prontas para equipar você com o que há de mais novo em produtos de estilo mercenário sobrevivencialista: parcas militares, boinas de veteranos, botas pesadas de combate, tatuagens sanguinárias e cortes militares. Vista-se a caráter – você será a última coisa que eles verão na vida.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

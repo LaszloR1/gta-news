@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493818063,"title":"","headline":"GTA Online","subtitle":"Biker discounts and Double RP on Clubhouse Contracts through May 15th","content":"Through May 15th, Motorcycle Clubs of Los Santos will benefit from a GTA$ & RP boost when running Biker Contract Missions plus there’s a 25% discount on:<br /><br />• Biker Clubhouses<br />• Biker Clubhouse Customizations<br />• Biker Business Properties<br />• Nagasaki Shotaro<br />• Progen T20<br />• Western Company Annihilator<br />• Karin Technical<br /><br />Check out the Rockstar Newswire for more details.","url":"","image":{"path":"sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Discounts_02_05/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493818063,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Biker discounts and Double RP on Clubhouse Contracts through May 15th",
+    "content": "Through May 15th, Motorcycle Clubs of Los Santos will benefit from a GTA$ & RP boost when running Biker Contract Missions plus there’s a 25% discount on:<br /><br />• Biker Clubhouses<br />• Biker Clubhouse Customizations<br />• Biker Business Properties<br />• Nagasaki Shotaro<br />• Progen T20<br />• Western Company Annihilator<br />• Karin Technical<br /><br />Check out the Rockstar Newswire for more details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Discounts_02_05/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Discounts_02_05/.dds",
+        "filesize": 2048
+    }
+}

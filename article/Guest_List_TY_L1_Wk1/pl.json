@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635576,"title":"Nagrody dla gości","headline":"Nagrody dla gości","subtitle":"Jesteś na liście!","content":"Dziękujemy za dołączenie do listy gości. Nagrody dla gości dostępne w tym tygodniu to:<br /><br />– Prezent w postaci 300 000 GTA$<br />– Pomarańczowe wzmocnione body (zajrzyj do swojej garderoby bądź odwiedź dowolny sklep odzieżowy w Los Santos)<br /><br />Zapraszamy w przyszłym tygodniu po kolejne nagrody dla gości.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_POL.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635576,
+    "title": "Nagrody dla gości",
+    "headline": "Nagrody dla gości",
+    "subtitle": "Jesteś na liście!",
+    "content": "Dziękujemy za dołączenie do listy gości. Nagrody dla gości dostępne w tym tygodniu to:<br /><br />– Prezent w postaci 300 000 GTA$<br />– Pomarańczowe wzmocnione body (zajrzyj do swojej garderoby bądź odwiedź dowolny sklep odzieżowy w Los Santos)<br /><br />Zapraszamy w przyszłym tygodniu po kolejne nagrody dla gości.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_POL.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

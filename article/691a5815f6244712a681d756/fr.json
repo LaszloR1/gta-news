@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Comment obtenir le labo d'acide","content":"Terminez les six missions de la Première dose pour acquérir le MTLµBrickadeµ6x6 gratuitement, et rendez-vous au Freakshop pour en faire un labo d'acide opérationnel. Ou lancez-vous dans le commerce d'acide en achetant le MTLµBrickadeµ6x6 directement sur le site de Warstock Cacheµ& Carry.<br /><br />Ensuite, vous pourrez vous le faire livrer depuis le menu Interaction en mode libre, ou y accéder depuis le Freakshop.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds","filesize":262272},"button":"Se rendre sur Warstock Cache & Carry"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Comment obtenir le labo d'acide",
+    "content": "Terminez les six missions de la Première dose pour acquérir le MTLµBrickadeµ6x6 gratuitement, et rendez-vous au Freakshop pour en faire un labo d'acide opérationnel. Ou lancez-vous dans le commerce d'acide en achetant le MTLµBrickadeµ6x6 directement sur le site de Warstock Cacheµ& Carry.<br /><br />Ensuite, vous pourrez vous le faire livrer depuis le menu Interaction en mode libre, ou y accéder depuis le Freakshop.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/691a5815f6244712a681d756/262272_GTAO_LSDW_Freakshop_Interior_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Se rendre sur Warstock Cache & Carry"
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408452757,"headline":"Actualización de GTA Online","subtitle":"La escuela de vuelo ya está abierta","content":"Si soñabas con un ser piloto de cazas, ahora podrás perfeccionar tus habilidades en la escuela de vuelo que acaba de abrir sus puertas.<br /><br />Te esperan 10 nuevos desafíos aeronáuticos, que incluyen desde acrobacias de vuelo a complicados escenarios de aterrizaje. Consigue las medallas de oro para entrar a formar parte de la élite aérea.<br /><br />Encontrarás la escuela de vuelo cerca de la entrada al Aeropuerto Internacional de Los Santos (busca el icono del avión en el mapa).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Flight_School_Open/65664_FlightSchool.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452757,
+    "headline": "Actualización de GTA Online",
+    "subtitle": "La escuela de vuelo ya está abierta",
+    "content": "Si soñabas con un ser piloto de cazas, ahora podrás perfeccionar tus habilidades en la escuela de vuelo que acaba de abrir sus puertas.<br /><br />Te esperan 10 nuevos desafíos aeronáuticos, que incluyen desde acrobacias de vuelo a complicados escenarios de aterrizaje. Consigue las medallas de oro para entrar a formar parte de la élite aérea.<br /><br />Encontrarás la escuela de vuelo cerca de la entrada al Aeropuerto Internacional de Los Santos (busca el icono del avión en el mapa).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Flight_School_Open/65664_FlightSchool.dds",
+        "filesize": 65664
+    }
+}

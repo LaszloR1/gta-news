@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466874,"title":"","headline":"GTA Online","subtitle":"11월 6일까지 계속되는 GTA 온라인의 할로윈","content":"로스 산토스의 할로윈이란, 오싹한 보너스와 치명적인 할인 혜택을 누리면서 이웃을 공포에 떨게 하는 날이란 뜻이죠.<br /><br />돌아온 모든 할로윈 콘텐츠를 25% 할인합니다. 여기에는 마스크, 페이스 페인팅, 프랑켄 스탠지, 러처, 악마 같은 LCC 상투스는 물론, 듀크 오 데스까지 포함됩니다.<br /><br />자세한 내용은 Rockstar 뉴스와이어를 확인하세요.","url":"","image":{"path":"sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466874,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "11월 6일까지 계속되는 GTA 온라인의 할로윈",
+    "content": "로스 산토스의 할로윈이란, 오싹한 보너스와 치명적인 할인 혜택을 누리면서 이웃을 공포에 떨게 하는 날이란 뜻이죠.<br /><br />돌아온 모든 할로윈 콘텐츠를 25% 할인합니다. 여기에는 마스크, 페이스 페인팅, 프랑켄 스탠지, 러처, 악마 같은 LCC 상투스는 물론, 듀크 오 데스까지 포함됩니다.<br /><br />자세한 내용은 Rockstar 뉴스와이어를 확인하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

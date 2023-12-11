@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408453306,"headline":"Aktualizacja GTA Online","subtitle":"Nowe tryby Przeciwko","content":"Przygotujcie się na nowe tryby Przeciwko z aktualizacji Szkoła latania:<br /><br />- Na celowniku – Utrzymaj flagę przez 20 sekund, aby zdobyć punkt. Wygra drużyna z największą liczbą punktów.<br />- Air Force Zero – Air Force Zero ucieka z flagą, obrońcy mu pomagają, a napastnicy chcą go zdjąć, zanim dotrze do celu.<br />- Manewry (z bronią/bez broni) – Wyścig z czasem i przeciwnikami polegający na zbieraniu flag. W wariancie z bronią wszystkie chwyty dozwolone!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/New_Versus_Modes/65664_VersusMode.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408453306,
+    "headline": "Aktualizacja GTA Online",
+    "subtitle": "Nowe tryby Przeciwko",
+    "content": "Przygotujcie się na nowe tryby Przeciwko z aktualizacji Szkoła latania:<br /><br />- Na celowniku – Utrzymaj flagę przez 20 sekund, aby zdobyć punkt. Wygra drużyna z największą liczbą punktów.<br />- Air Force Zero – Air Force Zero ucieka z flagą, obrońcy mu pomagają, a napastnicy chcą go zdjąć, zanim dotrze do celu.<br />- Manewry (z bronią/bez broni) – Wyścig z czasem i przeciwnikami polegający na zbieraniu flag. W wariancie z bronią wszystkie chwyty dozwolone!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/New_Versus_Modes/65664_VersusMode.dds",
+        "filesize": 65664
+    }
+}

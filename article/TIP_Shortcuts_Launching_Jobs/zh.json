@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811018,"title":"","headline":"線上小訣竅","subtitle":"快速啟動差事","content":"當您收到差事的邀請時，只要按住向上方向鍵即可接受差事，省去了開啟手機和開啟差事清單這些步驟。~n~~n~開啟暫停選單地圖時，您可以在地圖上的差事光點上選擇差事，然後 使用 ~INPUT_FRONTEND_X~ 啟動該差事。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811018,
+    "title": "",
+    "headline": "線上小訣竅",
+    "subtitle": "快速啟動差事",
+    "content": "當您收到差事的邀請時，只要按住向上方向鍵即可接受差事，省去了開啟手機和開啟差事清單這些步驟。~n~~n~開啟暫停選單地圖時，您可以在地圖上的差事光點上選擇差事，然後 使用 ~INPUT_FRONTEND_X~ 啟動該差事。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/.dds",
+        "filesize": 2048
+    }
+}

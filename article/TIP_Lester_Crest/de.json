@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467023,"title":"","headline":"Online-Tipp","subtitle":"Lester Crest","content":"Du willst ein Kopfgeld auf jemanden aussetzen? Die Cops bestechen und deinen Fahndungslevel loswerden? Darf's vielleicht etwas Anonymität auf dem Radar sein, damit du jemandem so richtig nahe kommen kannst? Oder suchst du nur eine Transportgelegenheit? Ruf den gruseligen, peinlichen Einzelgänger Lester an.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Lester_Crest/262272_LesterCrest.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Lester_Crest/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467023,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Lester Crest",
+    "content": "Du willst ein Kopfgeld auf jemanden aussetzen? Die Cops bestechen und deinen Fahndungslevel loswerden? Darf's vielleicht etwas Anonymität auf dem Radar sein, damit du jemandem so richtig nahe kommen kannst? Oder suchst du nur eine Transportgelegenheit? Ruf den gruseligen, peinlichen Einzelgänger Lester an.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Lester_Crest/262272_LesterCrest.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Lester_Crest/.dds",
+        "filesize": 2048
+    }
+}

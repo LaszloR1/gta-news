@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999545,"title":"","headline":"Online-Tipp","subtitle":"Der Schlüssel zum Erfolg","content":"Die weitläufige Karte von Los Santos ist ein nützliches Werkzeug, um im Freien Modus einen Schritt voraus zu sein. Die Spieler-Markierungen helfen euch zu entscheiden, wer Freund und wer Feind (oder sogar Beute) ist.<br /><br />1 – Deine Crew-Mitglieder<br />2 – Deine Freunde<br />3 – Freunde, die auch Crew-Mitglieder sind<br />4 – Spieler, auf die ein Kopfgeld ausgesetzt ist<br />5 – Spieler mit einem hohen Geisteszustand<br />6 – Freunde/Spieler in einem Apartment","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Key_to_Success/262272_KeyToSuccess.dds","filesize":262272},"landscape":{"path":"sc/news/Key_to_Success/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999545,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Der Schlüssel zum Erfolg",
+    "content": "Die weitläufige Karte von Los Santos ist ein nützliches Werkzeug, um im Freien Modus einen Schritt voraus zu sein. Die Spieler-Markierungen helfen euch zu entscheiden, wer Freund und wer Feind (oder sogar Beute) ist.<br /><br />1 – Deine Crew-Mitglieder<br />2 – Deine Freunde<br />3 – Freunde, die auch Crew-Mitglieder sind<br />4 – Spieler, auf die ein Kopfgeld ausgesetzt ist<br />5 – Spieler mit einem hohen Geisteszustand<br />6 – Freunde/Spieler in einem Apartment",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Key_to_Success/262272_KeyToSuccess.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Key_to_Success/.dds",
+        "filesize": 2048
+    }
+}

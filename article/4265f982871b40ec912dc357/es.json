@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677116,"title":"GTA+","headline":"GTA+","subtitle":"Descuentos en el Mammoth Avenger","content":"Los miembros de GTA+ pueden enfrentarse a Merryweather con una pequeña ventaja gracias al 40% de descuento en mejoras y modificaciones del Avenger hasta el 19 de julio.<br /><br />¿Qué hay mejor que una fortaleza voladora con despegue vertical capaz de destruir todo a su paso? Una fortaleza voladora con despegue vertical equipada con un laboratorio de armas experimentales y un terminal de operaciones.<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Detalles en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_es_es.dds","filesize":262272},"button":"Selecciona para registrarte en GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677116,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Descuentos en el Mammoth Avenger",
+    "content": "Los miembros de GTA+ pueden enfrentarse a Merryweather con una pequeña ventaja gracias al 40% de descuento en mejoras y modificaciones del Avenger hasta el 19 de julio.<br /><br />¿Qué hay mejor que una fortaleza voladora con despegue vertical capaz de destruir todo a su paso? Una fortaleza voladora con despegue vertical equipada con un laboratorio de armas experimentales y un terminal de operaciones.<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Detalles en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para registrarte en GTA+"
+}

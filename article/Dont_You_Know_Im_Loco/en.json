@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991137,"headline":"Online Tip","subtitle":"Don’t You Know I’m Loco?","content":"With the new Mental State stat we are keeping track of your behavior. If you seem to enjoy attacking pedestrians and terrorizing other players then your blip will start to turn red on other players’ maps. The redder the blip, the more psychotic the player; the whiter the blip, the friendlier they are.<br /><br />You’ll automatically join Freemode sessions containing people more ‘compatible’ with your play style, and if a red-blipped lunatic does enter your session, you at least have fair warning!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991137,
+    "headline": "Online Tip",
+    "subtitle": "Don’t You Know I’m Loco?",
+    "content": "With the new Mental State stat we are keeping track of your behavior. If you seem to enjoy attacking pedestrians and terrorizing other players then your blip will start to turn red on other players’ maps. The redder the blip, the more psychotic the player; the whiter the blip, the friendlier they are.<br /><br />You’ll automatically join Freemode sessions containing people more ‘compatible’ with your play style, and if a red-blipped lunatic does enter your session, you at least have fair warning!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds",
+        "filesize": 65664
+    }
+}

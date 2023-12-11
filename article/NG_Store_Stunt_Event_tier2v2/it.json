@@ -1,1 +1,19 @@
-{"types":["store"],"date":1488453994,"title":"","headline":"Offerta esclusiva a tempo limitato","subtitle":"","content":"Questa settimana ti offriamo 3 veicoli da urlo a metà prezzo: la moderna Grotti X80 Proto, la velocissima Pegassi Reaper e la futuristica moto Nagasaki Shotaro.<br /><br />Anche la Dewbauchee Specter è scontata, al 25%. Potrai parcheggiare i tuoi acquisti in un nuovo garage da 10 posti: sono scontati del 25% fino al 13 marzo. ","url":"","image":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Stunt_Event_tier2v2/.dds","filesize":2048}}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1488453994,
+    "title": "",
+    "headline": "Offerta esclusiva a tempo limitato",
+    "subtitle": "",
+    "content": "Questa settimana ti offriamo 3 veicoli da urlo a metà prezzo: la moderna Grotti X80 Proto, la velocissima Pegassi Reaper e la futuristica moto Nagasaki Shotaro.<br /><br />Anche la Dewbauchee Specter è scontata, al 25%. Potrai parcheggiare i tuoi acquisti in un nuovo garage da 10 posti: sono scontati del 25% fino al 13 marzo. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/349672_Shotaro_Brighter.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Stunt_Event_tier2v2/.dds",
+        "filesize": 2048
+    }
+}

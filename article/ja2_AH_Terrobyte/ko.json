@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258266,"title":"","headline":"GTA Online","subtitle":"테러바이트","content":"악성 프로그램에 튼튼한 장갑과 편안한 좌석이 있고 바퀴가 6개 달려 있었다면 이렇게 생겼을 겁니다. 테러바이트에서 여러분은 소유한 모든 비즈니스의 확보 및 재보급 임무를 실행할 수 있고, 도시의 부도덕한 사람들에게서 데이터를 빼낼 수 있으며, 특별한 의뢰인 작업 임무를 실행할 수 있습니다. 그걸로 끝이 아닙니다. 멀티락 미사일 런처, 드론 스테이션, Mk II 무기 작업실, 그리고 오프레서 Mk II를 커스터마이즈할 수 있는 세상에서 유일한 이동 수단 작업실을 구입할 수 있답니다.","url":"","image":{"path":"sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "테러바이트",
+    "content": "악성 프로그램에 튼튼한 장갑과 편안한 좌석이 있고 바퀴가 6개 달려 있었다면 이렇게 생겼을 겁니다. 테러바이트에서 여러분은 소유한 모든 비즈니스의 확보 및 재보급 임무를 실행할 수 있고, 도시의 부도덕한 사람들에게서 데이터를 빼낼 수 있으며, 특별한 의뢰인 작업 임무를 실행할 수 있습니다. 그걸로 끝이 아닙니다. 멀티락 미사일 런처, 드론 스테이션, Mk II 무기 작업실, 그리고 오프레서 Mk II를 커스터마이즈할 수 있는 세상에서 유일한 이동 수단 작업실을 구입할 수 있답니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

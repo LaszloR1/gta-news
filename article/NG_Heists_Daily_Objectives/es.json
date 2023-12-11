@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980266,"title":"","headline":"GTA Online","subtitle":"Objetivos diarios ","content":"Busca los tres objetivos diarios al azar en el menú Interacción de GTA Online y complétalos para ganar dólares GTA y RP.<br /><br />Conseguirás recompensas todavía mayores de dólares GTA y RP si completas los objetivos consecutivamente. Acábalos cada día de la semana o del mes para ganar grandes bonificaciones en dinero y RP.<br /><br />Los objetivos diarios se desbloquean en el nivel 15.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Daily_Objectives/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Objetivos diarios ",
+    "content": "Busca los tres objetivos diarios al azar en el menú Interacción de GTA Online y complétalos para ganar dólares GTA y RP.<br /><br />Conseguirás recompensas todavía mayores de dólares GTA y RP si completas los objetivos consecutivamente. Acábalos cada día de la semana o del mes para ganar grandes bonificaciones en dinero y RP.<br /><br />Los objetivos diarios se desbloquean en el nivel 15.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/262272_DailyObjective_NG_v2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Daily_Objectives/.dds",
+        "filesize": 2048
+    }
+}

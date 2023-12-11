@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999336,"title":"","headline":"Astuce en ligne","subtitle":"Récompenses spéciales de rang 100","content":"La mise à jour 'Hipster toi-même !' introduit de nouvelles récompenses fantastiques pour tous les vrais génies du crime qui réussissent à atteindre le rang 100.<br /><br />Vous débloquerez la nouvelle Dubsta 6x6, un véhicule imposant et parfaitement adapté aux activités criminelles en milieu urbain. Disponible dès maintenant sur warstock-cache-and-carry.com pour les rares élus.<br /><br />De plus, Los Santos Customs propose désormais des peintures dorées pour ajouter un peu de 'bling' à vos engins.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Rank_100_Rewards/65664_Dubsta2.dds","filesize":65664},"landscape":{"path":"sc/news/Rank_100_Rewards/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999336,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Récompenses spéciales de rang 100",
+    "content": "La mise à jour 'Hipster toi-même !' introduit de nouvelles récompenses fantastiques pour tous les vrais génies du crime qui réussissent à atteindre le rang 100.<br /><br />Vous débloquerez la nouvelle Dubsta 6x6, un véhicule imposant et parfaitement adapté aux activités criminelles en milieu urbain. Disponible dès maintenant sur warstock-cache-and-carry.com pour les rares élus.<br /><br />De plus, Los Santos Customs propose désormais des peintures dorées pour ajouter un peu de 'bling' à vos engins.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Rank_100_Rewards/65664_Dubsta2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Rank_100_Rewards/.dds",
+        "filesize": 2048
+    }
+}

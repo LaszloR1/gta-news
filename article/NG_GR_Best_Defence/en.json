@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916829,"title":"","headline":"GTA Online","subtitle":"The Best Defense","content":"As well as being the only property in your portfolio built to survive a direct nuclear strike, your new bunker can be the seat of operations for your entry into the blackest market in the state. CEOs, VIPs and MC Presidents can develop an elite arms dealership here: supply your business, manufacture weapons and sell them off before the feds or the competition can interfere. Get ready for the super charged profits only a wartime economy can provide.","url":"","image":{"path":"sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Best_Defence/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916829,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "The Best Defense",
+    "content": "As well as being the only property in your portfolio built to survive a direct nuclear strike, your new bunker can be the seat of operations for your entry into the blackest market in the state. CEOs, VIPs and MC Presidents can develop an elite arms dealership here: supply your business, manufacture weapons and sell them off before the feds or the competition can interfere. Get ready for the super charged profits only a wartime economy can provide.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Best_Defence/262272_TheBestDefense.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Best_Defence/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

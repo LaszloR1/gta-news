@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509130515,"title":"","headline":"GTA Online","subtitle":"Condamnés","content":"Un joueur dont le temps est compté sillonne les rues de Los Santos, et ça pourrait bien être vous. L'un des joueurs démarre ce mode rivalité d'Halloween en tant que condamné et marche vers une mort certaineµ: lorsque le temps est écoulé, il servira de nourriture aux asticots. Son seul espoir est de passer la malédiction à quelqu'un d'autre, et le seul moyen de le faire est de l'envoyer six pieds sous terre. Le dernier joueur en vie remporte la partie.","url":"","image":{"path":"sc/news/SR_Condemned/349672_condemned-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509130515,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Condamnés",
+    "content": "Un joueur dont le temps est compté sillonne les rues de Los Santos, et ça pourrait bien être vous. L'un des joueurs démarre ce mode rivalité d'Halloween en tant que condamné et marche vers une mort certaineµ: lorsque le temps est écoulé, il servira de nourriture aux asticots. Son seul espoir est de passer la malédiction à quelqu'un d'autre, et le seul moyen de le faire est de l'envoyer six pieds sous terre. Le dernier joueur en vie remporte la partie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Condemned/349672_condemned-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394812638,"headline":"Astuce en ligne","subtitle":"Souriez !","content":"Nous avons récemment introduit du contenu supplémentaire pour Snapmatic afin de vous permettre d'embellir vos photos, notamment des bordures pour les encadrer à la perfection et des filtres pour leur donner plus de réalisme.<br /><br />Vous pouvez changer de bordure et de filtre à l'aide des touches directionnelles quand vous utilisez votre appareil.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812638,
+    "headline": "Astuce en ligne",
+    "subtitle": "Souriez !",
+    "content": "Nous avons récemment introduit du contenu supplémentaire pour Snapmatic afin de vous permettre d'embellir vos photos, notamment des bordures pour les encadrer à la perfection et des filtres pour leur donner plus de réalisme.<br /><br />Vous pouvez changer de bordure et de filtre à l'aide des touches directionnelles quand vous utilisez votre appareil.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

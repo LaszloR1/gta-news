@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285749,"title":"GTA+","headline":"GTA+","subtitle":"Free Clothing","content":"GTA+ Members can claim the Fist Fury Outfit (female only), Love Fist Tee, and Love Fist Flannel for free through September 13.<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed.dds","filesize":262272},"button":"Select to sign up to GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285749,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Free Clothing",
+    "content": "GTA+ Members can claim the Fist Fury Outfit (female only), Love Fist Tee, and Love Fist Flannel for free through September 13.<br /><br />GTA+ Membership automatically renews monthly, cancel any time. Visit rsg.ms/gtaplus for more info.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/960b779903cc49428e3448fb/262272_GTAOPlus_MP17_Clothing_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Select to sign up to GTA+"
+}

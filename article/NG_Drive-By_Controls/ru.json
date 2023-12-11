@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223581,"title":"","headline":"GTAV","subtitle":"Управление при стрельбе из машины","content":"Стал доступен новый тип управления при стрельбе из машины: вы можете использовать ~INPUT_FRONTEND_LB~ для прицеливания и ~INPUT_FRONTEND_RB~ для стрельбы с особой точностью. Попробуйте переключиться на вид от первого лица и всадить противнику пулю точно в лоб, не спуская ноги с педали газа.~n~~n~При желании можно вернуть старую схему управления: просто выберите в меню паузы «Настройки» > «Управление» > «Тип стрельбы из машины».","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drive-By_Controls/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223581,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Управление при стрельбе из машины",
+    "content": "Стал доступен новый тип управления при стрельбе из машины: вы можете использовать ~INPUT_FRONTEND_LB~ для прицеливания и ~INPUT_FRONTEND_RB~ для стрельбы с особой точностью. Попробуйте переключиться на вид от первого лица и всадить противнику пулю точно в лоб, не спуская ноги с педали газа.~n~~n~При желании можно вернуть старую схему управления: просто выберите в меню паузы «Настройки» > «Управление» > «Тип стрельбы из машины».",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drive-By_Controls/.dds",
+        "filesize": 2048
+    }
+}

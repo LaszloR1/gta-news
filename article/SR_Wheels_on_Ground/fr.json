@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999992,"title":"","headline":"GTA Online","subtitle":"Gardez les roues sur terre","content":"Vous avez peut-être la tête dans les nuages, mais ce n'est pas pour autant que vous avez oublié l'odeur de l'asphalte brûlé. Que ce soit la Vapid Retinue et son charmant panache ou la Grotti Visione sans pitié pour la couche d'ozone, vous trouverez forcément une nouveauté qui vous rappellera que, quelle que soit la distance que vous parcourez dans les airs, rien ne peut remplacer la route. ","url":"","image":{"path":"sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999992,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Gardez les roues sur terre",
+    "content": "Vous avez peut-être la tête dans les nuages, mais ce n'est pas pour autant que vous avez oublié l'odeur de l'asphalte brûlé. Que ce soit la Vapid Retinue et son charmant panache ou la Grotti Visione sans pitié pour la couche d'ozone, vous trouverez forcément une nouveauté qui vous rappellera que, quelle que soit la distance que vous parcourez dans les airs, rien ne peut remplacer la route. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Wheels_on_Ground/262272_Wheels_On_Ground.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

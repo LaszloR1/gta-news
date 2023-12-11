@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543167,"title":"","headline":"GTA Online","subtitle":"Duty Free","content":"Illicit sales of recently “liberated” luxury automobiles are at an all-time high. But if you want to claim your market share, you’re going to need somewhere to store your acquisitions. So, if you don’t already have an Executive Office, now’s the time to sign the deeds. Then, simply log on to your CEO SecuroServ portal and head to browse an array of low-profile, high-capacity Vehicle Warehouses.","url":"","image":{"path":"sc/news/NG_IE_Duty_Free/262272_dutyfree.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Duty_Free/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543167,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Duty Free",
+    "content": "Illicit sales of recently “liberated” luxury automobiles are at an all-time high. But if you want to claim your market share, you’re going to need somewhere to store your acquisitions. So, if you don’t already have an Executive Office, now’s the time to sign the deeds. Then, simply log on to your CEO SecuroServ portal and head to browse an array of low-profile, high-capacity Vehicle Warehouses.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Duty_Free/262272_dutyfree.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Duty_Free/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977616,"title":"","headline":"GTA Online","subtitle":"More Heist tips from Master Criminals","content":"Some more advice to help you if you are struggling with the Heists:<br /><br />- Do you have problems with flying? Would you consider yourself aero-nautically challenged? Improve your flying skills at the San Andreas Flight School.<br />- Lacking some firepower? Ammu-Nation’s latest additions have no rank requirement. Browse the latest DLC stock on the right wall at Ammu-Nation and tool up for the job.<br />- Be sure to utilize all weapon upgrades – silencers in particular are required for stealth sections. ","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_More_Heist_Tips/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977616,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "More Heist tips from Master Criminals",
+    "content": "Some more advice to help you if you are struggling with the Heists:<br /><br />- Do you have problems with flying? Would you consider yourself aero-nautically challenged? Improve your flying skills at the San Andreas Flight School.<br />- Lacking some firepower? Ammu-Nation’s latest additions have no rank requirement. Browse the latest DLC stock on the right wall at Ammu-Nation and tool up for the job.<br />- Be sure to utilize all weapon upgrades – silencers in particular are required for stealth sections. ",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/262272_More-Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_More_Heist_Tips/.dds",
+        "filesize": 2048
+    }
+}

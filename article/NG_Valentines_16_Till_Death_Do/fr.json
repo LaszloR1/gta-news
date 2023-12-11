@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1455273183,"title":"","headline":"GTA Online","subtitle":"À la vie à l'amor","content":"Ne lâchez pas votre moitié d'une semelle dans ce nouveau mode rivalité conçu spécialement pour les couples. Le travail d'équipe est essentiel dans cette activité pouvant accueillir jusqu'à quatre couples : la mort de l'un entraînera la mort de l'autre. Vous obtenez un bonus de régénération de santé lorsque vous restez à proximité l'un de l'autre. Le dernier couple survivant l'emporte.","url":"","image":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Valentines_16_Till_Death_Do/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1455273183,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "À la vie à l'amor",
+    "content": "Ne lâchez pas votre moitié d'une semelle dans ce nouveau mode rivalité conçu spécialement pour les couples. Le travail d'équipe est essentiel dans cette activité pouvant accueillir jusqu'à quatre couples : la mort de l'un entraînera la mort de l'autre. Vous obtenez un bonus de régénération de santé lorsque vous restez à proximité l'un de l'autre. Le dernier couple survivant l'emporte.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/262272_Till_Death_Do_Us_Part_NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Valentines_16_Till_Death_Do/.dds",
+        "filesize": 2048
+    }
+}

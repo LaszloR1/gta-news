@@ -1,1 +1,20 @@
-{"types":["store"],"date":1482157684,"title":"","headline":"GTA 온라인 샤크 카드","subtitle":"","content":"이 도시에서는 돈이 왕입니다. Grand Theft Auto 온라인용 현금 팩을 구입해서 당신의 돈 문제를 해결하고 로스 산토스와 블레인 카운티에서 원하는 걸 구입하십시오. 구입한 현금은 자동으로 사용자 캐릭터의 은행 계좌에 입금됩니다. 현명하게 지출하십시오. 돈은 순식간에 사라집니다.<br />","url":"","image":{"path":"sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Tab_Announce/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1482157684,
+    "title": "",
+    "headline": "GTA 온라인 샤크 카드",
+    "subtitle": "",
+    "content": "이 도시에서는 돈이 왕입니다. Grand Theft Auto 온라인용 현금 팩을 구입해서 당신의 돈 문제를 해결하고 로스 산토스와 블레인 카운티에서 원하는 걸 구입하십시오. 구입한 현금은 자동으로 사용자 캐릭터의 은행 계좌에 입금됩니다. 현명하게 지출하십시오. 돈은 순식간에 사라집니다.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Tab_Announce/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

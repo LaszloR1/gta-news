@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453798,"title":"","headline":"GTA Online","subtitle":"レット・イット・スノー","content":"空に注目しましょう。クリスマスから新年にかけて、サンアンドレアスに雪の予報が出ています。~n~~n~白いものを投げたくなる衝動を抑える必要はありません――これからは雪玉を作って投げることが可能です。~n~~n~~INPUT_DETONATE~を押して雪玉を作ったら、他の投てき武器と同じように狙いをつけて投げましょう。<br /><br />更に今日は、ツリーの下にサンタから届くプレゼントを待ちながら、ホリデーシーズンをお祭り騒ぎで祝いましょう。","url":"","image":{"path":"sc/news/NG_Let_it_Snow_15/349672_Festive_Suprise_2016.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Let_it_Snow_15/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453798,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "レット・イット・スノー",
+    "content": "空に注目しましょう。クリスマスから新年にかけて、サンアンドレアスに雪の予報が出ています。~n~~n~白いものを投げたくなる衝動を抑える必要はありません――これからは雪玉を作って投げることが可能です。~n~~n~~INPUT_DETONATE~を押して雪玉を作ったら、他の投てき武器と同じように狙いをつけて投げましょう。<br /><br />更に今日は、ツリーの下にサンタから届くプレゼントを待ちながら、ホリデーシーズンをお祭り騒ぎで祝いましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Let_it_Snow_15/349672_Festive_Suprise_2016.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Let_it_Snow_15/.dds",
+        "filesize": 2048
+    }
+}

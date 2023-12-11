@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1453977083,"title":"","headline":"GTA Online","subtitle":"베니즈: 새로운 차와 업그레이드 이용 가능!","content":"베니가 사업을 확장하기 시작했습니다. bennysoriginalmotorworks.com에서 두 대의 새로운 스포츠카, 캐런 설튼과 브라바도 밴시를 이용할 수 있습니다. 이 자동차를 베니즈 오리지널 모터 웍스로 가져가서 차체가 넓은 경주용 자동차인 캐런 설튼 RS와 브라바도 밴시 900R로 각각 업그레이드해 보십시오.","url":"","image":{"path":"sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Jan_Update_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1453977083,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "베니즈: 새로운 차와 업그레이드 이용 가능!",
+    "content": "베니가 사업을 확장하기 시작했습니다. bennysoriginalmotorworks.com에서 두 대의 새로운 스포츠카, 캐런 설튼과 브라바도 밴시를 이용할 수 있습니다. 이 자동차를 베니즈 오리지널 모터 웍스로 가져가서 차체가 넓은 경주용 자동차인 캐런 설튼 RS와 브라바도 밴시 900R로 각각 업그레이드해 보십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Jan_Update_Bennys/.dds",
+        "filesize": 2048
+    }
+}

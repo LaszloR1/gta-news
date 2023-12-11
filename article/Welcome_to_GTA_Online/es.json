@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380560618,"headline":"Newswire","subtitle":"Bienvenido a GTA Online","content":"Grand Theft Auto Online hace suyos los principios básicos de Grand Theft Auto: libertad de juego combinada con misiones y una gran variedad de actividades secundarias, y se los ofrece a múltiples jugadores en un mundo en línea interactivo e increíblemente detallado.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds","filesize":65664},"landscape":{"path":"sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380560618,
+    "headline": "Newswire",
+    "subtitle": "Bienvenido a GTA Online",
+    "content": "Grand Theft Auto Online hace suyos los principios básicos de Grand Theft Auto: libertad de juego combinada con misiones y una gran variedad de actividades secundarias, y se los ofrece a múltiples jugadores en un mundo en línea interactivo e increíblemente detallado.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_3130869-GTA_Online_Launches_October_1s.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Welcome_to_GTA_Online/65664_GTA_Online_Launches_October_1st_Landscape.dds",
+        "filesize": 65664
+    }
+}

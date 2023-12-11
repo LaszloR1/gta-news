@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425976048,"title":"","headline":"GTA Online","subtitle":"Omitiendo viajes","content":"Cuando repitas algunas misiones y finales de golpes, podrás saltarte los trayectos largos a determinados lugares.<br /><br />Puedes optar por omitir el viaje solo si:<br />- Todo el equipo del golpe ya ha realizado esa misión.<br />- Todos los jugadores que tienen el mismo objetivo se encuentran en el mismo vehículo.<br /><br />No obstante, debes tener en cuenta que omitir el viaje reducirá un poco el botín y no te permitirá participar en los desafíos extra de élite: no hay atajos para afrontar esos retos.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Trip_Skippin/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425976048,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Omitiendo viajes",
+    "content": "Cuando repitas algunas misiones y finales de golpes, podrás saltarte los trayectos largos a determinados lugares.<br /><br />Puedes optar por omitir el viaje solo si:<br />- Todo el equipo del golpe ya ha realizado esa misión.<br />- Todos los jugadores que tienen el mismo objetivo se encuentran en el mismo vehículo.<br /><br />No obstante, debes tener en cuenta que omitir el viaje reducirá un poco el botín y no te permitirá participar en los desafíos extra de élite: no hay atajos para afrontar esos retos.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/262272_Trip-Skippin.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Trip_Skippin/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480694401,"title":"","headline":"GTA Online","subtitle":"「進出口大亨」將於十二月推出","content":"「進出口大亨」推出全新的犯罪事業新領域，讓µCEOµ們與其組織竊取、改裝並轉售城裡最炙手可熱的車款以謀取暴利。玩家必須展現智慧，充分發揮團隊合作精神，並妥善運用策略，使用全新的特殊載具來完成任務。<br /><br />我們將推出全新載具倉庫，讓玩家們存放進出口業務的所有車輛，而且您可以添購最多三層的寬敞辦公室車庫，可容納多達µ60µ輛車。<br /><br />若想了解相關詳情，請參閱µRockstarµ新聞放送。","url":"","image":{"path":"sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds","filesize":699216},"landscape":{"path":"sc/news/NG_Import_Export_Announce/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480694401,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "「進出口大亨」將於十二月推出",
+    "content": "「進出口大亨」推出全新的犯罪事業新領域，讓µCEOµ們與其組織竊取、改裝並轉售城裡最炙手可熱的車款以謀取暴利。玩家必須展現智慧，充分發揮團隊合作精神，並妥善運用策略，使用全新的特殊載具來完成任務。<br /><br />我們將推出全新載具倉庫，讓玩家們存放進出口業務的所有車輛，而且您可以添購最多三層的寬敞辦公室車庫，可容納多達µ60µ輛車。<br /><br />若想了解相關詳情，請參閱µRockstarµ新聞放送。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Import_Export_Announce/699216_NG_ImportExport_Announce.dds",
+        "filesize": 699216
+    },
+    "landscape": {
+        "path": "sc/news/NG_Import_Export_Announce/.dds",
+        "filesize": 2048
+    }
+}

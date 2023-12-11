@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425982370,"title":"","headline":"GTA Online","subtitle":"Desafío Cerebro delictivo","content":"Cuando acabes todos los golpes, hay extras y desafíos de élite en los que se te recompensará generosamente.<br />No obstante, hay un desafío que solo los genios del crimen más diabólicos serán capaces de completar: el de Cerebro delictivo:<br />Completa los 5 golpes en orden en modo difícil, con todas las misiones preparatorias, el mismo grupo de jugadores y sin que nadie muera ni una sola vez.<br />Si conseguís superar este desafío, cada uno recibirá el fortunón de 10 000 000 $ como extra una sola vez.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Criminal_Mastermind/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425982370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Desafío Cerebro delictivo",
+    "content": "Cuando acabes todos los golpes, hay extras y desafíos de élite en los que se te recompensará generosamente.<br />No obstante, hay un desafío que solo los genios del crimen más diabólicos serán capaces de completar: el de Cerebro delictivo:<br />Completa los 5 golpes en orden en modo difícil, con todas las misiones preparatorias, el mismo grupo de jugadores y sin que nadie muera ni una sola vez.<br />Si conseguís superar este desafío, cada uno recibirá el fortunón de 10 000 000 $ como extra una sola vez.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/262272_Criminal-Mastermind-Challenge.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Criminal_Mastermind/.dds",
+        "filesize": 2048
+    }
+}

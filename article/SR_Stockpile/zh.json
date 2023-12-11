@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507049430,"title":"","headline":"GTA Online","subtitle":"囤積居奇","content":"在現代經濟社會裡，爭奪有限資源可能會演變成一場無情的血戰。如果再加上幾架噴射戰鬥機，這場互不相讓的比賽會瞬間升級成激烈的空中纏鬥。最多四支隊伍搭機升空，競相爭取並設法將最多可拾取的戰利品帶到基地，而就像任何沒有規範約束的貿易市場一樣，燒殺擄掠、偷拐搶騙就是取得最終勝利的不二法門。","url":"","image":{"path":"sc/news/SR_Stockpile/349672_bigfeed-stockpile-512x1024.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507049430,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "囤積居奇",
+    "content": "在現代經濟社會裡，爭奪有限資源可能會演變成一場無情的血戰。如果再加上幾架噴射戰鬥機，這場互不相讓的比賽會瞬間升級成激烈的空中纏鬥。最多四支隊伍搭機升空，競相爭取並設法將最多可拾取的戰利品帶到基地，而就像任何沒有規範約束的貿易市場一樣，燒殺擄掠、偷拐搶騙就是取得最終勝利的不二法門。",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Stockpile/349672_bigfeed-stockpile-512x1024.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

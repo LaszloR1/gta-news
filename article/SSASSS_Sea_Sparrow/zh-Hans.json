@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1523980379,"title":"","headline":"GTA Online","subtitle":"海雀","content":"每个问题都能通过合适的工具解决。但是，能够解决每个问题的却只有一个工具。那究竟是什么神器呢？当然是超小型可以武装的直升机，这一点毋庸置疑。","url":"","image":{"path":"sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1523980379,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "海雀",
+    "content": "每个问题都能通过合适的工具解决。但是，能够解决每个问题的却只有一个工具。那究竟是什么神器呢？当然是超小型可以武装的直升机，这一点毋庸置疑。",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

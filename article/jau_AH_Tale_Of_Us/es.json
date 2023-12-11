@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533047026,"title":"","headline":"GTA Online","subtitle":"Presentamos a Tale Of Us","content":"Ya puedes contratar a Tale Of Us, los reyes del techno melódico italiano, como DJ residentes en tu club nocturno. Espera la llamada de Dave el Inglés: tendrás que preparar un vehículo para ir a recogerlos. También puedes consultar el ordenador de la oficina de tu club nocturno para ver más información y escoger en todo momento al DJ residente que quieras que actúe.<br /><br />Además, no olvides sintonizar Los Santos Underground Radio para oír lo último de Solomun.","url":"","image":{"path":"sc/news/jau_AH_Tale_Of_Us/349672_GTAO_AfterHours_DJ-Bigfeeds_V02_Tale-Of-Us.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533047026,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Presentamos a Tale Of Us",
+    "content": "Ya puedes contratar a Tale Of Us, los reyes del techno melódico italiano, como DJ residentes en tu club nocturno. Espera la llamada de Dave el Inglés: tendrás que preparar un vehículo para ir a recogerlos. También puedes consultar el ordenador de la oficina de tu club nocturno para ver más información y escoger en todo momento al DJ residente que quieras que actúe.<br /><br />Además, no olvides sintonizar Los Santos Underground Radio para oír lo último de Solomun.",
+    "url": "",
+    "image": {
+        "path": "sc/news/jau_AH_Tale_Of_Us/349672_GTAO_AfterHours_DJ-Bigfeeds_V02_Tale-Of-Us.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

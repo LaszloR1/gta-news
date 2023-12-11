@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044144,"title":"","headline":"GTA Online","subtitle":"I Ain’t Afraid of No Griefer","content":"Do you ever find yourself unable to shake some unwanted attention? Well now you can make a clean break with the new Ghosted feature. If another player is repeatedly killing you without you fighting back, you can become ghosted to them for a short time to make your escape, and get on with your day.","url":"","image":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044144,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "I Ain’t Afraid of No Griefer",
+    "content": "Do you ever find yourself unable to shake some unwanted attention? Well now you can make a clean break with the new Ghosted feature. If another player is repeatedly killing you without you fighting back, you can become ghosted to them for a short time to make your escape, and get on with your day.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds",
+        "filesize": 2048
+    }
+}

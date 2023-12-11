@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543270,"title":"","headline":"GTA Online","subtitle":"Véhicules spéciaux","content":"Une fois que vous aurez prouvé votre valeur en tant que fournisseur talentueux et dévoué de véhicules presque légitimes, SecuroServ aura des missions plus exclusives à vous proposer. Récupérer ces véhicules rares, exotiques et interdits par le gouvernement ne sera pas un jeu d'enfant, mais il en vaudra la chandelle. De plus, après avoir fait vos preuves avec ces véhicules, SecuroServ vous fera un prix sur l'un d'eux, si vous souhaitez vous en procurer un.","url":"","image":{"path":"sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Special_Vehicles/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543270,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Véhicules spéciaux",
+    "content": "Une fois que vous aurez prouvé votre valeur en tant que fournisseur talentueux et dévoué de véhicules presque légitimes, SecuroServ aura des missions plus exclusives à vous proposer. Récupérer ces véhicules rares, exotiques et interdits par le gouvernement ne sera pas un jeu d'enfant, mais il en vaudra la chandelle. De plus, après avoir fait vos preuves avec ces véhicules, SecuroServ vous fera un prix sur l'un d'eux, si vous souhaitez vous en procurer un.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Special_Vehicles/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Special_Vehicles/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511285534,"title":"","headline":"GTA Online","subtitle":"Le Hunter","content":"Appeler le Hunter un hélicoptère d'attaque est trompeur, car ce bijou n'entre en réalité dans aucune catégorie. Son arsenal standard est tellement lourd que vous aurez du mal à croire qu'il peut décoller. Son barrage de roquettes unique est capable de massacrer une armée d'ennemis à lui tout seul, et vous n'avez pas encore vu ses améliorations dévastatrices. Si vous rêvez de devenir une division blindée à vous seul, ne cherchez pas plus loin.","url":"","image":{"path":"sc/news/SR_Hunter/262272_Hunter_REAL.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511285534,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le Hunter",
+    "content": "Appeler le Hunter un hélicoptère d'attaque est trompeur, car ce bijou n'entre en réalité dans aucune catégorie. Son arsenal standard est tellement lourd que vous aurez du mal à croire qu'il peut décoller. Son barrage de roquettes unique est capable de massacrer une armée d'ennemis à lui tout seul, et vous n'avez pas encore vu ses améliorations dévastatrices. Si vous rêvez de devenir une division blindée à vous seul, ne cherchez pas plus loin.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Hunter/262272_Hunter_REAL.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1598555693,"title":"","headline":"GTA Online","subtitle":"T-shirt Vapoteur gratuit","content":"Tous les joueurs qui se connectent à GTA Online ces sept prochains jours recevront gratuitement le t-shirt Vapoteur.<br /><br />Offre valable jusqu'au 2µseptembre.","url":"","image":{"path":"sc/news/59bd6cb332a04a3ebe58d648/262272_Event213_BigFeed_Vaper_512x1024.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1598555693,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "T-shirt Vapoteur gratuit",
+    "content": "Tous les joueurs qui se connectent à GTA Online ces sept prochains jours recevront gratuitement le t-shirt Vapoteur.<br /><br />Offre valable jusqu'au 2µseptembre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/59bd6cb332a04a3ebe58d648/262272_Event213_BigFeed_Vaper_512x1024.dds",
+        "filesize": 262272
+    }
+}

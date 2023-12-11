@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999999,"title":"","headline":"GTA Online","subtitle":"Contrebande","content":"Le ciel, hors de portéeµ? Plus maintenant. Élargissez votre empire criminel dans la seule région qui vous reste à découvrirµ: le ciel. <br /><br />De vastes hangars personnalisables sont au cœur de votre nouveau trafic de contrebande. Entreposez-y vos appareils aériens personnalisés, envolez-vous et ne redescendez pas tant que chaque recoin de l'espace aérien de Los Santos n'aura pas été placé sous le contrôle d'une entreprise de fret aérien exempté d'impôts qui s'étend sur tout le territoire.","url":"","image":{"path":"sc/news/SR_Smuggler/349672_gtao-sr-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999999,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Contrebande",
+    "content": "Le ciel, hors de portéeµ? Plus maintenant. Élargissez votre empire criminel dans la seule région qui vous reste à découvrirµ: le ciel. <br /><br />De vastes hangars personnalisables sont au cœur de votre nouveau trafic de contrebande. Entreposez-y vos appareils aériens personnalisés, envolez-vous et ne redescendez pas tant que chaque recoin de l'espace aérien de Los Santos n'aura pas été placé sous le contrôle d'une entreprise de fret aérien exempté d'impôts qui s'étend sur tout le territoire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Smuggler/349672_gtao-sr-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

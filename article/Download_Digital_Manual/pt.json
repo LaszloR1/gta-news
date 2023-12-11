@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149370,"headline":"Newswire","subtitle":"Baixe o manual digital","content":"Baixe o manual digital do Grand Theft Auto V para ter um guia para o seu jogo, mais informações detalhadas sobre os vários bairros e pontos de interesse de Los Santos e Blaine County, tudo isso no seu dispositivo iOS, Android ou no seu computador.<br /><br />Visite www.rockstargames.com/v/manual para baixar, ou procure por 'Manual digital GTAV' na App Store ou na Google Play Store.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149370,
+    "headline": "Newswire",
+    "subtitle": "Baixe o manual digital",
+    "content": "Baixe o manual digital do Grand Theft Auto V para ter um guia para o seu jogo, mais informações detalhadas sobre os vários bairros e pontos de interesse de Los Santos e Blaine County, tudo isso no seu dispositivo iOS, Android ou no seu computador.<br /><br />Visite www.rockstargames.com/v/manual para baixar, ou procure por 'Manual digital GTAV' na App Store ou na Google Play Store.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds",
+        "filesize": 65664
+    }
+}

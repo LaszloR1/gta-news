@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1387464321,"headline":"GTA Online","subtitle":"점령 게임 모드 이용 가능","content":"팀 기반 모드인 점령 모드가 Grand Theft Auto 온라인에 새롭게 추가되었으며, 이용 가능합니다.<br /><br />기존의 깃발 점령을 4개의 독특한 모드로 발전시킨 20개의 새로운 작업을 GTA에서 만나보세요. 로스 산토스와 블레인 카운티에서 차원이 다른 대결을 펼쳐 보십시오.<br /><br />GTA 온라인 업데이트를 다운로드하시면 자유 모드에서 무료로 새로운 작업들을 즐길 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Capture/65664_Capture_Mode_Portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1387464321,
+    "headline": "GTA Online",
+    "subtitle": "점령 게임 모드 이용 가능",
+    "content": "팀 기반 모드인 점령 모드가 Grand Theft Auto 온라인에 새롭게 추가되었으며, 이용 가능합니다.<br /><br />기존의 깃발 점령을 4개의 독특한 모드로 발전시킨 20개의 새로운 작업을 GTA에서 만나보세요. 로스 산토스와 블레인 카운티에서 차원이 다른 대결을 펼쳐 보십시오.<br /><br />GTA 온라인 업데이트를 다운로드하시면 자유 모드에서 무료로 새로운 작업들을 즐길 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Capture/65664_Capture_Mode_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

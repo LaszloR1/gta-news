@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140171,"title":"GTA+","headline":"GTA+","subtitle":"Ropa exclusiva","content":"Los miembros de GTA+ pueden mostrar su cara más terrorífica y asustar a la población local gracias a los siguientes artículos disponibles hasta el 8 de noviembre:n<br />- Traje cerrado rayas monocromático<br />- Bodi de esqueleto<br />- Camiseta PRB<br />- Pantalones cortos PRB<br />- Sudadera PRB<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_es_es.dds","filesize":262272},"button":"Selecciona para suscribirte a GTA+."}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140171,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Ropa exclusiva",
+    "content": "Los miembros de GTA+ pueden mostrar su cara más terrorífica y asustar a la población local gracias a los siguientes artículos disponibles hasta el 8 de noviembre:n<br />- Traje cerrado rayas monocromático<br />- Bodi de esqueleto<br />- Camiseta PRB<br />- Pantalones cortos PRB<br />- Sudadera PRB<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+."
+}

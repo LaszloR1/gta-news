@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149140,"headline":"Newswire","subtitle":"Czujność i oszczędność","content":"Członkowie Social Club mogą załapać się na promocje w niektórych sklepach w Los Santos dzięki przeglądaniu ich stron w serwisie Lifeinvader.<br /><br />Obserwuj Herr Kutza, a następnie zajrzyj do jego zakładu, aby otrzymać pierwsze strzyżenie za darmo. Warsztat Los Santos Customs może zaoferować uzupełniające lakierowanie, a sklepy internetowe Elitas Travel i Warstock Cache wspaniałe zniżki!<br /><br />Odwiedź stronę www.lifeinvader.com (w prawdziwym internecie).","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149140,
+    "headline": "Newswire",
+    "subtitle": "Czujność i oszczędność",
+    "content": "Członkowie Social Club mogą załapać się na promocje w niektórych sklepach w Los Santos dzięki przeglądaniu ich stron w serwisie Lifeinvader.<br /><br />Obserwuj Herr Kutza, a następnie zajrzyj do jego zakładu, aby otrzymać pierwsze strzyżenie za darmo. Warsztat Los Santos Customs może zaoferować uzupełniające lakierowanie, a sklepy internetowe Elitas Travel i Warstock Cache wspaniałe zniżki!<br /><br />Odwiedź stronę www.lifeinvader.com (w prawdziwym internecie).",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Stalk_and_Save/65664_Stalk_and_Save_Landscape2.dds",
+        "filesize": 65664
+    }
+}

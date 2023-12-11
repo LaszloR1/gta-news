@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567050,"headline":"Suggerimento online","subtitle":"La varietà è il sale dei deathmatch","content":"Tutti i deathmatch sono flessibili: qualsiasi deathmatch a squadre può essere giocato come un deathmatch standard e viceversa. Basta regolare il tipo di deathmatch nella sala d'attesa per ottenere esattamente il tipo di partita che desideri.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Variety_the_Spice/65664_Variety_is_the_Spice_of_Deathmatches_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567050,
+    "headline": "Suggerimento online",
+    "subtitle": "La varietà è il sale dei deathmatch",
+    "content": "Tutti i deathmatch sono flessibili: qualsiasi deathmatch a squadre può essere giocato come un deathmatch standard e viceversa. Basta regolare il tipo di deathmatch nella sala d'attesa per ottenere esattamente il tipo di partita che desideri.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Variety_the_Spice/65664_Variety_is_the_Spice_of_Deathmatches_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477945429,"title":"","headline":"GTA Online","subtitle":"Declasse Tornado Rat Rod","content":"Der Rat Rod kommt in dieser Woche in die Stadt, weshalb du in den Straßen von Los Santos nur noch zwei Dinge hören wirst: erstens das die Lungen durchbohrende Gebrüll eines freiliegenden Motors und zweitens das entrüstete Heulen jedes umweltbewussten Bürgers im Umkreis von vier Quadratmeilen.<br /><br />Bei diesem Soundtrack willst du niemals mehr anhalten.","url":"","image":{"path":"sc/news/NG_Rat_Rod_ON/262272_Ratrod.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rat_Rod_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477945429,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Declasse Tornado Rat Rod",
+    "content": "Der Rat Rod kommt in dieser Woche in die Stadt, weshalb du in den Straßen von Los Santos nur noch zwei Dinge hören wirst: erstens das die Lungen durchbohrende Gebrüll eines freiliegenden Motors und zweitens das entrüstete Heulen jedes umweltbewussten Bürgers im Umkreis von vier Quadratmeilen.<br /><br />Bei diesem Soundtrack willst du niemals mehr anhalten.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rat_Rod_ON/262272_Ratrod.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rat_Rod_ON/.dds",
+        "filesize": 2048
+    }
+}

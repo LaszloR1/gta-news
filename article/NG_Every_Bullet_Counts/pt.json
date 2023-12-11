@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1449571592,"title":"","headline":"GTA Online","subtitle":"Conte Suas Balas","content":"Pegue o seu trabuco: é hora de arriscar a sua vida contra outros atiradores no novo e frenético Modo Adversário. O seu trabuco tem apenas 2 balas, então não desperdice... ou vai ter de resolver na lâmina!","url":"","image":{"path":"sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Every_Bullet_Counts/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1449571592,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Conte Suas Balas",
+    "content": "Pegue o seu trabuco: é hora de arriscar a sua vida contra outros atiradores no novo e frenético Modo Adversário. O seu trabuco tem apenas 2 balas, então não desperdice... ou vai ter de resolver na lâmina!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Every_Bullet_Counts/262272_NG_Every_Bullet_Counts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Every_Bullet_Counts/.dds",
+        "filesize": 2048
+    }
+}

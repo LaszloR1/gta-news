@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543397,"title":"","headline":"GTA Online","subtitle":"整裝待「殺」","content":"由於為數眾多的擴充選項湧入您的犯罪帝國，因此，您的犯罪者衣櫃當然也需要跟著一起擴充。您除了可以在商店中選購各種全新的服飾，也別忘了看看許多全新的刺青、髮型，還有琳瑯滿目的怪異、超讚又令人作嘔的新面具。當然，這波嶄新時尚內容也包含全新的µCEOµ風格，您可以在互動選單中給您的組織成員設定。","url":"","image":{"path":"sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Dressed_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543397,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "整裝待「殺」",
+    "content": "由於為數眾多的擴充選項湧入您的犯罪帝國，因此，您的犯罪者衣櫃當然也需要跟著一起擴充。您除了可以在商店中選購各種全新的服飾，也別忘了看看許多全新的刺青、髮型，還有琳瑯滿目的怪異、超讚又令人作嘔的新面具。當然，這波嶄新時尚內容也包含全新的µCEOµ風格，您可以在互動選單中給您的組織成員設定。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Dressed_Kill/.dds",
+        "filesize": 2048
+    }
+}

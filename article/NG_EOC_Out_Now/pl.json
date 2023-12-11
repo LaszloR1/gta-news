@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175563,"title":"","headline":"GTA Online","subtitle":"Dodatek Szefowie i inni przestępcy już dostępny","content":"Dzięki tej najnowszej aktualizacji gracze mogą tworzyć własne organizacje przestępcze, zatrudniać i zwalniać innych graczy oraz ścierać się w trybie gry swobodnej z organizacjami przeciwników. <br /><br />Od teraz w Los Santos kupić można również domy na palach z Vinewood Hills, apartamenty z Eclipse Towers z różnorodnymi stylizacjami wnętrz oraz modyfikowalne superjachty z pełną załogą.<br /><br />Na graczy czekają także nowe opancerzone pojazdy, dwa nowe modele uzbrojenia i wiele więcej.","url":"","image":{"path":"sc/news/NG_EOC_Out_Now/262272_executive_criminalv2.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EOC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175563,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dodatek Szefowie i inni przestępcy już dostępny",
+    "content": "Dzięki tej najnowszej aktualizacji gracze mogą tworzyć własne organizacje przestępcze, zatrudniać i zwalniać innych graczy oraz ścierać się w trybie gry swobodnej z organizacjami przeciwników. <br /><br />Od teraz w Los Santos kupić można również domy na palach z Vinewood Hills, apartamenty z Eclipse Towers z różnorodnymi stylizacjami wnętrz oraz modyfikowalne superjachty z pełną załogą.<br /><br />Na graczy czekają także nowe opancerzone pojazdy, dwa nowe modele uzbrojenia i wiele więcej.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EOC_Out_Now/262272_executive_criminalv2.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EOC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

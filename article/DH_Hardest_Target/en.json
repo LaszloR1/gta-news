@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1517331821,"title":"","headline":"GTA Online","subtitle":"Hardest Target","content":"It’s not easy being the center of attention in Los Santos - especially in Hardest Target, the latest Adversary Mode to hit GTA Online. Each team has a single player with a big fat price on their head: kill the mark, earn a point. But watch out, the identity of the target changes every minute, so if you suddenly feel like there’s a bullseye right between your eyes, you’re not being paranoid. People really are trying to kill you.","url":"","image":{"path":"sc/news/DH_Hardest_Target/349672_bigfeed-hardesttarget-v2.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1517331821,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Hardest Target",
+    "content": "It’s not easy being the center of attention in Los Santos - especially in Hardest Target, the latest Adversary Mode to hit GTA Online. Each team has a single player with a big fat price on their head: kill the mark, earn a point. But watch out, the identity of the target changes every minute, so if you suddenly feel like there’s a bullseye right between your eyes, you’re not being paranoid. People really are trying to kill you.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Hardest_Target/349672_bigfeed-hardesttarget-v2.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

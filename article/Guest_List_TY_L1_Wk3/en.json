@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635601,"title":"Guest List Benefits","headline":"Guest List Benefits","subtitle":"You’re on the list!","content":"Your exclusive weekly Guest List Rewards are now available:<br /><br />- Cash Gift of GTA$350,000<br />- Maisonette Los Santos Tee<br />- 40% discount on the Maibatsu Mule Custom and MTL Pounder Custom <br />- 40% discount on Armor Upgrades for the Mule and Pounder Custom<br />- Exclusive “For Queen and Country” livery for the Swinger<br />- Exclusive “Pink & Green Camo” and “Sessanta Nove Multi-Color” liveries for the Speedo Custom, Mule Custom, and Pounder Custom<br /><br />Check back next week to claim your next Guest List Rewards.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk3/349672_bigfeed-guestlist-V3_ENG.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635601,
+    "title": "Guest List Benefits",
+    "headline": "Guest List Benefits",
+    "subtitle": "You’re on the list!",
+    "content": "Your exclusive weekly Guest List Rewards are now available:<br /><br />- Cash Gift of GTA$350,000<br />- Maisonette Los Santos Tee<br />- 40% discount on the Maibatsu Mule Custom and MTL Pounder Custom <br />- 40% discount on Armor Upgrades for the Mule and Pounder Custom<br />- Exclusive “For Queen and Country” livery for the Swinger<br />- Exclusive “Pink & Green Camo” and “Sessanta Nove Multi-Color” liveries for the Speedo Custom, Mule Custom, and Pounder Custom<br /><br />Check back next week to claim your next Guest List Rewards.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk3/349672_bigfeed-guestlist-V3_ENG.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

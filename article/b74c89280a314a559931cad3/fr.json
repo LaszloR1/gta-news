@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"MITRAILLETTE TACTIQUE","content":"Bonne nouvelleµ: votre trafiquant d'armes préféré est en ville pour vous proposer une ribambelle d'instruments pas vraiment légaux. <br /><br />Inspectez son stock aujourd’hui pour découvrir la mitraillette tactique rapide, un pistolet-mitrailleur au chargeur grande capacité adopté par tous les experts en armement. Disponible dès maintenant dans l'armurerie mobile.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "MITRAILLETTE TACTIQUE",
+    "content": "Bonne nouvelleµ: votre trafiquant d'armes préféré est en ville pour vous proposer une ribambelle d'instruments pas vraiment légaux. <br /><br />Inspectez son stock aujourd’hui pour découvrir la mitraillette tactique rapide, un pistolet-mitrailleur au chargeur grande capacité adopté par tous les experts en armement. Disponible dès maintenant dans l'armurerie mobile.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

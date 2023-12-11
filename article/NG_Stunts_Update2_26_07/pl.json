@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1469453442,"title":"","headline":"GTA Online","subtitle":"Vapid Contender, MTL Dune i Buffalo Sprunk","content":"W tym tygodniu do GTA Online trafiają ekskluzywne świeżynki: trzy nowe pojazdy spełniające wszystkie marzenia, które zaraz u Was rozbudzimy. Pokażcie wszystkim, że się nie cackacie, z pomocą Vapida Contendera, który pomieści wszystkie Wasze brudne tajemnice. Zmiażdżcie wrogów MTL Dunem, nieślubnym dzieckiem wozu bojowego i samochodu rajdowego. Złóżcie hołd klasykom muscle nowym Buffalo w barwach Sprunk.","url":"","image":{"path":"sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Update2_26_07/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1469453442,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Contender, MTL Dune i Buffalo Sprunk",
+    "content": "W tym tygodniu do GTA Online trafiają ekskluzywne świeżynki: trzy nowe pojazdy spełniające wszystkie marzenia, które zaraz u Was rozbudzimy. Pokażcie wszystkim, że się nie cackacie, z pomocą Vapida Contendera, który pomieści wszystkie Wasze brudne tajemnice. Zmiażdżcie wrogów MTL Dunem, nieślubnym dzieckiem wozu bojowego i samochodu rajdowego. Złóżcie hołd klasykom muscle nowym Buffalo w barwach Sprunk.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/.dds",
+        "filesize": 2048
+    }
+}

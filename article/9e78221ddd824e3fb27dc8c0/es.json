@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1611332339,"title":"","headline":"GTA Online","subtitle":"Vapid Slamtruck","content":"¿Es una rampa portátil? No, no es eso. Es un camión profesional dedicado al remolque de vehículos. <br /><br />Debido a una serie de accidentes relacionados con este modelo que se han producido últimamente, Vapid les recuerda a sus posibles compradores que una consecuencia habitual al pilotar el Vapid Slamtruck es el constante chorreo de tolais que intentan subir por tu rampa en la autopista. <br /><br />¿Alguno intenta acercarse? Esquívalo, por el amor de Dios.","url":"","image":{"path":"sc/news/9e78221ddd824e3fb27dc8c0/262272_GTAO_IslandHeist_BigFeed_Vapid.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1611332339,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Slamtruck",
+    "content": "¿Es una rampa portátil? No, no es eso. Es un camión profesional dedicado al remolque de vehículos. <br /><br />Debido a una serie de accidentes relacionados con este modelo que se han producido últimamente, Vapid les recuerda a sus posibles compradores que una consecuencia habitual al pilotar el Vapid Slamtruck es el constante chorreo de tolais que intentan subir por tu rampa en la autopista. <br /><br />¿Alguno intenta acercarse? Esquívalo, por el amor de Dios.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9e78221ddd824e3fb27dc8c0/262272_GTAO_IslandHeist_BigFeed_Vapid.dds",
+        "filesize": 262272
+    }
+}

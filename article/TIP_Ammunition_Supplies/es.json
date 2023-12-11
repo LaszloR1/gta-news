@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569644,"headline":"Consejo en línea","subtitle":"Suministros de munición","content":"Si te estás quedando sin munición, pero no quieres visitar una tienda Ammu-Nation, siempre puedes reabastecerte de suministros en la pantalla de la sala antes de empezar una actividad.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569644,
+    "headline": "Consejo en línea",
+    "subtitle": "Suministros de munición",
+    "content": "Si te estás quedando sin munición, pero no quieres visitar una tienda Ammu-Nation, siempre puedes reabastecerte de suministros en la pantalla de la sala antes de empezar una actividad.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

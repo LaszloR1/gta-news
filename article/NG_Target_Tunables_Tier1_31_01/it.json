@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367126,"title":"","headline":"GTA Online","subtitle":"Solo per te, offerta speciale a tempo limitato","content":"Questa settimana metti in moto il tuo MC con gli sconti speciali sulle clubhouse e sui garage a 10 posti, oltre allo sconto del 25% sulla Western Zombie Bobber. Se invece preferisci i bolidi d'importazione, che ne dici di una Truffade Adder? Puoi acquistarla a metà prezzo fino al 13 febbraio.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Solo per te, offerta speciale a tempo limitato",
+    "content": "Questa settimana metti in moto il tuo MC con gli sconti speciali sulle clubhouse e sui garage a 10 posti, oltre allo sconto del 25% sulla Western Zombie Bobber. Se invece preferisci i bolidi d'importazione, che ne dici di una Truffade Adder? Puoi acquistarla a metà prezzo fino al 13 febbraio.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/.dds",
+        "filesize": 2048
+    }
+}

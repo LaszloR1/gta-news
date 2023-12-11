@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880010,"title":"","headline":"GTA Online","subtitle":"Lazer","content":"El Lazer es el primer amor de muchos delincuentes profesionales. Es esbelto, rápido y letal: esta preciosidad define los cazas modernos, y ya puedes adquirirlo para uso particular.","url":"","image":{"path":"sc/news/SR_Lazer/262272_P996Lazer.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lazer",
+    "content": "El Lazer es el primer amor de muchos delincuentes profesionales. Es esbelto, rápido y letal: esta preciosidad define los cazas modernos, y ya puedes adquirirlo para uso particular.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Lazer/262272_P996Lazer.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

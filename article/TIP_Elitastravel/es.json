@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381833782,"title":"","headline":"Consejo en línea","subtitle":"Elitastravel.com","content":"Elitastravel.com es un vendedor de helicópteros y jets privados de lujo de San Andreas. Sus vehículos están pensados para la diversión y para el transporte, por lo que no están equipados con armas. Visita su sitio web desde el navegador de tu teléfono para comprar tu propio transporte aéreo privado hoy mismo.<br /><br />Tras realizar la compra, podrás organizar la entrega llamando al servicio de conserjería de Pegasus, en la lista de contactos de tu teléfono.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Elitastravel/262272_Elitastravel.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Elitastravel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381833782,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Elitastravel.com",
+    "content": "Elitastravel.com es un vendedor de helicópteros y jets privados de lujo de San Andreas. Sus vehículos están pensados para la diversión y para el transporte, por lo que no están equipados con armas. Visita su sitio web desde el navegador de tu teléfono para comprar tu propio transporte aéreo privado hoy mismo.<br /><br />Tras realizar la compra, podrás organizar la entrega llamando al servicio de conserjería de Pegasus, en la lista de contactos de tu teléfono.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Elitastravel/262272_Elitastravel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Elitastravel/.dds",
+        "filesize": 2048
+    }
+}

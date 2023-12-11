@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736459,"title":"","headline":"GTA 온라인","subtitle":"시작 방법","content":"찰리 리드의 전화를 받고 로스 산토스 엔젤스와 함께 프리랜서 용병 작업을 수행하십시오. 어벤져 작전 터미널에서 신규 임무 시리즈를 시작하려면 매머드 어벤져가 필요합니다. 아직 어벤져를 소유하지 않았다면, 군수품 캐시 앤 캐리에서 구매해 보십시오.<br /><br />새로운 사업 기회를 노리고 있다면, 격납고에서 자유 무역 운송 회사 터미널을 방문하거나 메이즈 은행 담보 매물에서 격납고를 구입해 불법 수송 밀수 사업장을 이용해 보십시오.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736459,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "시작 방법",
+    "content": "찰리 리드의 전화를 받고 로스 산토스 엔젤스와 함께 프리랜서 용병 작업을 수행하십시오. 어벤져 작전 터미널에서 신규 임무 시리즈를 시작하려면 매머드 어벤져가 필요합니다. 아직 어벤져를 소유하지 않았다면, 군수품 캐시 앤 캐리에서 구매해 보십시오.<br /><br />새로운 사업 기회를 노리고 있다면, 격납고에서 자유 무역 운송 회사 터미널을 방문하거나 메이즈 은행 담보 매물에서 격납고를 구입해 불법 수송 밀수 사업장을 이용해 보십시오.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/429dc767505b4820828dff10/262272_GTAO_SummerTULaunch_LosSantosAngels_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

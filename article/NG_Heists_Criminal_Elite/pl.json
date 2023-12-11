@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425981527,"title":"","headline":"GTA Online","subtitle":"Zbrodnicza elita","content":"Każdy finał napadu zawiera własne elitarne wyzwanie zapewniające dodatkowy zastrzyk gotówki.<br /><br />Fleeca – Bądźcie szybcy, nie uszkodźcie bryki i nie zgińcie.<br />Ucieczka z więzienia – Chrońcie cel, wydostańcie go szybko i w jednym kawałku.<br />Humane Labs – Zmieśćcie się w czasie i nie zgińcie.<br />Seria A: Fundusze – Zabijcie wrogów, zróbcie to w krótkim czasie i wszyscy wyjdźcie z tego cało.<br />Pacific Standard – Zróbcie szybki skok, uniknijcie zaangażowania NOOSE i nie zgińcie ani raz.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Criminal_Elite/262272_Criminal-Elite.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Criminal_Elite/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425981527,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zbrodnicza elita",
+    "content": "Każdy finał napadu zawiera własne elitarne wyzwanie zapewniające dodatkowy zastrzyk gotówki.<br /><br />Fleeca – Bądźcie szybcy, nie uszkodźcie bryki i nie zgińcie.<br />Ucieczka z więzienia – Chrońcie cel, wydostańcie go szybko i w jednym kawałku.<br />Humane Labs – Zmieśćcie się w czasie i nie zgińcie.<br />Seria A: Fundusze – Zabijcie wrogów, zróbcie to w krótkim czasie i wszyscy wyjdźcie z tego cało.<br />Pacific Standard – Zróbcie szybki skok, uniknijcie zaangażowania NOOSE i nie zgińcie ani raz.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Criminal_Elite/262272_Criminal-Elite.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Criminal_Elite/.dds",
+        "filesize": 2048
+    }
+}

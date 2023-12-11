@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381831289,"headline":"Online-Tipp","subtitle":"Jobs schnell starten","content":"Jobs – von Deathmatches bis hin zu Rennen – kannst du über Job-Auslöser in der Spielwelt oder über Menüs starten:<br /><br />- Verwende die Option 'Schneller Beitritt' deines Handys.<br />- Wähle einen Job aus der Liste unter dem Menüpunkt 'Online'.<br />- Starte einen Job durch Auswahl einer Job-Markierung direkt auf der Karte des Pause-Menüs.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381831289,
+    "headline": "Online-Tipp",
+    "subtitle": "Jobs schnell starten",
+    "content": "Jobs – von Deathmatches bis hin zu Rennen – kannst du über Job-Auslöser in der Spielwelt oder über Menüs starten:<br /><br />- Verwende die Option 'Schneller Beitritt' deines Handys.<br />- Wähle einen Job aus der Liste unter dem Menüpunkt 'Online'.<br />- Starte einen Job durch Auswahl einer Job-Markierung direkt auf der Karte des Pause-Menüs.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Launch_Jobs_Quickly/65664_Launch_Jobs_Quickly_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

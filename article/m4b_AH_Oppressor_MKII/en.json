@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258267,"title":"","headline":"GTA Online","subtitle":"Oppressor MKII","content":"The Oppressor MkII poses a lot of questions. Is it a motorbike? Yes. Does it have wheels? No. Is that a jet engine underneath it? Yes. Does that mean what you think it means? Oh yes. How is this possible? Well, when the world’s sleekest hyperbike and most brutal jet fighter love each other very much…","url":"","image":{"path":"sc/news/m4b_AH_Oppressor_MKII/349672_Big_Feed_Only_Oppressor_Mk_II.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258267,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Oppressor MKII",
+    "content": "The Oppressor MkII poses a lot of questions. Is it a motorbike? Yes. Does it have wheels? No. Is that a jet engine underneath it? Yes. Does that mean what you think it means? Oh yes. How is this possible? Well, when the world’s sleekest hyperbike and most brutal jet fighter love each other very much…",
+    "url": "",
+    "image": {
+        "path": "sc/news/m4b_AH_Oppressor_MKII/349672_Big_Feed_Only_Oppressor_Mk_II.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

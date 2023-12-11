@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452581,"title":"","headline":"GTA Online","subtitle":"步步為營","content":"在全新的競爭模式中展現您的敏捷身手。兩支隊伍要爭奪包裹的所有權，並嘗試把包裹送過對方的得分線。持有包裹的時候將無法使用槍械，所以隊友是您的最佳後盾，讓您無後顧之憂地衝過得分線。如果您無法承受這種壓力，當然也可以放下包裹，讓隊友接手這個任務。得分最高的隊伍獲勝。","url":"","image":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "步步為營",
+    "content": "在全新的競爭模式中展現您的敏捷身手。兩支隊伍要爭奪包裹的所有權，並嘗試把包裹送過對方的得分線。持有包裹的時候將無法使用槍械，所以隊友是您的最佳後盾，讓您無後顧之憂地衝過得分線。如果您無法承受這種壓力，當然也可以放下包裹，讓隊友接手這個任務。得分最高的隊伍獲勝。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

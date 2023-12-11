@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349604,"title":"","headline":"GTA Online","subtitle":"Было ничье - стало мое","content":"Контрабандисты спрятали немало оружия в Лос-Сантосе и округе Блэйн. Все, что найдете - ваше, так что начинайте искать прямо сейчас. Дополнительная огневая мощь может пригодиться во время событий свободного режима.","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349604,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Было ничье - стало мое",
+    "content": "Контрабандисты спрятали немало оружия в Лос-Сантосе и округе Блэйн. Все, что найдете - ваше, так что начинайте искать прямо сейчас. Дополнительная огневая мощь может пригодиться во время событий свободного режима.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

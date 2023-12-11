@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425981139,"title":"","headline":"GTA Online","subtitle":"Bônus Únicos de Golpe","content":"Desafios especiais dos Golpes estão disponíveis, os quais só podem ser cumpridos uma vez por pessoa.<br /><br />Primeira Vez – Complete cada final de Golpe pela primeira vez para ganhar um bônus de dinheiro.<br />Desafio Tudo em Ordem – Complete todos os 5 Golpes em ordem para receber $1.000.000 em dinheiro.<br />Desafio de Lealdade – Complete todos os 5 Golpes com a mesma equipe para receber $1.000.000 adicionais.<br />Coadjuvante – Complete todos os 5 Golpes como membro da equipe para receber $100.000.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_One_Off_Bonuses/262272_One-Off-Heist-Bonuses.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_One_Off_Bonuses/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425981139,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bônus Únicos de Golpe",
+    "content": "Desafios especiais dos Golpes estão disponíveis, os quais só podem ser cumpridos uma vez por pessoa.<br /><br />Primeira Vez – Complete cada final de Golpe pela primeira vez para ganhar um bônus de dinheiro.<br />Desafio Tudo em Ordem – Complete todos os 5 Golpes em ordem para receber $1.000.000 em dinheiro.<br />Desafio de Lealdade – Complete todos os 5 Golpes com a mesma equipe para receber $1.000.000 adicionais.<br />Coadjuvante – Complete todos os 5 Golpes como membro da equipe para receber $100.000.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_One_Off_Bonuses/262272_One-Off-Heist-Bonuses.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_One_Off_Bonuses/.dds",
+        "filesize": 2048
+    }
+}

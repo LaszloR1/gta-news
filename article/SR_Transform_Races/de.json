@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1508258742,"title":"","headline":"GTA Online","subtitle":"Jetzt kannst du alles haben","content":"Hast du dich während eines harten Straßenrennens durch die Innenstadt schon mal nach der Freiheit eines Punkt-zu-Punkt-Rennens in einem Kampfjet gesehnt? Lagst du schon mal in einem Radrennen durch Vespucci Beach in Führung, hättest dir aber insgeheim gewünscht, auf einem Seashark durch den Raton Canyon zu schießen?<br />Glück gehabt! Verwandlungsrennen wechseln schneller zwischen Land, Wasser und Luft hin und her, als du dich einnässen kannst. Es ist an der Zeit, dieses Verlangen zu stillen.","url":"","image":{"path":"sc/news/SR_Transform_Races/349672_bigfeed-transform-races-512x1024-V1.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1508258742,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Jetzt kannst du alles haben",
+    "content": "Hast du dich während eines harten Straßenrennens durch die Innenstadt schon mal nach der Freiheit eines Punkt-zu-Punkt-Rennens in einem Kampfjet gesehnt? Lagst du schon mal in einem Radrennen durch Vespucci Beach in Führung, hättest dir aber insgeheim gewünscht, auf einem Seashark durch den Raton Canyon zu schießen?<br />Glück gehabt! Verwandlungsrennen wechseln schneller zwischen Land, Wasser und Luft hin und her, als du dich einnässen kannst. Es ist an der Zeit, dieses Verlangen zu stillen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Transform_Races/349672_bigfeed-transform-races-512x1024-V1.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

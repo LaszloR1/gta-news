@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766202,"title":"","headline":"GTA Online","subtitle":"Western Daemon custom y BF Raptor","content":"Esta semana llegan a las calles de Los Santos la Daemon custom y el Raptor, dos soluciones muy diferentes para un problema que no sabías que tenías. La nueva Daemon es perfecta para hacer saber a todo el mundo que perteneces a una larga y distinguida tradición de moda pandillera. Pero si buscas esa mezcla de intimidación, confusión y asombro que solo un vehículo de tres ruedas turbopropulsado puede conseguir, entonces el Raptor es para ti.","url":"","image":{"path":"sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_WesternDeamon/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766202,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Western Daemon custom y BF Raptor",
+    "content": "Esta semana llegan a las calles de Los Santos la Daemon custom y el Raptor, dos soluciones muy diferentes para un problema que no sabías que tenías. La nueva Daemon es perfecta para hacer saber a todo el mundo que perteneces a una larga y distinguida tradición de moda pandillera. Pero si buscas esa mezcla de intimidación, confusión y asombro que solo un vehículo de tres ruedas turbopropulsado puede conseguir, entonces el Raptor es para ti.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/.dds",
+        "filesize": 2048
+    }
+}

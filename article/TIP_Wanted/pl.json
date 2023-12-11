@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380472163,"headline":"Wskazówka do gry sieciowej","subtitle":"Gliny na ogonie? ","content":"Przebranie się w mniej rozpoznawalne ciuchy natychmiastowo zmniejszy twój poziom pościgu. Możesz też po prostu olać gangsterkę, przestać rozrabiać i znaleźć sobie biurkową robotę.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Wanted/65664_Wanted_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380472163,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Gliny na ogonie? ",
+    "content": "Przebranie się w mniej rozpoznawalne ciuchy natychmiastowo zmniejszy twój poziom pościgu. Możesz też po prostu olać gangsterkę, przestać rozrabiać i znaleźć sobie biurkową robotę.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Wanted/65664_Wanted_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

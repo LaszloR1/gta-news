@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511556,"title":"","headline":"GTA Online","subtitle":"Pegassi Esskey","content":"La Pegassi Esskey, ya disponible en tiendas de San Andreas, es tu forma de acceder a un nivel de clase y autenticidad que nunca creíste que podrías comprar con solo pulsar un botón. Sube a lomos de esta belleza y deja que te transporte a un tiempo en el que la gasolina era barata, tu padre molaba y tu madre estaba buena.","url":"","image":{"path":"sc/news/NG_Bikers_Esskey/262272_Esskey.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Esskey/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511556,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Esskey",
+    "content": "La Pegassi Esskey, ya disponible en tiendas de San Andreas, es tu forma de acceder a un nivel de clase y autenticidad que nunca creíste que podrías comprar con solo pulsar un botón. Sube a lomos de esta belleza y deja que te transporte a un tiempo en el que la gasolina era barata, tu padre molaba y tu madre estaba buena.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Esskey/262272_Esskey.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Esskey/.dds",
+        "filesize": 2048
+    }
+}

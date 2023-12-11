@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1633693379,"title":"","headline":"GTA Online","subtitle":"Скидки","content":"Загляните к Бенни и побалуйте свою любимую машину новыми модификациями: любая гидравлика сейчас стоит вдвое дешевле!<br /><br />На офисы в ближайшие семь дней действует скидка 40%, а на склады для спецгруза – скидка 35%. Кроме того, следующий транспорт доступен по акции:<br /><br />- Lampadati Komoda – скидка 30%<br />- Coil Brawler – скидка 40%<br />- Truffade Nero/Nero заказной – скидка 30%<br />- Karin Sultan/Sultan RS – скидка 30%<br /><br />И не только! Все подробности – в новостной ленте Rockstar.","url":"","image":{"path":"sc/news/e1240399b42f4a81bbeaff0c/262272_GTAO_Event269_Discounts_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1633693379,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Скидки",
+    "content": "Загляните к Бенни и побалуйте свою любимую машину новыми модификациями: любая гидравлика сейчас стоит вдвое дешевле!<br /><br />На офисы в ближайшие семь дней действует скидка 40%, а на склады для спецгруза – скидка 35%. Кроме того, следующий транспорт доступен по акции:<br /><br />- Lampadati Komoda – скидка 30%<br />- Coil Brawler – скидка 40%<br />- Truffade Nero/Nero заказной – скидка 30%<br />- Karin Sultan/Sultan RS – скидка 30%<br /><br />И не только! Все подробности – в новостной ленте Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/e1240399b42f4a81bbeaff0c/262272_GTAO_Event269_Discounts_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

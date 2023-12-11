@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991416,"headline":"Online Tip","subtitle":"Quick Join with Friends","content":"There is a new Quick Join option called ‘Quick Join with Friends’ available from your Phone when joining a Job.<br /><br />Selecting this option will automatically send invites to any Friends that are in your current Freemode session, ensuring that they get brought along for the ride.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991416,
+    "headline": "Online Tip",
+    "subtitle": "Quick Join with Friends",
+    "content": "There is a new Quick Join option called ‘Quick Join with Friends’ available from your Phone when joining a Job.<br /><br />Selecting this option will automatically send invites to any Friends that are in your current Freemode session, ensuring that they get brought along for the ride.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds",
+        "filesize": 65664
+    }
+}

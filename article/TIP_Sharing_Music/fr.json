@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394811297,"headline":"Astuce en ligne","subtitle":"Partagez votre musique !","content":"Si un morceau à la radio retient votre attention, ouvrez le menu Radio et appuyez sur ~INPUT_FRONTEND_X~. pour le partager sur le Social Club.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Sharing_Music/65664_Sharing_Music.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811297,
+    "headline": "Astuce en ligne",
+    "subtitle": "Partagez votre musique !",
+    "content": "Si un morceau à la radio retient votre attention, ouvrez le menu Radio et appuyez sur ~INPUT_FRONTEND_X~. pour le partager sur le Social Club.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Sharing_Music/65664_Sharing_Music.dds",
+        "filesize": 65664
+    }
+}

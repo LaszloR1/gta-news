@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608659664,"title":"","headline":"GTA Online","subtitle":"Wszystkie sety","content":"Uwielbiasz klub Music Locker? Więc pokochasz nową radiostację, która puszcza odurzającą mieszankę setów Keinemusik, Palms Traxa oraz Moodymanna. Włącz radio już teraz.","url":"","image":{"path":"sc/news/3ef2c88fcb94440c949cc972/262272_GTAO_IslandHeist_BigFeed_ML1.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608659664,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wszystkie sety",
+    "content": "Uwielbiasz klub Music Locker? Więc pokochasz nową radiostację, która puszcza odurzającą mieszankę setów Keinemusik, Palms Traxa oraz Moodymanna. Włącz radio już teraz.",
+    "url": "",
+    "image": {
+        "path": "sc/news/3ef2c88fcb94440c949cc972/262272_GTAO_IslandHeist_BigFeed_ML1.dds",
+        "filesize": 262272
+    }
+}

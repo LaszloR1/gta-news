@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470802,"title":"","headline":"온라인 팁","subtitle":"부동산","content":"dynasty8realestate.com을 방문하여 도시 곳곳에 있는 호화스럽거나 예산에 맞는 부동산을 검색하고 꿈에 그리던 집을 구매하십시오. 편안히 쉬고 피로를 풀면서 삶의 우선순위를 다시 생각하는 공간입니다. 모든 아파트에는 자동차를 안전하게 보관하기 위한 차고가 있으며 호화 아파트는 전망이 아주 좋습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Real_Estate/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470802,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "부동산",
+    "content": "dynasty8realestate.com을 방문하여 도시 곳곳에 있는 호화스럽거나 예산에 맞는 부동산을 검색하고 꿈에 그리던 집을 구매하십시오. 편안히 쉬고 피로를 풀면서 삶의 우선순위를 다시 생각하는 공간입니다. 모든 아파트에는 자동차를 안전하게 보관하기 위한 차고가 있으며 호화 아파트는 전망이 아주 좋습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Real_Estate/262272_Dynasty8realestate.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Real_Estate/.dds",
+        "filesize": 2048
+    }
+}

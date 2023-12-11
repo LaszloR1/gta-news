@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515579,"title":"","headline":"GTA Online","subtitle":"Únete al club","content":"Pertenecer a un club de moteros abre nuevas oportunidades de trabajo para todos, desde el fundador hasta el recluta más novato. Compite contra tus hermanos y hermanas en nuevos desafíos brutales. Responde a la llamada de tu presidente y defiende el honor del club contra todos los rivales. Y, lo que es más provechoso, monta negocios para producir toda suerte de productos de gran valor y escasa legalidad. Cuida de la industria, y ella cuidará de ti.","url":"","image":{"path":"sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_JoinTheClub/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515579,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Únete al club",
+    "content": "Pertenecer a un club de moteros abre nuevas oportunidades de trabajo para todos, desde el fundador hasta el recluta más novato. Compite contra tus hermanos y hermanas en nuevos desafíos brutales. Responde a la llamada de tu presidente y defiende el honor del club contra todos los rivales. Y, lo que es más provechoso, monta negocios para producir toda suerte de productos de gran valor y escasa legalidad. Cuida de la industria, y ella cuidará de ti.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/262272_Join_The_Club.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_JoinTheClub/.dds",
+        "filesize": 2048
+    }
+}

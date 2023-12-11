@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324792,"title":"","headline":"GTA Online","subtitle":"勝負所の服","content":"今後はロスサントス中の店で、レースをテーマにした最先端の強烈なファッションアイテムをお楽しみいただけます。スポンサーブランドのジャージで企業とのコネクションを誇示したり、全身をレーシングスーツで包んだり、スタントマンスーツを着こなしたりして楽しみましょう。目立つほどの実力がないからといって、わざわざ目立たない格好をする必要はありません。","url":"","image":{"path":"sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dress_To_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "勝負所の服",
+    "content": "今後はロスサントス中の店で、レースをテーマにした最先端の強烈なファッションアイテムをお楽しみいただけます。スポンサーブランドのジャージで企業とのコネクションを誇示したり、全身をレーシングスーツで包んだり、スタントマンスーツを着こなしたりして楽しみましょう。目立つほどの実力がないからといって、わざわざ目立たない格好をする必要はありません。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/.dds",
+        "filesize": 2048
+    }
+}

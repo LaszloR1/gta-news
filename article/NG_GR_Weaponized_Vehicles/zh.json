@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917266,"title":"","headline":"GTA Online","subtitle":"武裝載具","content":"當然，您之前已經駕駛過一些能開火的武裝車輛，不過它們絕對比不上這個玩意。武裝載具是洛聖都街頭嶄新類型的機動破壞者。這種軍用等級機具適用於各種場合：從具備尖端作戰能力、水陸兩棲全地形和配備槍砲的µAPC，到足以讓所有飛行員嚇得屁滾尿流的機動性防空拖車。","url":"","image":{"path":"sc/news/NG_GR_Weaponized_Vehicles/262272_WeaponizedVehicles.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Weaponized_Vehicles/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "武裝載具",
+    "content": "當然，您之前已經駕駛過一些能開火的武裝車輛，不過它們絕對比不上這個玩意。武裝載具是洛聖都街頭嶄新類型的機動破壞者。這種軍用等級機具適用於各種場合：從具備尖端作戰能力、水陸兩棲全地形和配備槍砲的µAPC，到足以讓所有飛行員嚇得屁滾尿流的機動性防空拖車。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Weaponized_Vehicles/262272_WeaponizedVehicles.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Weaponized_Vehicles/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

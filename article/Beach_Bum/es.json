@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1384446979,"headline":"GTA Online","subtitle":"Ya está disponible la actualización 'Playero'","content":"Esta actualización gratuita, ya disponible, te proporcionará una inmensa variedad de contenido centrado en la playa y la diversión. Recibirás:<br /><br />- 4 increíbles vehículos de playa nuevos, incluida la nueva lancha motora Speeder.<br />- Más de 300 artículos nuevos para disfrutar del tiempo libre, además de nuevos tatuajes y peinados.<br />- 2 armas nuevas nada relajantes.<br />- 20 actividades exclusivas por si te aburres de estar tirado en la playa.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1384446979,
+    "headline": "GTA Online",
+    "subtitle": "Ya está disponible la actualización 'Playero'",
+    "content": "Esta actualización gratuita, ya disponible, te proporcionará una inmensa variedad de contenido centrado en la playa y la diversión. Recibirás:<br /><br />- 4 increíbles vehículos de playa nuevos, incluida la nueva lancha motora Speeder.<br />- Más de 300 artículos nuevos para disfrutar del tiempo libre, además de nuevos tatuajes y peinados.<br />- 2 armas nuevas nada relajantes.<br />- 20 actividades exclusivas por si te aburres de estar tirado en la playa.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds",
+        "filesize": 65664
+    }
+}

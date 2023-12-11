@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1697209218,"title":"RED DEAD REDEMPTION ET UNDEAD NIGHTMARE","headline":"RED DEAD REDEMPTION ET UNDEAD NIGHTMARE","subtitle":"Maintenant en boutiques","content":"Red Dead Redemption est maintenant disponible dans la boutique Rockstar et chez d'autres commerçants participants en téléchargement numérique et en version physique. Découvrez le western épique sur PlayStationµ4, et désormais jusqu'à 60µimages par seconde sur PlayStationµ5 en rétrocompatibilité.<br /><br />C'est également le moment idéal de plonger dans l'horreur de Undead Nightmare, la fameuse extension narrative qui propose une version surnaturelle des westerns, incluse avec Red Dead Redemption.","url":"","image":{"path":"sc/news/05303744abee4ac6ab8d6be9/262272_RDO_Kalon_Physical_Launch_FINAL_BigFeed_fr_fr.dds","filesize":262272},"style":"rdr"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1697209218,
+    "title": "RED DEAD REDEMPTION ET UNDEAD NIGHTMARE",
+    "headline": "RED DEAD REDEMPTION ET UNDEAD NIGHTMARE",
+    "subtitle": "Maintenant en boutiques",
+    "content": "Red Dead Redemption est maintenant disponible dans la boutique Rockstar et chez d'autres commerçants participants en téléchargement numérique et en version physique. Découvrez le western épique sur PlayStationµ4, et désormais jusqu'à 60µimages par seconde sur PlayStationµ5 en rétrocompatibilité.<br /><br />C'est également le moment idéal de plonger dans l'horreur de Undead Nightmare, la fameuse extension narrative qui propose une version surnaturelle des westerns, incluse avec Red Dead Redemption.",
+    "url": "",
+    "image": {
+        "path": "sc/news/05303744abee4ac6ab8d6be9/262272_RDO_Kalon_Physical_Launch_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    },
+    "style": "rdr"
+}

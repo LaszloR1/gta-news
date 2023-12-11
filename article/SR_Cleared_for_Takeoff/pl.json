@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999984,"title":"","headline":"GTA Online","subtitle":"Zezwolenie na start","content":"Niebo nad Los Santos zaroi się od samolotów. Możesz teraz nabyć wszystko, czego dusza zapragnie: od klasycznych myśliwców i miniaturowych śmigłowców, aż do zimnowojennych bombowców (zaangażowanych przemytników obowiązuje specjalna cena promocyjna). Te wspaniałe latające maszyny możesz przechować w prywatnym hangarze, a hangar da się dodatkowo rozszerzyć o warsztat lotniczy. Możesz nawet bezpłatnie przechować i skonwertować maszyny Pegasusa na osobisty statek powietrzny. Czas spojrzeć w górę.","url":"","image":{"path":"sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999984,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zezwolenie na start",
+    "content": "Niebo nad Los Santos zaroi się od samolotów. Możesz teraz nabyć wszystko, czego dusza zapragnie: od klasycznych myśliwców i miniaturowych śmigłowców, aż do zimnowojennych bombowców (zaangażowanych przemytników obowiązuje specjalna cena promocyjna). Te wspaniałe latające maszyny możesz przechować w prywatnym hangarze, a hangar da się dodatkowo rozszerzyć o warsztat lotniczy. Możesz nawet bezpłatnie przechować i skonwertować maszyny Pegasusa na osobisty statek powietrzny. Czas spojrzeć w górę.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cleared_for_Takeoff/262272_Cleared_For_Takeoff.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480010058,"title":"","headline":"GTA Online","subtitle":"Bravado Youga","content":"Le Bravado Youga, qui arrive à San Andreas, est un petit fourgon plein de potentiel. Que vous recherchiez un véhicule de transport commercial discret, un endroit fermé où fumer, ou une salle de torture insonorisée sur roues, cette petite merveille se plie à toutes vos exigences.","url":"","image":{"path":"sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Youga/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480010058,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bravado Youga",
+    "content": "Le Bravado Youga, qui arrive à San Andreas, est un petit fourgon plein de potentiel. Que vous recherchiez un véhicule de transport commercial discret, un endroit fermé où fumer, ou une salle de torture insonorisée sur roues, cette petite merveille se plie à toutes vos exigences.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Youga/349672_GTAOnline_Youga.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Youga/.dds",
+        "filesize": 2048
+    }
+}

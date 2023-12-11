@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"洛聖都毒梟大戰","headline":"洛聖都毒梟大戰","subtitle":"遊玩「最終劑」","content":"在您完成「第一劑」後，去找達克斯可繼續體驗「洛聖都毒梟大戰：最終劑」。五個全新任務將帶領您與癮家軍體驗精彩刺激的故事劇情，過程還充滿熟悉的面孔、拿錢辦事的打手、搞破壞、綁架以及更多。<br /><br />完成這些任務後，您可免費取得歐斯洛美德，並解鎖其批發價格。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds","filesize":262272},"button":"遊玩「最終劑」"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "洛聖都毒梟大戰",
+    "headline": "洛聖都毒梟大戰",
+    "subtitle": "遊玩「最終劑」",
+    "content": "在您完成「第一劑」後，去找達克斯可繼續體驗「洛聖都毒梟大戰：最終劑」。五個全新任務將帶領您與癮家軍體驗精彩刺激的故事劇情，過程還充滿熟悉的面孔、拿錢辦事的打手、搞破壞、綁架以及更多。<br /><br />完成這些任務後，您可免費取得歐斯洛美德，並解鎖其批發價格。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds",
+        "filesize": 262272
+    },
+    "button": "遊玩「最終劑」"
+}

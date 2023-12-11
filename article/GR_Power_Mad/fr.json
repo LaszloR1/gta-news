@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1500974811,"title":"","headline":"GTA Online","subtitle":"Soif de pouvoir","content":"La concurrence devient de plus en plus féroce chaque jour, et votre équipe a besoin des bons avantages pour rester en tête. Dans Soif de pouvoir, jusqu'à 4 équipes s'affrontent pour s'emparer d'une récompense et la conserver. Ça vous paraît simpleµ? Celui qui détient cette récompense se transforme en cuirassé, une machine à tuer. Voilà qui devrait vous motiverµ!","url":"","image":{"path":"sc/news/GR_Power_Mad/262272_PowerMad.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1500974811,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Soif de pouvoir",
+    "content": "La concurrence devient de plus en plus féroce chaque jour, et votre équipe a besoin des bons avantages pour rester en tête. Dans Soif de pouvoir, jusqu'à 4 équipes s'affrontent pour s'emparer d'une récompense et la conserver. Ça vous paraît simpleµ? Celui qui détient cette récompense se transforme en cuirassé, une machine à tuer. Voilà qui devrait vous motiverµ!",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Power_Mad/262272_PowerMad.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

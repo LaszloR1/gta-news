@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455336,"title":"","headline":"GTA Online","subtitle":"有组织犯罪","content":"全新的夜总会仓库能将你的整体运营再上一个新台阶：您可以充分利用自己现有的业务，获取额外利润，包括货机机库和制毒工场。如果想扩张业务，您还是要出来，执行老派的跑腿工作，获取和建立业务，一旦新业务建立，您的技术团队就能从中让您获取新的收入现金流，而您这时候只需要到楼上的µVIPµ区域消遣就行了。","url":"","image":{"path":"sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455336,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "有组织犯罪",
+    "content": "全新的夜总会仓库能将你的整体运营再上一个新台阶：您可以充分利用自己现有的业务，获取额外利润，包括货机机库和制毒工场。如果想扩张业务，您还是要出来，执行老派的跑腿工作，获取和建立业务，一旦新业务建立，您的技术团队就能从中让您获取新的收入现金流，而您这时候只需要到楼上的µVIPµ区域消遣就行了。",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

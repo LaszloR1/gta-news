@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1508258742,"title":"","headline":"GTA Online","subtitle":"Wilk syty i owca cała","content":"Czy kiedykolwiek zdarzyło Ci się jechać w wyścigu ulicznym i marzyć o swobodzie śmigania myśliwcem z punktu do punktu? Albo jadąc na przedzie peletonu na Vespucci Beach, fantazjować o sunięciu kanionem Raton na skuterze wodnym? No to masz szczęście, bo w wyścigach z transformacją przeróżne lądowe, wodne i podniebne przeżycia będą zmieniać się tak szybko, że nawet nie zdążysz popuścić w gacie. Ulżyj sobie.","url":"","image":{"path":"sc/news/SR_Transform_Races/349672_bigfeed-transform-races-512x1024-V1.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1508258742,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wilk syty i owca cała",
+    "content": "Czy kiedykolwiek zdarzyło Ci się jechać w wyścigu ulicznym i marzyć o swobodzie śmigania myśliwcem z punktu do punktu? Albo jadąc na przedzie peletonu na Vespucci Beach, fantazjować o sunięciu kanionem Raton na skuterze wodnym? No to masz szczęście, bo w wyścigach z transformacją przeróżne lądowe, wodne i podniebne przeżycia będą zmieniać się tak szybko, że nawet nie zdążysz popuścić w gacie. Ulżyj sobie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Transform_Races/349672_bigfeed-transform-races-512x1024-V1.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

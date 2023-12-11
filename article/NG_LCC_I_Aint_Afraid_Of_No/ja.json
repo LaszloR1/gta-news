@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044144,"title":"","headline":"GTA Online","subtitle":"嫌がらせなんて怖くない","content":"迷惑な相手を振り払えず、困ったことはありませんか？ゴーストモードになれる新しい機能を使えば、きっぱりと関係を断つことができます。反撃する間もなく他のプレイヤーに何度も倒されてしまう時は、そのプレイヤーに対して一時的にゴーストモードになり、退避して通常のプレイに戻ることができます。","url":"","image":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044144,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "嫌がらせなんて怖くない",
+    "content": "迷惑な相手を振り払えず、困ったことはありませんか？ゴーストモードになれる新しい機能を使えば、きっぱりと関係を断つことができます。反撃する間もなく他のプレイヤーに何度も倒されてしまう時は、そのプレイヤーに対して一時的にゴーストモードになり、退避して通常のプレイに戻ることができます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds",
+        "filesize": 2048
+    }
+}

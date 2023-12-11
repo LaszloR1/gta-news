@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1402996215,"headline":"Aggiornamento GTA Online","subtitle":"Aggiornamento 'Non sono un Hipster' disponibile","content":"Esprimi la tua individualità e distinguiti con l'aggiornamento 'Non sono un Hipster', che include nuove magliette con stampe retrò, jeans attillati, tagli di capelli, tatuaggi ironici, non ironici e post-ironici, maschere di animali e altro.<br /><br />Scegli tra sette nuovi veicoli inclusi quelli nostalgici come Glendale, Blade e Rhapsody.<br /><br />Anche Ammu-Nation segue le ultime mode non ironiche con la pistola vintage e il pugnale antico, ora disponibili.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1402996215,
+    "headline": "Aggiornamento GTA Online",
+    "subtitle": "Aggiornamento 'Non sono un Hipster' disponibile",
+    "content": "Esprimi la tua individualità e distinguiti con l'aggiornamento 'Non sono un Hipster', che include nuove magliette con stampe retrò, jeans attillati, tagli di capelli, tatuaggi ironici, non ironici e post-ironici, maschere di animali e altro.<br /><br />Scegli tra sette nuovi veicoli inclusi quelli nostalgici come Glendale, Blade e Rhapsody.<br /><br />Anche Ammu-Nation segue le ultime mode non ironiche con la pistola vintage e il pugnale antico, ora disponibili.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds",
+        "filesize": 65664
+    }
+}

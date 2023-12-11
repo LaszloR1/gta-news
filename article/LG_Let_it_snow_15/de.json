@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453826,"title":"","headline":"GTA Online","subtitle":"Der Winter kann kommen","content":"Behalte den Himmel im Auge: Der Wetterbericht sagt für die Feiertage und Neujahr Schnee in San Andreas vorher.~n~~n~Du musst nicht länger der Versuchung widerstehen, mit dem weißen Zeug um dich zu schleudern – ab sofort kannst du Schneebälle machen und werfen.~n~~n~Drücke ~INPUT_DETONATE~, um Schneebälle zu machen, dann ziele und wirf damit wie mit jeder anderen Wurfwaffe.<br />Halte heute auch nach Geschenken unter dem Weihnachtsbaum Ausschau, um es an den Feiertagen richtig knallen zu lassen.","url":"","image":{"path":"sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds","filesize":65664},"landscape":{"path":"sc/news/LG_Let_it_snow_15/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453826,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Der Winter kann kommen",
+    "content": "Behalte den Himmel im Auge: Der Wetterbericht sagt für die Feiertage und Neujahr Schnee in San Andreas vorher.~n~~n~Du musst nicht länger der Versuchung widerstehen, mit dem weißen Zeug um dich zu schleudern – ab sofort kannst du Schneebälle machen und werfen.~n~~n~Drücke ~INPUT_DETONATE~, um Schneebälle zu machen, dann ziele und wirf damit wie mit jeder anderen Wurfwaffe.<br />Halte heute auch nach Geschenken unter dem Weihnachtsbaum Ausschau, um es an den Feiertagen richtig knallen zu lassen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/LG_Let_it_snow_15/65664_LG_Let_It_Snow.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_Let_it_snow_15/.dds",
+        "filesize": 2048
+    }
+}

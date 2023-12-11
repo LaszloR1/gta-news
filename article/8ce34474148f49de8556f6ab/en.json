@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736471,"title":"","headline":"GTA Online","subtitle":"HIGH FLYER ","content":"Brace for impact! A brand-new stock of air and land vehicles are about to hit Los Santos. From military-grade annihilation at Warstock, to face-lifting speed at Legendary Motorsport, your new favorites are just a website away.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HIGH FLYER ",
+    "content": "Brace for impact! A brand-new stock of air and land vehicles are about to hit Los Santos. From military-grade annihilation at Warstock, to face-lifting speed at Legendary Motorsport, your new favorites are just a website away.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/8ce34474148f49de8556f6ab/262272_GTAO_SummerTULaunch_RaijuPlane_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

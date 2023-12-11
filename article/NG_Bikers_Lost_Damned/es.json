@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477562017,"title":"","headline":"GTA Online","subtitle":"Lost vs. Damned","content":"El día y la noche marcan los términos del nuevo modo Adversario para GTA Online. Si estás del lado de los Angels, aprovecha las bonificaciones que recibirás mientras haya luz para juzgar a tus enemigos. Si estás en el bando de los Devils, espera hasta que caiga la oscuridad para vengarte. Las tornas cambian cada 60 segundos, y gana el bando que logre más puntos. Que comience el apocalipsis.","url":"","image":{"path":"sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Lost_Damned/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477562017,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lost vs. Damned",
+    "content": "El día y la noche marcan los términos del nuevo modo Adversario para GTA Online. Si estás del lado de los Angels, aprovecha las bonificaciones que recibirás mientras haya luz para juzgar a tus enemigos. Si estás en el bando de los Devils, espera hasta que caiga la oscuridad para vengarte. Las tornas cambian cada 60 segundos, y gana el bando que logre más puntos. Que comience el apocalipsis.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/.dds",
+        "filesize": 2048
+    }
+}

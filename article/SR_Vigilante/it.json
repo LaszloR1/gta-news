@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509130506,"title":"","headline":"GTA Online","subtitle":"Vigilante","content":"La giustizia a Los Santos ha un nuovo volto, ed è consigliato impegnarsi per non trovarselo mai di fronte. Per gli sfortunati che finiscono nel mirino della Vigilante c'è solo un modo per evitare una morte... esplosiva: assicurarsi di sparare sempre per primi.","url":"","image":{"path":"sc/news/SR_Vigilante/524416_BIGFEED_2017_1024_V01_512x1024.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509130506,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vigilante",
+    "content": "La giustizia a Los Santos ha un nuovo volto, ed è consigliato impegnarsi per non trovarselo mai di fronte. Per gli sfortunati che finiscono nel mirino della Vigilante c'è solo un modo per evitare una morte... esplosiva: assicurarsi di sparare sempre per primi.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Vigilante/524416_BIGFEED_2017_1024_V01_512x1024.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

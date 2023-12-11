@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485958774,"title":"","headline":"GTA Online","subtitle":"Tryby z 2X GTA$, zniżka na biura i nie tylko: 31.01 – 13.02","content":"Dajcie upust agresji w trzech wybuchowych trybach, które przez następne dwa tygodnie zapewniać będą podwójne premie GTA$ i RP: <br /><br />– Kolos,<br />– Zawrotna zemsta,<br />– Zagubieni kontra Potępieni.<br /><br />To także dobry moment, aby podwyższyć swój status dzięki zniżkom 50% na biura i 25% na magazyny pojazdów oraz promocjom na pojazdy, broń i nie tylko. <br /><br />Więcej informacji na Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Event_Bonuses_31_13/349672_bigFeed-juggernaut.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Event_Bonuses_31_13/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485958774,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tryby z 2X GTA$, zniżka na biura i nie tylko: 31.01 – 13.02",
+    "content": "Dajcie upust agresji w trzech wybuchowych trybach, które przez następne dwa tygodnie zapewniać będą podwójne premie GTA$ i RP: <br /><br />– Kolos,<br />– Zawrotna zemsta,<br />– Zagubieni kontra Potępieni.<br /><br />To także dobry moment, aby podwyższyć swój status dzięki zniżkom 50% na biura i 25% na magazyny pojazdów oraz promocjom na pojazdy, broń i nie tylko. <br /><br />Więcej informacji na Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Event_Bonuses_31_13/349672_bigFeed-juggernaut.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Event_Bonuses_31_13/.dds",
+        "filesize": 2048
+    }
+}

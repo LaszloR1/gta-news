@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1502188219,"title":"","headline":"GTA Online","subtitle":"Sauts au but","content":"Dans le mode rivalité Sauts au but, tout est question de précision et de finesse. Comme dans toute partie de fléchettes, vous devrez cibler les zones qui rapportent le plus de points avec une précision extrême pour l'emporter. Sauf qu'ici, c'est vous qui jouez le rôle des fléchettes dans une voiture équipée d'un parachute. Et la cible se trouve à des centaines de mètres dans le ciel. Le seul moyen de l'atteindre, c'est de rester suffisamment longtemps dans les airs. Attachez votre ceinture.","url":"","image":{"path":"sc/news/GR_Overtime_Shootoutv2/262272_OvertimeShootout.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1502188219,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sauts au but",
+    "content": "Dans le mode rivalité Sauts au but, tout est question de précision et de finesse. Comme dans toute partie de fléchettes, vous devrez cibler les zones qui rapportent le plus de points avec une précision extrême pour l'emporter. Sauf qu'ici, c'est vous qui jouez le rôle des fléchettes dans une voiture équipée d'un parachute. Et la cible se trouve à des centaines de mètres dans le ciel. Le seul moyen de l'atteindre, c'est de rester suffisamment longtemps dans les airs. Attachez votre ceinture.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Overtime_Shootoutv2/262272_OvertimeShootout.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

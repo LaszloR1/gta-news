@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991949,"headline":"Dica online","subtitle":"Deixa eu bater uma foto aqui...","content":"Imortalize aqueles momentos incríveis do GTA batendo uma foto rápida com a câmera do seu celular. Você também pode virá-la para você e bater uma foto sua!~n~~n~Há várias bordas e filtros para adicionar um toque extra de estilo às suas fotos.~n~~n~Temos até um criador de memes para adicionar uma legenda nas suas imagens, pronto para as massas do Social Club. Navegue pela sua galeria e aperte ~INPUT_FRONTEND_X~ para entrar no criador de meme.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991949,
+    "headline": "Dica online",
+    "subtitle": "Deixa eu bater uma foto aqui...",
+    "content": "Imortalize aqueles momentos incríveis do GTA batendo uma foto rápida com a câmera do seu celular. Você também pode virá-la para você e bater uma foto sua!~n~~n~Há várias bordas e filtros para adicionar um toque extra de estilo às suas fotos.~n~~n~Temos até um criador de memes para adicionar uma legenda nas suas imagens, pronto para as massas do Social Club. Navegue pela sua galeria e aperte ~INPUT_FRONTEND_X~ para entrar no criador de meme.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Let_Me_Take_a_Selfie/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

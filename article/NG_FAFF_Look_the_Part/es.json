@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292975,"title":"","headline":"GTA Online","subtitle":"Dando el pego","content":"La gran sorpresa de la temporada en las tiendas de Los Santos: ropa para vips y escoltas y nuevos artículos de la marca SecuroServ. Tanto si quieres proyectar una imagen sofisticada de señor del crimen como de gorila a sueldo cabreado, encontrarás lo que necesitas.","url":"","image":{"path":"sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Look_the_Part/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dando el pego",
+    "content": "La gran sorpresa de la temporada en las tiendas de Los Santos: ropa para vips y escoltas y nuevos artículos de la marca SecuroServ. Tanto si quieres proyectar una imagen sofisticada de señor del crimen como de gorila a sueldo cabreado, encontrarás lo que necesitas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/.dds",
+        "filesize": 2048
+    }
+}

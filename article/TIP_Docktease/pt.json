@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381835729,"title":"","headline":"Dica online","subtitle":"Docktease.com","content":"Se você deseja comprar um barco de luxo (ou um Seashark), visite Docktease.com pelo navegador do seu celular e veja as opções.<br /><br />Ao realizar uma compra, você poderá organizar a entrega pelo serviço de transporte Pegasus na sua lista de contatos do celular.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Docktease/262272_Docktease.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Docktease/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381835729,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Docktease.com",
+    "content": "Se você deseja comprar um barco de luxo (ou um Seashark), visite Docktease.com pelo navegador do seu celular e veja as opções.<br /><br />Ao realizar uma compra, você poderá organizar a entrega pelo serviço de transporte Pegasus na sua lista de contatos do celular.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Docktease/262272_Docktease.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Docktease/.dds",
+        "filesize": 2048
+    }
+}

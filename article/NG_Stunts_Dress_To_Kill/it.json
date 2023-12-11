@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324792,"title":"","headline":"GTA Online","subtitle":"L'abito fa il monaco","content":"I negozi di Los Santos si arricchiscono di capi d'abbigliamento all'avanguardia e a tema racing. Sfoggia maglie racing sponsorizzate, indossa tenute da gara, o acquista una tuta da stuntman, l'ideale per le gare stunt. Potrai anche essere poco più di una macchia colorata, ma non c'è alcun motivo per non entrare nella parte.","url":"","image":{"path":"sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Dress_To_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324792,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "L'abito fa il monaco",
+    "content": "I negozi di Los Santos si arricchiscono di capi d'abbigliamento all'avanguardia e a tema racing. Sfoggia maglie racing sponsorizzate, indossa tenute da gara, o acquista una tuta da stuntman, l'ideale per le gare stunt. Potrai anche essere poco più di una macchia colorata, ma non c'è alcun motivo per non entrare nella parte.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Dress_To_Kill/.dds",
+        "filesize": 2048
+    }
+}

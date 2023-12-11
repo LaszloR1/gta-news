@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175082,"title":"","headline":"GTA Online","subtitle":"Protección ejecutiva","content":"¿Necesitas protección adicional? Hay varios vehículos nuevos a la venta en legendarymotorsport.net, que poseen una opción de mejora de blindaje que incluye cristales antibalas. O si necesitas potencia de fuego adicional, compra la limusina con torreta en warstock-cache-and-carry.com. Al fin y al cabo, la mejor defensa es un buen ataque.","url":"","image":{"path":"sc/news/NG_EAOC_Exec_Protection/262272_Exectutive_Protection.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Exec_Protection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175082,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Protección ejecutiva",
+    "content": "¿Necesitas protección adicional? Hay varios vehículos nuevos a la venta en legendarymotorsport.net, que poseen una opción de mejora de blindaje que incluye cristales antibalas. O si necesitas potencia de fuego adicional, compra la limusina con torreta en warstock-cache-and-carry.com. Al fin y al cabo, la mejor defensa es un buen ataque.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Exec_Protection/262272_Exectutive_Protection.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Exec_Protection/.dds",
+        "filesize": 2048
+    }
+}

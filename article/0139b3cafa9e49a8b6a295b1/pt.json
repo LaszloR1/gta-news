@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973246,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Traficantes","content":"Encontre traficantes para vender os suprimentos de drogas dos seus negócios.<br /><br />Fique de olho, pois esses traficantes vão aparecer em novos locais do mapa todos os dias quando você estiver perto deles.<br /><br />Dica: cada traficante tem uma droga preferida pela qual eles oferecerão um preço mais alto, então aproveite a oportunidade para maximizar seus lucros.<br /><br /><br />","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds","filesize":262272},"button":"Encontrar traficantes no Modo Livre"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973246,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Traficantes",
+    "content": "Encontre traficantes para vender os suprimentos de drogas dos seus negócios.<br /><br />Fique de olho, pois esses traficantes vão aparecer em novos locais do mapa todos os dias quando você estiver perto deles.<br /><br />Dica: cada traficante tem uma droga preferida pela qual eles oferecerão um preço mais alto, então aproveite a oportunidade para maximizar seus lucros.<br /><br /><br />",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/0139b3cafa9e49a8b6a295b1/262272_GTAO337_StreeDealers_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Encontrar traficantes no Modo Livre"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1399976061,"title":"","headline":"Dica online","subtitle":"Listas de jogos","content":"Se quer competir em uma série de Serviços diferentes, experimente usar uma Lista de jogos. Participe da ação com o mínimo de intervalos conforme passa pelos Serviços diretamente.<br />Cada Serviço é pontuado individualmente e um total corrente mostra como você se compara por toda a Lista de jogos, então você não será punido por um acidente isolado ou um pouco de azar.<br />Faça sua própria Lista de jogo, ou experimente alguma criada pela Rockstar. Encontre as opções na seção Listas de jogos do menu Online","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Playlists/262272_Playlists.dds","filesize":262272},"landscape":{"path":"sc/news/Playlists/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399976061,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Listas de jogos",
+    "content": "Se quer competir em uma série de Serviços diferentes, experimente usar uma Lista de jogos. Participe da ação com o mínimo de intervalos conforme passa pelos Serviços diretamente.<br />Cada Serviço é pontuado individualmente e um total corrente mostra como você se compara por toda a Lista de jogos, então você não será punido por um acidente isolado ou um pouco de azar.<br />Faça sua própria Lista de jogo, ou experimente alguma criada pela Rockstar. Encontre as opções na seção Listas de jogos do menu Online",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Playlists/262272_Playlists.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Playlists/.dds",
+        "filesize": 2048
+    }
+}

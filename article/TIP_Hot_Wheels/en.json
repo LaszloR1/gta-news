@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471715,"title":"","headline":"Online Tip","subtitle":"Hot Wheels?","content":"No reputable mod shop would let you customize a car that has been ‘borrowed’ from its rightful owners. The most high-tech and luxurious vehicles need to be acquired from a legitimate source, so it is best to shop smart and use the web.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Hot_Wheels/65664_HotWheels.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Hot_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471715,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Hot Wheels?",
+    "content": "No reputable mod shop would let you customize a car that has been ‘borrowed’ from its rightful owners. The most high-tech and luxurious vehicles need to be acquired from a legitimate source, so it is best to shop smart and use the web.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Hot_Wheels/65664_HotWheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Hot_Wheels/.dds",
+        "filesize": 2048
+    }
+}

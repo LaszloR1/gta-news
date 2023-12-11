@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349737,"title":"","headline":"GTA Online","subtitle":"GTA Online: Lowridery już dostępne","content":"Najnowsza aktualizacja wprowadza Benny's Original Motor Works, jedyny w Los Santos warsztat specjalizujący się w lowriderach. Oprócz tego pojawią się dwa nowe samochody, a także nowe uzbrojenie, ubrania, tatuaże i wiele innych.<br /><br />Porozmawiaj z Lamarem i wykonaj dla niego 8 nowych misji kontaktowych, dzięki którym przechytrzy gangi Los Santos i zostanie królem lowriderów. Oprócz tego dostępne są 3 nowe tryby adwersarza rozgrywane w pojazdach.<br /><br />Więcej szczegółów na Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Lowriders_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349737,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Lowridery już dostępne",
+    "content": "Najnowsza aktualizacja wprowadza Benny's Original Motor Works, jedyny w Los Santos warsztat specjalizujący się w lowriderach. Oprócz tego pojawią się dwa nowe samochody, a także nowe uzbrojenie, ubrania, tatuaże i wiele innych.<br /><br />Porozmawiaj z Lamarem i wykonaj dla niego 8 nowych misji kontaktowych, dzięki którym przechytrzy gangi Los Santos i zostanie królem lowriderów. Oprócz tego dostępne są 3 nowe tryby adwersarza rozgrywane w pojazdach.<br /><br />Więcej szczegółów na Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Lowriders_Now_Available/262272_Lowriders_Out_Now.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Lowriders_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

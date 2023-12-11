@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1403780607,"headline":"オンラインのヒント","subtitle":"おしゃれな防弾","content":"アミュネーションに最新の防弾ファッションアイテム、どんな状況にも対応できるベストが登場。<br /><br />アーマーの外観は「アクションメニュー」の「所持品」から「ボディアーマー」でいつでも変更できます。<br /><br />ジョブをプレイ中に入手したアーマーは、ランクで利用できる最も重いアーマーに自動調整されます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Bulletproof_Chic/65664_BulletProofChic.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1403780607,
+    "headline": "オンラインのヒント",
+    "subtitle": "おしゃれな防弾",
+    "content": "アミュネーションに最新の防弾ファッションアイテム、どんな状況にも対応できるベストが登場。<br /><br />アーマーの外観は「アクションメニュー」の「所持品」から「ボディアーマー」でいつでも変更できます。<br /><br />ジョブをプレイ中に入手したアーマーは、ランクで利用できる最も重いアーマーに自動調整されます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Bulletproof_Chic/65664_BulletProofChic.dds",
+        "filesize": 65664
+    }
+}

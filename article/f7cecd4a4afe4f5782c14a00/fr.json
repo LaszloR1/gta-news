@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736474,"title":"","headline":"GTA Online","subtitle":"PETIT MAIS COSTAUD","content":"Comment rendre un défi encore plus grandµ? En devenant plus petitµ! Prenez votre télécommande et rechargez vos batteriesµ: il est temps de semer le chaos, de battre des records et d'écraser vos adversaires dans les nouveaux contre-la-montre RC Bandito. <br /><br />De petites roues, mais de gros gains. Disponibles chaque jour.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736474,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "PETIT MAIS COSTAUD",
+    "content": "Comment rendre un défi encore plus grandµ? En devenant plus petitµ! Prenez votre télécommande et rechargez vos batteriesµ: il est temps de semer le chaos, de battre des records et d'écraser vos adversaires dans les nouveaux contre-la-montre RC Bandito. <br /><br />De petites roues, mais de gros gains. Disponibles chaque jour.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

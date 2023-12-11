@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543617,"title":"","headline":"GTA Online","subtitle":"Jet Fuel","content":"Whether you’re craving speed, elegance or the latest masterpiece from Benny’s lab, your new car has just hit town – and with the private auto shop extension for your executive office, you’ll be able to mod and upgrade your rides to custom variants right there, just two steps from your panic room. And if you’re after something even edgier, check out the new breed of vehicular decadence and savagery that just rolled into Warstock Cache and Carry.","url":"","image":{"path":"sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Jet_Fuel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543617,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Jet Fuel",
+    "content": "Whether you’re craving speed, elegance or the latest masterpiece from Benny’s lab, your new car has just hit town – and with the private auto shop extension for your executive office, you’ll be able to mod and upgrade your rides to custom variants right there, just two steps from your panic room. And if you’re after something even edgier, check out the new breed of vehicular decadence and savagery that just rolled into Warstock Cache and Carry.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Jet_Fuel/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511526,"title":"","headline":"GTA Online","subtitle":"Nagasaki Shotaro","content":"L'avenir ne se trouve pas au coin de la rue. Il est déjà là. La Shotaro peut parcourir Vinewood plus rapidement que l'hépatite B, certes, et alorsµ? Avec l'allure qu'elle vous donne, de toute façon, vous ne la quitterez jamais. Pas même pour dormir. Disponible à l'achat dès que vous aurez participé à une manche de Retour à la ligne, le nouveau mode rivalité.","url":"","image":{"path":"sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Shotaro/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511526,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nagasaki Shotaro",
+    "content": "L'avenir ne se trouve pas au coin de la rue. Il est déjà là. La Shotaro peut parcourir Vinewood plus rapidement que l'hépatite B, certes, et alorsµ? Avec l'allure qu'elle vous donne, de toute façon, vous ne la quitterez jamais. Pas même pour dormir. Disponible à l'achat dès que vous aurez participé à une manche de Retour à la ligne, le nouveau mode rivalité.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Shotaro/262272_Shotaro.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Shotaro/.dds",
+        "filesize": 2048
+    }
+}

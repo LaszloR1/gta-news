@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367126,"title":"","headline":"GTA Online","subtitle":"Oferta especial por tiempo limitado solo para ti","content":"Dale caña a tu club de moteros esta semana con descuentos especiales en las sedes del club y en garajes para 10 coches, además de la rebaja del 25% en la moto Western Zombie Bobber. Aunque si prefieres las velocidades vertiginosas de importación, el supercoche Truffade Adder tiene un 50% de descuento hasta el 13 de febrero.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier1_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Oferta especial por tiempo limitado solo para ti",
+    "content": "Dale caña a tu club de moteros esta semana con descuentos especiales en las sedes del club y en garajes para 10 coches, además de la rebaja del 25% en la moto Western Zombie Bobber. Aunque si prefieres las velocidades vertiginosas de importación, el supercoche Truffade Adder tiene un 50% de descuento hasta el 13 de febrero.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/349672_bigFeed-Bikers-012.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier1_31_01/.dds",
+        "filesize": 2048
+    }
+}

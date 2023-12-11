@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991417,"headline":"Online-Tipp","subtitle":"Schneller Job mit Freunden","content":"Es gibt eine neue Schnellstart-Option 'Schneller Job mit Freunden', die du in deinem Handy anwählen kannst, wenn du einem Job beitrittst.<br /><br />Wenn du diese Option wählst, werden automatisch Einladungen an alle Freunde in deiner derzeitigen Sitzung im freien Modus versendet, damit du den Job mit ihnen zusammen erledigen kannst.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991417,
+    "headline": "Online-Tipp",
+    "subtitle": "Schneller Job mit Freunden",
+    "content": "Es gibt eine neue Schnellstart-Option 'Schneller Job mit Freunden', die du in deinem Handy anwählen kannst, wenn du einem Job beitrittst.<br /><br />Wenn du diese Option wählst, werden automatisch Einladungen an alle Freunde in deiner derzeitigen Sitzung im freien Modus versendet, damit du den Job mit ihnen zusammen erledigen kannst.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Quick_Join_With_Friends/65664_Friendly_targets.dds",
+        "filesize": 65664
+    }
+}

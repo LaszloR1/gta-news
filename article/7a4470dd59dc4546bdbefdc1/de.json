@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1627901270,"title":"Belohnung abgeholt: 250.000µGTA$","headline":"Belohnung abgeholt: 250.000µGTA$","subtitle":"Du hast LS-Car-Meet-Reputationsstufe 20 erreicht","content":"Deine Belohnung in Höhe von 250.000µGTA$ für das Erreichen der LS-Car-Meet-Reputationsstufe 20 zwischen dem 20.µJuli und 18.µAugust wurde auf dein Maze-Bank-Konto überwiesen.<br /><br />Weitere zeitlich begrenzte Events in Los Santos folgen demnächst. Alle Neuigkeiten findest du immer auf dem Rockstar Newswire.<br />","url":"","image":{"path":"sc/news/7a4470dd59dc4546bdbefdc1/349672_maze-bank-512x1024.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1627901270,
+    "title": "Belohnung abgeholt: 250.000µGTA$",
+    "headline": "Belohnung abgeholt: 250.000µGTA$",
+    "subtitle": "Du hast LS-Car-Meet-Reputationsstufe 20 erreicht",
+    "content": "Deine Belohnung in Höhe von 250.000µGTA$ für das Erreichen der LS-Car-Meet-Reputationsstufe 20 zwischen dem 20.µJuli und 18.µAugust wurde auf dein Maze-Bank-Konto überwiesen.<br /><br />Weitere zeitlich begrenzte Events in Los Santos folgen demnächst. Alle Neuigkeiten findest du immer auf dem Rockstar Newswire.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/7a4470dd59dc4546bdbefdc1/349672_maze-bank-512x1024.dds",
+        "filesize": 349672
+    }
+}

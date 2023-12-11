@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292369,"title":"","headline":"GTA Online","subtitle":"Lotta di classe","content":"Quando il divario tra ricchi e poveri è troppo netto, questa modalità Competizione è la soluzione per gli arrampicatori sociali di indole più violenta. La squadra dei Vincitori è destinata a vincere, quella dei Perdenti a... perdere. C'è solo un modo per passare da una all'altra: eliminare un Vincitore e rubargli il posto. Guadagnati un posto tra la gente che conta!","url":"","image":{"path":"sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Trading_Places/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292369,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lotta di classe",
+    "content": "Quando il divario tra ricchi e poveri è troppo netto, questa modalità Competizione è la soluzione per gli arrampicatori sociali di indole più violenta. La squadra dei Vincitori è destinata a vincere, quella dei Perdenti a... perdere. C'è solo un modo per passare da una all'altra: eliminare un Vincitore e rubargli il posto. Guadagnati un posto tra la gente che conta!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Trading_Places/262272_NG_Trading_Places.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Trading_Places/.dds",
+        "filesize": 2048
+    }
+}

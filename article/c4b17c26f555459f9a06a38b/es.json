@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1689343986,"title":"GTA Online","headline":"GTA Online","subtitle":"Doble de GTA$ y RP en Hasta el final","content":"En este violento modo Adversario, el trabajo en equipo es la clave, ya que un corredor al volante de un minúsculo Panto tendrá que llegar a tiempo a la meta con ayuda de sus compañeros. Mientras tanto, los defensores tendrán que detener el Panto para impedir que puntúe. Pisa el acelerador y consigue el doble de recompensas por tus esfuerzos.","url":"","image":{"path":"sc/news/c4b17c26f555459f9a06a38b/262272_GTAO_358_RunningBack_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1689343986,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Doble de GTA$ y RP en Hasta el final",
+    "content": "En este violento modo Adversario, el trabajo en equipo es la clave, ya que un corredor al volante de un minúsculo Panto tendrá que llegar a tiempo a la meta con ayuda de sus compañeros. Mientras tanto, los defensores tendrán que detener el Panto para impedir que puntúe. Pisa el acelerador y consigue el doble de recompensas por tus esfuerzos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/c4b17c26f555459f9a06a38b/262272_GTAO_358_RunningBack_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

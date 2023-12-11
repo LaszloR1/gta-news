@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991141,"headline":"線上小訣竅","subtitle":"你不知道我是瘋子嗎？","content":"有了全新的「心理狀態」數據，現在我們會追蹤您的行為。如果您好像很喜歡攻擊路人和恐嚇其他玩家，那麼您的光點就會在其他玩家的地圖上顯示為紅色。光點的顏色越紅，就表示該玩家越瘋狂；光點顏色越白，就表示該玩家越友善。<br /><br />您會自動加入有與您遊戲風格更「相符」玩家的自由模式戰局，而且如果有閃著紅光的神經病進入您的戰局，至少您會先收到警告通知！","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991141,
+    "headline": "線上小訣竅",
+    "subtitle": "你不知道我是瘋子嗎？",
+    "content": "有了全新的「心理狀態」數據，現在我們會追蹤您的行為。如果您好像很喜歡攻擊路人和恐嚇其他玩家，那麼您的光點就會在其他玩家的地圖上顯示為紅色。光點的顏色越紅，就表示該玩家越瘋狂；光點顏色越白，就表示該玩家越友善。<br /><br />您會自動加入有與您遊戲風格更「相符」玩家的自由模式戰局，而且如果有閃著紅光的神經病進入您的戰局，至少您會先收到警告通知！",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dont_You_Know_Im_Loco/65664_Finding_your_Friends_portrait.dds",
+        "filesize": 65664
+    }
+}

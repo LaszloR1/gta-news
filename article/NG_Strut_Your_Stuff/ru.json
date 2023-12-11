@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223899,"title":"","headline":"GTA Online","subtitle":"Походка победителя","content":"В меню взаимодействия появился новый пункт, позволяющий сменить походку героя. На выбор представлены самые разные варианты, от скользящей до гарцующей.<br /><br />Пункт «Походка» располагается в меню взаимодействия, рядом с «Настроением».","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Strut_Your_Stuff/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223899,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Походка победителя",
+    "content": "В меню взаимодействия появился новый пункт, позволяющий сменить походку героя. На выбор представлены самые разные варианты, от скользящей до гарцующей.<br /><br />Пункт «Походка» располагается в меню взаимодействия, рядом с «Настроением».",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Strut_Your_Stuff/.dds",
+        "filesize": 2048
+    }
+}

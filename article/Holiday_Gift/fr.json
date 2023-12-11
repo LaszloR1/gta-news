@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1387887193,"headline":"GTA Online","subtitle":"Cadeau Surprise","content":"Nos meilleurs voeux ! Portez des vêtements de Noël pendant une durée limitée, comme un chapeau de Père Noël, un blouson d'elfe, un masque 'Bonhomme de neige' et plus encore.<br /> <br />Utilisez de nouveaux filtres pour vos photos Snapmatic, de nouvelles bordures, de nouvelles expressions pour vos autoportraits, un générateur de mèmes et plus encore.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Holiday_Gift/65664_Holiday_Gift_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Holiday_Gift/65664_Holiday_Gift_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1387887193,
+    "headline": "GTA Online",
+    "subtitle": "Cadeau Surprise",
+    "content": "Nos meilleurs voeux ! Portez des vêtements de Noël pendant une durée limitée, comme un chapeau de Père Noël, un blouson d'elfe, un masque 'Bonhomme de neige' et plus encore.<br /> <br />Utilisez de nouveaux filtres pour vos photos Snapmatic, de nouvelles bordures, de nouvelles expressions pour vos autoportraits, un générateur de mèmes et plus encore.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Holiday_Gift/65664_Holiday_Gift_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Holiday_Gift/65664_Holiday_Gift_Landscape.dds",
+        "filesize": 65664
+    }
+}

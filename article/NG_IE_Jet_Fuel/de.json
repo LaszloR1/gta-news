@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543617,"title":"","headline":"GTA Online","subtitle":"Flugzeugtreibstoff","content":"Egal, ob dir der Sinn nach Tempo, Eleganz oder dem jüngsten Meisterwerk aus Bennys Labor steht – dein neues Auto ist soeben in der Stadt eingetroffen. Dank der Möglichkeit, dein Büro durch eine Werkstatt zu erweitern, kannst du deine Autos jetzt nur zwei Schritte von deinem Panikraum entfernt modifizieren und in Tuningversionen verwandeln. Falls du auf etwas Exzentrischeres stehst, solltest du dir mal die neue Welle der Dekadenz und Brutalität bei Warstock Cache and Carry anschauen.","url":"","image":{"path":"sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Jet_Fuel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543617,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Flugzeugtreibstoff",
+    "content": "Egal, ob dir der Sinn nach Tempo, Eleganz oder dem jüngsten Meisterwerk aus Bennys Labor steht – dein neues Auto ist soeben in der Stadt eingetroffen. Dank der Möglichkeit, dein Büro durch eine Werkstatt zu erweitern, kannst du deine Autos jetzt nur zwei Schritte von deinem Panikraum entfernt modifizieren und in Tuningversionen verwandeln. Falls du auf etwas Exzentrischeres stehst, solltest du dir mal die neue Welle der Dekadenz und Brutalität bei Warstock Cache and Carry anschauen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Jet_Fuel/.dds",
+        "filesize": 2048
+    }
+}

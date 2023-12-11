@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469143,"headline":"線上小訣竅","subtitle":"秀出您的才華","content":"不管您目前的才華是什麼，完成各種不同的里程碑和目標，您就可贏得獨家獎勵。當然，在洛聖都的商店和賣場中還有一些最獨家的商品只有您達成購買條件後才能購買。畢竟名人的生活才是比較好的生活。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469143,
+    "headline": "線上小訣竅",
+    "subtitle": "秀出您的才華",
+    "content": "不管您目前的才華是什麼，完成各種不同的里程碑和目標，您就可贏得獨家獎勵。當然，在洛聖都的商店和賣場中還有一些最獨家的商品只有您達成購買條件後才能購買。畢竟名人的生活才是比較好的生活。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1498761721,"title":"","headline":"GTA Online","subtitle":"듀바치 바그너","content":"바그너는 듀바치가 하이퍼카 시장에 갑자기 뛰어들며 탄생한 최신 프로토 타입입니다. 바그너는 아직 실험 단계의 차량입니다. 왜냐하면 극한의 테스트 주행을 마친 후 운전자들이 미쳐 버리거나 팔다리를 못 쓰게 되었거든요.","url":"","image":{"path":"sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1498761721,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "듀바치 바그너",
+    "content": "바그너는 듀바치가 하이퍼카 시장에 갑자기 뛰어들며 탄생한 최신 프로토 타입입니다. 바그너는 아직 실험 단계의 차량입니다. 왜냐하면 극한의 테스트 주행을 마친 후 운전자들이 미쳐 버리거나 팔다리를 못 쓰게 되었거든요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

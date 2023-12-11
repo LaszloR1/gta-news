@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699542331,"title":"GTA+","headline":"GTA+","subtitle":"Modyfikacje superjachtu i penthouse'u w kasynie","content":"Członkowie GTA+ mogą oszczędzić 50% na wszystkich modyfikacjach luksusowych inwestycji w postaci superjachtu od DockTease i przestronnego penthouse'u w kasynie Diamond.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_pl_pl.dds","filesize":262272},"button":"WYBIERZ, ABY DOŁĄCZYĆ DO GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699542331,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Modyfikacje superjachtu i penthouse'u w kasynie",
+    "content": "Członkowie GTA+ mogą oszczędzić 50% na wszystkich modyfikacjach luksusowych inwestycji w postaci superjachtu od DockTease i przestronnego penthouse'u w kasynie Diamond.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b05aa87d546641a59bc9d812/262272_GTA_MP20_SuperYachtDiscounts_FINAL_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "WYBIERZ, ABY DOŁĄCZYĆ DO GTA+"
+}

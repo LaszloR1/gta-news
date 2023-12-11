@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433953037,"title":"","headline":"GTA Online","subtitle":"Das ganze Drum und Dran","content":"Viele der Bekleidungsgeschäfte in Los Santos bieten jetzt eine Menge neue Artikel an, wie zum Beispiel verschwenderisch verzierte Accessoires, die deinem Auftritt in der Öffentlichkeit noch mehr Glanz verleihen.<br /><br />Verschiedene Arten von Ketten, Ohrringen, Uhren und mehr bieten etwas für jeden Geschmack – gut, schlecht und gleichgültig.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_All_The_Trimmings/262272_Shopper.dds","filesize":262272},"landscape":{"path":"sc/news/NG_All_The_Trimmings/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433953037,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Das ganze Drum und Dran",
+    "content": "Viele der Bekleidungsgeschäfte in Los Santos bieten jetzt eine Menge neue Artikel an, wie zum Beispiel verschwenderisch verzierte Accessoires, die deinem Auftritt in der Öffentlichkeit noch mehr Glanz verleihen.<br /><br />Verschiedene Arten von Ketten, Ohrringen, Uhren und mehr bieten etwas für jeden Geschmack – gut, schlecht und gleichgültig.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_All_The_Trimmings/262272_Shopper.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_All_The_Trimmings/.dds",
+        "filesize": 2048
+    }
+}

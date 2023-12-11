@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1517940165,"title":"","headline":"GTA Online","subtitle":"Le Canis Kamacho","content":"Tout ce que vous recherchez dans un 4x4, c'est de la simplicité. La simplicité de grosses roues, d'un châssis indestructible, d'une caisse pleine de bières et d'une petite centaine de chevaux enragés sous le capot. Le Canis Kamacho vous offre tout ça, et rien de plus, car vous finiriez par peser trop lourd.","url":"","image":{"path":"sc/news/DH_Canis_Kamacho/524416_BIGFEED_2017_1212_V01_F_512x1024_canis_kamacho.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1517940165,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le Canis Kamacho",
+    "content": "Tout ce que vous recherchez dans un 4x4, c'est de la simplicité. La simplicité de grosses roues, d'un châssis indestructible, d'une caisse pleine de bières et d'une petite centaine de chevaux enragés sous le capot. Le Canis Kamacho vous offre tout ça, et rien de plus, car vous finiriez par peser trop lourd.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Canis_Kamacho/524416_BIGFEED_2017_1212_V01_F_512x1024_canis_kamacho.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

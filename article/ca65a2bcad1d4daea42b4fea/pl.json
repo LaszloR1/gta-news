@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1692285760,"title":"GTA+","headline":"GTA+","subtitle":"Premie Areny wojny","content":"Członkowie GTA+ mogą do 13 września otrzymać 2x więcej GTA$, RP i punktów areny w serii na arenie.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_pl_pl.dds","filesize":262272},"button":"Wybierz, aby dołączyć do GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1692285760,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Premie Areny wojny",
+    "content": "Członkowie GTA+ mogą do 13 września otrzymać 2x więcej GTA$, RP i punktów areny w serii na arenie.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ca65a2bcad1d4daea42b4fea/262272_GTA_MEP17_ArenaWarsAlt_FINAL_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby dołączyć do GTA+"
+}

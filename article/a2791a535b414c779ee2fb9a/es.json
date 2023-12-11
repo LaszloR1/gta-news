@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705112,"title":"GTA+","headline":"GTA+","subtitle":"Misiles guiados del Kosatka","content":"Los miembros de GTA+ pueden solicitar la mejora de misiles guiados para el submarino Kosatka hasta el 11 de octubre.<br /><br />Aniquila a tus rivales con estos cohetes con control remoto manual que pueden usarse contra cualquier objetivo, incluidas las fuerzas de la isla del Rubio durante el Golpe a Cayo Perico.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_es_es.dds","filesize":262272},"button":"Selecciona para suscribirte a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705112,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Misiles guiados del Kosatka",
+    "content": "Los miembros de GTA+ pueden solicitar la mejora de misiles guiados para el submarino Kosatka hasta el 11 de octubre.<br /><br />Aniquila a tus rivales con estos cohetes con control remoto manual que pueden usarse contra cualquier objetivo, incluidas las fuerzas de la isla del Rubio durante el Golpe a Cayo Perico.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+"
+}

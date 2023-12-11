@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223046,"title":"","headline":"GTA Online","subtitle":"GTA Online теперь поддерживает 30 игроков","content":"Grand Theft Auto Online теперь поддерживает до 30 игроков в свободном режиме и при прохождении дел. Это значит, что рядом с вами будет больше пользователей, готовых вас поддержать (или прикончить).<br /><br />Желаете посмотреть, чем занимаются все эти люди? Опробуйте режим наблюдения, позволяющий двум игрокам следить за ходом событий из квартиры.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_30_Player_Online/262272_30Players.dds","filesize":262272},"landscape":{"path":"sc/news/NG_30_Player_Online/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223046,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online теперь поддерживает 30 игроков",
+    "content": "Grand Theft Auto Online теперь поддерживает до 30 игроков в свободном режиме и при прохождении дел. Это значит, что рядом с вами будет больше пользователей, готовых вас поддержать (или прикончить).<br /><br />Желаете посмотреть, чем занимаются все эти люди? Опробуйте режим наблюдения, позволяющий двум игрокам следить за ходом событий из квартиры.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_30_Player_Online/262272_30Players.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_30_Player_Online/.dds",
+        "filesize": 2048
+    }
+}

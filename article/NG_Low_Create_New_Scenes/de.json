@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349211,"title":"","headline":"GTA Online","subtitle":"Drehe neue Szenen im Regisseur-Modus","content":"Der Szenen-Editor ist ein brandneues Feature im Regisseur-Modus. Damit kannst du eigene Szenerien erschaffen, um darin dann deine Rockstar Editor-Clips zu drehen. Wähle aus über 200 verfügbaren Requisiten (inkl. Sprengstoffen) und positioniere sie, um die perfekte Kulisse für deine Filme zu entwerfen. Speichere bis zu vier Szenen, damit du die gewünschten Schauplätze jederzeit wieder verwenden kannst.<br /><br />Im Regisseur-Modus kannst du den Szenen-Editor über das Interaktionsmenü aufrufen.","url":"","image":{"path":"sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Create_New_Scenes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349211,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Drehe neue Szenen im Regisseur-Modus",
+    "content": "Der Szenen-Editor ist ein brandneues Feature im Regisseur-Modus. Damit kannst du eigene Szenerien erschaffen, um darin dann deine Rockstar Editor-Clips zu drehen. Wähle aus über 200 verfügbaren Requisiten (inkl. Sprengstoffen) und positioniere sie, um die perfekte Kulisse für deine Filme zu entwerfen. Speichere bis zu vier Szenen, damit du die gewünschten Schauplätze jederzeit wieder verwenden kannst.<br /><br />Im Regisseur-Modus kannst du den Szenen-Editor über das Interaktionsmenü aufrufen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/262272_Create_new_scenes_in_director.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Create_New_Scenes/.dds",
+        "filesize": 2048
+    }
+}

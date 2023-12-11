@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314080,"title":"","headline":"GTA Online","subtitle":"Wydarzenia trybu swobodnego","content":"Podczas przejażdżek po Los Santos wypatrujcie nowych fioletowych znaczników oznaczających wydarzenia trybu swobodnego.<br />Są to m.in. Ruchomy cel, który należy błyskawicznie dostarczyć, Król na zamku, gdzie walczy się o panowanie nad danym obszarem, czy Odstrzał, w którym za pomocą określonych pojazdów zawalczycie z Merryweather. Zbliżcie się do znacznika, aby wziąć udział w wydarzeniu.","url":"","image":{"path":"sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Events/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314080,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wydarzenia trybu swobodnego",
+    "content": "Podczas przejażdżek po Los Santos wypatrujcie nowych fioletowych znaczników oznaczających wydarzenia trybu swobodnego.<br />Są to m.in. Ruchomy cel, który należy błyskawicznie dostarczyć, Król na zamku, gdzie walczy się o panowanie nad danym obszarem, czy Odstrzał, w którym za pomocą określonych pojazdów zawalczycie z Merryweather. Zbliżcie się do znacznika, aby wziąć udział w wydarzeniu.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Events/.dds",
+        "filesize": 2048
+    }
+}

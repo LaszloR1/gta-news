@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571727,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"Il sito web del Social Club è il luogo giusto per essere sempre aggiornato su tutto, come:<br /><br />Fotografie: scatta le foto dal telefono e condividi con il mondo le tue avventure, i tagli di capelli mal riusciti o il tuo enorme ego. Ogni foto viene pubblicata istantaneamente sul Social Club.<br />Notizie: scopri le ultime novità e gli eventi del Social Club.<br />Statistiche: tieni traccia delle tue statistiche e confrontati con i giocatori di tutto il mondo nelle classifiche.<br />E molto altro...","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571727,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "Il sito web del Social Club è il luogo giusto per essere sempre aggiornato su tutto, come:<br /><br />Fotografie: scatta le foto dal telefono e condividi con il mondo le tue avventure, i tagli di capelli mal riusciti o il tuo enorme ego. Ogni foto viene pubblicata istantaneamente sul Social Club.<br />Notizie: scopri le ultime novità e gli eventi del Social Club.<br />Statistiche: tieni traccia delle tue statistiche e confrontati con i giocatori di tutto il mondo nelle classifiche.<br />E molto altro...",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

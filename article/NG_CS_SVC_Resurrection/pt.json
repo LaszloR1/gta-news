@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631928,"title":"","headline":"GTA Online","subtitle":"Ressurreição ","content":"Não tem nada que transmita mais a sensação de ''espírito de equipe'' do que atirar na nuca de um idiota do outro comando e trazer o seu amigo de volta para o jogo. Mas isso significa que há apenas uma maneira de avançar no novo Modo Adversário Ressurreição: até que todos tenham sido eliminados, eles sempre podem voltar. Você nunca teve problema com piedade, certo?","url":"","image":{"path":"sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS_SVC_Resurrection/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631928,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ressurreição ",
+    "content": "Não tem nada que transmita mais a sensação de ''espírito de equipe'' do que atirar na nuca de um idiota do outro comando e trazer o seu amigo de volta para o jogo. Mas isso significa que há apenas uma maneira de avançar no novo Modo Adversário Ressurreição: até que todos tenham sido eliminados, eles sempre podem voltar. Você nunca teve problema com piedade, certo?",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/349672_Resurrection-bigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Resurrection/.dds",
+        "filesize": 2048
+    }
+}

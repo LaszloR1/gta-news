@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1408452757,"headline":"Atualização do GTA Online","subtitle":"Escola de Aviação está aberta","content":"Se você se considera um piloto de caça em formação, então tente aperfeiçoar as suas habilidades com a recentemente aberta Escola de Aviação.<br /><br />10 novos desafios aeronáuticos o aguardam, variando de voos acrobáticos até desafios de pouso complicados. Alcance as desafiadoras medalhas de Ouro para se destacar como parte da elite aérea.<br /><br />A Escola de Aviação pode ser encontrada perto da entrada do Aeroporto Internacional de LS (procure o ícone de avião no mapa).","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Flight_School_Open/65664_FlightSchool.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1408452757,
+    "headline": "Atualização do GTA Online",
+    "subtitle": "Escola de Aviação está aberta",
+    "content": "Se você se considera um piloto de caça em formação, então tente aperfeiçoar as suas habilidades com a recentemente aberta Escola de Aviação.<br /><br />10 novos desafios aeronáuticos o aguardam, variando de voos acrobáticos até desafios de pouso complicados. Alcance as desafiadoras medalhas de Ouro para se destacar como parte da elite aérea.<br /><br />A Escola de Aviação pode ser encontrada perto da entrada do Aeroporto Internacional de LS (procure o ícone de avião no mapa).",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Flight_School_Open/65664_FlightSchool.dds",
+        "filesize": 65664
+    }
+}

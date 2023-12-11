@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399989629,"headline":"GTA Online Update","subtitle":"Introducing the new Dewbauchee Massacro","content":"Sophisticated, superior, class-obsessed and with more than a little aggression under the hood, this grand tourer from Dewbauchee is a British built classic, which means it is now designed, built and owned overseas.<br /><br />The Massacro is featured in the new High Life race ‘Stock Market Crash’ and is available to purchase now from legendarymotorsport.net.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Massacro/65664_GTAVhighLife_MASSACRO.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399989629,
+    "headline": "GTA Online Update",
+    "subtitle": "Introducing the new Dewbauchee Massacro",
+    "content": "Sophisticated, superior, class-obsessed and with more than a little aggression under the hood, this grand tourer from Dewbauchee is a British built classic, which means it is now designed, built and owned overseas.<br /><br />The Massacro is featured in the new High Life race ‘Stock Market Crash’ and is available to purchase now from legendarymotorsport.net.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Massacro/65664_GTAVhighLife_MASSACRO.dds",
+        "filesize": 65664
+    }
+}

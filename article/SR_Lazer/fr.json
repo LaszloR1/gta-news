@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880010,"title":"","headline":"GTA Online","subtitle":"Le Lazer","content":"Le Lazer est le premier grand amour de nombreux criminels de carrière. Élégant, rapide, redoutableµ: ce bijou est la définition même de l'avion à réaction moderne, et est maintenant disponible à l'achat pour la première fois.","url":"","image":{"path":"sc/news/SR_Lazer/262272_P996Lazer.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Le Lazer",
+    "content": "Le Lazer est le premier grand amour de nombreux criminels de carrière. Élégant, rapide, redoutableµ: ce bijou est la définition même de l'avion à réaction moderne, et est maintenant disponible à l'achat pour la première fois.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Lazer/262272_P996Lazer.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

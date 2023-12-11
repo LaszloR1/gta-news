@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425977033,"title":"","headline":"GTA Online","subtitle":"犯罪マスターが教える強盗テクニック第1弾","content":"「強盗」が上手くいかない場合に役立つコツを紹介します:<br /><br />- チームとは積極的に会話をしましょう。 スムーズに連絡を取り合えば、成功の確率が劇的に上がります。<br />- 複数のアーマーベストを所持可能になりました。 真新しいベストをアミュネーションで購入して、アクションメニューから装備しましょう。<br />- 即座にライフを回復させるには、カバー時にスナックを食べましょう。 半分の時間でフルに効果を得られます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Tips_From_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425977033,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "犯罪マスターが教える強盗テクニック第1弾",
+    "content": "「強盗」が上手くいかない場合に役立つコツを紹介します:<br /><br />- チームとは積極的に会話をしましょう。 スムーズに連絡を取り合えば、成功の確率が劇的に上がります。<br />- 複数のアーマーベストを所持可能になりました。 真新しいベストをアミュネーションで購入して、アクションメニューから装備しましょう。<br />- 即座にライフを回復させるには、カバー時にスナックを食べましょう。 半分の時間でフルに効果を得られます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/262272_Heist-Tips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Tips_From_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

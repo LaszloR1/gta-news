@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1474282374,"title":"","headline":"GTA Online","subtitle":"GTA Online: Bikers erscheint am 4. Oktober","content":"Bikers, die nächste große Erweiterung für GTA Online, gibt dir die Möglichkeit, deinen eigenen Motorradclub für bis zu acht Spieler zu gründen und anzuführen. Bikers führt neue Rollen ein, vom Prospect bis zum President, in denen man zahlreiche neue kompetitive und kooperative Modi spielt.<br /><br />Außerdem gibt es neue Motorräder und Immobilien, einschließlich MC-Clubhäusern mit eigener Motorrad-Tuningwerkstatt sowie Räumlichkeiten für zwielichtige Geschäfte. Details unter rockstargames.de/newswire.","url":"","image":{"path":"sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Biker_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1474282374,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GTA Online: Bikers erscheint am 4. Oktober",
+    "content": "Bikers, die nächste große Erweiterung für GTA Online, gibt dir die Möglichkeit, deinen eigenen Motorradclub für bis zu acht Spieler zu gründen und anzuführen. Bikers führt neue Rollen ein, vom Prospect bis zum President, in denen man zahlreiche neue kompetitive und kooperative Modi spielt.<br /><br />Außerdem gibt es neue Motorräder und Immobilien, einschließlich MC-Clubhäusern mit eigener Motorrad-Tuningwerkstatt sowie Räumlichkeiten für zwielichtige Geschäfte. Details unter rockstargames.de/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Biker_Announcement/349672_BIKER-BIGFEED.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Biker_Announcement/.dds",
+        "filesize": 2048
+    }
+}

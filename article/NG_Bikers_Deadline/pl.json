@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1478511204,"title":"","headline":"GTA Online","subtitle":"Linia śmierci","content":"Zerknij na zapowiedź nowego, wspaniałego świata w trybie adwersarza Linia śmierci. Oto wizja przyszłości, którą na pewno poprą mieszkańcy Los Santos: ledwo panujesz nad motocyklem pochodzącym wprost z wysokobudżetowego pornosa science-fiction; śmigasz ku miejskiej dżungli z niewiarygodną prędkością; pozostawiasz po sobie smugę energetyczną, zamieniającą rywali w kupki popiołu. Przyszłość będzie jasna, szybka i niezwykle niebezpieczna.","url":"","image":{"path":"sc/news/NG_Bikers_Deadline/262272_Deadline.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Deadline/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1478511204,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Linia śmierci",
+    "content": "Zerknij na zapowiedź nowego, wspaniałego świata w trybie adwersarza Linia śmierci. Oto wizja przyszłości, którą na pewno poprą mieszkańcy Los Santos: ledwo panujesz nad motocyklem pochodzącym wprost z wysokobudżetowego pornosa science-fiction; śmigasz ku miejskiej dżungli z niewiarygodną prędkością; pozostawiasz po sobie smugę energetyczną, zamieniającą rywali w kupki popiołu. Przyszłość będzie jasna, szybka i niezwykle niebezpieczna.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Deadline/262272_Deadline.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Deadline/.dds",
+        "filesize": 2048
+    }
+}

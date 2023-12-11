@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471928,"headline":"Astuce en ligne","subtitle":"Pas de temps à perdre","content":"Vous avez envie de passer à l'action sans attendre ? Vous pouvez sélectionner 'Activité rapide' sur votre téléphone pour accéder directement à une course, un affrontement, une mission ou une liste. Vous rejoindrez l'activité ouverte la plus proche en fonction de vos critères.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471928,
+    "headline": "Astuce en ligne",
+    "subtitle": "Pas de temps à perdre",
+    "content": "Vous avez envie de passer à l'action sans attendre ? Vous pouvez sélectionner 'Activité rapide' sur votre téléphone pour accéder directement à une course, un affrontement, une mission ou une liste. Vous rejoindrez l'activité ouverte la plus proche en fonction de vos critères.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

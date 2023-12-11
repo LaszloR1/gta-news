@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543350,"title":"","headline":"GTA Online","subtitle":"VIP Works","content":"Once you purchase one of Warstock Cache and Carry’s eight Special Vehicles, a new VIP work will be available to your organization. Available for a CEO to launch via their interaction menu, these missions revolve around each vehicle’s unique abilities.","url":"","image":{"path":"sc/news/NG_IE_VIP_Works/262272_vipworks.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_VIP_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543350,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "VIP Works",
+    "content": "Once you purchase one of Warstock Cache and Carry’s eight Special Vehicles, a new VIP work will be available to your organization. Available for a CEO to launch via their interaction menu, these missions revolve around each vehicle’s unique abilities.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_VIP_Works/262272_vipworks.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_VIP_Works/.dds",
+        "filesize": 2048
+    }
+}

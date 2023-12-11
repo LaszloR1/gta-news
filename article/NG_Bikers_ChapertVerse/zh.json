@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515533,"title":"","headline":"GTA Online","subtitle":"立下規範","content":"購入一間會所即可成為摩托幫的創始人及首領，最多可招募七人加入您的摩托幫。摩托幫提供了多種不同職務與重任：您想委任誰成為副首領？您要晉升誰當圍事長？大家通力合作，您的摩托幫將會所向披靡。","url":"","image":{"path":"sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChapertVerse/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515533,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "立下規範",
+    "content": "購入一間會所即可成為摩托幫的創始人及首領，最多可招募七人加入您的摩托幫。摩托幫提供了多種不同職務與重任：您想委任誰成為副首領？您要晉升誰當圍事長？大家通力合作，您的摩托幫將會所向披靡。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/262272_Chapter_and_Verse_1.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChapertVerse/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223581,"title":"","headline":"GTAV","subtitle":"Comandi al volante","content":"Sono disponibili nuovi comandi per gli agguati da dietro il volante. Ora puoi usare ~INPUT_FRONTEND_LB~ per mirare e ~INPUT_FRONTEND_RB~ per sparare, in modo da essere più precisi anche mentre si guida. Prova a passare alla prima persona per uccidere i nemici con precisione letale anche se sei alla guida di un veicolo.~n~~n~Puoi tornare al vecchio schema comandi selezionando Menu di pausa > Impostazioni > Comandi > Tipo comandi per il fuoco da veicoli.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Drive-By_Controls/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223581,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Comandi al volante",
+    "content": "Sono disponibili nuovi comandi per gli agguati da dietro il volante. Ora puoi usare ~INPUT_FRONTEND_LB~ per mirare e ~INPUT_FRONTEND_RB~ per sparare, in modo da essere più precisi anche mentre si guida. Prova a passare alla prima persona per uccidere i nemici con precisione letale anche se sei alla guida di un veicolo.~n~~n~Puoi tornare al vecchio schema comandi selezionando Menu di pausa > Impostazioni > Comandi > Tipo comandi per il fuoco da veicoli.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Drive-By_Controls/262272_DriveByControls.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Drive-By_Controls/.dds",
+        "filesize": 2048
+    }
+}

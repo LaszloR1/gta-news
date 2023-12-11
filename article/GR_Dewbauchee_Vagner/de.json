@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1498761721,"title":"","headline":"GTA Online","subtitle":"Dewbauchee Vagner","content":"Der Vagner ist der aktuellste Prototyp aus Dewbauchees radikalem Einstieg in den Hypercar-Markt. Technisch gesehen steckt er noch in der Experimentierphase – hauptsächlich, weil nur wenige Testfahrer ihren Verstand oder die Kontrolle über ihre Körperteile wiedererlangten, nachdem sie dieses Ding an seine Grenzen gebracht hatten.","url":"","image":{"path":"sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1498761721,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Dewbauchee Vagner",
+    "content": "Der Vagner ist der aktuellste Prototyp aus Dewbauchees radikalem Einstieg in den Hypercar-Markt. Technisch gesehen steckt er noch in der Experimentierphase – hauptsächlich, weil nur wenige Testfahrer ihren Verstand oder die Kontrolle über ihre Körperteile wiedererlangten, nachdem sie dieses Ding an seine Grenzen gebracht hatten.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Dewbauchee_Vagner/262272_Dewbauchee_Vagner.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

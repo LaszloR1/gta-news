@@ -1,1 +1,20 @@
-{"types":["store"],"date":1482157683,"title":"","headline":"Paquets de dollars Shark pour GTA Online","subtitle":"","content":"Dans cette ville, l'argent est roi. Réglez vos problèmes financiers et obtenez plus facilement ce que vous voulez à Los Santos et Blaine County en achetant des paquets de dollars pour Grand Theft Auto Online. L'argent acheté est automatiquement versé sur le compte en banque de votre personnage. Dépensez-le avec discernement, la roue tourne vite...<br />","url":"","image":{"path":"sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Store_Tab_Announce/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1482157683,
+    "title": "",
+    "headline": "Paquets de dollars Shark pour GTA Online",
+    "subtitle": "",
+    "content": "Dans cette ville, l'argent est roi. Réglez vos problèmes financiers et obtenez plus facilement ce que vous voulez à Los Santos et Blaine County en achetant des paquets de dollars pour Grand Theft Auto Online. L'argent acheté est automatiquement versé sur le compte en banque de votre personnage. Dépensez-le avec discernement, la roue tourne vite...<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Store_Tab_Announce/349672_BigFeed-Hick-Generic.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Store_Tab_Announce/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

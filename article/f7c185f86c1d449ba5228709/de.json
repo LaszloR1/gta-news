@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973254,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Erlebe 11µStorymissionen, schalte das neue LSD-Unternehmen frei und weitere Belohnungen","content":"Nimm den Anruf von Ron entgegen und mach dich dann auf den Weg nach Blaine County, um loszulegen. Sobald du die Fooliganz getroffen hast, begib dich zum Freakshop, um die Storymissionen zu spielen.<br /><br />Dabei schaltest du neue Belohnungen und Möglichkeiten frei wie etwa das LSD-Labor, mit dem du ein Unternehmen zum Verkauf deiner eigenen Sorte von Psychedelika gründen kannst, eine kostenlose Manchez Scout C, um deine Ware abzuliefern, und mehr.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds","filesize":262272},"button":"Spiele Los Santos Drug Wars"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973254,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Erlebe 11µStorymissionen, schalte das neue LSD-Unternehmen frei und weitere Belohnungen",
+    "content": "Nimm den Anruf von Ron entgegen und mach dich dann auf den Weg nach Blaine County, um loszulegen. Sobald du die Fooliganz getroffen hast, begib dich zum Freakshop, um die Storymissionen zu spielen.<br /><br />Dabei schaltest du neue Belohnungen und Möglichkeiten frei wie etwa das LSD-Labor, mit dem du ein Unternehmen zum Verkauf deiner eigenen Sorte von Psychedelika gründen kannst, eine kostenlose Manchez Scout C, um deine Ware abzuliefern, und mehr.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/f7c185f86c1d449ba5228709/262272_GTAO_LSDW_FINAL_BigFeed_copy.dds",
+        "filesize": 262272
+    },
+    "button": "Spiele Los Santos Drug Wars"
+}

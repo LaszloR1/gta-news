@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543317,"title":"","headline":"GTA Online","subtitle":"二酸化炭素排出運送のスペシャリティ","content":"ウォーストック・キャッシュ&キャリーに、ここでしか手に入らない新しい乗り物タイプが登場しました。ファントムウェッジの野蛮さも、ロケットヴォルティックの命知らずなスピードも、これまでにない次元の狂乱と騒乱へと誘ってくれます。購入するには、乗り物用倉庫を所有している必要があります。また対象の特殊車両ジョブをクリアすると、セキュリサーブの卸値で購入できるようになります。","url":"","image":{"path":"sc/news/NG_IE_Something_Special/262272_Something_Nice.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Something_Special/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "二酸化炭素排出運送のスペシャリティ",
+    "content": "ウォーストック・キャッシュ&キャリーに、ここでしか手に入らない新しい乗り物タイプが登場しました。ファントムウェッジの野蛮さも、ロケットヴォルティックの命知らずなスピードも、これまでにない次元の狂乱と騒乱へと誘ってくれます。購入するには、乗り物用倉庫を所有している必要があります。また対象の特殊車両ジョブをクリアすると、セキュリサーブの卸値で購入できるようになります。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Something_Special/262272_Something_Nice.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Something_Special/.dds",
+        "filesize": 2048
+    }
+}

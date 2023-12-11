@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534862115,"title":"","headline":"GTA Online","subtitle":"스피드 호송대(리믹스)","content":"결승선은 아직도 먼 곳에 있으며, 스크램제트는 마치 러시아워인양, 여러분이 탄 MTL 듄의 옆면을 들이받습니다. 비질란테를 탄 팀원은 사면초가에 빠져있고, 당신의 속도계에는 강력한 폭탄이 설치되어 있습니다. 무슨 이야기인지 아시나요? 바로 스피드 호송대가 업그레이드와 함께 GTA 온라인에 돌아온 겁니다.","url":"","image":{"path":"sc/news/7sm_AH_Hunting_Pack_RM/349672_Hunting_Pack_Bigfeed_V02.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534862115,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "스피드 호송대(리믹스)",
+    "content": "결승선은 아직도 먼 곳에 있으며, 스크램제트는 마치 러시아워인양, 여러분이 탄 MTL 듄의 옆면을 들이받습니다. 비질란테를 탄 팀원은 사면초가에 빠져있고, 당신의 속도계에는 강력한 폭탄이 설치되어 있습니다. 무슨 이야기인지 아시나요? 바로 스피드 호송대가 업그레이드와 함께 GTA 온라인에 돌아온 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/7sm_AH_Hunting_Pack_RM/349672_Hunting_Pack_Bigfeed_V02.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

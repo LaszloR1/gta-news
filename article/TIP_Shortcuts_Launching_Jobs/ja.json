@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394811018,"title":"","headline":"オンラインのヒント","subtitle":"ジョブ開始のショートカット","content":"ジョブの招待を受けた時は、方向パッドの上を長押しすると、携帯電話でジョブ・リストを開かずに招待を承諾できます。~n~~n~ポーズメニューのマップを開いている時は、マップ上のジョブアイコンをハイライトして~INPUT_FRONTEND_X~を押せばジョブを開始できます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Shortcuts_Launching_Jobs/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394811018,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "ジョブ開始のショートカット",
+    "content": "ジョブの招待を受けた時は、方向パッドの上を長押しすると、携帯電話でジョブ・リストを開かずに招待を承諾できます。~n~~n~ポーズメニューのマップを開いている時は、マップ上のジョブアイコンをハイライトして~INPUT_FRONTEND_X~を押せばジョブを開始できます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/262272_ShortcutsForLaunching.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Shortcuts_Launching_Jobs/.dds",
+        "filesize": 2048
+    }
+}

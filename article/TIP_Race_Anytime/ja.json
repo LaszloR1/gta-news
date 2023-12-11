@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567803,"headline":"オンラインのヒント","subtitle":"いつでも、どこでもレースを","content":"近くのプレイヤーにインスタントレースを挑み、サンアンドレアスのいたるところでレースを繰り広げましょう。行き先マーカーを設定するか、クイックGPSを使用してレースを開始できます。<br /><br />インスタントレースはアクションメニュー内にあります。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Race_Anytime/65664_Race_Anytime_Anywhere_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567803,
+    "headline": "オンラインのヒント",
+    "subtitle": "いつでも、どこでもレースを",
+    "content": "近くのプレイヤーにインスタントレースを挑み、サンアンドレアスのいたるところでレースを繰り広げましょう。行き先マーカーを設定するか、クイックGPSを使用してレースを開始できます。<br /><br />インスタントレースはアクションメニュー内にあります。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Race_Anytime/65664_Race_Anytime_Anywhere_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

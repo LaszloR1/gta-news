@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381834493,"title":"","headline":"Consejo en línea","subtitle":"Legendarymotorsport.net","content":"Visita Legendarymotorsport.net desde el navegador de tu teléfono para descubrir los vehículos de lujo más exclusivos a tu disposición.<br /><br />Tienes que tener un garaje antes de hacer la compra, ya que entregarán tu nuevo vehículo directamente en tu propiedad.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Legendarymotorsport/262272_Legendarymotorsport.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Legendarymotorsport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381834493,
+    "title": "",
+    "headline": "Consejo en línea",
+    "subtitle": "Legendarymotorsport.net",
+    "content": "Visita Legendarymotorsport.net desde el navegador de tu teléfono para descubrir los vehículos de lujo más exclusivos a tu disposición.<br /><br />Tienes que tener un garaje antes de hacer la compra, ya que entregarán tu nuevo vehículo directamente en tu propiedad.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Legendarymotorsport/262272_Legendarymotorsport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Legendarymotorsport/.dds",
+        "filesize": 2048
+    }
+}

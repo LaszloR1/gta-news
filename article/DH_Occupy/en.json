@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513701284,"title":"","headline":"GTA Online","subtitle":"Occupy","content":"Get ready to get territorial in Occupy, the strategic new Adversary Mode for GTA Online. Forget maintaining your kill streak: this time, you’ll only be judged on how many key areas you’ve kept under your team’s thumb. But of course, knowing your way around the business end of a flying attack bike always helps.","url":"","image":{"path":"sc/news/DH_Occupy/262272_bigfeed-occupy.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513701284,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Occupy",
+    "content": "Get ready to get territorial in Occupy, the strategic new Adversary Mode for GTA Online. Forget maintaining your kill streak: this time, you’ll only be judged on how many key areas you’ve kept under your team’s thumb. But of course, knowing your way around the business end of a flying attack bike always helps.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Occupy/262272_bigfeed-occupy.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

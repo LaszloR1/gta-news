@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515908,"title":"","headline":"GTA Online","subtitle":"Arsenal renovado","content":"Boas-vindas a uma nova era de armas pequenas, simplificadas e serradas, perfeitas para conduzir a sua sinfonia de terror do conforto do seu assento de moto. Oferecendo desde o poder concentrado de um Lança-granadas Portátil até a brutalidade corpo a corpo de uma Chave Inglesa Pesada, a Ammu-Nation não vai deixar você na mão.","url":"","image":{"path":"sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_TooledUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515908,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Arsenal renovado",
+    "content": "Boas-vindas a uma nova era de armas pequenas, simplificadas e serradas, perfeitas para conduzir a sua sinfonia de terror do conforto do seu assento de moto. Oferecendo desde o poder concentrado de um Lança-granadas Portátil até a brutalidade corpo a corpo de uma Chave Inglesa Pesada, a Ammu-Nation não vai deixar você na mão.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_TooledUp/.dds",
+        "filesize": 2048
+    }
+}

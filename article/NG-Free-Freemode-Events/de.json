@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314079,"title":"","headline":"GTA Online","subtitle":"Events im Freien Modus","content":"Halte beim Cruisen durch Los Santos die Augen offen nach neuen lila Markierungen, die auf ein brandneues Event im Freien Modus hinweisen.<br />Diese Events reichen von ''Beweglichen Zielen'', die schnell abgeliefert werden müssen, über ''König im Schloss'', bei dem du um die Vormacht in einem Areal kämpfst, bis hin zu ''Kriegsgebiet'', bei dem bestimmte Fahrzeuge genutzt werden, um Merryweather-Truppen auszuschalten – und vieles mehr.<br />Nähere dich einfach einem Event, um teilzunehmen.","url":"","image":{"path":"sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Events/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314079,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Events im Freien Modus",
+    "content": "Halte beim Cruisen durch Los Santos die Augen offen nach neuen lila Markierungen, die auf ein brandneues Event im Freien Modus hinweisen.<br />Diese Events reichen von ''Beweglichen Zielen'', die schnell abgeliefert werden müssen, über ''König im Schloss'', bei dem du um die Vormacht in einem Areal kämpfst, bis hin zu ''Kriegsgebiet'', bei dem bestimmte Fahrzeuge genutzt werden, um Merryweather-Truppen auszuschalten – und vieles mehr.<br />Nähere dich einfach einem Event, um teilzunehmen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Events/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313472,"title":"","headline":"GTA Online","subtitle":"Tempos Tranquilos no Modo Livre","content":"Se preferir uma vida mais sossegada, você pode escolher não participar dos Eventos ou Atividades ao personalizar sua experiência no Modo Livre. Acesse as Opções de ocultar a partir do Menu de Interação e escolha entre esconder ou mostrar cada opção. Ocultar um Evento ou Atividade irá esconder as notificações e garantir um jogo sem interrupções. Se mais tarde você sentir que está perdendo toda a diversão, você pode habilitar as opções novamente quando quiser.","url":"","image":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313472,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tempos Tranquilos no Modo Livre",
+    "content": "Se preferir uma vida mais sossegada, você pode escolher não participar dos Eventos ou Atividades ao personalizar sua experiência no Modo Livre. Acesse as Opções de ocultar a partir do Menu de Interação e escolha entre esconder ou mostrar cada opção. Ocultar um Evento ou Atividade irá esconder as notificações e garantir um jogo sem interrupções. Se mais tarde você sentir que está perdendo toda a diversão, você pode habilitar as opções novamente quando quiser.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/.dds",
+        "filesize": 2048
+    }
+}

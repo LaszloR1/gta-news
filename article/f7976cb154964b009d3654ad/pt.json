@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1640725040,"title":"Já disponíveis: Novas armas e Arsenal","headline":"Já disponíveis: Novas armas e Arsenal","subtitle":"Fuzil Pesado, Lança-PEM Compacto e Arma de Choque","content":"O novo Fuzil Pesado já está disponível para compra na Ammu-Nation. Você tem um Arsenal nos fundos da sua Agência? Então tem acesso ao Fuzil Pesado, ao Lança-PEM Compacto e Arma de Choque com desconto. <br /><br />O Arsenal também fornece acesso a modificações para armas Mk II, um Armário de Armas para armazenar armas extras, um suporte para equipamentos de Golpe e coletes, além de saúde e munição gratuitas.<br />","url":"","image":{"path":"sc/news/f7976cb154964b009d3654ad/262272_1215_GTAO_TheContract_BigFeeds_InfoDoc_Weapons_MM_1_FINAL_BigFeed_copy.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1640725040,
+    "title": "Já disponíveis: Novas armas e Arsenal",
+    "headline": "Já disponíveis: Novas armas e Arsenal",
+    "subtitle": "Fuzil Pesado, Lança-PEM Compacto e Arma de Choque",
+    "content": "O novo Fuzil Pesado já está disponível para compra na Ammu-Nation. Você tem um Arsenal nos fundos da sua Agência? Então tem acesso ao Fuzil Pesado, ao Lança-PEM Compacto e Arma de Choque com desconto. <br /><br />O Arsenal também fornece acesso a modificações para armas Mk II, um Armário de Armas para armazenar armas extras, um suporte para equipamentos de Golpe e coletes, além de saúde e munição gratuitas.<br />",
+    "url": "",
+    "image": {
+        "path": "sc/news/f7976cb154964b009d3654ad/262272_1215_GTAO_TheContract_BigFeeds_InfoDoc_Weapons_MM_1_FINAL_BigFeed_copy.dds",
+        "filesize": 262272
+    }
+}

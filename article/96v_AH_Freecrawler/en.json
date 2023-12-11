@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1536087916,"title":"","headline":"GTA Online","subtitle":"Canis Freecrawler","content":"Now available in Legendary Motorsports, the Canis Freecrawler is the American car industry’s latest and most successful bid to blur the lines between a family SUV, an unstoppable off-roader, and an armored personnel carrier. You can never have too much of three good things.","url":"","image":{"path":"sc/news/96v_AH_Freecrawler/349672_FREECRAWLER.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1536087916,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Canis Freecrawler",
+    "content": "Now available in Legendary Motorsports, the Canis Freecrawler is the American car industry’s latest and most successful bid to blur the lines between a family SUV, an unstoppable off-roader, and an armored personnel carrier. You can never have too much of three good things.",
+    "url": "",
+    "image": {
+        "path": "sc/news/96v_AH_Freecrawler/349672_FREECRAWLER.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

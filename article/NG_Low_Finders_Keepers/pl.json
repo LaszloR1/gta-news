@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349604,"title":"","headline":"GTA Online","subtitle":"Znalezione nie kradzione","content":"Przemytnicy broni ukryli w Los Santos i hrabstwie Blaine sporo sprzętu. Znalezione zabawki możesz zachować dla siebie, więc poczęstuj się zgubą. Dodatkowa siła rażenia z pewnością się przyda, aby rzutem na taśmę zgarnąć zwycięstwo w jednym z wydarzeń trybu swobodnego.","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349604,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Znalezione nie kradzione",
+    "content": "Przemytnicy broni ukryli w Los Santos i hrabstwie Blaine sporo sprzętu. Znalezione zabawki możesz zachować dla siebie, więc poczęstuj się zgubą. Dodatkowa siła rażenia z pewnością się przyda, aby rzutem na taśmę zgarnąć zwycięstwo w jednym z wydarzeń trybu swobodnego.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

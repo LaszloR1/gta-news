@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766817,"title":"","headline":"GTA Online","subtitle":"Tydzień premii motocyklowych","content":"Od dzisiaj do 10 października będzie trwał tydzień premii. Zagrajcie w tym tygodniu w GTA Online, aby odblokować białą koszulkę z logo Western oraz bluzę Nagasaki, do odebrania w każdym sklepie z odzieżą. Kolekcjonerzy mogą się połasić na czarny egzemplarz z logiem Western, który otrzymają nabywcy Western Nightblade'a. Dostępne są również zniżki na kamizelki kuloodporne, amunicję, malowania broni oraz zniżka 25% na magazynki bębnowe i pudełkowe.","url":"","image":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Bonus_Week_11_10/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766817,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tydzień premii motocyklowych",
+    "content": "Od dzisiaj do 10 października będzie trwał tydzień premii. Zagrajcie w tym tygodniu w GTA Online, aby odblokować białą koszulkę z logo Western oraz bluzę Nagasaki, do odebrania w każdym sklepie z odzieżą. Kolekcjonerzy mogą się połasić na czarny egzemplarz z logiem Western, który otrzymają nabywcy Western Nightblade'a. Dostępne są również zniżki na kamizelki kuloodporne, amunicję, malowania broni oraz zniżka 25% na magazynki bębnowe i pudełkowe.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/262272_Biker_Bonus_Week.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Bonus_Week_11_10/.dds",
+        "filesize": 2048
+    }
+}

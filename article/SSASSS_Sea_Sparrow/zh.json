@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1523980379,"title":"","headline":"GTA Online","subtitle":"海雀","content":"只要用對工具。任何問題都能迎刃而解。但只有一項工具，能夠解決所有的問題。那是什麼工具呢？這還用說嗎，當然是可以武裝的迷你直升機。","url":"","image":{"path":"sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1523980379,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "海雀",
+    "content": "只要用對工具。任何問題都能迎刃而解。但只有一項工具，能夠解決所有的問題。那是什麼工具呢？這還用說嗎，當然是可以武裝的迷你直升機。",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Sea_Sparrow/349672_bigfeed-sparrow.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

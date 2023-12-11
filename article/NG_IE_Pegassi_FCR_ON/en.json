@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482320247,"title":"","headline":"GTA Online","subtitle":"Pegassi FCR","content":"There are classy, vintage bikes - and then there’s the Pegassi FCR. Simple, timeless, distinctive; it’s everything the connoisseur could need. But if you’re more than a connoisseur, and you need to be uniquely chic, just take this thing of beauty to Benny’s Original Motor Works and let the magic happen. You ain’t seen nothing yet.","url":"","image":{"path":"sc/news/NG_IE_Pegassi_FCR_ON/349672_bigFeed-FCR.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Pegassi_FCR_ON/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482320247,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi FCR",
+    "content": "There are classy, vintage bikes - and then there’s the Pegassi FCR. Simple, timeless, distinctive; it’s everything the connoisseur could need. But if you’re more than a connoisseur, and you need to be uniquely chic, just take this thing of beauty to Benny’s Original Motor Works and let the magic happen. You ain’t seen nothing yet.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Pegassi_FCR_ON/349672_bigFeed-FCR.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Pegassi_FCR_ON/.dds",
+        "filesize": 2048
+    }
+}

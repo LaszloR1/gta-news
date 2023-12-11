@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466874,"title":"","headline":"GTA Online","subtitle":"Хэллоуин в GTA Online (с 31 октября по 6 ноября)","content":"В Лос-Сантосе наступил Хэллоуин, а это значит, что пришла пора нагнать страху на жителей города и попутно воспользоваться множеством леденящих кровь бонусов и смертоносных скидок.<br /><br />Получите скидку 25% на весь хэллоуинский контент, в том числе на маски и грим, на Fränken Stange, Lurcher и демонический LCC Sanctus, а также на Duke O'Death.<br /><br />Все подробности в новостной ленте Rockstar.","url":"","image":{"path":"sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466874,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Хэллоуин в GTA Online (с 31 октября по 6 ноября)",
+    "content": "В Лос-Сантосе наступил Хэллоуин, а это значит, что пришла пора нагнать страху на жителей города и попутно воспользоваться множеством леденящих кровь бонусов и смертоносных скидок.<br /><br />Получите скидку 25% на весь хэллоуинский контент, в том числе на маски и грим, на Fränken Stange, Lurcher и демонический LCC Sanctus, а также на Duke O'Death.<br /><br />Все подробности в новостной ленте Rockstar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

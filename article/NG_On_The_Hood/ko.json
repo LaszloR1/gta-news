@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433955146,"title":"","headline":"GTA Online","subtitle":"후드에서 바라보기","content":"운전할 때 새로운 각도의 카메라를 이용할 수 있습니다. 이동 수단 안에서 바라보는 카메라 대신에 후드에 부착된 카메라를 이용해 보십시오.<br /><br />일시 중지 메뉴에서 설정 > 카메라로 가서 1인칭 이동 수단 후드를 '켜기'로 설정하여 이 기능을 활성화한 다음, 플레이어 시점을 순차적으로 전환해서 이용하십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_On_The_Hood/262272_OnTheHood.dds","filesize":262272},"landscape":{"path":"sc/news/NG_On_The_Hood/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433955146,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "후드에서 바라보기",
+    "content": "운전할 때 새로운 각도의 카메라를 이용할 수 있습니다. 이동 수단 안에서 바라보는 카메라 대신에 후드에 부착된 카메라를 이용해 보십시오.<br /><br />일시 중지 메뉴에서 설정 > 카메라로 가서 1인칭 이동 수단 후드를 '켜기'로 설정하여 이 기능을 활성화한 다음, 플레이어 시점을 순차적으로 전환해서 이용하십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_On_The_Hood/262272_OnTheHood.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_On_The_Hood/.dds",
+        "filesize": 2048
+    }
+}

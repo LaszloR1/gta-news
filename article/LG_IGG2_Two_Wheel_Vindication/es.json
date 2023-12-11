@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356711,"title":"","headline":"GTA Online","subtitle":"Una bestia de dos ruedas","content":"Vindicator, la última moto de Dinka, ya está a la venta en exclusiva en legendarymotorsport.net.<br /><br />Con esta bestia de dos ruedas y su tecnología de frenos regenerativos podrás marcarte unos caballitos que serán la envidia de todo el mundo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356711,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Una bestia de dos ruedas",
+    "content": "Vindicator, la última moto de Dinka, ya está a la venta en exclusiva en legendarymotorsport.net.<br /><br />Con esta bestia de dos ruedas y su tecnología de frenos regenerativos podrás marcarte unos caballitos que serán la envidia de todo el mundo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/.dds",
+        "filesize": 2048
+    }
+}

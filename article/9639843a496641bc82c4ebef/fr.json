@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1698945066,"title":"GTA+","headline":"GTA+","subtitle":"-40µ% sur toutes les armes extraterrestres","content":"Les abonnés à GTA+ peuvent profiter d'une remise exclusive de 40µ% sur l'Up-n-Atomisateur, le dézingator infernal et le destructeur de l'infini à l'armurerie mobile.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Plus d'informations sur rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9639843a496641bc82c4ebef/262272_GTAO_Plus_MP19_AlienWeaponry_FINAL_BigFeed_fr_fr.dds","filesize":262272},"button":"Abonnez-vous à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1698945066,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "-40µ% sur toutes les armes extraterrestres",
+    "content": "Les abonnés à GTA+ peuvent profiter d'une remise exclusive de 40µ% sur l'Up-n-Atomisateur, le dézingator infernal et le destructeur de l'infini à l'armurerie mobile.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Plus d'informations sur rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9639843a496641bc82c4ebef/262272_GTAO_Plus_MP19_AlienWeaponry_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "Abonnez-vous à GTA+"
+}

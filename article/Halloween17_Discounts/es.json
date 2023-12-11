@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466859,"title":"","headline":"GTA Online","subtitle":"Bonificaciones y descuentos en GTAO hasta el 6 de noviembre","content":"Aprovecha el doble de GTA$ y RP en las misiones de venta de Smuggler's Run, y los modos Recolección y Condenados, además del 25 % de descuento en los siguientes vehículos:<br /><br />Progen GP1<br />Western Besra<br />Nagasaki Blazer Aqua<br />Grotti Cheetah Classic<br />HVY Insurgent<br />Lampadati Toro<br /><br />Y no olvides que los escoltas y asociados reciben el doble de salario durante toda la semana. Consulta el Rockstar Newswire para conocer todos los detalles.","url":"","image":{"path":"sc/news/Halloween17_Discounts/349672_gp1-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466859,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonificaciones y descuentos en GTAO hasta el 6 de noviembre",
+    "content": "Aprovecha el doble de GTA$ y RP en las misiones de venta de Smuggler's Run, y los modos Recolección y Condenados, además del 25 % de descuento en los siguientes vehículos:<br /><br />Progen GP1<br />Western Besra<br />Nagasaki Blazer Aqua<br />Grotti Cheetah Classic<br />HVY Insurgent<br />Lampadati Toro<br /><br />Y no olvides que los escoltas y asociados reciben el doble de salario durante toda la semana. Consulta el Rockstar Newswire para conocer todos los detalles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Discounts/349672_gp1-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

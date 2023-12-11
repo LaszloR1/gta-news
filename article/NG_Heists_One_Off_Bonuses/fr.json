@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425981139,"title":"","headline":"GTA Online","subtitle":"Bonus uniques","content":"Des bonus uniques sont disponibles. Ils ne peuvent être validés qu'une seule fois par personne.<br /><br />Première fois - Terminez chaque braquage pour la première fois pour recevoir un bonus de dollars GTA.<br />L'ordre des choses - Terminez les 5 braquages dans l'ordre pour recevoir un bonus de 1 000 000 $.<br />Loyauté - Terminez les 5 braquages avec la même équipe pour recevoir 1 000 000 $ de plus.<br />Assistance - Terminez les 5 braquages en tant que membre d'équipe pour recevoir un bonus de 100 000 $.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_One_Off_Bonuses/262272_One-Off-Heist-Bonuses.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_One_Off_Bonuses/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425981139,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonus uniques",
+    "content": "Des bonus uniques sont disponibles. Ils ne peuvent être validés qu'une seule fois par personne.<br /><br />Première fois - Terminez chaque braquage pour la première fois pour recevoir un bonus de dollars GTA.<br />L'ordre des choses - Terminez les 5 braquages dans l'ordre pour recevoir un bonus de 1 000 000 $.<br />Loyauté - Terminez les 5 braquages avec la même équipe pour recevoir 1 000 000 $ de plus.<br />Assistance - Terminez les 5 braquages en tant que membre d'équipe pour recevoir un bonus de 100 000 $.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_One_Off_Bonuses/262272_One-Off-Heist-Bonuses.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_One_Off_Bonuses/.dds",
+        "filesize": 2048
+    }
+}

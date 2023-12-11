@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490020147,"title":"","headline":"GTA Online","subtitle":"하이잭 러스튼","content":"맨날 거기서 거기인 트랙 레이서를 첫 번째 코너에 박아 버리는 데 질리셨나요? 최첨단 기술이 사용된 새로운 콘셉트카, 하이잭 러스튼으로 색다른 맛을 느껴 보세요. 미약한 방사능과 함께 내뿜는 배기 가스에 수많은 사람이 욕을 해댈 겁니다. 진정한 개척자들을 위한 차죠.","url":"","image":{"path":"sc/news/NG_CS-SVC_Hijak_Ruston/262272_Ruston.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS-SVC_Hijak_Ruston/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490020147,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "하이잭 러스튼",
+    "content": "맨날 거기서 거기인 트랙 레이서를 첫 번째 코너에 박아 버리는 데 질리셨나요? 최첨단 기술이 사용된 새로운 콘셉트카, 하이잭 러스튼으로 색다른 맛을 느껴 보세요. 미약한 방사능과 함께 내뿜는 배기 가스에 수많은 사람이 욕을 해댈 겁니다. 진정한 개척자들을 위한 차죠.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Hijak_Ruston/262272_Ruston.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Hijak_Ruston/.dds",
+        "filesize": 2048
+    }
+}

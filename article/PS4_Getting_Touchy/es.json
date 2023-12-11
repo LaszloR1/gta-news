@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416225236,"title":"","headline":"GTAV","subtitle":"Cuestión de tacto","content":"Puedes utilizar el panel táctil del mando para realizar diversas acciones tanto en el modo Individual como en GTA Online.<br /><br />Mientras conduces, desliza hacia arriba o hacia abajo para cambiar las emisoras de radio, y hacia derecha o izquierda para cambiar de arma.<br /><br />Cuando vayas a pie y estés apuntando, desliza hacia arriba para lanzar una granada rápidamente contra un enemigo desprevenido.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds","filesize":65664},"landscape":{"path":"sc/news/PS4_Getting_Touchy/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416225236,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Cuestión de tacto",
+    "content": "Puedes utilizar el panel táctil del mando para realizar diversas acciones tanto en el modo Individual como en GTA Online.<br /><br />Mientras conduces, desliza hacia arriba o hacia abajo para cambiar las emisoras de radio, y hacia derecha o izquierda para cambiar de arma.<br /><br />Cuando vayas a pie y estés apuntando, desliza hacia arriba para lanzar una granada rápidamente contra un enemigo desprevenido.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/PS4_Getting_Touchy/.dds",
+        "filesize": 2048
+    }
+}

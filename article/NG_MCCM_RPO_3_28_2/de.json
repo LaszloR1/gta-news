@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485192529,"title":"","headline":"GTA Online","subtitle":"Zeitlich begrenztes Angebot: Erhalte einen Geldbonus beim Kauf einer CashCard","content":"Exklusives Angebot: 50µ% Geldbonus beim Kauf einer CashCard ''Megalodon'' – das ist ein Bonus von 4.000.000 GTA$, den du überall in Los Santos & Blaine County ausgeben kannst!<br /><br />Das Angebot gilt bis 28.02. Alle CashCards müssen bis zum 28.02. eingelöst werden. Dein Geldbonus wird innerhalb von 72 Stunden nach dem Einlösen jeder CashCard auf dein Konto bei der Maze Bank überwiesen.<br /><br />Informationen zu weiteren Rabatten und Boni diese Woche in GTA Online findest du auf dem Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_MCCM_RPO_3_28_2/349672_RP_Offer3.dds","filesize":349672},"landscape":{"path":"sc/news/NG_MCCM_RPO_3_28_2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485192529,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zeitlich begrenztes Angebot: Erhalte einen Geldbonus beim Kauf einer CashCard",
+    "content": "Exklusives Angebot: 50µ% Geldbonus beim Kauf einer CashCard ''Megalodon'' – das ist ein Bonus von 4.000.000 GTA$, den du überall in Los Santos & Blaine County ausgeben kannst!<br /><br />Das Angebot gilt bis 28.02. Alle CashCards müssen bis zum 28.02. eingelöst werden. Dein Geldbonus wird innerhalb von 72 Stunden nach dem Einlösen jeder CashCard auf dein Konto bei der Maze Bank überwiesen.<br /><br />Informationen zu weiteren Rabatten und Boni diese Woche in GTA Online findest du auf dem Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_MCCM_RPO_3_28_2/349672_RP_Offer3.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_MCCM_RPO_3_28_2/.dds",
+        "filesize": 2048
+    }
+}

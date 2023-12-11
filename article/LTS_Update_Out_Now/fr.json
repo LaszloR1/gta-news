@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1412256184,"headline":"Mise à jour GTA Online","subtitle":"Mise à jour Extermination maintenant disponible","content":"La mise à jour Extermination ajoute des armes, un équipement tactique, des véhicules performants et de nouvelles options pour l'éditeur.<br /><br />Avec l'éditeur d'extermination, vous pouvez concevoir des activités pour GTA Online dans ce mode mortellement stratégique qui dresse des équipes les unes contre les autres sans leur laisser de seconde chance.<br /><br />Cette mise à jour propose 10 nouvelles activités d'extermination et des améliorations pour GTA Online. Vous n'avez qu'une vie, ne la gâchez pas.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds","filesize":65664},"landscape":{"path":"sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1412256184,
+    "headline": "Mise à jour GTA Online",
+    "subtitle": "Mise à jour Extermination maintenant disponible",
+    "content": "La mise à jour Extermination ajoute des armes, un équipement tactique, des véhicules performants et de nouvelles options pour l'éditeur.<br /><br />Avec l'éditeur d'extermination, vous pouvez concevoir des activités pour GTA Online dans ce mode mortellement stratégique qui dresse des équipes les unes contre les autres sans leur laisser de seconde chance.<br /><br />Cette mise à jour propose 10 nouvelles activités d'extermination et des améliorations pour GTA Online. Vous n'avez qu'une vie, ne la gâchez pas.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Portrait_2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LTS_Update_Out_Now/65664_LTS_Landscape.dds",
+        "filesize": 65664
+    }
+}

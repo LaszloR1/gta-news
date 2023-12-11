@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1502188219,"title":"","headline":"GTA Online","subtitle":"Overtime Shootout","content":"Overtime is an Adversary Mode that’s all about accuracy and finesse. Like a good old-fashioned game of darts, it’s all about positioning yourself in the high scoring bands with surgical precision to win the most points. Except instead of a dart it’s you, strapped into a parachute-equipped car. And the scoreboard is hundreds of feet up in the sky. And the only way to get to it is to achieve a whole lot of air time. Buckle up.","url":"","image":{"path":"sc/news/GR_Overtime_Shootoutv2/262272_OvertimeShootout.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1502188219,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Overtime Shootout",
+    "content": "Overtime is an Adversary Mode that’s all about accuracy and finesse. Like a good old-fashioned game of darts, it’s all about positioning yourself in the high scoring bands with surgical precision to win the most points. Except instead of a dart it’s you, strapped into a parachute-equipped car. And the scoreboard is hundreds of feet up in the sky. And the only way to get to it is to achieve a whole lot of air time. Buckle up.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Overtime_Shootoutv2/262272_OvertimeShootout.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1467815311,"title":"","headline":"GTA Online","subtitle":"Kup nowego Dewbauchee Seven-70 i zagraj w 3 nowe mapy trybu Poniżej pasa","content":"Klasa sportowa w GTA Online została wzbogacona o stylowego i wyrafinowanego Dewbauchee Seven-70, który jest już dostępny na stronie Legendary Motosport.<br /><br />Mamy też 3 nowe mapy do trybu Poniżej pasa. Ścierajcie się na lotnisku Los Santos, w porcie Los Santos lub zasiejcie turbodoładowany chaos na brzegach Alamo Sea.","url":"","image":{"path":"sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Seven_70_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1467815311,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Kup nowego Dewbauchee Seven-70 i zagraj w 3 nowe mapy trybu Poniżej pasa",
+    "content": "Klasa sportowa w GTA Online została wzbogacona o stylowego i wyrafinowanego Dewbauchee Seven-70, który jest już dostępny na stronie Legendary Motosport.<br /><br />Mamy też 3 nowe mapy do trybu Poniżej pasa. Ścierajcie się na lotnisku Los Santos, w porcie Los Santos lub zasiejcie turbodoładowany chaos na brzegach Alamo Sea.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Seven_70_Now_Available/262272_DSEVEN70_PS4_686x1024.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Seven_70_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

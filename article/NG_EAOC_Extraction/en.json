@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175129,"title":"","headline":"GTA Online","subtitle":"Extraction","content":"An executive jet’s gone down in the wrong part of town. A team of Bodyguards works with their team member, The Target, to rendezvous in the extraction zone and get them to the evac point. Meanwhile, the Hit Squad try to find the Target first and put them down.","url":"","image":{"path":"sc/news/NG_EAOC_Extraction/262272_Extraction.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Extraction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175129,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Extraction",
+    "content": "An executive jet’s gone down in the wrong part of town. A team of Bodyguards works with their team member, The Target, to rendezvous in the extraction zone and get them to the evac point. Meanwhile, the Hit Squad try to find the Target first and put them down.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Extraction/262272_Extraction.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Extraction/.dds",
+        "filesize": 2048
+    }
+}

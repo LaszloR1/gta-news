@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356750,"title":"","headline":"GTA Online","subtitle":"역시 2륜이 짱이죠","content":"딩카에서 선보이는 최신 오토바이 빈디케이터를 이제 legendarymotorsport.net에서 독점 판매합니다.<br /><br />KERS 기술을 적용한 이 바퀴 두 개짜리 괴물을 타고 멋지게 앞바퀴를 들고 달리면 모든 이들의 부러움을 한 몸에 받게 될 겁니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Two_Wheel_Vindication/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356750,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "역시 2륜이 짱이죠",
+    "content": "딩카에서 선보이는 최신 오토바이 빈디케이터를 이제 legendarymotorsport.net에서 독점 판매합니다.<br /><br />KERS 기술을 적용한 이 바퀴 두 개짜리 괴물을 타고 멋지게 앞바퀴를 들고 달리면 모든 이들의 부러움을 한 몸에 받게 될 겁니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/65664_DinkaVindicator.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Two_Wheel_Vindication/.dds",
+        "filesize": 2048
+    }
+}

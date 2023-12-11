@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999545,"title":"","headline":"Dica online","subtitle":"O Segredo do Sucesso","content":"O extenso mapa de Los Santos é uma ferramenta bastante útil para se manter a frente no Modo Livre - os ícones podem ajudá-lo a decidir se os jogadores são amigos ou inimigos (ou até presas). Guarde isso na memória para se certificar de não ter nenhuma surpresa.<br /><br />1 - Seus companheiros de Comando<br />2 - Seus Amigos<br />3 - Amigos que são companheiros de Comando<br />4 - Amigos com uma Recompensa pela cabeça <br />5 - Amigos com Condição Mental ruim<br />6 - Amigos/Jogadores no Apartamento","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Key_to_Success/262272_KeyToSuccess.dds","filesize":262272},"landscape":{"path":"sc/news/Key_to_Success/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999545,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "O Segredo do Sucesso",
+    "content": "O extenso mapa de Los Santos é uma ferramenta bastante útil para se manter a frente no Modo Livre - os ícones podem ajudá-lo a decidir se os jogadores são amigos ou inimigos (ou até presas). Guarde isso na memória para se certificar de não ter nenhuma surpresa.<br /><br />1 - Seus companheiros de Comando<br />2 - Seus Amigos<br />3 - Amigos que são companheiros de Comando<br />4 - Amigos com uma Recompensa pela cabeça <br />5 - Amigos com Condição Mental ruim<br />6 - Amigos/Jogadores no Apartamento",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Key_to_Success/262272_KeyToSuccess.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Key_to_Success/.dds",
+        "filesize": 2048
+    }
+}

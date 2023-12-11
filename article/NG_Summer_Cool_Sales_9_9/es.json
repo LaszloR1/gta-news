@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430255,"title":"","headline":"GTA Online","subtitle":"Bonus de GTA Online de esta semana: -50% en todos los yates, propiedades y oficinas (9-15 de sep.)","content":"Esta semana, Docktease ofrece un 50% de descuento en superyates Galaxy y mejoras de modelos. La personalización de los yates tiene un 25% de descuento. Esto incluye los acabados cromados, las combinaciones de colores, la iluminación y más.<br /><br />Dynasty 8 ofrece un 50% de descuento en propiedades y un 25% en interiores de apartamentos de lujo. Además, Dynasty 8 Executive ofrece descuentos en propiedades comerciales: 50% en oficinas y 25% en interiores y modificaciones de oficinas.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Sales_9_9/262272_Life_on_the_Ocean_wave.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Sales_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430255,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonus de GTA Online de esta semana: -50% en todos los yates, propiedades y oficinas (9-15 de sep.)",
+    "content": "Esta semana, Docktease ofrece un 50% de descuento en superyates Galaxy y mejoras de modelos. La personalización de los yates tiene un 25% de descuento. Esto incluye los acabados cromados, las combinaciones de colores, la iluminación y más.<br /><br />Dynasty 8 ofrece un 50% de descuento en propiedades y un 25% en interiores de apartamentos de lujo. Además, Dynasty 8 Executive ofrece descuentos en propiedades comerciales: 50% en oficinas y 25% en interiores y modificaciones de oficinas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Sales_9_9/262272_Life_on_the_Ocean_wave.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Sales_9_9/.dds",
+        "filesize": 2048
+    }
+}

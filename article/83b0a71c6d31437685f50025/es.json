@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1642175308,"title":"","headline":"GTA Online","subtitle":"Nagasaki Shinobi","content":"La legendaria Nagasaki Shinobi ha llegado por fin a Los Santos, y promete velocidad, agilidad y múltiples contusiones a todos los que estén en el lado equivocado del manillar. Ya disponible en Legendary Motorsport.","url":"","image":{"path":"sc/news/83b0a71c6d31437685f50025/262272_GTAO_EVENT282_NAGASAKI_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1642175308,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nagasaki Shinobi",
+    "content": "La legendaria Nagasaki Shinobi ha llegado por fin a Los Santos, y promete velocidad, agilidad y múltiples contusiones a todos los que estén en el lado equivocado del manillar. Ya disponible en Legendary Motorsport.",
+    "url": "",
+    "image": {
+        "path": "sc/news/83b0a71c6d31437685f50025/262272_GTAO_EVENT282_NAGASAKI_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

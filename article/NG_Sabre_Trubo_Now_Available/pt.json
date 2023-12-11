@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1461074787,"title":"","headline":"GTA Online","subtitle":"Agora na Benny's: Declasse Sabre Turbo","content":"É hora de dar um trato no Declasse Sabre Turbo, que agora pode ser melhorado na Benny's. Complete sua coleção lowrider de primeira classe com o carro mais potente de todos. Pegue um pelas ruas de Los Santos ou compre online diretamente do Benny e veja o que ele pode fazer com um.","url":"","image":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1461074787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Agora na Benny's: Declasse Sabre Turbo",
+    "content": "É hora de dar um trato no Declasse Sabre Turbo, que agora pode ser melhorado na Benny's. Complete sua coleção lowrider de primeira classe com o carro mais potente de todos. Pegue um pelas ruas de Los Santos ou compre online diretamente do Benny e veja o que ele pode fazer com um.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

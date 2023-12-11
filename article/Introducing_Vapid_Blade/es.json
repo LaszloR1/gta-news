@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402997482,"headline":"Actualización de GTA Online","subtitle":"Presentamos el nuevo Vapid Blade","content":"Quizá el clásico bólido americano por excelencia. Sedán compacto de cuatro puertas creado para la mejor generación y deseado por sus hastiados hijos. Su coste de fabricación es pequeño, y es uno de los coches nuevos más vendidos en la historia de América: así eran los coches clásicos americanos de antaño.<br /><br />Disponible para su compra en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un hipster'': ''Marcar tendencia''.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Vapid_Blade/65664_Blade.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402997482,
+    "headline": "Actualización de GTA Online",
+    "subtitle": "Presentamos el nuevo Vapid Blade",
+    "content": "Quizá el clásico bólido americano por excelencia. Sedán compacto de cuatro puertas creado para la mejor generación y deseado por sus hastiados hijos. Su coste de fabricación es pequeño, y es uno de los coches nuevos más vendidos en la historia de América: así eran los coches clásicos americanos de antaño.<br /><br />Disponible para su compra en SouthernSanAndreasSuperAutos.com e incluido en la nueva carrera de ''No soy un hipster'': ''Marcar tendencia''.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Vapid_Blade/65664_Blade.dds",
+        "filesize": 65664
+    }
+}

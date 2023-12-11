@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1399990022,"title":"","headline":"Dica online","subtitle":"Vestido como nos anos 1990","content":"Pode ser bem difícil achar o traje perfeito para deixar o seu personagem diferente, por isso tivemos os trabalho pro você, e montamos algumas roupas estilosas.<br /><br />Em qualquer loja de roupas, vá para o balcão e pergunte ao vendedor se pode provar algumas dessas roupas – tem um preço só para todos os itens juntos, assim você pode pegar um visual novo em uma questão de segundos.<br /><br />As roupas ficam guardadas no armário do seu apartamento para mudança rápida quando der na telha.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds","filesize":262272},"landscape":{"path":"sc/news/Dressed_to_the_Nines/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990022,
+    "title": "",
+    "headline": "Dica online",
+    "subtitle": "Vestido como nos anos 1990",
+    "content": "Pode ser bem difícil achar o traje perfeito para deixar o seu personagem diferente, por isso tivemos os trabalho pro você, e montamos algumas roupas estilosas.<br /><br />Em qualquer loja de roupas, vá para o balcão e pergunte ao vendedor se pode provar algumas dessas roupas – tem um preço só para todos os itens juntos, assim você pode pegar um visual novo em uma questão de segundos.<br /><br />As roupas ficam guardadas no armário do seu apartamento para mudança rápida quando der na telha.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Dressed_to_the_Nines/.dds",
+        "filesize": 2048
+    }
+}

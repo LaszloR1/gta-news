@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477562017,"title":"","headline":"GTA Online","subtitle":"로스트 vs 댐드","content":"이 GTA 온라인의 최신 대적 모드에서는 밤과 낮에 따라 조건이 달라집니다. 천사의 팀일 때는 낮에 받는 많은 보너스를 활용해서 악마인 적을 심판하십시오. 악마의 팀일 때는 밤이 되어 복수할 수 있을 때까지 버티면 됩니다. 60초마다 팀이 뒤집히며, 가장 높은 성적을 거둔 쪽이 승리합니다. 종말의 시작에 동참하십시오.","url":"","image":{"path":"sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Lost_Damned/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477562017,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "로스트 vs 댐드",
+    "content": "이 GTA 온라인의 최신 대적 모드에서는 밤과 낮에 따라 조건이 달라집니다. 천사의 팀일 때는 낮에 받는 많은 보너스를 활용해서 악마인 적을 심판하십시오. 악마의 팀일 때는 밤이 되어 복수할 수 있을 때까지 버티면 됩니다. 60초마다 팀이 뒤집히며, 가장 높은 성적을 거둔 쪽이 승리합니다. 종말의 시작에 동참하십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/262272_Lost_damned.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Lost_Damned/.dds",
+        "filesize": 2048
+    }
+}

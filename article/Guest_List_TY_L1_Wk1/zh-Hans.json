@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635576,"title":"贵宾名单福利","headline":"贵宾名单福利","subtitle":"您已名列贵宾名单！","content":"感谢您加入贵宾名单。您的本周专属贵宾名单奖励现可领取：<br /><br />-µ30µ万µGTAµ游戏币现金礼物<br />-µ橙色线框紧身衣（从衣柜或任意洛圣都服装店免费获取）<br /><br />下周再次登录，可领取更多贵宾名单奖励。","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_SMPCHN.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635576,
+    "title": "贵宾名单福利",
+    "headline": "贵宾名单福利",
+    "subtitle": "您已名列贵宾名单！",
+    "content": "感谢您加入贵宾名单。您的本周专属贵宾名单奖励现可领取：<br /><br />-µ30µ万µGTAµ游戏币现金礼物<br />-µ橙色线框紧身衣（从衣柜或任意洛圣都服装店免费获取）<br /><br />下周再次登录，可领取更多贵宾名单奖励。",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_SMPCHN.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1470048390,"title":"","headline":"GTA Online","subtitle":"Stunt Editor","content":"Wild and versatile new tools you need to make your very own stunts races are now available in the Race Creator. In addition to death-defying giant tubes, platforms and jumps, you’ll have access to new vehicle boosts, secondary checkpoints, fireworks and more - perfect for stunning stunts and their cunning creators.","url":"","image":{"path":"sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunt_Editor_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1470048390,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stunt Editor",
+    "content": "Wild and versatile new tools you need to make your very own stunts races are now available in the Race Creator. In addition to death-defying giant tubes, platforms and jumps, you’ll have access to new vehicle boosts, secondary checkpoints, fireworks and more - perfect for stunning stunts and their cunning creators.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/262272_NG_Cunning_Stunts_FINAL.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunt_Editor_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

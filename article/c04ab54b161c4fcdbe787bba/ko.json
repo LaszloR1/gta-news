@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1640725005,"title":"이마니 테크 개조","headline":"이마니 테크 개조","subtitle":"사무소 이동 수단 작업실에서 지금 이용 가능","content":"사무소 이동 수단 작업실에서 사무소 차량을 이마니 테크로 업그레이드하십시오. 유도 미사일이 고정되지 않게 해주는 미사일 전파 방해 장치, 원격 조종 이 가능하도록 만들어 주는 원격 조종 유닛, 장갑, 슬릭 지뢰 등이 있습니다.<br /><br />이마니 테크 개조가 가능한 최신식 슈퍼카인 듀바치 챔피언으로 사업을 시작해 보십시오.","url":"","image":{"path":"sc/news/c04ab54b161c4fcdbe787bba/262272_12_2_Dewbauchee_Champion_DW_2_FINAL_BigFeed_copy.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1640725005,
+    "title": "이마니 테크 개조",
+    "headline": "이마니 테크 개조",
+    "subtitle": "사무소 이동 수단 작업실에서 지금 이용 가능",
+    "content": "사무소 이동 수단 작업실에서 사무소 차량을 이마니 테크로 업그레이드하십시오. 유도 미사일이 고정되지 않게 해주는 미사일 전파 방해 장치, 원격 조종 이 가능하도록 만들어 주는 원격 조종 유닛, 장갑, 슬릭 지뢰 등이 있습니다.<br /><br />이마니 테크 개조가 가능한 최신식 슈퍼카인 듀바치 챔피언으로 사업을 시작해 보십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/c04ab54b161c4fcdbe787bba/262272_12_2_Dewbauchee_Champion_DW_2_FINAL_BigFeed_copy.dds",
+        "filesize": 262272
+    }
+}

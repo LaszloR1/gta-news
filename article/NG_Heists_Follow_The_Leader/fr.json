@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978088,"title":"","headline":"GTA Online","subtitle":"Suivez le chef !","content":"Le chef d'équipe se charge de coordonner le braquage depuis son appartement de luxe. Il avance également tous les frais de préparation, et décide donc librement de la composition de l'équipe et du partage du butin.<br /><br />Il n'est pas nécessaire d'être chef d'équipe pour jouer, mais vous devrez compléter chaque braquage en tant que chef d'équipe pour pouvoir lancer les braquages suivants vous-même.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Follow_The_Leader/262272_Follow-The-Leader.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Follow_The_Leader/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978088,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Suivez le chef !",
+    "content": "Le chef d'équipe se charge de coordonner le braquage depuis son appartement de luxe. Il avance également tous les frais de préparation, et décide donc librement de la composition de l'équipe et du partage du butin.<br /><br />Il n'est pas nécessaire d'être chef d'équipe pour jouer, mais vous devrez compléter chaque braquage en tant que chef d'équipe pour pouvoir lancer les braquages suivants vous-même.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Follow_The_Leader/262272_Follow-The-Leader.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Follow_The_Leader/.dds",
+        "filesize": 2048
+    }
+}

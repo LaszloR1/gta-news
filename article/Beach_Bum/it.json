@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1384446979,"headline":"GTA Online","subtitle":"Aggiornamento Beach Bum disponibile","content":"Questo aggiornamento gratuito, disponibile ora, ti offrirà un'enorme varietà di nuovi contenuti a tema spiaggia e svago. Contiene:<br /><br />- 4 nuovi incredibili veicoli da spiaggia, compresa la nuova barca Speeder<br />- Innumerevoli oggetti d'abbigliamento per rilassarsi e svagarsi al meglio, oltre a nuovi tatuaggi e tagli di capelli<br />- 2 nuove ma non altrettanto rilassanti armi<br />- Tante attività esclusive, nel caso il relax diventasse noioso","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1384446979,
+    "headline": "GTA Online",
+    "subtitle": "Aggiornamento Beach Bum disponibile",
+    "content": "Questo aggiornamento gratuito, disponibile ora, ti offrirà un'enorme varietà di nuovi contenuti a tema spiaggia e svago. Contiene:<br /><br />- 4 nuovi incredibili veicoli da spiaggia, compresa la nuova barca Speeder<br />- Innumerevoli oggetti d'abbigliamento per rilassarsi e svagarsi al meglio, oltre a nuovi tatuaggi e tagli di capelli<br />- 2 nuove ma non altrettanto rilassanti armi<br />- Tante attività esclusive, nel caso il relax diventasse noioso",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Beach_Bum/65664_Beach_Bum_Landscape.dds",
+        "filesize": 65664
+    }
+}

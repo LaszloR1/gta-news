@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635617,"title":"Benefícios da Lista de Convidados","headline":"Benefícios da Lista de Convidados","subtitle":"Você está na lista!","content":"Suas recompensas semanais exclusivas da Lista de Convidados já estão disponíveis:<br /><br />- Presente de GTA$100.000<br />- Camiseta Technologie<br />- Veículo blindado HVY Nightshark gratuito<br />- Esportivo armável Übermacht Revolter gratuito<br />- Estampas exclusivas ''Camuflagem rosa e verde'' e ''Sessanta Nove multicolorido'' para o Nightshark e o Revolter<br /><br />Obrigado por entrar para a Lista de Convidados. Fique de olho no Boletim da Rockstar para saber de mais eventos exclusivos que chegarão em Los Santos.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_BRA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635617,
+    "title": "Benefícios da Lista de Convidados",
+    "headline": "Benefícios da Lista de Convidados",
+    "subtitle": "Você está na lista!",
+    "content": "Suas recompensas semanais exclusivas da Lista de Convidados já estão disponíveis:<br /><br />- Presente de GTA$100.000<br />- Camiseta Technologie<br />- Veículo blindado HVY Nightshark gratuito<br />- Esportivo armável Übermacht Revolter gratuito<br />- Estampas exclusivas ''Camuflagem rosa e verde'' e ''Sessanta Nove multicolorido'' para o Nightshark e o Revolter<br /><br />Obrigado por entrar para a Lista de Convidados. Fique de olho no Boletim da Rockstar para saber de mais eventos exclusivos que chegarão em Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_BRA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

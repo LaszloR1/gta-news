@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1498761723,"title":"","headline":"GTA Online","subtitle":"Raid à l'aurore","content":"Savez-vous faire plusieurs choses à la foisµ? Certes, vous savez utiliser des logiciels de surveillance pour identifier de la contrebande. Évidemment, vous savez sauter en parachute depuis un hélicoptère et atterrir dans une zone de guerre. Bien entendu, vous savez utiliser les visions nocturne et thermique en combat. Mais seriez-vous capable de faire tout ça à la fois face à des tarés tout aussi parés au combat que vousµ? Jouez à Raid à l'aurore, le nouveau mode rivalité, pour le savoir.","url":"","image":{"path":"sc/news/GR_Dawn_Raid/262272_DawnRaid.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1498761723,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Raid à l'aurore",
+    "content": "Savez-vous faire plusieurs choses à la foisµ? Certes, vous savez utiliser des logiciels de surveillance pour identifier de la contrebande. Évidemment, vous savez sauter en parachute depuis un hélicoptère et atterrir dans une zone de guerre. Bien entendu, vous savez utiliser les visions nocturne et thermique en combat. Mais seriez-vous capable de faire tout ça à la fois face à des tarés tout aussi parés au combat que vousµ? Jouez à Raid à l'aurore, le nouveau mode rivalité, pour le savoir.",
+    "url": "",
+    "image": {
+        "path": "sc/news/GR_Dawn_Raid/262272_DawnRaid.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

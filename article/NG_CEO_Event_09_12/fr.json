@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481212800,"title":"","headline":"GTA Online","subtitle":"Week-end spécial PDGµ: modes aux GTA$ et RP doublés, -50µ% sur les bureaux et plus encore","content":"Préparez-vous à Import-Export grâce aux bonus PDG de la semaine.<br /><br />GTA$ et RP doublés dans Retour à la ligne, Protection rapprochée, Extraction et Convoi explosifµ! Préparez votre organisation pour Import-Export : -50µ% sur les bureaux, la limousine armée et plus encore.<br /><br />Vous avez débloqué le pyjama bleu à arabesques et la veste d'intérieur assortie en vous connectant. Récupérez-les dans n'importe quelle boutique de vêtements pour les fêtes.<br /><br />Plus d'informations sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/NG_CEO_Event_09_12/524416_BIGFEED_2016_1208-686x1024_V01.dds","filesize":524416},"landscape":{"path":"sc/news/NG_CEO_Event_09_12/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481212800,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Week-end spécial PDGµ: modes aux GTA$ et RP doublés, -50µ% sur les bureaux et plus encore",
+    "content": "Préparez-vous à Import-Export grâce aux bonus PDG de la semaine.<br /><br />GTA$ et RP doublés dans Retour à la ligne, Protection rapprochée, Extraction et Convoi explosifµ! Préparez votre organisation pour Import-Export : -50µ% sur les bureaux, la limousine armée et plus encore.<br /><br />Vous avez débloqué le pyjama bleu à arabesques et la veste d'intérieur assortie en vous connectant. Récupérez-les dans n'importe quelle boutique de vêtements pour les fêtes.<br /><br />Plus d'informations sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CEO_Event_09_12/524416_BIGFEED_2016_1208-686x1024_V01.dds",
+        "filesize": 524416
+    },
+    "landscape": {
+        "path": "sc/news/NG_CEO_Event_09_12/.dds",
+        "filesize": 2048
+    }
+}

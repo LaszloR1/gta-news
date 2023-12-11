@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513098096,"title":"","headline":"GTA Online","subtitle":"인생의 작은 행복들","content":"무기 캐비닛의 모든 총에 커스텀 틴팅, 탄창, 조준경을 추가했지만, 아직 뭔가 부족하십니까? 더 많은 개조를 원하시면 새로 출시된 개조 세트들을 확인해 보세요. 펌프 샷건, 특별 카빈소총, 마크스맨 라이플, 헤비 리볼버, 불펍 라이플, SNS 피스톨... 이 모든 총을 이동식 작전 본부나 어벤져에 있는 무기 작업실로 가져가면 총에 새 생명을 불어넣는 Mk II 업그레이드를 받을 수 있습니다.","url":"","image":{"path":"sc/news/DH_Finer_Things_In_Life/262272_red_gun_2.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513098096,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "인생의 작은 행복들",
+    "content": "무기 캐비닛의 모든 총에 커스텀 틴팅, 탄창, 조준경을 추가했지만, 아직 뭔가 부족하십니까? 더 많은 개조를 원하시면 새로 출시된 개조 세트들을 확인해 보세요. 펌프 샷건, 특별 카빈소총, 마크스맨 라이플, 헤비 리볼버, 불펍 라이플, SNS 피스톨... 이 모든 총을 이동식 작전 본부나 어벤져에 있는 무기 작업실로 가져가면 총에 새 생명을 불어넣는 Mk II 업그레이드를 받을 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Finer_Things_In_Life/262272_red_gun_2.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

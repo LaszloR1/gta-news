@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515739,"title":"","headline":"GTA Online","subtitle":"사업장 가동하기","content":"MC 두목이 되면 제품 생산을 시작할 수 있습니다. 마리화나, 위조지폐, 코카인, 위조서류, 필로폰 등을 대량으로 생산하고 싶습니까? 다양한 소규모 제조 시설이 당신 같은 강력한 리더를 기다리고 있습니다. 부동산을 구입하여 사업을 시작하십시오. 보급품을 조달하고, 판매를 관리해나가는 진정한 사업가의 삶을 맛보실 수 있습니다.","url":"","image":{"path":"sc/news/NG_Bikers_DownToBusiness/262272_Down_to_Business.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_DownToBusiness/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515739,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "사업장 가동하기",
+    "content": "MC 두목이 되면 제품 생산을 시작할 수 있습니다. 마리화나, 위조지폐, 코카인, 위조서류, 필로폰 등을 대량으로 생산하고 싶습니까? 다양한 소규모 제조 시설이 당신 같은 강력한 리더를 기다리고 있습니다. 부동산을 구입하여 사업을 시작하십시오. 보급품을 조달하고, 판매를 관리해나가는 진정한 사업가의 삶을 맛보실 수 있습니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_DownToBusiness/262272_Down_to_Business.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_DownToBusiness/.dds",
+        "filesize": 2048
+    }
+}

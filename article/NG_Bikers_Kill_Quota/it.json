@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480010230,"title":"","headline":"GTA Online","subtitle":"Maestro d'armi","content":"La caratteristica del vero maestro è l'adattabilità, e Maestro d'armi la metterà alla prova. La tua squadra avrà in dotazione un'arma prestabilita che cambierà solo al raggiungimento di una determinata quota di uccisioni. Avrai bisogno di saper gestire qualsiasi strumento, dai lanciarazzi alle stecche da biliardo: vince chi per primo effettua abbastanza uccisioni con tutte le armi.","url":"","image":{"path":"sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Kill_Quota/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480010230,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Maestro d'armi",
+    "content": "La caratteristica del vero maestro è l'adattabilità, e Maestro d'armi la metterà alla prova. La tua squadra avrà in dotazione un'arma prestabilita che cambierà solo al raggiungimento di una determinata quota di uccisioni. Avrai bisogno di saper gestire qualsiasi strumento, dai lanciarazzi alle stecche da biliardo: vince chi per primo effettua abbastanza uccisioni con tutte le armi.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/.dds",
+        "filesize": 2048
+    }
+}

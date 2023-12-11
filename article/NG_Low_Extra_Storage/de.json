@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349573,"title":"","headline":"GTA Online","subtitle":"Zusätzlicher Stauraum","content":"Du kannst nun dein Immobilienportfolio mit bis zu vier Apartments oder Garagen aufwerten. Jetzt, da Benny’s Original Motor Works neu in der Stadt ist, ist der perfekte Zeitpunkt gekommen, um sich ein bisschen zusätzlichen Platz zu schaffen, um all die individuell angepassten Schlitten unterzubringen.","url":"","image":{"path":"sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Extra_Storage/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349573,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zusätzlicher Stauraum",
+    "content": "Du kannst nun dein Immobilienportfolio mit bis zu vier Apartments oder Garagen aufwerten. Jetzt, da Benny’s Original Motor Works neu in der Stadt ist, ist der perfekte Zeitpunkt gekommen, um sich ein bisschen zusätzlichen Platz zu schaffen, um all die individuell angepassten Schlitten unterzubringen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Extra_Storage/.dds",
+        "filesize": 2048
+    }
+}

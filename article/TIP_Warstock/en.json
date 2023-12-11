@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381834840,"title":"","headline":"Online Tip","subtitle":"Warstock-cache-and-carry.com","content":"Visit the Warstock-cache-and-carry.com website via your phone’s web browser to view their range of combat-ready land and air vehicles.<br /><br />Upon making a purchase you’ll be able to organize delivery via the Pegasus concierge service in your phone’s Contacts list.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Warstock/262272_Warstock-cache-and-carry.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Warstock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381834840,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Warstock-cache-and-carry.com",
+    "content": "Visit the Warstock-cache-and-carry.com website via your phone’s web browser to view their range of combat-ready land and air vehicles.<br /><br />Upon making a purchase you’ll be able to organize delivery via the Pegasus concierge service in your phone’s Contacts list.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Warstock/262272_Warstock-cache-and-carry.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Warstock/.dds",
+        "filesize": 2048
+    }
+}

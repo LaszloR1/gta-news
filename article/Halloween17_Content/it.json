@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1509466874,"title":"","headline":"GTA Online","subtitle":"Halloween in GTA Online, da oggi al 6 novembre","content":"Halloween sta arrivando a Los Santos: è il momento ideale per terrorizzare il vicinato approfittando di una serie di sconti e bonus da brividi.<br /><br />Approfitta di sconti del 25% sui contenuti a tema Halloween già proposti in passato, tra cui maschere, pitture facciali, la Fränken Stange, il Lurcher, la demoniaca LCC Sanctus e la Duke O'Death.<br /><br />Visita il Newswire di Rockstar per tutti i dettagli.","url":"","image":{"path":"sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1509466874,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Halloween in GTA Online, da oggi al 6 novembre",
+    "content": "Halloween sta arrivando a Los Santos: è il momento ideale per terrorizzare il vicinato approfittando di una serie di sconti e bonus da brividi.<br /><br />Approfitta di sconti del 25% sui contenuti a tema Halloween già proposti in passato, tra cui maschere, pitture facciali, la Fränken Stange, il Lurcher, la demoniaca LCC Sanctus e la Duke O'Death.<br /><br />Visita il Newswire di Rockstar per tutti i dettagli.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Halloween17_Content/262272_Halloween_Out_Now.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

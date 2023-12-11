@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608039615,"title":"","headline":"GTA Online","subtitle":"佩里克手槍","content":"傳聞金毛擁有一把既奢華又致命的手槍。傳聞也說，沒人知道他把手槍藏在佩里克島上何處……","url":"","image":{"path":"sc/news/a34f61b67fea4ea9bea044a1/262272_GTAO_IslandHeist_BigFeed_Perico_Pistol.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608039615,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "佩里克手槍",
+    "content": "傳聞金毛擁有一把既奢華又致命的手槍。傳聞也說，沒人知道他把手槍藏在佩里克島上何處……",
+    "url": "",
+    "image": {
+        "path": "sc/news/a34f61b67fea4ea9bea044a1/262272_GTAO_IslandHeist_BigFeed_Perico_Pistol.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"В ДОРОГУ","content":"В небе небезопасно? Тогда перевозите контрабанду по земле в новых заданиях по снабжению и продаже груза, которые теперь доступны всем авиаперевозчикам. <br /><br />Добывайте и продавайте контрабандные товары через приложение Free Trade Shipping Co., доступное в офисе вашего ангара, или же позвоните Рону напрямую.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR","image":{"path":"sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "В ДОРОГУ",
+    "content": "В небе небезопасно? Тогда перевозите контрабанду по земле в новых заданиях по снабжению и продаже груза, которые теперь доступны всем авиаперевозчикам. <br /><br />Добывайте и продавайте контрабандные товары через приложение Free Trade Shipping Co., доступное в офисе вашего ангара, или же позвоните Рону напрямую.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR",
+    "image": {
+        "path": "sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

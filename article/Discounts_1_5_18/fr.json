@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1525254476,"title":"","headline":"GTA Online","subtitle":"Promotions sur des véhicules spéciaux","content":"Pour vous aider à dompter les véhicules aériens, submersibles et dotés de propulseurs, Warstock Cache & Carry vous offre -25µ% sur ces véhicules spéciauxµ:<br /><br />-25µ% sur le Mammoth Thruster<br />-25µ% sur l'Imponte Deluxo<br />-25µ% sur l'Ocelot Stromberg<br />-25µ% sur la Ruiner 2000<br />-25µ% sur la Rocket Voltic<br />-25µ% sur le Blazer aqua<br /><br />Plus d'infos sur le Rockstar Newswire.","url":"","image":{"path":"sc/news/Discounts_1_5_18/349672_Thruster.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1525254476,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Promotions sur des véhicules spéciaux",
+    "content": "Pour vous aider à dompter les véhicules aériens, submersibles et dotés de propulseurs, Warstock Cache & Carry vous offre -25µ% sur ces véhicules spéciauxµ:<br /><br />-25µ% sur le Mammoth Thruster<br />-25µ% sur l'Imponte Deluxo<br />-25µ% sur l'Ocelot Stromberg<br />-25µ% sur la Ruiner 2000<br />-25µ% sur la Rocket Voltic<br />-25µ% sur le Blazer aqua<br /><br />Plus d'infos sur le Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Discounts_1_5_18/349672_Thruster.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

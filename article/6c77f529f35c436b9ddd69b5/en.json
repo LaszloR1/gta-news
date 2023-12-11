@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1686736474,"title":"","headline":"GTA Online","subtitle":"PLAY BY PLAY","content":"Looking to up your game? Then spend some time with the only person who really matters: You. Track your rise to power and admire your success in Career Progress, a whole new way to prove your rep as Los Santos’ most accomplished criminal kingpin. <br /><br />Visit Career Progress to see more.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_CAREER_HUB arg=NONE","image":{"path":"sc/news/6c77f529f35c436b9ddd69b5/262272_GTAO_SummerTULaunch_SecuroservHoodie_FINAL_BigFeed.dds","filesize":262272},"button":""}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736474,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "PLAY BY PLAY",
+    "content": "Looking to up your game? Then spend some time with the only person who really matters: You. Track your rise to power and admire your success in Career Progress, a whole new way to prove your rep as Los Santos’ most accomplished criminal kingpin. <br /><br />Visit Career Progress to see more.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_CAREER_HUB arg=NONE",
+    "image": {
+        "path": "sc/news/6c77f529f35c436b9ddd69b5/262272_GTAO_SummerTULaunch_SecuroservHoodie_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": ""
+}

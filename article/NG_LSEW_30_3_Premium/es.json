@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241233,"title":"","headline":"GTA Online","subtitle":"Bonificaciones de GTA Online: carrera acrobática premium (del 30/9 al 3/10)","content":"La carrera acrobática premium de esta semana está que arde. A partir de hoy, participa en la carrera ''Posquemador'' solo para motos y consigue el triple de RP y la posibilidad de una buena cantidad de GTA$. Para participar, dirígete al icono amarillo premium de Legion Square o únete a través de la aplicación Actividad rápida.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241233,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonificaciones de GTA Online: carrera acrobática premium (del 30/9 al 3/10)",
+    "content": "La carrera acrobática premium de esta semana está que arde. A partir de hoy, participa en la carrera ''Posquemador'' solo para motos y consigue el triple de RP y la posibilidad de una buena cantidad de GTA$. Para participar, dirígete al icono amarillo premium de Legion Square o únete a través de la aplicación Actividad rápida.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Premium/.dds",
+        "filesize": 2048
+    }
+}

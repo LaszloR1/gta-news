@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1402996215,"headline":"GTA Online-Update","subtitle":"Das 'Kein Hipster'-Update ist jetzt erhältlich","content":"Bringe deinen Individualismus zum Ausdruck und hebe dich mit dem 'Kein Hipster'-Update von der Masse ab, mit neuen T-Shirts mit Retro-Motiven, knallengen Jeans, Frisuren, ironischen, post-ironischen und nicht-ironischen Tattoos, Tiermasken und mehr.<br /><br />Wähle aus sieben einzigartigen Fahrzeugen auch nostalgische Schlitten wie dem Glendale, Blade und Rhapsody.<br /><br />Auch Ammu-Nation setzt auf nicht-ironische Trends und bietet ab sofort die Klassische Pistole und den Antiken Kavallerie-Dolch an.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1402996215,
+    "headline": "GTA Online-Update",
+    "subtitle": "Das 'Kein Hipster'-Update ist jetzt erhältlich",
+    "content": "Bringe deinen Individualismus zum Ausdruck und hebe dich mit dem 'Kein Hipster'-Update von der Masse ab, mit neuen T-Shirts mit Retro-Motiven, knallengen Jeans, Frisuren, ironischen, post-ironischen und nicht-ironischen Tattoos, Tiermasken und mehr.<br /><br />Wähle aus sieben einzigartigen Fahrzeugen auch nostalgische Schlitten wie dem Glendale, Blade und Rhapsody.<br /><br />Auch Ammu-Nation setzt auf nicht-ironische Trends und bietet ab sofort die Klassische Pistole und den Antiken Kavallerie-Dolch an.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds",
+        "filesize": 65664
+    }
+}

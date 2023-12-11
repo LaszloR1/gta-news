@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493046303,"title":"","headline":"GTA Online","subtitle":"「小小賽車手」","content":"在復古風格的競爭模式「小小賽車手」中，一邊緬懷著過去的時光，一邊瘋狂追逐，以免因為落後而自爆。這場以俯視視角進行的最多四人的競速，只有一條規則：如果離第一名太遠，那就等著爆掉吧。看來競賽還是跟過去一樣驚險刺激。","url":"","image":{"path":"sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Tiny_Racers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493046303,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "「小小賽車手」",
+    "content": "在復古風格的競爭模式「小小賽車手」中，一邊緬懷著過去的時光，一邊瘋狂追逐，以免因為落後而自爆。這場以俯視視角進行的最多四人的競速，只有一條規則：如果離第一名太遠，那就等著爆掉吧。看來競賽還是跟過去一樣驚險刺激。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Tiny_Racers/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1670958335,"title":"","headline":"GTA Online","subtitle":"HAZ EL FRIKI","content":"Hay un nuevo punto de encuentro bajo la autopista de Los Santos. Te damos la bienvenida a la tienda friki, el escondite de los Fooligans, donde encontrarás muchas drogas, pocas restricciones y todo lo que necesitas para divertirte.<br /><br />Para los más serios: mejoras de armas, un taller de vehículos para el laboratorio de ácido y motos de reparto. Para todos los demás: cerveza y cachimbas. Así que siéntate, quítate los pantalones y déjate llevar. La cosa está a punto de desmadrarse.","url":"","image":{"path":"sc/news/8aa445836ce7446e81d3e1dd/262272_GTAO_LSDW_Lucha_Freakshop_Reshoot_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1670958335,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HAZ EL FRIKI",
+    "content": "Hay un nuevo punto de encuentro bajo la autopista de Los Santos. Te damos la bienvenida a la tienda friki, el escondite de los Fooligans, donde encontrarás muchas drogas, pocas restricciones y todo lo que necesitas para divertirte.<br /><br />Para los más serios: mejoras de armas, un taller de vehículos para el laboratorio de ácido y motos de reparto. Para todos los demás: cerveza y cachimbas. Así que siéntate, quítate los pantalones y déjate llevar. La cosa está a punto de desmadrarse.",
+    "url": "",
+    "image": {
+        "path": "sc/news/8aa445836ce7446e81d3e1dd/262272_GTAO_LSDW_Lucha_Freakshop_Reshoot_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

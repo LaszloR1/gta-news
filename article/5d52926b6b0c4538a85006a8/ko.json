@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1700751675,"title":"","headline":"GTA 온라인","subtitle":"블랙 프라이데이 할인","content":"11월 28일까지 온갖 블랙 프라이데이 할인을 즐겨 보세요:<br /><br />매머드 어벤져(비행기) - 50% 할인<br />갤럭시 슈퍼 요트 - 40% 할인<br />갤럭시 슈퍼 요트 업그레이드 및 개조 - 40% 할인<br />베네팩터 테러바이트 - 70% 할인<br />프로젠 PR4(오픈 휠) - 50% 할인<br />베네팩터 BR8(오픈 휠) - 50% 할인<br />오셀럿 스트롬버그(스포츠 클래식) - 50% 할인<br />TM-02 칸잘리(군용) - 50% 할인<br />조빌트 P-996 레이저(비행기) - 25% 할인<br /><br />그 외에 다양한 혜택이 있습니다! 자세한 정보는 Rockstar 뉴스와이어에서 확인하세요.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds","filesize":262272},"button":"군수품 캐시 앤 캐리를 방문하려면 선택하기"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1700751675,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "블랙 프라이데이 할인",
+    "content": "11월 28일까지 온갖 블랙 프라이데이 할인을 즐겨 보세요:<br /><br />매머드 어벤져(비행기) - 50% 할인<br />갤럭시 슈퍼 요트 - 40% 할인<br />갤럭시 슈퍼 요트 업그레이드 및 개조 - 40% 할인<br />베네팩터 테러바이트 - 70% 할인<br />프로젠 PR4(오픈 휠) - 50% 할인<br />베네팩터 BR8(오픈 휠) - 50% 할인<br />오셀럿 스트롬버그(스포츠 클래식) - 50% 할인<br />TM-02 칸잘리(군용) - 50% 할인<br />조빌트 P-996 레이저(비행기) - 25% 할인<br /><br />그 외에 다양한 혜택이 있습니다! 자세한 정보는 Rockstar 뉴스와이어에서 확인하세요.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "군수품 캐시 앤 캐리를 방문하려면 선택하기"
+}

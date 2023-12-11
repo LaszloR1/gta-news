@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1507042404,"title":"","headline":"GTA Online","subtitle":"Mogul","content":"Dieses Geräusch hat einfach was. Wenn du erst mal das tiefe, dunkle Brummen der doppelten Propeller gehört hast, begleitet von dem hohen Knatter-Staccato deines Bordschützen, während er gerade dafür sorgt, dass allem und jedem am Himmel Gerechtigkeit vom Kaliber .50 widerfährt, dann gibt es kein Zurück. Die Mogul hat das südliche San Andreas erreicht und Vorherrschaft in der Luft hat sich noch nie so gut angefühlt.","url":"","image":{"path":"sc/news/SR_Mogul/262272_Mogul.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1507042404,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mogul",
+    "content": "Dieses Geräusch hat einfach was. Wenn du erst mal das tiefe, dunkle Brummen der doppelten Propeller gehört hast, begleitet von dem hohen Knatter-Staccato deines Bordschützen, während er gerade dafür sorgt, dass allem und jedem am Himmel Gerechtigkeit vom Kaliber .50 widerfährt, dann gibt es kein Zurück. Die Mogul hat das südliche San Andreas erreicht und Vorherrschaft in der Luft hat sich noch nie so gut angefühlt.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Mogul/262272_Mogul.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

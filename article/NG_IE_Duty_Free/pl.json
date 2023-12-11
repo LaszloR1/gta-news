@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543168,"title":"","headline":"GTA Online","subtitle":"Bez cła","content":"Nielegalna sprzedaż świeżo „wyzwolonych” luksusowych aut kręci się jak nigdy dotąd. Ale jeśli chcesz uszczknąć swój kawałek tortu, będziesz potrzebować miejsca na nowe zdobycze. Jeśli nie posiadasz jeszcze biura, to jest idealny moment na podpisanie aktu własności. Potem wystarczy zalogować się do portalu prezesa SecuroServ i wybrać sobie jeden z niepozornych, pojemnych magazynów pojazdów.","url":"","image":{"path":"sc/news/NG_IE_Duty_Free/262272_dutyfree.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Duty_Free/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543168,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bez cła",
+    "content": "Nielegalna sprzedaż świeżo „wyzwolonych” luksusowych aut kręci się jak nigdy dotąd. Ale jeśli chcesz uszczknąć swój kawałek tortu, będziesz potrzebować miejsca na nowe zdobycze. Jeśli nie posiadasz jeszcze biura, to jest idealny moment na podpisanie aktu własności. Potem wystarczy zalogować się do portalu prezesa SecuroServ i wybrać sobie jeden z niepozornych, pojemnych magazynów pojazdów.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Duty_Free/262272_dutyfree.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Duty_Free/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168342,"title":"","headline":"GTA Online","subtitle":"Pegassi Tezeract","content":"Wreszcie nadszedł Pegassi Tezeract – nie tyle samochód, co raczej pierwszy dopuszczony do ruchu atak na barierę dźwięku. Tylko ostrożnie. Nie jesteście na niego gotowi.","url":"","image":{"path":"sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168342,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Tezeract",
+    "content": "Wreszcie nadszedł Pegassi Tezeract – nie tyle samochód, co raczej pierwszy dopuszczony do ruchu atak na barierę dźwięku. Tylko ostrożnie. Nie jesteście na niego gotowi.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1456487317,"title":"","headline":"GTA Online","subtitle":"Caccia al Rhino","content":"Sfida ogni previsione in questa nuova modalità Competizione per veicoli, in cui i Cacciatori, armati esclusivamente di bombe adesive, devono cercare di distruggere i carri armati Rhino avversari. Dal canto loro i Rhino, in palese inferiorità numerica, dovranno sfruttare al massimo la forza e la potenza di fuoco del proprio mezzo, difendendosi e sopravvivendo fino allo scadere del tempo per vincere.","url":"","image":{"path":"sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rhino_Hunt_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1456487317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Caccia al Rhino",
+    "content": "Sfida ogni previsione in questa nuova modalità Competizione per veicoli, in cui i Cacciatori, armati esclusivamente di bombe adesive, devono cercare di distruggere i carri armati Rhino avversari. Dal canto loro i Rhino, in palese inferiorità numerica, dovranno sfruttare al massimo la forza e la potenza di fuoco del proprio mezzo, difendendosi e sopravvivendo fino allo scadere del tempo per vincere.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/.dds",
+        "filesize": 2048
+    }
+}

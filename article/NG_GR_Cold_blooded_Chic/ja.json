@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916656,"title":"","headline":"GTA Online","subtitle":"コールドブラッド・シック","content":"今シーズン、ロスサントスのブティックとサロンがお勧めするのは、迷彩アノラック、軍が使用していたベレー帽や頑丈なコンバットブーツ、血も凍るようなタトゥーや軍隊式の刈り上げといった最新のミリタリースタイルです。敵の目に映る最後のものとして、それらしいファッションをまといましょう。","url":"","image":{"path":"sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Cold_blooded_Chic/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "コールドブラッド・シック",
+    "content": "今シーズン、ロスサントスのブティックとサロンがお勧めするのは、迷彩アノラック、軍が使用していたベレー帽や頑丈なコンバットブーツ、血も凍るようなタトゥーや軍隊式の刈り上げといった最新のミリタリースタイルです。敵の目に映る最後のものとして、それらしいファッションをまといましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/262272_ColdBloodedChic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Cold_blooded_Chic/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

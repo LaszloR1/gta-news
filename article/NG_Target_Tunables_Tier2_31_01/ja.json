@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367294,"title":"","headline":"GTA Online","subtitle":"あなただけに、特別な期間限定セール","content":"期間中、SUV「ベネファクターµXLS(装甲)」やラグジュアリークーペ「エナスµウィンザードロップ」、バイクの「ハクチョウドラッグ」、スーパーカー「ヴァピッドµFMJ」など、幅広いタイプの車、バイク、飛行機がプライベートセールで50%オフとなります。買った車は2月13日まで25%オフで購入できる10台用ガレージに格納しましょう。","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367294,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "あなただけに、特別な期間限定セール",
+    "content": "期間中、SUV「ベネファクターµXLS(装甲)」やラグジュアリークーペ「エナスµウィンザードロップ」、バイクの「ハクチョウドラッグ」、スーパーカー「ヴァピッドµFMJ」など、幅広いタイプの車、バイク、飛行機がプライベートセールで50%オフとなります。買った車は2月13日まで25%オフで購入できる10台用ガレージに格納しましょう。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/.dds",
+        "filesize": 2048
+    }
+}

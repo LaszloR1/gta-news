@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1480010230,"title":"","headline":"GTA Online","subtitle":"Norma zabójstw","content":"Prawdziwy mistrz potrafi dostosować się do sytuacji i właśnie tę umiejętność sprawdzamy w Normie zabójstw, nowym trybie adwersarza w GTA Online. Twoja drużyna może używać tylko jednego rodzaju broni, ale gdy zaliczycie odpowiednią liczbę zabójstw, otrzymacie inny. Musisz popisać się mistrzostwem obsługi każdego rodzaju broni – od rakietnic po kije bilardowe – i przejść kolejno przez całe wyposażenie. Wygrywa pierwsza drużyna, która wyrobi normę zabójstw każdą bronią.","url":"","image":{"path":"sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Kill_Quota/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1480010230,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Norma zabójstw",
+    "content": "Prawdziwy mistrz potrafi dostosować się do sytuacji i właśnie tę umiejętność sprawdzamy w Normie zabójstw, nowym trybie adwersarza w GTA Online. Twoja drużyna może używać tylko jednego rodzaju broni, ale gdy zaliczycie odpowiednią liczbę zabójstw, otrzymacie inny. Musisz popisać się mistrzostwem obsługi każdego rodzaju broni – od rakietnic po kije bilardowe – i przejść kolejno przez całe wyposażenie. Wygrywa pierwsza drużyna, która wyrobi normę zabójstw każdą bronią.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/262272_KillQuota.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Kill_Quota/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241101,"title":"","headline":"GTA Online","subtitle":"Bonus dans GTA Onlineµ: -50µ% sur les entrepôts, les bureaux et plus encore du 30 sept. au 3 oct.","content":"Ce week-end dans GTA Online, rassemblez tout ce dont vous aurez besoin pour prendre les commandes de votre empire commercial de Los Santos grâce à des réductions et des bonus très alléchants. Jusqu'au lundi 3 octobre, de bonnes affaires vous attendent, dont 50µ% de réduction sur les entrepôts, les bureaux et tous les services de Lester, de Pegasus et de Merryweather.<br /><br />Plus d'informations sur rockstargames.com/fr/newswire.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Offices/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241101,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonus dans GTA Onlineµ: -50µ% sur les entrepôts, les bureaux et plus encore du 30 sept. au 3 oct.",
+    "content": "Ce week-end dans GTA Online, rassemblez tout ce dont vous aurez besoin pour prendre les commandes de votre empire commercial de Los Santos grâce à des réductions et des bonus très alléchants. Jusqu'au lundi 3 octobre, de bonnes affaires vous attendent, dont 50µ% de réduction sur les entrepôts, les bureaux et tous les services de Lester, de Pegasus et de Merryweather.<br /><br />Plus d'informations sur rockstargames.com/fr/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/.dds",
+        "filesize": 2048
+    }
+}

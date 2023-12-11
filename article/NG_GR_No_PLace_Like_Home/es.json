@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496916482,"title":"","headline":"GTA Online","subtitle":"Como en casa, en ningún sitio","content":"¿Quién dijo que tu búnker subterráneo antirradiación no puede ser un hogar? En San Andreas, tu guarida subterránea viene con un conjunto de opciones personalizables. Cuando hayas elegido una propiedad en Maze Bank Foreclosures, podrás decidirte por varios estilos. Añade una galería de tiro, un alojamiento privado, un armero y opciones de transporte a medida. Cuando las bombas empiecen a caer, no querrás estar en otro sitio.","url":"","image":{"path":"sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_No_PLace_Like_Home/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496916482,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Como en casa, en ningún sitio",
+    "content": "¿Quién dijo que tu búnker subterráneo antirradiación no puede ser un hogar? En San Andreas, tu guarida subterránea viene con un conjunto de opciones personalizables. Cuando hayas elegido una propiedad en Maze Bank Foreclosures, podrás decidirte por varios estilos. Añade una galería de tiro, un alojamiento privado, un armero y opciones de transporte a medida. Cuando las bombas empiecen a caer, no querrás estar en otro sitio.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/262272_NoPlaceLikeHome.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_No_PLace_Like_Home/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

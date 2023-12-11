@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349573,"title":"","headline":"GTA Online","subtitle":"Almacenamiento extra","content":"Ahora puedes ampliar tu cartera de propiedades hasta un máximo de 4 apartamentos o garajes. Como Benny's Original Motor Works ha llegado a la ciudad, nunca hubo un momento mejor para adquirir espacio adicional y atesorar esos bugas personalizados.","url":"","image":{"path":"sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Extra_Storage/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349573,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Almacenamiento extra",
+    "content": "Ahora puedes ampliar tu cartera de propiedades hasta un máximo de 4 apartamentos o garajes. Como Benny's Original Motor Works ha llegado a la ciudad, nunca hubo un momento mejor para adquirir espacio adicional y atesorar esos bugas personalizados.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Extra_Storage/262272_Extra_Storage.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Extra_Storage/.dds",
+        "filesize": 2048
+    }
+}

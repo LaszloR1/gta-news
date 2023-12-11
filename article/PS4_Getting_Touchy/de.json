@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416225236,"title":"","headline":"GTAV","subtitle":"Mit einem Wisch","content":"Du kannst das Touchpad deines Controllers nutzen, um verschiedene Aktionen im Story-Modus und in GTA Online auszuführen.<br /><br />Während du fährst, kannst du nach oben und unten wischen, um zwischen den Radiosendern zu wechseln und nach links und rechts, um die Waffen zu wechseln.<br /><br />Wenn du zu Fuß unterwegs bist und mit deiner Waffe zielst, kannst du durch Wischen nach oben schnell eine Granate auf einen ahnungslosen Gegner werfen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds","filesize":65664},"landscape":{"path":"sc/news/PS4_Getting_Touchy/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416225236,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Mit einem Wisch",
+    "content": "Du kannst das Touchpad deines Controllers nutzen, um verschiedene Aktionen im Story-Modus und in GTA Online auszuführen.<br /><br />Während du fährst, kannst du nach oben und unten wischen, um zwischen den Radiosendern zu wechseln und nach links und rechts, um die Waffen zu wechseln.<br /><br />Wenn du zu Fuß unterwegs bist und mit deiner Waffe zielst, kannst du durch Wischen nach oben schnell eine Granate auf einen ahnungslosen Gegner werfen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/PS4_Getting_Touchy/.dds",
+        "filesize": 2048
+    }
+}

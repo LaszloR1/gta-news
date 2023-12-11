@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1694705112,"title":"GTA+","headline":"GTA+","subtitle":"Lenkraketen für die Kosatka","content":"Mitglieder bei GTA+ können sich die Lenkraketen-Verbesserung für die Kosatka bis zum 11.µOktober kostenlos holen.<br /><br />Lösch deine Gegner mit diesen ferngesteuerten, manuell kontrollierten Raketen aus, die gegen jedes Ziel eingesetzt werden können, sogar gegen El Rubios Inseltruppen während des Cayo Perico Heists.<br /><br />Die Mitgliedschaft bei GTA+ verlängert sich monatlich und ist jederzeit kündbar. Mehr auf rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_de_de.dds","filesize":262272},"button":"Auswählen, um GTA+ zu abonnieren"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1694705112,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Lenkraketen für die Kosatka",
+    "content": "Mitglieder bei GTA+ können sich die Lenkraketen-Verbesserung für die Kosatka bis zum 11.µOktober kostenlos holen.<br /><br />Lösch deine Gegner mit diesen ferngesteuerten, manuell kontrollierten Raketen aus, die gegen jedes Ziel eingesetzt werden können, sogar gegen El Rubios Inseltruppen während des Cayo Perico Heists.<br /><br />Die Mitgliedschaft bei GTA+ verlängert sich monatlich und ist jederzeit kündbar. Mehr auf rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/a2791a535b414c779ee2fb9a/262272_GTA_Plus_MP18_KosatkaGuidedMissiles_FINAL_BigFeed_de_de.dds",
+        "filesize": 262272
+    },
+    "button": "Auswählen, um GTA+ zu abonnieren"
+}

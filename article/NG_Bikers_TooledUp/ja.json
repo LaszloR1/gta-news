@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515908,"title":"","headline":"GTA Online","subtitle":"武器の準備","content":"バイクに乗りながらでも扱いやすいように、無駄をなくし小型化した武器が追加されました。高火力のコンパクト・グレネード・ランチャーから接近戦で力を発揮するパイプレンチまで、バイカーに必要な武器はすべてアミュネーションで揃います。","url":"","image":{"path":"sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_TooledUp/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515908,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "武器の準備",
+    "content": "バイクに乗りながらでも扱いやすいように、無駄をなくし小型化した武器が追加されました。高火力のコンパクト・グレネード・ランチャーから接近戦で力を発揮するパイプレンチまで、バイカーに必要な武器はすべてアミュネーションで揃います。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_TooledUp/262272_Tooled_UP.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_TooledUp/.dds",
+        "filesize": 2048
+    }
+}

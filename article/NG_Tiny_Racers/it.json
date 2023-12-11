@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1493046303,"title":"","headline":"GTA Online","subtitle":"Pilotini","content":"Fai un tuffo nel passato con la nuova modalità Competizione Pilotini, ma cerca di non saltare per aria! Una corsa con visuale dall'alto per un massimo di quattro giocatori e con un'unica regola: chi si fa seminare viene ridotto in cenere. Per fortuna c'è ancora qualcuno che fa le cose alla vecchia maniera.","url":"","image":{"path":"sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Tiny_Racers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1493046303,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pilotini",
+    "content": "Fai un tuffo nel passato con la nuova modalità Competizione Pilotini, ma cerca di non saltare per aria! Una corsa con visuale dall'alto per un massimo di quattro giocatori e con un'unica regola: chi si fa seminare viene ridotto in cenere. Per fortuna c'è ancora qualcuno che fa le cose alla vecchia maniera.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Tiny_Racers/349672_tiny-racers-bigfeed-v3A.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Tiny_Racers/.dds",
+        "filesize": 2048
+    }
+}

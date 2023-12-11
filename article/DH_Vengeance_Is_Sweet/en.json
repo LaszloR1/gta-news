@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1513097119,"title":"","headline":"GTA Online","subtitle":"Vengeance is Sweet","content":"Floating fortress, crime lab in the sky, death-spitting collateral damage producer: the Avenger is all these things and more, a one-stop-shop for the kingpin in search of the most terrifying object ever to take to the skies. Store it in your facility, get it fitted out with a Vehicle Mod Shop, a Weapon Workshop, and a whole suite of ferocious weapon upgrades, and you’ll soon be wreaking a whole new level of havoc without ever having to land.","url":"","image":{"path":"sc/news/DH_Vengeance_Is_Sweet/262272_plane_1.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1513097119,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vengeance is Sweet",
+    "content": "Floating fortress, crime lab in the sky, death-spitting collateral damage producer: the Avenger is all these things and more, a one-stop-shop for the kingpin in search of the most terrifying object ever to take to the skies. Store it in your facility, get it fitted out with a Vehicle Mod Shop, a Weapon Workshop, and a whole suite of ferocious weapon upgrades, and you’ll soon be wreaking a whole new level of havoc without ever having to land.",
+    "url": "",
+    "image": {
+        "path": "sc/news/DH_Vengeance_Is_Sweet/262272_plane_1.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

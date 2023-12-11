@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530640003,"title":"","headline":"GTA Online","subtitle":"2018년 독립기념일: 할인","content":"성조기 무늬의 독립기념일 콘텐츠가 7월 9일까지 일주일 동안, 할인된 가격으로 GTA 온라인에 돌아옵니다. 다음 항목도 40% 할인되니 놓치지 마세요:<br /><br />바피드 리버레이터<br />웨스턴 오토바이 회사 소버린<br />머스킷<br />폭죽 발사기와 폭죽<br /><br />그 외 다양한 혜택이 있습니다. 자세한 내용은 Rockstar 뉴스와이어를 확인하세요.","url":"","image":{"path":"sc/news/Indep_Day_Discounts/524416_BIGFEED_2018_0704_V01A_512x1024.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530640003,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "2018년 독립기념일: 할인",
+    "content": "성조기 무늬의 독립기념일 콘텐츠가 7월 9일까지 일주일 동안, 할인된 가격으로 GTA 온라인에 돌아옵니다. 다음 항목도 40% 할인되니 놓치지 마세요:<br /><br />바피드 리버레이터<br />웨스턴 오토바이 회사 소버린<br />머스킷<br />폭죽 발사기와 폭죽<br /><br />그 외 다양한 혜택이 있습니다. 자세한 내용은 Rockstar 뉴스와이어를 확인하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Indep_Day_Discounts/524416_BIGFEED_2018_0704_V01A_512x1024.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

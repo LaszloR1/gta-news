@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453722,"title":"","headline":"GTA Online","subtitle":"Bestia contro Maniaco","content":"La Bestia è tornata e stavolta non è sola. Solo una banda di Maniaci corazzati e armati fino ai denti può sperare di fermarla. Le Bestie devono visitare tutti i checkpoint, i Maniaci devono eliminare le Bestie.","url":"","image":{"path":"sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds","filesize":262272},"landscape":{"path":"sc/news/NG_BeastvSlasher/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453722,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bestia contro Maniaco",
+    "content": "La Bestia è tornata e stavolta non è sola. Solo una banda di Maniaci corazzati e armati fino ai denti può sperare di fermarla. Le Bestie devono visitare tutti i checkpoint, i Maniaci devono eliminare le Bestie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_BeastvSlasher/.dds",
+        "filesize": 2048
+    }
+}

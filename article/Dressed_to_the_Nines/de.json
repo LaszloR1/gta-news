@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1399990021,"title":"","headline":"Online-Tipp","subtitle":"In Schale geworfen","content":"Es kann sehr mühsam sein, die perfekte Kombination zu finden, um deinen Charakter wirklich aus der Masse herausstechen zu lassen. Deshalb haben wir dir die harte Arbeit abgenommen und einige coole Outfits zusammengestellt.<br /><br />Du kannst in jedem Bekleidungsgeschäft einfach an die Ladentheke gehen und den Angestellten ansprechen, um diese Outfits anzuprobieren – es gibt einen kombinierten Preis für alle Teile, du kannst dir also innerhalb weniger Sekunden einen komplett anderen Look verpassen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds","filesize":262272},"landscape":{"path":"sc/news/Dressed_to_the_Nines/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990021,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "In Schale geworfen",
+    "content": "Es kann sehr mühsam sein, die perfekte Kombination zu finden, um deinen Charakter wirklich aus der Masse herausstechen zu lassen. Deshalb haben wir dir die harte Arbeit abgenommen und einige coole Outfits zusammengestellt.<br /><br />Du kannst in jedem Bekleidungsgeschäft einfach an die Ladentheke gehen und den Angestellten ansprechen, um diese Outfits anzuprobieren – es gibt einen kombinierten Preis für alle Teile, du kannst dir also innerhalb weniger Sekunden einen komplett anderen Look verpassen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Dressed_to_the_Nines/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530030439,"title":"","headline":"GTA Online","subtitle":"Descuentos en vehículos","content":"Hasta el 2 de julio, consigue un 30 % de descuento en una amplia gama de vehículos listos para el combate y las carreras:<br /><br />Mammoth Avenger y renovaciones<br />Cabinas del Centro de Operaciones Móvil y renovaciones<br />Vapid GB200<br />Grotti X80 Proto<br />Imponte Ruiner 2000<br /><br />Visita el Rockstar Newswire para ver todos los detalles.","url":"","image":{"path":"sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds","filesize":524416},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530030439,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos en vehículos",
+    "content": "Hasta el 2 de julio, consigue un 30 % de descuento en una amplia gama de vehículos listos para el combate y las carreras:<br /><br />Mammoth Avenger y renovaciones<br />Cabinas del Centro de Operaciones Móvil y renovaciones<br />Vapid GB200<br />Grotti X80 Proto<br />Imponte Ruiner 2000<br /><br />Visita el Rockstar Newswire para ver todos los detalles.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Big_Business_Wk_Vehicles/524416_524416_MOC_Black.dds",
+        "filesize": 524416
+    },
+    "style": "gta"
+}

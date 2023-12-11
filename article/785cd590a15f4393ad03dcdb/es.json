@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1615483511,"title":"","headline":"GTA Online","subtitle":"Descuentos","content":"¿Quieres llevar tus negocios delictivos a otro nivel? Pues estás de suerte, porque hay diversos descuentos en propiedades y equipo que te permitirán poner al día tu guarida en un periquete.<br /><br />- Instalaciones: 40 % de descuento<br />- Terrorbyte: 40 % de descuento<br />- HVY Chernobog: 40 % de descuento<br />- Mammoth Squaddie: 25 % de descuento<br /><br />¡Y mucho más! Detalles en el Rockstar Newswire.","url":"","image":{"path":"sc/news/785cd590a15f4393ad03dcdb/349672_Big_Feed_Only_Terrorbyte.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1615483511,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos",
+    "content": "¿Quieres llevar tus negocios delictivos a otro nivel? Pues estás de suerte, porque hay diversos descuentos en propiedades y equipo que te permitirán poner al día tu guarida en un periquete.<br /><br />- Instalaciones: 40 % de descuento<br />- Terrorbyte: 40 % de descuento<br />- HVY Chernobog: 40 % de descuento<br />- Mammoth Squaddie: 25 % de descuento<br /><br />¡Y mucho más! Detalles en el Rockstar Newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/785cd590a15f4393ad03dcdb/349672_Big_Feed_Only_Terrorbyte.dds",
+        "filesize": 349672
+    }
+}

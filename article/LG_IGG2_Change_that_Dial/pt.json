@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436356205,"title":"","headline":"GTA Online","subtitle":"Trocando de estação","content":"Estamos muito felizes em anunciar que uma estação de rádio totalmente nova foi lançada em Los Santos.<br /><br />The Lab apresenta uma coleção de músicas novas de vários gêneros com a apresentação do Dr No and the Chemical Bro, prontos para apimentar a variedade musical dos seus tiroteios.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Change_that_Dial/262272_TheLab.dds","filesize":262272},"landscape":{"path":"sc/news/LG_IGG2_Change_that_Dial/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436356205,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Trocando de estação",
+    "content": "Estamos muito felizes em anunciar que uma estação de rádio totalmente nova foi lançada em Los Santos.<br /><br />The Lab apresenta uma coleção de músicas novas de vários gêneros com a apresentação do Dr No and the Chemical Bro, prontos para apimentar a variedade musical dos seus tiroteios.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Change_that_Dial/262272_TheLab.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Change_that_Dial/.dds",
+        "filesize": 2048
+    }
+}

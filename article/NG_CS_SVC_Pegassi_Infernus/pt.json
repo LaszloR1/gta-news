@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490631575,"title":"","headline":"GTA Online","subtitle":"Pegassi Infernus Classic","content":"Claro, seu consumo de combustível foi recentemente considerado um crime contra a humanidade, e no que diz respeito às características de segurança, elas são preocupantes, já que você está praticamente dirigindo uma bomba - mas você já viu como essa coisa é bonita? O Infernus Classic fará qualquer outro carro na estrada passar vergonha, e é assim que deve ser.","url":"","image":{"path":"sc/news/NG_CS_SVC_Pegassi_Infernus/262272_InfernusClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Pegassi_Infernus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490631575,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Pegassi Infernus Classic",
+    "content": "Claro, seu consumo de combustível foi recentemente considerado um crime contra a humanidade, e no que diz respeito às características de segurança, elas são preocupantes, já que você está praticamente dirigindo uma bomba - mas você já viu como essa coisa é bonita? O Infernus Classic fará qualquer outro carro na estrada passar vergonha, e é assim que deve ser.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Pegassi_Infernus/262272_InfernusClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Pegassi_Infernus/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543226,"title":"","headline":"GTA Online","subtitle":"Veículos de exportação","content":"Sendo Chefe e tendo um galpão de veículos, você poderá acessar missões de veículos de exportação através do portal da SecuroServ em seu escritório. Um clique depois, você estará roubando carros de alto valor, esquivando de concorrentes em missões de exportação de alto risco e desfrutando de altos lucros.","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Vehicle_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543226,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Veículos de exportação",
+    "content": "Sendo Chefe e tendo um galpão de veículos, você poderá acessar missões de veículos de exportação através do portal da SecuroServ em seu escritório. Um clique depois, você estará roubando carros de alto valor, esquivando de concorrentes em missões de exportação de alto risco e desfrutando de altos lucros.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/.dds",
+        "filesize": 2048
+    }
+}

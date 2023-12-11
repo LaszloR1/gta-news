@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543317,"title":"","headline":"GTA Online","subtitle":"Something Special in High Carbon Footprint Transport","content":"A new class of vehicle has arrived, available exclusively from Warstock Cache and Carry. Whether it’s the utter brutality of the Phantom Wedge or the suicide speed injections of the Rocket Voltic, these monsters can take you to new heights of mayhem and madness. To purchase one you’ll need to own a Vehicle Warehouse, and if you want access to the SecuroServ trade price, you only need to complete the relevant Special Vehicle Work.","url":"","image":{"path":"sc/news/NG_IE_Something_Special/262272_Something_Nice.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Something_Special/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Something Special in High Carbon Footprint Transport",
+    "content": "A new class of vehicle has arrived, available exclusively from Warstock Cache and Carry. Whether it’s the utter brutality of the Phantom Wedge or the suicide speed injections of the Rocket Voltic, these monsters can take you to new heights of mayhem and madness. To purchase one you’ll need to own a Vehicle Warehouse, and if you want access to the SecuroServ trade price, you only need to complete the relevant Special Vehicle Work.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Something_Special/262272_Something_Nice.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Something_Special/.dds",
+        "filesize": 2048
+    }
+}

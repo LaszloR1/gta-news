@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394809813,"title":"","headline":"Online-Tipp","subtitle":"Sei kein Spielverderber","content":"Spielverderber werden nicht allzu lange glücklich sein - sie landen im Spielverderber-Pool.<br /><br />Wenn du einen unfairen Spieler entdeckst, der dir den Spaß verdirbt, kannst du ihn melden, indem du seine Spieler-Daten (über Online > Spieler im Pause-Menü) auswählst und auf 'Melden' gehst. Du kannst auch Gründe angeben, warum du ihn meldest - alles mit nur wenigen Klicks.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Dont_Be_Bad_Sport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809813,
+    "title": "",
+    "headline": "Online-Tipp",
+    "subtitle": "Sei kein Spielverderber",
+    "content": "Spielverderber werden nicht allzu lange glücklich sein - sie landen im Spielverderber-Pool.<br /><br />Wenn du einen unfairen Spieler entdeckst, der dir den Spaß verdirbt, kannst du ihn melden, indem du seine Spieler-Daten (über Online > Spieler im Pause-Menü) auswählst und auf 'Melden' gehst. Du kannst auch Gründe angeben, warum du ihn meldest - alles mit nur wenigen Klicks.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/65664_dont_be_bad_sport.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Dont_Be_Bad_Sport/.dds",
+        "filesize": 2048
+    }
+}

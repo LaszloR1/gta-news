@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1408460749,"headline":"Aktualizacja GTA Online","subtitle":"Aktualizacja Szkoła latania San Andreas już dostępna","content":"Poczuj się jak prawdziwy patriotyczny bohater z aktualizacją Szkoła latania San Andreas<br /><br />Opanuj do perfekcji dominację w powietrzu dzięki 10 solowym misjom, które zrobią z Ciebie pilota z prawdziwego zdarzenia. Rekrutacja na Międzynarodowym Lotnisku Los Santos.<br /><br />Przepustkę możesz spędzić w całej kolekcji nowych pojazdów, m.in. w szkoleniowym odrzutowcu Western Besra, luksusowym śmigłowcu Swift, 16-osobowym Buckingham Miljet i stylowym sportowym aucie Coquette Classic.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1408460749,
+    "headline": "Aktualizacja GTA Online",
+    "subtitle": "Aktualizacja Szkoła latania San Andreas już dostępna",
+    "content": "Poczuj się jak prawdziwy patriotyczny bohater z aktualizacją Szkoła latania San Andreas<br /><br />Opanuj do perfekcji dominację w powietrzu dzięki 10 solowym misjom, które zrobią z Ciebie pilota z prawdziwego zdarzenia. Rekrutacja na Międzynarodowym Lotnisku Los Santos.<br /><br />Przepustkę możesz spędzić w całej kolekcji nowych pojazdów, m.in. w szkoleniowym odrzutowcu Western Besra, luksusowym śmigłowcu Swift, 16-osobowym Buckingham Miljet i stylowym sportowym aucie Coquette Classic.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Fligght_School_Out_Now/65664_Flight_School_Landscape.dds",
+        "filesize": 65664
+    }
+}

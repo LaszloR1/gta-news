@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1620319003,"title":"","headline":"GTA Online","subtitle":"Vehículo del podio de esta semana: Vapid Winky","content":"Pásate por el vestíbulo de The Diamond Casino & Resort para jugar a la ruleta de la fortuna y llevarte GTA$, RP, ropa, premios misteriosos y mucho más. El premio gordo de esta semana es el versátil Vapid Winky, un fiable vestigio del complejo militar-industrial.","url":"","image":{"path":"sc/news/472736ad2b314414a1c3acfd/349672_podium_wheel1.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1620319003,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vehículo del podio de esta semana: Vapid Winky",
+    "content": "Pásate por el vestíbulo de The Diamond Casino & Resort para jugar a la ruleta de la fortuna y llevarte GTA$, RP, ropa, premios misteriosos y mucho más. El premio gordo de esta semana es el versátil Vapid Winky, un fiable vestigio del complejo militar-industrial.",
+    "url": "",
+    "image": {
+        "path": "sc/news/472736ad2b314414a1c3acfd/349672_podium_wheel1.dds",
+        "filesize": 349672
+    }
+}

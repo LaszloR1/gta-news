@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465308370,"title":"","headline":"GTA Online","subtitle":"Nuevas aventuras de finanzas y crimen ya disponible","content":"Continúa con tu misión de convertirte en el cerebro criminal de Los Santos y el condado de Blaine en GTA Online: Nuevas aventuras de finanzas y crimen. Como jefe, disfrutarás de las habilidades especiales de un vip y podrás acceder a nuevas oportunidades del mercado negro con la red de mercancía especial de SecuroServ, que te permitirá comprar y vender productos ilegales en un emporio enorme.<br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.","url":"","image":{"path":"sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds","filesize":349672},"landscape":{"path":"sc/news/NG_FAFF_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465308370,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuevas aventuras de finanzas y crimen ya disponible",
+    "content": "Continúa con tu misión de convertirte en el cerebro criminal de Los Santos y el condado de Blaine en GTA Online: Nuevas aventuras de finanzas y crimen. Como jefe, disfrutarás de las habilidades especiales de un vip y podrás acceder a nuevas oportunidades del mercado negro con la red de mercancía especial de SecuroServ, que te permitirá comprar y vender productos ilegales en un emporio enorme.<br /><br />Encontrarás los detalles en rockstargames.com/es/newswire.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Out_Now/349672_NG_FAFF_art.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

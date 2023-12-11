@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430365,"title":"","headline":"GTA Online","subtitle":"Premie GTA w tym tygodniu: wyścig kaskaderski premium (9-15 września)","content":"Aktualny wyścig kaskaderski premium to popularna ''Pętla w centrum'', która przeznaczona jest dla Banshee 900R i, jak sama nazwa wskazuje, jest serią pętli, śrub i skoczni w centrum Los Santos. <br />Trzech najlepszych kierowców otrzyma nagrody pieniężne, a wszyscy uczestnicy potrójne premie RP. Jeśli chcecie od razu wskoczyć do akcji, skorzystajcie z aplikacji Szybka akcja w telefonie bądź odwiedźcie żółty znacznik wyścigu premium na Legion Square.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430365,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Premie GTA w tym tygodniu: wyścig kaskaderski premium (9-15 września)",
+    "content": "Aktualny wyścig kaskaderski premium to popularna ''Pętla w centrum'', która przeznaczona jest dla Banshee 900R i, jak sama nazwa wskazuje, jest serią pętli, śrub i skoczni w centrum Los Santos. <br />Trzech najlepszych kierowców otrzyma nagrody pieniężne, a wszyscy uczestnicy potrójne premie RP. Jeśli chcecie od razu wskoczyć do akcji, skorzystajcie z aplikacji Szybka akcja w telefonie bądź odwiedźcie żółty znacznik wyścigu premium na Legion Square.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/.dds",
+        "filesize": 2048
+    }
+}

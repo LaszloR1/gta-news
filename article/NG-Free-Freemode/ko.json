@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313642,"title":"","headline":"GTA Online","subtitle":"자유 모드","content":"자유 모드가 새롭게 태어났습니다. 이제 로스 산토스를 상대로 여러분의 능력을 보여줄 다양한 이벤트가 제공됩니다. 다양한 사건이 벌어지는 곳으로 안내하는 보라색 알림과 표식을 놓치지 마십시오.<br />각 이벤트마다 현금과 RP를 얻기 위해 필요한 참가 과정을 안내해드립니다.","url":"","image":{"path":"sc/news/NG-Free-Freemode/262272_Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313642,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "자유 모드",
+    "content": "자유 모드가 새롭게 태어났습니다. 이제 로스 산토스를 상대로 여러분의 능력을 보여줄 다양한 이벤트가 제공됩니다. 다양한 사건이 벌어지는 곳으로 안내하는 보라색 알림과 표식을 놓치지 마십시오.<br />각 이벤트마다 현금과 RP를 얻기 위해 필요한 참가 과정을 안내해드립니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode/262272_Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode/.dds",
+        "filesize": 2048
+    }
+}

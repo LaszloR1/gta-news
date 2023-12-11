@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455277,"title":"","headline":"GTA Online","subtitle":"Po zmroku","content":"Czyli współpracujesz ze znanym w podziemnej scenie klubowej impresario, aby stworzyć własny klub. Cóż, a może przy okazji umieścisz pod nim całą gałąź wykonawczą swojego przestępczego imperium? Za pomocą głównego komputera w tym przepastnym podziemnym magazynie Twój zespół techników może wyciskać dodatkowe dochody z każdej posiadanej działalności. Ty nie musisz się nawet ruszać z fotela.","url":"","image":{"path":"sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455277,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Po zmroku",
+    "content": "Czyli współpracujesz ze znanym w podziemnej scenie klubowej impresario, aby stworzyć własny klub. Cóż, a może przy okazji umieścisz pod nim całą gałąź wykonawczą swojego przestępczego imperium? Za pomocą głównego komputera w tym przepastnym podziemnym magazynie Twój zespół techników może wyciskać dodatkowe dochody z każdej posiadanej działalności. Ty nie musisz się nawet ruszać z fotela.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_After_Dark/349672_Big_Feed_After_Dark.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

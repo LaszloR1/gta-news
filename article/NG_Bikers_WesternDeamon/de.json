@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475766202,"title":"","headline":"GTA Online","subtitle":"Western Daemon Custom und BF Raptor","content":"Ab sofort sind die Daemon Custom und der Raptor in LS erhältlich – zwei ganz verschiedene Lösungen für ein Problem, von dem du noch nicht wusstest, dass du es hast.<br /><br />Die neue Daemon ist perfekt geeignet, jeden Passanten wissen zu lassen, dass du der langen und erlesenen Tradition des Unterwelt-Chics angehörst.<br /><br />Falls du dich eher nach der Mischung aus Ehrfurcht, Verwirrung und Erregung sehnst, die nur ein Trike mit Turbomotor hervorrufen kann, dann ist der Raptor genau das Richtige für dich.","url":"","image":{"path":"sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_WesternDeamon/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475766202,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Western Daemon Custom und BF Raptor",
+    "content": "Ab sofort sind die Daemon Custom und der Raptor in LS erhältlich – zwei ganz verschiedene Lösungen für ein Problem, von dem du noch nicht wusstest, dass du es hast.<br /><br />Die neue Daemon ist perfekt geeignet, jeden Passanten wissen zu lassen, dass du der langen und erlesenen Tradition des Unterwelt-Chics angehörst.<br /><br />Falls du dich eher nach der Mischung aus Ehrfurcht, Verwirrung und Erregung sehnst, die nur ein Trike mit Turbomotor hervorrufen kann, dann ist der Raptor genau das Richtige für dich.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/262272_DaemonRaptor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_WesternDeamon/.dds",
+        "filesize": 2048
+    }
+}

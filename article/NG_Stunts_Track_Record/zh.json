@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324900,"title":"","headline":"GTA Online","subtitle":"賽道紀錄","content":"GTAµ線上模式將推出膽大無畏、炫炮特技滿街跑的世界。想要不落於人後，就得需要火力十足的馬力加持。幸運的是，一波實力強勁的全新載具將閃亮登場，滿足您所有需求：從風格標新立異的µRE-7B，到殘暴無情的威皮越野卡車，無論您想要多麼瘋狂刺激的體驗，我們都能讓您盡興而歸。","url":"","image":{"path":"sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Track_Record/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "賽道紀錄",
+    "content": "GTAµ線上模式將推出膽大無畏、炫炮特技滿街跑的世界。想要不落於人後，就得需要火力十足的馬力加持。幸運的是，一波實力強勁的全新載具將閃亮登場，滿足您所有需求：從風格標新立異的µRE-7B，到殘暴無情的威皮越野卡車，無論您想要多麼瘋狂刺激的體驗，我們都能讓您盡興而歸。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Track_Record/262272_Cunning_Stunts.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Track_Record/.dds",
+        "filesize": 2048
+    }
+}

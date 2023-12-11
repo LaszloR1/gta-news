@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1461074787,"title":"","headline":"GTA Online","subtitle":"Disponibile da Benny's: Declasse Sabre Turbo","content":"Adesso è possibile fare letteralmente ''quattro salti'' con la Declasse Sabre Turbo, da oggi disponibile nel catalogo di Benny's. Completa la tua preziosa collezione di lowrider con questa muscle car. Recuperane una per le strade di Los Santos o acquistala direttamente dal sito di Benny e poi... affidala a lui!","url":"","image":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sabre_Trubo_Now_Available/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1461074787,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Disponibile da Benny's: Declasse Sabre Turbo",
+    "content": "Adesso è possibile fare letteralmente ''quattro salti'' con la Declasse Sabre Turbo, da oggi disponibile nel catalogo di Benny's. Completa la tua preziosa collezione di lowrider con questa muscle car. Recuperane una per le strade di Los Santos o acquistala direttamente dal sito di Benny e poi... affidala a lui!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sabre_Trubo_Now_Available/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140182,"title":"GTA+","headline":"GTA+","subtitle":"Armurerie de l'agence","content":"Jusqu'au 8µnovembre, les abonnés à GTA+ peuvent équiper leur agence d'une armurerie gratuite qui leur permettra d'acheter des armes à prix réduit, d'en transformer certaines en armes MKµII, d'acquérir de l'équipement essentiel comme des munitions (à -75µ% pour les abonnés), des protections pare-balles, des parachutes, des recycleurs et des lunettes de vision nocturne.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Plus d'informations sur rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_fr_fr.dds","filesize":262272},"button":"Abonnez-vous à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140182,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Armurerie de l'agence",
+    "content": "Jusqu'au 8µnovembre, les abonnés à GTA+ peuvent équiper leur agence d'une armurerie gratuite qui leur permettra d'acheter des armes à prix réduit, d'en transformer certaines en armes MKµII, d'acquérir de l'équipement essentiel comme des munitions (à -75µ% pour les abonnés), des protections pare-balles, des parachutes, des recycleurs et des lunettes de vision nocturne.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Plus d'informations sur rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "Abonnez-vous à GTA+"
+}

@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399990301,"headline":"Actualización de GTA Online","subtitle":"Bienvenido a La gran vida","content":"Nuevos pisos de lujo a la venta.<br /><br />Ya puedes añadir una segunda propiedad a tu cartera inmobiliaria. Visita Dynasty-8.com para ver los impresionantes apartamentos disponibles.<br /><br />Además de propiedades que quizá ya conozcas, encontrarás nuevos y cotizados apartamentos en muchas de las residencias más lujosas de Los Santos, junto con un garaje para 10 coches más en el que guardar tus vehículos.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990301,
+    "headline": "Actualización de GTA Online",
+    "subtitle": "Bienvenido a La gran vida",
+    "content": "Nuevos pisos de lujo a la venta.<br /><br />Ya puedes añadir una segunda propiedad a tu cartera inmobiliaria. Visita Dynasty-8.com para ver los impresionantes apartamentos disponibles.<br /><br />Además de propiedades que quizá ya conozcas, encontrarás nuevos y cotizados apartamentos en muchas de las residencias más lujosas de Los Santos, junto con un garaje para 10 coches más en el que guardar tus vehículos.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Welcome_to_High_Life/65664_Dynasty8realestate_portrait.dds",
+        "filesize": 65664
+    }
+}

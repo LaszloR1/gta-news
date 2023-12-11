@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1700751675,"title":"","headline":"GTA Online","subtitle":"Zniżki z okazji Black Friday","content":"Skorzystaj ze zniżek z okazji Black Friday do 28 listopada:<br /><br />Mammoth Avenger (samolot) – 50% taniej<br />Superjachty Galaxy – 40% taniej<br />Ulepszenia i modyfikacje superjachtu Galaxy – 40% taniej<br />Benefactor Terrorbyte – 70% taniej<br />Progen PR4 (bolid) – 50% taniej<br />Benefactor BR8 (bolid) – 50% taniej<br />Ocelot Stromberg (sportowy klasyk) – 50% taniej<br />TM-02 Khanjali (wojskowy) – 50% taniej<br />JoBuilt P-996 LAZER (samolot) – 25% taniej<br />I nie tylko! Więcej szczegółów na Rockstar Newswire.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY","image":{"path":"sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds","filesize":262272},"button":"Przejdź do Warstock Cache & Carry"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1700751675,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zniżki z okazji Black Friday",
+    "content": "Skorzystaj ze zniżek z okazji Black Friday do 28 listopada:<br /><br />Mammoth Avenger (samolot) – 50% taniej<br />Superjachty Galaxy – 40% taniej<br />Ulepszenia i modyfikacje superjachtu Galaxy – 40% taniej<br />Benefactor Terrorbyte – 70% taniej<br />Progen PR4 (bolid) – 50% taniej<br />Benefactor BR8 (bolid) – 50% taniej<br />Ocelot Stromberg (sportowy klasyk) – 50% taniej<br />TM-02 Khanjali (wojskowy) – 50% taniej<br />JoBuilt P-996 LAZER (samolot) – 25% taniej<br />I nie tylko! Więcej szczegółów na Rockstar Newswire.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/5d52926b6b0c4538a85006a8/262272_GTAO_Targeted_Avenger1_FINAL_BigFeed.dds",
+        "filesize": 262272
+    },
+    "button": "Przejdź do Warstock Cache & Carry"
+}

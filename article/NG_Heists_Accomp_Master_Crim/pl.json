@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980694,"title":"","headline":"GTA Online","subtitle":"Weteran napadów","content":"Każdy finał napadu zawiera elitarne wyzwanie, przeznaczone tylko dla tych ekip, które spełnią określone wymagania. Przystąpić do niego będą mogli tylko najlepsi.<br /><br />Nie chodzi tylko o szybkość, premia wymaga także wypełnienia wszystkich celów. Kluczem do sukcesu jest współpraca.<br /><br />Jeśli Wasza ekipa zna się na rzeczy, to może zdołacie zgarnąć dodatkowe fanty. Po zakończeniu napadu na ekranie z wynikami zobaczycie, jak Wam poszło.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980694,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Weteran napadów",
+    "content": "Każdy finał napadu zawiera elitarne wyzwanie, przeznaczone tylko dla tych ekip, które spełnią określone wymagania. Przystąpić do niego będą mogli tylko najlepsi.<br /><br />Nie chodzi tylko o szybkość, premia wymaga także wypełnienia wszystkich celów. Kluczem do sukcesu jest współpraca.<br /><br />Jeśli Wasza ekipa zna się na rzeczy, to może zdołacie zgarnąć dodatkowe fanty. Po zakończeniu napadu na ekranie z wynikami zobaczycie, jak Wam poszło.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

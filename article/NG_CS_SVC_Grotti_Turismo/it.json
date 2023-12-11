@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1491247706,"title":"","headline":"GTA Online","subtitle":"Grotti Turismo Classic","content":"Sei all'antica e non ne puoi più di macchine da fantascienza con cruscotti più intelligenti di te. Vuoi un mezzo puro e primordiale come un rapace o un'erezione mattutina. Ecco la Turismo Classic, un capolavoro dell'industria automobilistica che ti farà tornare in un passato in cui la benzina costava poco, non c'erano buchi nell'ozono e i poliziotti erano ubriachi almeno quanto te.","url":"","image":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds","filesize":262272},"landscape":{"path":"sc/news/NG_CS_SVC_Grotti_Turismo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1491247706,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Grotti Turismo Classic",
+    "content": "Sei all'antica e non ne puoi più di macchine da fantascienza con cruscotti più intelligenti di te. Vuoi un mezzo puro e primordiale come un rapace o un'erezione mattutina. Ecco la Turismo Classic, un capolavoro dell'industria automobilistica che ti farà tornare in un passato in cui la benzina costava poco, non c'erano buchi nell'ozono e i poliziotti erano ubriachi almeno quanto te.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/262272_TurismoClassic.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS_SVC_Grotti_Turismo/.dds",
+        "filesize": 2048
+    }
+}

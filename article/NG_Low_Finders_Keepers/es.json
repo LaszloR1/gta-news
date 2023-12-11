@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349603,"title":"","headline":"GTA Online","subtitle":"El que lo encuentra se lo queda","content":"Los traficantes de armas han dejado una selección de mercancía escondida por Los Santos y el condado de Blaine. Puedes quedarte con las armas y munición que recojas, así que hazte con todo lo que puedas. Todo el armamento que consigas puede venirte bien para arañar una victoria pírrica en uno de los eventos del modo Libre.","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349603,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "El que lo encuentra se lo queda",
+    "content": "Los traficantes de armas han dejado una selección de mercancía escondida por Los Santos y el condado de Blaine. Puedes quedarte con las armas y munición que recojas, así que hazte con todo lo que puedas. Todo el armamento que consigas puede venirte bien para arañar una victoria pírrica en uno de los eventos del modo Libre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

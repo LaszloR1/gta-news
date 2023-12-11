@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455336,"title":"","headline":"GTA Online","subtitle":"Well Organized Crime","content":"Your new Nightclub Warehouse elevates your whole operation to another level: every existing business you own can be leveraged here for additional profits, from your cargo Hangar to your Meth Lab. If you want to expand you’ll still need to get out there and do the old-fashioned legwork of acquiring and establishing businesses - but once that’s done your tech guys can tap into a brand new revenue stream, and you can stroll upstairs to the VIP area.","url":"","image":{"path":"sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455336,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Well Organized Crime",
+    "content": "Your new Nightclub Warehouse elevates your whole operation to another level: every existing business you own can be leveraged here for additional profits, from your cargo Hangar to your Meth Lab. If you want to expand you’ll still need to get out there and do the old-fashioned legwork of acquiring and establishing businesses - but once that’s done your tech guys can tap into a brand new revenue stream, and you can stroll upstairs to the VIP area.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Organised_Crime/349672_Big_Feed_Only_Well_Organized_Crime.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

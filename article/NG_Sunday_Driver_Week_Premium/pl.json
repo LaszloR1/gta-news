@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1472804167,"title":"","headline":"GTA Online","subtitle":"Tydzień niedzielnych kierowców: nowy Wyścig kaskaderski premium (2-8.09)","content":"W tym tygodniu proponujemy Wyścig kaskaderski premium o nazwie Rów II. To trasa dla aut muscle, która biegnie pustynią Senora i przez cały tydzień za sam udział zapewnia potrójną premię RP. Oprócz tego trzech najlepszych kierowców wróci do domu z nagrodą 100 000, 30 000 lub 20 000 GTA$, w zależności od zajętego miejsca. Użyjcie w telefonie aplikacji Szybka akcja bądź wejdźcie na żółty znacznik Wyścigu premium na Legion Square i zacznijcie zmagania.","url":"","image":{"path":"sc/news/NG_Sunday_Driver_Week_Premium/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sunday_Driver_Week_Premium/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1472804167,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tydzień niedzielnych kierowców: nowy Wyścig kaskaderski premium (2-8.09)",
+    "content": "W tym tygodniu proponujemy Wyścig kaskaderski premium o nazwie Rów II. To trasa dla aut muscle, która biegnie pustynią Senora i przez cały tydzień za sam udział zapewnia potrójną premię RP. Oprócz tego trzech najlepszych kierowców wróci do domu z nagrodą 100 000, 30 000 lub 20 000 GTA$, w zależności od zajętego miejsca. Użyjcie w telefonie aplikacji Szybka akcja bądź wejdźcie na żółty znacznik Wyścigu premium na Legion Square i zacznijcie zmagania.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Premium/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sunday_Driver_Week_Premium/.dds",
+        "filesize": 2048
+    }
+}

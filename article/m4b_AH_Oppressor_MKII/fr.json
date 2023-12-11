@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258267,"title":"","headline":"GTA Online","subtitle":"L'Oppressor MkµII","content":"L'Oppressor MkµII soulève de nombreuses questions. Est-ce une motoµ? Oui. A-t-elle des rouesµ? Non. Est-ce un moteur à réaction qu'on voit, en dessousµ? Oui. Est-ce que ça veut dire ce que je penseµ? Oh que oui. Comment est-ce possibleµ? C'est l'histoire d'une moto hypersportive particulièrement élégante et d'un avion à réaction particulièrement sauvage qui s'aiment vraiment beaucoup...","url":"","image":{"path":"sc/news/m4b_AH_Oppressor_MKII/349672_Big_Feed_Only_Oppressor_Mk_II.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258267,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "L'Oppressor MkµII",
+    "content": "L'Oppressor MkµII soulève de nombreuses questions. Est-ce une motoµ? Oui. A-t-elle des rouesµ? Non. Est-ce un moteur à réaction qu'on voit, en dessousµ? Oui. Est-ce que ça veut dire ce que je penseµ? Oh que oui. Comment est-ce possibleµ? C'est l'histoire d'une moto hypersportive particulièrement élégante et d'un avion à réaction particulièrement sauvage qui s'aiment vraiment beaucoup...",
+    "url": "",
+    "image": {
+        "path": "sc/news/m4b_AH_Oppressor_MKII/349672_Big_Feed_Only_Oppressor_Mk_II.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

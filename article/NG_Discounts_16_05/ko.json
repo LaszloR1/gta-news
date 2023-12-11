@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1494945273,"title":"","headline":"GTA Online","subtitle":"GP1, 인퍼너스 클래식 25% 할인 등","content":"오늘부터 5월 25일까지 교활한 스턴트: 특수 차량 서킷에 등장한 모든 이동 수단이 25% 할인되니, 이 기회에 장만하여 특수한 질주를 즐기십시오. 해당 차량은 다음과 같습니다:<br /><br />• 하이잭 러스튼<br />• 프로젠 GP1<br />• 페가시 인퍼너스 클래식<br />• 그로티 투리스모 클래식<br /><br />자세한 내용은 Rockstar 뉴스와이어를 확인하세요.","url":"","image":{"path":"sc/news/NG_Discounts_16_05/349672_ProgenGP1.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Discounts_16_05/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1494945273,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "GP1, 인퍼너스 클래식 25% 할인 등",
+    "content": "오늘부터 5월 25일까지 교활한 스턴트: 특수 차량 서킷에 등장한 모든 이동 수단이 25% 할인되니, 이 기회에 장만하여 특수한 질주를 즐기십시오. 해당 차량은 다음과 같습니다:<br /><br />• 하이잭 러스튼<br />• 프로젠 GP1<br />• 페가시 인퍼너스 클래식<br />• 그로티 투리스모 클래식<br /><br />자세한 내용은 Rockstar 뉴스와이어를 확인하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Discounts_16_05/349672_ProgenGP1.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Discounts_16_05/.dds",
+        "filesize": 2048
+    }
+}

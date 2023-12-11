@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1639588359,"title":"","headline":"GTAµOnline","subtitle":"STATIONS DE RADIO MISES À JOUR","content":"La nouvelle station de radio, MOTOMAMI Los Santos, est accessible via le menu de la radio. Animée par ROSALÍA et Arca, elle propose une programmation musicale éclectique.<br /><br />West Coast Classics et Radio Los Santos accueillent également de nouveaux sons, dont les premiers morceaux exclusifs de Freddie Gibbs, Kenny Beats et TiaCorine, Nez, ScHoolboyµQ, et bien d'autres.","url":"","image":{"path":"sc/news/3fd94dce32724cfd85487d15/262272_GTAO_Contract_Motomami_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1639588359,
+    "title": "",
+    "headline": "GTAµOnline",
+    "subtitle": "STATIONS DE RADIO MISES À JOUR",
+    "content": "La nouvelle station de radio, MOTOMAMI Los Santos, est accessible via le menu de la radio. Animée par ROSALÍA et Arca, elle propose une programmation musicale éclectique.<br /><br />West Coast Classics et Radio Los Santos accueillent également de nouveaux sons, dont les premiers morceaux exclusifs de Freddie Gibbs, Kenny Beats et TiaCorine, Nez, ScHoolboyµQ, et bien d'autres.",
+    "url": "",
+    "image": {
+        "path": "sc/news/3fd94dce32724cfd85487d15/262272_GTAO_Contract_Motomami_BigFeed.dds",
+        "filesize": 262272
+    }
+}

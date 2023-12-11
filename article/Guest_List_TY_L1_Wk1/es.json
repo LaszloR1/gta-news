@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635576,"title":"Beneficios de la lista de invitados","headline":"Beneficios de la lista de invitados","subtitle":"¡Estás en la lista!","content":"Gracias por apuntarte a la lista de invitados. Ya están disponibles las recompensas de la lista de invitados de esta semana:<br /><br />- 300 000 GTA$ adicionales<br />- Un bodi de malla naranja (accede a él mediante el armario o llévatelo gratis de cualquier tienda de ropa de Los Santos)<br /><br />Vuelve la semana que viene para hacerte con más recompensas.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_SPA.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635576,
+    "title": "Beneficios de la lista de invitados",
+    "headline": "Beneficios de la lista de invitados",
+    "subtitle": "¡Estás en la lista!",
+    "content": "Gracias por apuntarte a la lista de invitados. Ya están disponibles las recompensas de la lista de invitados de esta semana:<br /><br />- 300 000 GTA$ adicionales<br />- Un bodi de malla naranja (accede a él mediante el armario o llévatelo gratis de cualquier tienda de ropa de Los Santos)<br /><br />Vuelve la semana que viene para hacerte con más recompensas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk1/349672_bigfeed-guestlist-V3_SPA.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

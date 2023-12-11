@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543225,"title":"","headline":"GTA Online","subtitle":"Esportazione veicoli","content":"I CEO in possesso di un magazzino veicoli possono accedere alle missioni Esportazione veicoli dal portale Securoserv del loro ufficio. Basta un clic e potrete mettervi a rubare auto di altissimo valore, schivando i rivali in queste missioni ad alto rischio e alto ritorno economico.","url":"","image":{"path":"sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Vehicle_Cargo/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543225,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Esportazione veicoli",
+    "content": "I CEO in possesso di un magazzino veicoli possono accedere alle missioni Esportazione veicoli dal portale Securoserv del loro ufficio. Basta un clic e potrete mettervi a rubare auto di altissimo valore, schivando i rivali in queste missioni ad alto rischio e alto ritorno economico.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/262272_vehiclecargo.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Vehicle_Cargo/.dds",
+        "filesize": 2048
+    }
+}

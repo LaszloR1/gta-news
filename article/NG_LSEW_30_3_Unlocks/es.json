@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241169,"title":"","headline":"GTA Online","subtitle":"Bonificaciones de GTA Online: pijama y batín amarillos con remolinos (del 30/9 al 3/10)","content":"Has desbloqueado el pijama y el batín amarillos con remolinos al iniciar sesión en GTA Online. Puedes conseguir las prendas gratis en cualquiera de las tiendas de ropa de Los Santos. Ideal para una sofisticada velada de relax tras un duro día de trabajo, sin duda desearás tener este atuendo impecable en tu armario.","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Unlocks/349672_LSE_BIGFEED_PAJAMAS.dds","filesize":349672},"landscape":{"path":"sc/news/NG_LSEW_30_3_Unlocks/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241169,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bonificaciones de GTA Online: pijama y batín amarillos con remolinos (del 30/9 al 3/10)",
+    "content": "Has desbloqueado el pijama y el batín amarillos con remolinos al iniciar sesión en GTA Online. Puedes conseguir las prendas gratis en cualquiera de las tiendas de ropa de Los Santos. Ideal para una sofisticada velada de relax tras un duro día de trabajo, sin duda desearás tener este atuendo impecable en tu armario.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Unlocks/349672_LSE_BIGFEED_PAJAMAS.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Unlocks/.dds",
+        "filesize": 2048
+    }
+}

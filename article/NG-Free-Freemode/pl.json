@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313642,"title":"","headline":"GTA Online","subtitle":"Tryb swobodny","content":"Tryb gry swobodnej został mocno odświeżony i pojawiły się w nim nowe wydarzenia, które sprawdzą Wasze umiejętności radzenia sobie w Los Santos. Szukajcie fioletowych powiadomień i znaczników, które naprowadzą Was na odpowiedni trop. <br />Każde wydarzenie to szansa na zarobienie pieniędzy i RP.","url":"","image":{"path":"sc/news/NG-Free-Freemode/262272_Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313642,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tryb swobodny",
+    "content": "Tryb gry swobodnej został mocno odświeżony i pojawiły się w nim nowe wydarzenia, które sprawdzą Wasze umiejętności radzenia sobie w Los Santos. Szukajcie fioletowych powiadomień i znaczników, które naprowadzą Was na odpowiedni trop. <br />Każde wydarzenie to szansa na zarobienie pieniędzy i RP.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode/262272_Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode/.dds",
+        "filesize": 2048
+    }
+}

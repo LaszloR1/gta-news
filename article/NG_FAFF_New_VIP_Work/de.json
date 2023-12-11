@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294200,"title":"","headline":"GTA Online","subtitle":"Neue VIP-Aufträge","content":"VIPs und ihre Leibwächter haben nun Zugang zu drei neuen Quellen der illegalen Geldbeschaffung:<br /><br />- Headhunter: Eliminiere Zielpersonen auf der Karte innerhalb einer bestimmten Zeit<br />- Luftfracht: Befreie wertvolle Fracht von ihren bewaffneten Bewachern und fliege sie in Sicherheit<br />- Spedition: Bringe als Erster einen Anhänger mit steuerbefreiten Waren zu ihrem unrechtmäßigen Besitzer<br /><br />Als VIP kannst du diese Aufträge aus der Sektion ''VIP-Aufträge'' deines Interaktionsmenüs starten.","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Work/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294200,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Neue VIP-Aufträge",
+    "content": "VIPs und ihre Leibwächter haben nun Zugang zu drei neuen Quellen der illegalen Geldbeschaffung:<br /><br />- Headhunter: Eliminiere Zielpersonen auf der Karte innerhalb einer bestimmten Zeit<br />- Luftfracht: Befreie wertvolle Fracht von ihren bewaffneten Bewachern und fliege sie in Sicherheit<br />- Spedition: Bringe als Erster einen Anhänger mit steuerbefreiten Waren zu ihrem unrechtmäßigen Besitzer<br /><br />Als VIP kannst du diese Aufträge aus der Sektion ''VIP-Aufträge'' deines Interaktionsmenüs starten.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/.dds",
+        "filesize": 2048
+    }
+}

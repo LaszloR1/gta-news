@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433952126,"title":"","headline":"GTA Online","subtitle":"Auf goldenen Flügeln","content":"Elitas Travel bietet zwei brandneue, luxuriöse Luftfahrzeuge der Oberklasse an, nach denen sich die wohlhabendsten Mitglieder der Gesellschaft in Los Santos verzehren werden - die Luxor und den Swift Deluxe. Beide Modelle verfügen über eine vergoldete Außenhülle sowie eine ebenso atemberaubende Innenausstattung, die es erlaubt, sich zurückzulehnen, zu entspannen und den Flug bei einem Glas Champagner zu genießen. Halte ~INPUT_ENTER~ gedrückt, um direkt auf den Passagiersitzen Platz zu nehmen.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Golden_Wings_v2/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433952126,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Auf goldenen Flügeln",
+    "content": "Elitas Travel bietet zwei brandneue, luxuriöse Luftfahrzeuge der Oberklasse an, nach denen sich die wohlhabendsten Mitglieder der Gesellschaft in Los Santos verzehren werden - die Luxor und den Swift Deluxe. Beide Modelle verfügen über eine vergoldete Außenhülle sowie eine ebenso atemberaubende Innenausstattung, die es erlaubt, sich zurückzulehnen, zu entspannen und den Flug bei einem Glas Champagner zu genießen. Halte ~INPUT_ENTER~ gedrückt, um direkt auf den Passagiersitzen Platz zu nehmen.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Golden_Wings_v2/262272_Elitasgold.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Golden_Wings_v2/.dds",
+        "filesize": 2048
+    }
+}

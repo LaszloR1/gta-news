@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436353979,"title":"","headline":"GTA Online","subtitle":"拳で勝負","content":"最新の武器「ナックルダスター」がアミュネーションのラインナップに追加されます。簡潔な(拳を使った)コミュニケーションの理想のツールです。<br /><br />他にも、ポンプアクション式ショットガン以上のストッピングパワーを誇る「マークスマンピストル」が入荷されています。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436353979,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "拳で勝負",
+    "content": "最新の武器「ナックルダスター」がアミュネーションのラインナップに追加されます。簡潔な(拳を使った)コミュニケーションの理想のツールです。<br /><br />他にも、ポンプアクション式ショットガン以上のストッピングパワーを誇る「マークスマンピストル」が入荷されています。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

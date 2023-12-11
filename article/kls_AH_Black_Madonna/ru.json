@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258266,"title":"","headline":"GTA Online","subtitle":"Встречайте: The Black Madonna","content":"The Black Madonna – международный посол хауса, техно и диско, и она жаждет раскачать Лос-Сантос. Держите телефон под рукой: вам позвонит Инглиш Дэйв с просьбой забрать ее и довезти до клуба. На компьютере в кабинете можно просмотреть дополнительную информацию, и помните: вы можете в любой момент сменить действующего диджея.<br /><br />Также рекомендуем настроить приемник на волну Los Santos Underground Radio, где можно послушать новые сеты Solomun, Tale Of Us и Dixon.","url":"","image":{"path":"sc/news/kls_AH_Black_Madonna/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Black-Madonna.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Встречайте: The Black Madonna",
+    "content": "The Black Madonna – международный посол хауса, техно и диско, и она жаждет раскачать Лос-Сантос. Держите телефон под рукой: вам позвонит Инглиш Дэйв с просьбой забрать ее и довезти до клуба. На компьютере в кабинете можно просмотреть дополнительную информацию, и помните: вы можете в любой момент сменить действующего диджея.<br /><br />Также рекомендуем настроить приемник на волну Los Santos Underground Radio, где можно послушать новые сеты Solomun, Tale Of Us и Dixon.",
+    "url": "",
+    "image": {
+        "path": "sc/news/kls_AH_Black_Madonna/262272_GTAO_AfterHours_DJ-Bigfeeds_V02_Black-Madonna.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380472160,"headline":"Astuce en ligne","subtitle":"Indice de recherche","content":"Quand vous êtes poursuivi par la police, changez de véhicule pour réduire instantanément votre indice de recherche. Vous pourriez aussi arrêter de commettre des crimes, causer moins de problèmes et trouver un travail honnête.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Wanted/65664_Wanted_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380472160,
+    "headline": "Astuce en ligne",
+    "subtitle": "Indice de recherche",
+    "content": "Quand vous êtes poursuivi par la police, changez de véhicule pour réduire instantanément votre indice de recherche. Vous pourriez aussi arrêter de commettre des crimes, causer moins de problèmes et trouver un travail honnête.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Wanted/65664_Wanted_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

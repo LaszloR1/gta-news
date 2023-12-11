@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1692200348,"title":"Red Dead Redemption y Undead Nightmare","headline":"Red Dead Redemption y Undead Nightmare","subtitle":"Ambos ya están disponibles en PlayStation 4","content":"Red Dead Redemption, la épica aventura del Oeste, y su historia adicional de terror y zombis, Undead Nightmare, ya están disponibles para PlayStation 4. Tanto los nuevos jugadores como los fans originales podrán disfrutar de estas dos experiencias clásicas en plataformas modernas. Incluye retrocompatibilidad con PlayStation 5.<br /><br />Ya disponible en PlayStation Store.","url":"","image":{"path":"sc/news/4d340e4f1b594622b309571d/262272_RDR1_UN_FINAL_BigFeed_es_es.dds","filesize":262272},"style":"rdr"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1692200348,
+    "title": "Red Dead Redemption y Undead Nightmare",
+    "headline": "Red Dead Redemption y Undead Nightmare",
+    "subtitle": "Ambos ya están disponibles en PlayStation 4",
+    "content": "Red Dead Redemption, la épica aventura del Oeste, y su historia adicional de terror y zombis, Undead Nightmare, ya están disponibles para PlayStation 4. Tanto los nuevos jugadores como los fans originales podrán disfrutar de estas dos experiencias clásicas en plataformas modernas. Incluye retrocompatibilidad con PlayStation 5.<br /><br />Ya disponible en PlayStation Store.",
+    "url": "",
+    "image": {
+        "path": "sc/news/4d340e4f1b594622b309571d/262272_RDR1_UN_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "style": "rdr"
+}

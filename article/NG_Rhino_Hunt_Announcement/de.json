@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1456487317,"title":"","headline":"GTA Online","subtitle":"Großwildjagd","content":"Versuche das Unmögliche! In diesem neuen Gegner-Modus für Fahrzeuge versuchen Jäger nur mit Haftbomben gegnerische Rhino-Panzer auszuschalten. Die zahlenmäßig unterlegenen Rhinos müssen die Stärke und die Feuerkraft ihrer Panzer zu ihrer Verteidigung nutzen und das Zeitlimit überstehen, um zu gewinnen.","url":"","image":{"path":"sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Rhino_Hunt_Announcement/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1456487317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Großwildjagd",
+    "content": "Versuche das Unmögliche! In diesem neuen Gegner-Modus für Fahrzeuge versuchen Jäger nur mit Haftbomben gegnerische Rhino-Panzer auszuschalten. Die zahlenmäßig unterlegenen Rhinos müssen die Stärke und die Feuerkraft ihrer Panzer zu ihrer Verteidigung nutzen und das Zeitlimit überstehen, um zu gewinnen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/262272_Tank_Crush.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Rhino_Hunt_Announcement/.dds",
+        "filesize": 2048
+    }
+}

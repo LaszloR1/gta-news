@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453722,"title":"","headline":"GTA Online","subtitle":"Beast vs. Slasher","content":"The Beast is back, and this time it’s got company. Only a rag-tag team of Slashers, armored up and armed to the teeth, have a hope of stopping them. Beasts have to collect all the checkpoints, Slashers have to take out the Beasts.","url":"","image":{"path":"sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds","filesize":262272},"landscape":{"path":"sc/news/NG_BeastvSlasher/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453722,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Beast vs. Slasher",
+    "content": "The Beast is back, and this time it’s got company. Only a rag-tag team of Slashers, armored up and armed to the teeth, have a hope of stopping them. Beasts have to collect all the checkpoints, Slashers have to take out the Beasts.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_BeastvSlasher/.dds",
+        "filesize": 2048
+    }
+}

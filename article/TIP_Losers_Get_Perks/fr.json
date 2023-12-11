@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569304,"headline":"Astuce en ligne","subtitle":"Bonus de perdant","content":"Si vous mourez trois fois sans faire de victime en affrontement, un coup de pouce vous sera accordé pour améliorer un peu vos chances. Vous pouvez activer ces bonus dans les options en bas à droite de l'écran de mort. Comme quoi, vous n'êtes pas totalement seul au monde !","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569304,
+    "headline": "Astuce en ligne",
+    "subtitle": "Bonus de perdant",
+    "content": "Si vous mourez trois fois sans faire de victime en affrontement, un coup de pouce vous sera accordé pour améliorer un peu vos chances. Vous pouvez activer ces bonus dans les options en bas à droite de l'écran de mort. Comme quoi, vous n'êtes pas totalement seul au monde !",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Losers_Get_Perks/65664_Losers_Get_Perks_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

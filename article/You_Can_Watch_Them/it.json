@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1402999848,"title":"","headline":"Suggerimento online","subtitle":"Puoi sempre guardarli","content":"Los Santos è piena di eventi emozionanti che puoi divertirti a guardare.<br /><br />Mettetevi comodi, rilassatevi e guardate le avventure dei vostri amici con l'opzione 'Guarda gli amici': selezionate un amico attualmente in GTA Online nella scheda Amici e poi selezionate 'Guarda giocatore'.<br /><br />Abilita o disabilita l'opzione che permette agli amici di fare da spettatori dal menu Online > Opzioni.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds","filesize":262272},"landscape":{"path":"sc/news/You_Can_Watch_Them/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402999848,
+    "title": "",
+    "headline": "Suggerimento online",
+    "subtitle": "Puoi sempre guardarli",
+    "content": "Los Santos è piena di eventi emozionanti che puoi divertirti a guardare.<br /><br />Mettetevi comodi, rilassatevi e guardate le avventure dei vostri amici con l'opzione 'Guarda gli amici': selezionate un amico attualmente in GTA Online nella scheda Amici e poi selezionate 'Guarda giocatore'.<br /><br />Abilita o disabilita l'opzione che permette agli amici di fare da spettatori dal menu Online > Opzioni.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/You_Can_Watch_Them/262272_YouCanAlwaysWatchThem.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/You_Can_Watch_Them/.dds",
+        "filesize": 2048
+    }
+}

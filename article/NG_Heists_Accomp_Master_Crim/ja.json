@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425980694,"title":"","headline":"GTA Online","subtitle":"上級の犯罪マスター","content":"各強盗フィナーレには、特定の条件をこなすエリートチャレンジが用意されています。最高の強盗チームのみが成し遂げられるチャレンジです。<br /><br />速さだけでは足りません。ボーナスを獲得するには、全ての目標をクリアする必要があります。チームワークが成功の鍵です。<br /><br />チームの実力が確かなら、追加報酬を手にできるかもしれません。どの程度達成できたのか、「強盗」結果画面の最後に確認できます。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Accomp_Master_Crim/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425980694,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "上級の犯罪マスター",
+    "content": "各強盗フィナーレには、特定の条件をこなすエリートチャレンジが用意されています。最高の強盗チームのみが成し遂げられるチャレンジです。<br /><br />速さだけでは足りません。ボーナスを獲得するには、全ての目標をクリアする必要があります。チームワークが成功の鍵です。<br /><br />チームの実力が確かなら、追加報酬を手にできるかもしれません。どの程度達成できたのか、「強盗」結果画面の最後に確認できます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/262272_The-Accomplished-Master-Criminal.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Accomp_Master_Crim/.dds",
+        "filesize": 2048
+    }
+}

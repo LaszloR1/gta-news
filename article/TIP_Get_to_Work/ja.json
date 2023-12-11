@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471930,"headline":"オンラインのヒント","subtitle":"仕事","content":"さっそく仕事にかかりますか？ 携帯の「クイックジョブ」からレース、デスマッチ、ミッション、あるいはプレイリストを選択すれば、設定条件に合った参加可能な最寄りのジョブをすぐに開始できます。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471930,
+    "headline": "オンラインのヒント",
+    "subtitle": "仕事",
+    "content": "さっそく仕事にかかりますか？ 携帯の「クイックジョブ」からレース、デスマッチ、ミッション、あるいはプレイリストを選択すれば、設定条件に合った参加可能な最寄りのジョブをすぐに開始できます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608039614,"title":"","headline":"GTA Online","subtitle":"Fusil militar","content":"Ammu-Nation acaba de recibir un cargamento de algunos de los fusiles más potentes de su catálogo hasta la fecha. Con el daño que infligen, agradecerás que la velocidad de recarga te permita recuperar el aliento. ","url":"","image":{"path":"sc/news/dde1197fa18c4bedb547567a/262272_GTAO_IslandHeist_BigFeed_Military_Rifle.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608039614,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fusil militar",
+    "content": "Ammu-Nation acaba de recibir un cargamento de algunos de los fusiles más potentes de su catálogo hasta la fecha. Con el daño que infligen, agradecerás que la velocidad de recarga te permita recuperar el aliento. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/dde1197fa18c4bedb547567a/262272_GTAO_IslandHeist_BigFeed_Military_Rifle.dds",
+        "filesize": 262272
+    }
+}

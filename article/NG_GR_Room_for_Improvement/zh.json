@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917812,"title":"","headline":"GTA Online","subtitle":"改良空間","content":"您的機動作戰中心或許看似由一團滾動的死亡氣息和混沌所組成，當然這一點也沒錯，不過它遠不止於此。您不只可以安裝武器工坊，隨心所欲地升級、校準並調整特定武器，還可以整合載具工坊。這是唯一足以為您的武裝載具安裝致命升級項目的妥善所在。","url":"","image":{"path":"sc/news/NG_GR_Room_for_Improvement/262272_RoomForImprovement.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Room_for_Improvement/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917812,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "改良空間",
+    "content": "您的機動作戰中心或許看似由一團滾動的死亡氣息和混沌所組成，當然這一點也沒錯，不過它遠不止於此。您不只可以安裝武器工坊，隨心所欲地升級、校準並調整特定武器，還可以整合載具工坊。這是唯一足以為您的武裝載具安裝致命升級項目的妥善所在。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Room_for_Improvement/262272_RoomForImprovement.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Room_for_Improvement/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

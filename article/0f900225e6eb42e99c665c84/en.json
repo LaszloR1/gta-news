@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1629998003,"title":"","headline":"GTA Online","subtitle":"Shipwreck on the Shores","content":"Treasure hunters and tourists are reporting sightings of a wooden boat washed up on the waterfront. The wreck is said to contain treasure and scraps of clothing, seven of which can be combined to form an outfit from a previous era. Should you spot it out on your travels, make sure to check for a chest filled with bounty.<br /><br />Only one Shipwreck can be found per day — you can track whether you’ve found today’s Shipwreck via the Daily Collectibles section of the Interaction Menu.","url":"","image":{"path":"sc/news/0f900225e6eb42e99c665c84/262272_GTAO263_Shipwrecks_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1629998003,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Shipwreck on the Shores",
+    "content": "Treasure hunters and tourists are reporting sightings of a wooden boat washed up on the waterfront. The wreck is said to contain treasure and scraps of clothing, seven of which can be combined to form an outfit from a previous era. Should you spot it out on your travels, make sure to check for a chest filled with bounty.<br /><br />Only one Shipwreck can be found per day — you can track whether you’ve found today’s Shipwreck via the Daily Collectibles section of the Interaction Menu.",
+    "url": "",
+    "image": {
+        "path": "sc/news/0f900225e6eb42e99c665c84/262272_GTAO263_Shipwrecks_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

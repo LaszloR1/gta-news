@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416222621,"title":"","headline":"GTAV","subtitle":"躲避危險","content":"擔心除了撞上擋風玻璃的蟲子以外，還會有其他更危險的東西嗎？開車或騎車時按 ~INPUT_FRONTEND_ACCEPT~，就可以壓低身體，降低被打到的機會。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Keep_Your_Head_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416222621,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "躲避危險",
+    "content": "擔心除了撞上擋風玻璃的蟲子以外，還會有其他更危險的東西嗎？開車或騎車時按 ~INPUT_FRONTEND_ACCEPT~，就可以壓低身體，降低被打到的機會。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/262272_KeepHeadDown.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Keep_Your_Head_Down/.dds",
+        "filesize": 2048
+    }
+}

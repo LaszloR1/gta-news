@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917026,"title":"","headline":"GTA Online","subtitle":"Laborratten","content":"Im Waffengeschäft reicht es nicht, einfach nur skrupellos zu sein. Man muss sich jeden erdenklichen Wettbewerbsvorteil verschaffen und an diesem Punkt kommen die Jungs in den weißen Kitteln ins Spiel: Stell einige davon in deinem Bunker ein, versorge sie mit dem nötigen Material und sie erforschen einzigartige individuelle Waffenmodifikationen, eine breite Palette brutaler Technologien für deine Waffenfahrzeuge und furchteinflößende Upgrades für deine mobile Kommandozentrale.","url":"","image":{"path":"sc/news/NG_GR_Lab_Rats/262272_LabRats.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Lab_Rats/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917026,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Laborratten",
+    "content": "Im Waffengeschäft reicht es nicht, einfach nur skrupellos zu sein. Man muss sich jeden erdenklichen Wettbewerbsvorteil verschaffen und an diesem Punkt kommen die Jungs in den weißen Kitteln ins Spiel: Stell einige davon in deinem Bunker ein, versorge sie mit dem nötigen Material und sie erforschen einzigartige individuelle Waffenmodifikationen, eine breite Palette brutaler Technologien für deine Waffenfahrzeuge und furchteinflößende Upgrades für deine mobile Kommandozentrale.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Lab_Rats/262272_LabRats.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Lab_Rats/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1489423790,"title":"","headline":"GTA Online","subtitle":"Stunt da capogiro: Veicoli speciali","content":"Hai fatto acrobazie folli, giri della morte e curve estreme in tutte le gare stunt di San Andreas. Hai riempito il tuo locale sotterraneo di veicoli speciali di ogni tipo. E adesso? Adesso è il momento di indossare la tua tuta da stuntman e affrontare 20 nuove gare stunt, pensate appositamente per veicoli che il governo renderebbe illegali, se potesse.","url":"","image":{"path":"sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CS-SVC_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1489423790,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Stunt da capogiro: Veicoli speciali",
+    "content": "Hai fatto acrobazie folli, giri della morte e curve estreme in tutte le gare stunt di San Andreas. Hai riempito il tuo locale sotterraneo di veicoli speciali di ogni tipo. E adesso? Adesso è il momento di indossare la tua tuta da stuntman e affrontare 20 nuove gare stunt, pensate appositamente per veicoli che il governo renderebbe illegali, se potesse.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/349672_SVC-bigfeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CS-SVC_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

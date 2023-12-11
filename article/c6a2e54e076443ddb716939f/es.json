@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1658771306,"title":"","headline":"GTA Online","subtitle":"ARMAS Y MÁS ARMAS","content":"Llamando a todos los traficantes de armas: ¿te estás quedando sin suministros? Hay nuevas misiones de reabastecimiento disponibles para ayudar a mantener tu fortaleza subterránea completamente abastecida.<br /><br />¿Quieres dar un impulso a la investigación en tu búnker? Llama al Agente 14. ¿Tratas de ampliar tu red comercial? Él te conseguirá un contrato con Ammu-Nation para que puedas cambiar tus piezas de armas sobrantes por dinero y distribuir tu potencia de fuego por todo San Andreas.","url":"","image":{"path":"sc/news/c6a2e54e076443ddb716939f/262272_GTAO_CE_Arms_in_Arms_BF.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1658771306,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ARMAS Y MÁS ARMAS",
+    "content": "Llamando a todos los traficantes de armas: ¿te estás quedando sin suministros? Hay nuevas misiones de reabastecimiento disponibles para ayudar a mantener tu fortaleza subterránea completamente abastecida.<br /><br />¿Quieres dar un impulso a la investigación en tu búnker? Llama al Agente 14. ¿Tratas de ampliar tu red comercial? Él te conseguirá un contrato con Ammu-Nation para que puedas cambiar tus piezas de armas sobrantes por dinero y distribuir tu potencia de fuego por todo San Andreas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/c6a2e54e076443ddb716939f/262272_GTAO_CE_Arms_in_Arms_BF.dds",
+        "filesize": 262272
+    }
+}

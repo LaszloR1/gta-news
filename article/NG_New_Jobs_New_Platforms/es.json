@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224089,"title":"","headline":"GTA Online","subtitle":"Nuevas actividades para nuevas plataformas","content":"Para aprovechar al máximo el número aumentado de jugadores, se ha añadido una selección de actividades para 30 jugadores: ahora hay carreras, partidas a muerte, UEEP y capturas para 30 jugadores, así como actividades en paracaídas para 16.<br /><br />Además, hay algunas listas de partidas repletas de acción para 30 jugadores. ¡A ver si puedes soportar la presión!","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds","filesize":262272},"landscape":{"path":"sc/news/NG_New_Jobs_New_Platforms/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224089,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nuevas actividades para nuevas plataformas",
+    "content": "Para aprovechar al máximo el número aumentado de jugadores, se ha añadido una selección de actividades para 30 jugadores: ahora hay carreras, partidas a muerte, UEEP y capturas para 30 jugadores, así como actividades en paracaídas para 16.<br /><br />Además, hay algunas listas de partidas repletas de acción para 30 jugadores. ¡A ver si puedes soportar la presión!",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/262272_NewJobsPlatforms.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_New_Jobs_New_Platforms/.dds",
+        "filesize": 2048
+    }
+}

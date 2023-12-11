@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1380571728,"headline":"Newswire","subtitle":"www.rockstargames.com/socialclub","content":"Social Clubウェブサイトでは次のような最新情報をチェックできます。<br /><br />写真：携帯で写真を撮って、とんでもない偉業や最悪の髪型、巨大なエゴを世界と共有しましょう。写真はSocial Club上ですぐに公開されます。<br />ニュース：最新ニュースやSocial Clubのイベント情報を手に入れましょう。<br />自己評価：重要項目の統計データを確認し、ランキングで世界のプレイヤーと比較しましょう。<br />他にも様々な機能があります…","url":"www.rockstargames.com/socialclub","image":{"path":"sc/news/Social_Club/65664_Be_Social_portrait2.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380571728,
+    "headline": "Newswire",
+    "subtitle": "www.rockstargames.com/socialclub",
+    "content": "Social Clubウェブサイトでは次のような最新情報をチェックできます。<br /><br />写真：携帯で写真を撮って、とんでもない偉業や最悪の髪型、巨大なエゴを世界と共有しましょう。写真はSocial Club上ですぐに公開されます。<br />ニュース：最新ニュースやSocial Clubのイベント情報を手に入れましょう。<br />自己評価：重要項目の統計データを確認し、ランキングで世界のプレイヤーと比較しましょう。<br />他にも様々な機能があります…",
+    "url": "www.rockstargames.com/socialclub",
+    "image": {
+        "path": "sc/news/Social_Club/65664_Be_Social_portrait2.dds",
+        "filesize": 65664
+    }
+}

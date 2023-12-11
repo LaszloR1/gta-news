@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450174976,"title":"","headline":"GTA Online","subtitle":"Gorilla in una giungla d'asfalto","content":"Un nuovo tipo di dirigenti è giunto in città e cerca manovalanza! Informa i boss della tua disponibilità a lavorare per loro selezionando ''In cerca di lavoro'' nella sezione Securoserv del menu Interazione. Una volta entrato in un'organizzazione, dimostra il tuo valore guadagnando per il tuo boss negli eventi Freemode e aiutando l'organizzazione nelle nuove modalità Incarico del boss.","url":"","image":{"path":"sc/news/NG_EAOC_Hired_Muscle/262272_Hired_Muscle.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_Hired_Muscle/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450174976,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Gorilla in una giungla d'asfalto",
+    "content": "Un nuovo tipo di dirigenti è giunto in città e cerca manovalanza! Informa i boss della tua disponibilità a lavorare per loro selezionando ''In cerca di lavoro'' nella sezione Securoserv del menu Interazione. Una volta entrato in un'organizzazione, dimostra il tuo valore guadagnando per il tuo boss negli eventi Freemode e aiutando l'organizzazione nelle nuove modalità Incarico del boss.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_Hired_Muscle/262272_Hired_Muscle.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_Hired_Muscle/.dds",
+        "filesize": 2048
+    }
+}

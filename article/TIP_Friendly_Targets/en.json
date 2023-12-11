@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1394812918,"title":"","headline":"Online Tip","subtitle":"Friendly Targets","content":"When you press down on the d-pad to display the players in your current GTA Online session you may notice small letters on their portrait – this is to let you know that they are a (F)riend or (C)rew mate.<br /><br />Keep your Friends and Crew mates close for an easy life, and remember you can now set Friend Attack Priority via the Interaction Menu, which should help you avoid friendly firing on your allies in the heat of the moment.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Friendly_Targets/262272_FriendlyTargets.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Friendly_Targets/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812918,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Friendly Targets",
+    "content": "When you press down on the d-pad to display the players in your current GTA Online session you may notice small letters on their portrait – this is to let you know that they are a (F)riend or (C)rew mate.<br /><br />Keep your Friends and Crew mates close for an easy life, and remember you can now set Friend Attack Priority via the Interaction Menu, which should help you avoid friendly firing on your allies in the heat of the moment.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Friendly_Targets/262272_FriendlyTargets.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Friendly_Targets/.dds",
+        "filesize": 2048
+    }
+}

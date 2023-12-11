@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442257609,"title":"","headline":"GTA Online","subtitle":"Neue Gegner-Modi","content":"Die neuen Events im Freien Modus haben Dein Verlangen nach Verwüstung nicht gestillt? Probiere diese neuen Gegner-Modi (ab Rang 12):<br /><br />- Hinter feindlichen Linien – Bringe mit Taktik und Feuerkraft dein ganzes Team auf einmal hinter die Feindeslinie und siege.<br /><br />- Hetzjagd – Ein sprengstoffbeladenes Fahrzeug rast durch die Stadt. Ein Team kämpft darum, die Fahrt fortzusetzen, das andere darum, sie zu stoppen. Fährt das Fahrzeug zu langsam, werden die Konsequenzen schrecklich sein.","url":"","image":{"path":"sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free-New-Adversary-Modes/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442257609,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Neue Gegner-Modi",
+    "content": "Die neuen Events im Freien Modus haben Dein Verlangen nach Verwüstung nicht gestillt? Probiere diese neuen Gegner-Modi (ab Rang 12):<br /><br />- Hinter feindlichen Linien – Bringe mit Taktik und Feuerkraft dein ganzes Team auf einmal hinter die Feindeslinie und siege.<br /><br />- Hetzjagd – Ein sprengstoffbeladenes Fahrzeug rast durch die Stadt. Ein Team kämpft darum, die Fahrt fortzusetzen, das andere darum, sie zu stoppen. Fährt das Fahrzeug zu langsam, werden die Konsequenzen schrecklich sein.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/262272_New-Adversary-Modes-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free-New-Adversary-Modes/.dds",
+        "filesize": 2048
+    }
+}

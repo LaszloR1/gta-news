@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515738,"title":"","headline":"GTA Online","subtitle":"Mão na massa","content":"Tornando-se Presidente de um MC, você poderá entrar na fase de produção. Quer você queira lucrar com maconha, cocaína, dinheiro e documentos falsificados ou qualquer coisa, há uma microfábrica artesanal só esperando por uma liderança forte. Gerencie todos os aspectos do esquema. Compre a propriedade, monte o esquema, consiga suprimentos e administre as vendas - como um empreendedor de verdade.","url":"","image":{"path":"sc/news/NG_Bikers_DownToBusiness/262272_Down_to_Business.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_DownToBusiness/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515738,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mão na massa",
+    "content": "Tornando-se Presidente de um MC, você poderá entrar na fase de produção. Quer você queira lucrar com maconha, cocaína, dinheiro e documentos falsificados ou qualquer coisa, há uma microfábrica artesanal só esperando por uma liderança forte. Gerencie todos os aspectos do esquema. Compre a propriedade, monte o esquema, consiga suprimentos e administre as vendas - como um empreendedor de verdade.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_DownToBusiness/262272_Down_to_Business.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_DownToBusiness/.dds",
+        "filesize": 2048
+    }
+}

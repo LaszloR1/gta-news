@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736463,"title":"","headline":"GTA Online","subtitle":"OPERACJE ALS","content":"Wykonaj trzy prywatne zlecenia w ramach operacji ALS, stając do walki ramię w ramię z potężnymi Aniołami Los Santos. Uruchamia się je z nowego panelu operacyjnego, a w każdej z tych misji można zdobyć strój za pierwsze ukończenie oraz premie za losowe cele dodatkowe, które można otrzymać przy każdym kolejnym rozegraniu tych misji.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736463,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "OPERACJE ALS",
+    "content": "Wykonaj trzy prywatne zlecenia w ramach operacji ALS, stając do walki ramię w ramię z potężnymi Aniołami Los Santos. Uruchamia się je z nowego panelu operacyjnego, a w każdej z tych misji można zdobyć strój za pierwsze ukończenie oraz premie za losowe cele dodatkowe, które można otrzymać przy każdym kolejnym rozegraniu tych misji.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/108352f5d1444acea6628715/262272_GTAO_SummerTULaunch_LosSantosOperations_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677133,"title":"GTA+","headline":"GTA+","subtitle":"复仇者操作终端","content":"GTA+µ会员可以免费安装复仇者操作终端，截至µ7µ月µ19µ日。<br /><br />操作终端是一项内部升级，可以解锁“颠覆计划”和“洛圣都天行动”<br /><br />将您的复仇者带到你的机库，查理可以在那里安装复仇者操作终端，或在查理升级菜单中自定义你的复仇者时安装。<br /><br />GTA+µ会员每月自动更新，可随时取消。前往µrsg.ms/gtaplusµ了解更多信息。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_zh_hans.dds","filesize":262272},"button":"选择以注册µGTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677133,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "复仇者操作终端",
+    "content": "GTA+µ会员可以免费安装复仇者操作终端，截至µ7µ月µ19µ日。<br /><br />操作终端是一项内部升级，可以解锁“颠覆计划”和“洛圣都天行动”<br /><br />将您的复仇者带到你的机库，查理可以在那里安装复仇者操作终端，或在查理升级菜单中自定义你的复仇者时安装。<br /><br />GTA+µ会员每月自动更新，可随时取消。前往µrsg.ms/gtaplusµ了解更多信息。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/614511fb13034b269b764d64/262272_GTAPLUSTab_OperationsTerminal_FINAL_BigFeed_R02_zh_hans.dds",
+        "filesize": 262272
+    },
+    "button": "选择以注册µGTA+"
+}

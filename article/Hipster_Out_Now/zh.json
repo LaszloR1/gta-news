@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1402996217,"headline":"GTA 線上模式更新","subtitle":"''自以為潮''內容更新現已推出","content":"利用''自以為潮''內容更新，秀出您的個人風格，讓米羅公園的潮客們相形失色！''自以為潮''內容更新主要強打內容有全新的復刻圖案 T 恤、超緊繃緊身牛仔褲、髮型、諷刺，後諷刺，非諷刺風格的刺青、動物造型面具等。<br />您還有七種獨特的載具可以選擇，包括懷舊復古的格倫戴爾、刀鋒獵人和狂想曲等車輛。<br /><br />就連武裝國度也興起一股最新流行的非諷刺風格，現在店裡除了有復古手槍以外，還有古董騎兵匕首。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1402996217,
+    "headline": "GTA 線上模式更新",
+    "subtitle": "''自以為潮''內容更新現已推出",
+    "content": "利用''自以為潮''內容更新，秀出您的個人風格，讓米羅公園的潮客們相形失色！''自以為潮''內容更新主要強打內容有全新的復刻圖案 T 恤、超緊繃緊身牛仔褲、髮型、諷刺，後諷刺，非諷刺風格的刺青、動物造型面具等。<br />您還有七種獨特的載具可以選擇，包括懷舊復古的格倫戴爾、刀鋒獵人和狂想曲等車輛。<br /><br />就連武裝國度也興起一股最新流行的非諷刺風格，現在店裡除了有復古手槍以外，還有古董騎兵匕首。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Hipster_Out_Now/65664_Hipster_Landscape.dds",
+        "filesize": 65664
+    }
+}

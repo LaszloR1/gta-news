@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515826,"title":"","headline":"GTA Online","subtitle":"Wrzuć wyższy (wy)bieg","content":"Kolczaste kaski, dżinsowe kamizelki, nowe chusty, łańcuchy i czachy, gogle oraz wiele innych akcesoriów i skórzanych elementów odzieży znanych człowiekowi. Jeśli coś odjazdowo wygląda na motocyklu, to na pewno to mamy. A oprócz tego czekają na Ciebie nowe fryzury i tatuaże.","url":"","image":{"path":"sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChangeGear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515826,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wrzuć wyższy (wy)bieg",
+    "content": "Kolczaste kaski, dżinsowe kamizelki, nowe chusty, łańcuchy i czachy, gogle oraz wiele innych akcesoriów i skórzanych elementów odzieży znanych człowiekowi. Jeśli coś odjazdowo wygląda na motocyklu, to na pewno to mamy. A oprócz tego czekają na Ciebie nowe fryzury i tatuaże.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChangeGear/.dds",
+        "filesize": 2048
+    }
+}

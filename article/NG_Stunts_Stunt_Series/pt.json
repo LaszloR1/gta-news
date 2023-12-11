@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1468324935,"title":"","headline":"GTA Online","subtitle":"Manobras em Série","content":"O tempo é precioso, especialmente em Los Santos, então aqui vai uma forma de conseguir acesso instantâneo a novas Corridas Acrobáticas cheias de loucos viciados em adrenalina como você. Fique de olho nos ícones rosas de Manobras em Série no seu radar: entre em um para ser levado direto para o coração do caos.  ","url":"","image":{"path":"sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Stunt_Series/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1468324935,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Manobras em Série",
+    "content": "O tempo é precioso, especialmente em Los Santos, então aqui vai uma forma de conseguir acesso instantâneo a novas Corridas Acrobáticas cheias de loucos viciados em adrenalina como você. Fique de olho nos ícones rosas de Manobras em Série no seu radar: entre em um para ser levado direto para o coração do caos.  ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/262272_Stunt_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Stunt_Series/.dds",
+        "filesize": 2048
+    }
+}

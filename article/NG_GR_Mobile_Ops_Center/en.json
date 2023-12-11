@@ -1,1 +1,20 @@
-{"types":["transition"],"date":1496917642,"title":"","headline":"GTA Online","subtitle":"Mobile Operations Center","content":"The Mobile Operations Center offers the kind of tactical advantage usually enjoyed only by trained assassins or rogue nuclear states. Its modular construction provides luxury living quarters, a command center, vehicle storage, a weapon workshop, and a mod shop with facilities for modifying Weaponized Vehicles – all at your fingertips. Once you’re the proud owner of a bunker, head to Warstock Cache and Carry and start your very own MOC build today.","url":"","image":{"path":"sc/news/NG_GR_Mobile_Ops_Center/262272_MobileOperationsCenter.dds","filesize":262272},"landscape":{"path":"sc/news/NG_GR_Mobile_Ops_Center/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1496917642,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Mobile Operations Center",
+    "content": "The Mobile Operations Center offers the kind of tactical advantage usually enjoyed only by trained assassins or rogue nuclear states. Its modular construction provides luxury living quarters, a command center, vehicle storage, a weapon workshop, and a mod shop with facilities for modifying Weaponized Vehicles – all at your fingertips. Once you’re the proud owner of a bunker, head to Warstock Cache and Carry and start your very own MOC build today.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_GR_Mobile_Ops_Center/262272_MobileOperationsCenter.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_GR_Mobile_Ops_Center/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469748,"headline":"Consejo en línea","subtitle":"Carrera GTA","content":"Si las carreras te gustan tanto como hacer trampas, prueba una carrera GTA. Los objetos para recoger te ayudarán a batir a todo el que se atreva siquiera a desafiarte.<br /><br />Convierte cualquier carrera en una carrera GTA o una carrera GTA por equipos a través de las opciones de la sala de una carrera.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469748,
+    "headline": "Consejo en línea",
+    "subtitle": "Carrera GTA",
+    "content": "Si las carreras te gustan tanto como hacer trampas, prueba una carrera GTA. Los objetos para recoger te ayudarán a batir a todo el que se atreva siquiera a desafiarte.<br /><br />Convierte cualquier carrera en una carrera GTA o una carrera GTA por equipos a través de las opciones de la sala de una carrera.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140171,"title":"GTA+","headline":"GTA+","subtitle":"限定の衣料品","content":"GTA+メンバーは11月8日までに次の衣料品を手に入れて、おどろおどろしい格好で街の人々を怖がらせましょう:<br /><br />-µモノクロストライプ前閉じスーツ<br />-µスケルトン・ボディスーツ<br />-µPRBµTシャツ<br />-µPRBショートパンツ<br />-µPRBパーカー<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_ja_jp.dds","filesize":262272},"button":"選択してGTA+に登録"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140171,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "限定の衣料品",
+    "content": "GTA+メンバーは11月8日までに次の衣料品を手に入れて、おどろおどろしい格好で街の人々を怖がらせましょう:<br /><br />-µモノクロストライプ前閉じスーツ<br />-µスケルトン・ボディスーツ<br />-µPRBµTシャツ<br />-µPRBショートパンツ<br />-µPRBパーカー<br /><br />GTA+メンバーシップは毎月自動的に更新され、いつでもキャンセル可能です。詳細はrsg.ms/gtaplusをご確認ください。",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9ffaba4d9bf64e2ea1e35d04/262272_GTAOPLUS_MP19_FreeClothing_FINAL_BigFeed_V1_ja_jp.dds",
+        "filesize": 262272
+    },
+    "button": "選択してGTA+に登録"
+}

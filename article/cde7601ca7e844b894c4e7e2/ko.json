@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1652365335,"title":"","headline":"GTA 온라인","subtitle":"할인","content":"이번 주, 매머드 쓰러스터가 30% 할인됩니다. <br /><br />또한, 다양한 할인으로 여러분의 이동 수단을 늘려보세요:<br /><br />- 디클라스 스크램제트 - 40% 할인<br />- 침입과 설득 탱크 - 40% 할인<br />- 바피드 슬램트럭 - 40% 할인<br />- 알바니 마나나 커스텀 - 30% 할인<br /><br />그 외 다양한 혜택이 있습니다! 자세한 정보는 Rockstar 뉴스와이어에서 확인하세요.","url":"","image":{"path":"sc/news/cde7601ca7e844b894c4e7e2/262272_262272_GTAO_IslandHeist_BigFeed_Vapid.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1652365335,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "할인",
+    "content": "이번 주, 매머드 쓰러스터가 30% 할인됩니다. <br /><br />또한, 다양한 할인으로 여러분의 이동 수단을 늘려보세요:<br /><br />- 디클라스 스크램제트 - 40% 할인<br />- 침입과 설득 탱크 - 40% 할인<br />- 바피드 슬램트럭 - 40% 할인<br />- 알바니 마나나 커스텀 - 30% 할인<br /><br />그 외 다양한 혜택이 있습니다! 자세한 정보는 Rockstar 뉴스와이어에서 확인하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/cde7601ca7e844b894c4e7e2/262272_262272_GTAO_IslandHeist_BigFeed_Vapid.dds",
+        "filesize": 262272
+    }
+}

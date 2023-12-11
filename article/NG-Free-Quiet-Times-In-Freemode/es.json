@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313471,"title":"","headline":"GTA Online","subtitle":"Tranquilidad en el modo Libre","content":"Si prefieres la tranquilidad, puedes personalizar tu experiencia del modo Libre para omitir eventos y actividades concretas. Accede a Ocultar iconos en el menú Interacción y decide ocultar o mostrar cada opción. Al ocultar un evento o actividad cancelarás sus notificaciones para poder jugar sin interrupciones. Si más adelante echas de menos la diversión de estos eventos y actividades, podrás volver a activarlos cuando quieras.","url":"","image":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Quiet-Times-In-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313471,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Tranquilidad en el modo Libre",
+    "content": "Si prefieres la tranquilidad, puedes personalizar tu experiencia del modo Libre para omitir eventos y actividades concretas. Accede a Ocultar iconos en el menú Interacción y decide ocultar o mostrar cada opción. Al ocultar un evento o actividad cancelarás sus notificaciones para poder jugar sin interrupciones. Si más adelante echas de menos la diversión de estos eventos y actividades, podrás volver a activarlos cuando quieras.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/262272_Quiet-Times-In-Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Quiet-Times-In-Freemode/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"Zeige, was du fühlst","content":"Jetzt ist der richtige Zeitpunkt, um frischen Wind in deinen Kleiderschrank zu bringen, damit du beim nächsten Auto-Treffen entsprechend rausgeputzt bist. Von Lowrider-Street- bis hin zu Arbeitsklamotten gibt es reichlich neue Kleidungsstücke, die du anprobieren kannst. Auch in den Tattoo-Studios in ganz Los Santos gibt es neue Motive. Oder gönne dir einen neuen Haarschnitt, um im Trend zu bleiben.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Zeige, was du fühlst",
+    "content": "Jetzt ist der richtige Zeitpunkt, um frischen Wind in deinen Kleiderschrank zu bringen, damit du beim nächsten Auto-Treffen entsprechend rausgeputzt bist. Von Lowrider-Street- bis hin zu Arbeitsklamotten gibt es reichlich neue Kleidungsstücke, die du anprobieren kannst. Auch in den Tattoo-Studios in ganz Los Santos gibt es neue Motive. Oder gönne dir einen neuen Haarschnitt, um im Trend zu bleiben.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

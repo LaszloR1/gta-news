@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1402998616,"headline":"Mise à jour GTA Online","subtitle":"Nouveau véhicule : Declasse Rhapsody","content":"Quoi de plus post-ironique qu'une voiture américaine rétro-futuriste acidulée ? Petite, mais pourvue d'une grande lunette arrière pour vous permettre d'exposer votre chignon de samurai et de prendre de beaux panoramiques Snapmatic.<br /><br />Disponible dès maintenant sur SouthernSanAndreasSuperAutos.com et en vedette dans la nouvelle course de la mise à jour 'Hipster toi-même !' : 'Compactement cool'.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Introducing_Declasse_Rhapsody/65664_Rhapsody.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1402998616,
+    "headline": "Mise à jour GTA Online",
+    "subtitle": "Nouveau véhicule : Declasse Rhapsody",
+    "content": "Quoi de plus post-ironique qu'une voiture américaine rétro-futuriste acidulée ? Petite, mais pourvue d'une grande lunette arrière pour vous permettre d'exposer votre chignon de samurai et de prendre de beaux panoramiques Snapmatic.<br /><br />Disponible dès maintenant sur SouthernSanAndreasSuperAutos.com et en vedette dans la nouvelle course de la mise à jour 'Hipster toi-même !' : 'Compactement cool'.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Introducing_Declasse_Rhapsody/65664_Rhapsody.dds",
+        "filesize": 65664
+    }
+}

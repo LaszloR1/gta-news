@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314079,"title":"","headline":"GTA Online","subtitle":"Eventos de Modo Livre","content":"Ao viajar por Los Santos, procure por um novo estilo de ícone roxo que indica um outro tipo de Evento de Modo Livre.<br />Eles podem variar entre Alvos em Movimento que exigem uma execução rápida; um Rei do Castelo no qual você precisará lutar para controlar uma área; uma Lista Negra em que veículos específicos serão usados para batalhar contra forças da Merryweather e muito mais. Aproxime-se de qualquer evento para poder participar.","url":"","image":{"path":"sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode-Events/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314079,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Eventos de Modo Livre",
+    "content": "Ao viajar por Los Santos, procure por um novo estilo de ícone roxo que indica um outro tipo de Evento de Modo Livre.<br />Eles podem variar entre Alvos em Movimento que exigem uma execução rápida; um Rei do Castelo no qual você precisará lutar para controlar uma área; uma Lista Negra em que veículos específicos serão usados para batalhar contra forças da Merryweather e muito mais. Aproxime-se de qualquer evento para poder participar.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode-Events/262272_Freemode-Events-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode-Events/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,20 @@
-{"types":["store"],"date":1380466704,"title":"","headline":"線上小訣竅","subtitle":"梅利威瑟保全顧問","content":"急需火力支援？需要友善的交通服務？需要直升機支援？或者也許您只是想給幾個該死的敵人一點顏色看看？快打電話找梅利威瑟保全顧問。您可以信賴的保全服務 / 私人軍隊。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Merryweather_Security/.dds","filesize":2048},"style":"gta"}
+{
+    "types": [
+        "store"
+    ],
+    "date": 1380466704,
+    "title": "",
+    "headline": "線上小訣竅",
+    "subtitle": "梅利威瑟保全顧問",
+    "content": "急需火力支援？需要友善的交通服務？需要直升機支援？或者也許您只是想給幾個該死的敵人一點顏色看看？快打電話找梅利威瑟保全顧問。您可以信賴的保全服務 / 私人軍隊。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Merryweather_Security/262272_MerryweatherSecurity.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Merryweather_Security/.dds",
+        "filesize": 2048
+    },
+    "style": "gta"
+}

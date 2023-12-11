@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380470550,"title":"","headline":"Astuce en ligne","subtitle":"Crews","content":"Si vous avez envie de jouer en groupe, rendez-vous sur le site du Rockstar Games Social Club pour trouver un crew actif qui accepte des membres et faites-vous de nouveaux alliés pour affronter d'autres crews. Au sein d'un crew, vous pouvez améliorer votre réputation, gagner de l'argent en participant à des activités avec les autres membres et débloquer des bonus spéciaux quand le niveau de votre crew augmente. Vous pouvez même créer un crew privé pour semer la pagaille entre amis.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Crews/262272_Crews.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Crews/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380470550,
+    "title": "",
+    "headline": "Astuce en ligne",
+    "subtitle": "Crews",
+    "content": "Si vous avez envie de jouer en groupe, rendez-vous sur le site du Rockstar Games Social Club pour trouver un crew actif qui accepte des membres et faites-vous de nouveaux alliés pour affronter d'autres crews. Au sein d'un crew, vous pouvez améliorer votre réputation, gagner de l'argent en participant à des activités avec les autres membres et débloquer des bonus spéciaux quand le niveau de votre crew augmente. Vous pouvez même créer un crew privé pour semer la pagaille entre amis.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Crews/262272_Crews.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Crews/.dds",
+        "filesize": 2048
+    }
+}

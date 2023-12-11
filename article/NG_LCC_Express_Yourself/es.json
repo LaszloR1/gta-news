@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"Crea tendencias","content":"Es el momento de actualizar tu armario con un montón de ropa nueva que te dará un aspecto renovado en tu próxima reunión. Desde ropa de calle lowrider a ropa de trabajo, hay montones de cosas nuevas para probarse. También hay nuevos tatuajes disponibles en los salones de todo Los Santos, así como nuevos peinados para estar a la última.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Crea tendencias",
+    "content": "Es el momento de actualizar tu armario con un montón de ropa nueva que te dará un aspecto renovado en tu próxima reunión. Desde ropa de calle lowrider a ropa de trabajo, hay montones de cosas nuevas para probarse. También hay nuevos tatuajes disponibles en los salones de todo Los Santos, así como nuevos peinados para estar a la última.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140182,"title":"GTA+","headline":"GTA+","subtitle":"사무소 무기고","content":"GTA+ 회원은 11월 8일까지 무료 무기고를 추가하여 할인된 가격으로 무기를 구입하고, Mk II 업그레이드로 무기를 개조하고, 탄약(회원 전용 75% 할인), 방탄복, 낙하산, 수중 호흡기, 야간투시경과 같은 중요한 장비를 구입해 사무소의 편의 시설을 업그레이드할 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하십시오.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_ko_kr.dds","filesize":262272},"button":"GTA+에 가입하려면 선택하기"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140182,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "사무소 무기고",
+    "content": "GTA+ 회원은 11월 8일까지 무료 무기고를 추가하여 할인된 가격으로 무기를 구입하고, Mk II 업그레이드로 무기를 개조하고, 탄약(회원 전용 75% 할인), 방탄복, 낙하산, 수중 호흡기, 야간투시경과 같은 중요한 장비를 구입해 사무소의 편의 시설을 업그레이드할 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하십시오.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "GTA+에 가입하려면 선택하기"
+}

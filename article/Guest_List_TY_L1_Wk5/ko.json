@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1530635617,"title":"게스트 리스트 혜택","headline":"게스트 리스트 혜택","subtitle":"리스트에 이름이 있으시군요!","content":"이제 이번 주의 특별 게스트 리스트 보상을 이용할 수 있습니다:<br /><br />- 100,000 GTA 달러 현금 선물<br />- 테크놀로지 티<br />- HVY 나이트샤크 방탄 차량 무료<br />- 무기화 가능한 우베르막트 리볼터 스포츠카 무료<br />- 나이트샤크와 리볼터의 특별한 상징 ''핑크 & 그린 카모''와 ''세산타 노브 멀티 컬러''<br /><br />게스트 리스트에 참가해주셔서 감사합니다. 로스 산토스에 찾아올 다음 행사가 궁금하다면 Rockstar 뉴스와이어를 주목해 주십시오.","url":"","image":{"path":"sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_KOR.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1530635617,
+    "title": "게스트 리스트 혜택",
+    "headline": "게스트 리스트 혜택",
+    "subtitle": "리스트에 이름이 있으시군요!",
+    "content": "이제 이번 주의 특별 게스트 리스트 보상을 이용할 수 있습니다:<br /><br />- 100,000 GTA 달러 현금 선물<br />- 테크놀로지 티<br />- HVY 나이트샤크 방탄 차량 무료<br />- 무기화 가능한 우베르막트 리볼터 스포츠카 무료<br />- 나이트샤크와 리볼터의 특별한 상징 ''핑크 & 그린 카모''와 ''세산타 노브 멀티 컬러''<br /><br />게스트 리스트에 참가해주셔서 감사합니다. 로스 산토스에 찾아올 다음 행사가 궁금하다면 Rockstar 뉴스와이어를 주목해 주십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Guest_List_TY_L1_Wk5/349672_bigfeed-guestlist-V3_KOR.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

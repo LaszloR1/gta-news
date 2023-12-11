@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543351,"title":"","headline":"GTA Online","subtitle":"Работа босса","content":"Если вы приобрели технику на сайте Warstock, ваша организация получит доступ к новой работе босса. Шеф может выбрать ее в меню взаимодействий. Каждое такое задание связано с уникальными особенностями соответствующей модели транспорта.","url":"","image":{"path":"sc/news/NG_IE_VIP_Works/262272_vipworks.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_VIP_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543351,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Работа босса",
+    "content": "Если вы приобрели технику на сайте Warstock, ваша организация получит доступ к новой работе босса. Шеф может выбрать ее в меню взаимодействий. Каждое такое задание связано с уникальными особенностями соответствующей модели транспорта.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_VIP_Works/262272_vipworks.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_VIP_Works/.dds",
+        "filesize": 2048
+    }
+}

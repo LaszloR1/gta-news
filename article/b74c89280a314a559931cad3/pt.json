@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"SMG TÁTICA","content":"Boas notícias: seu traficante de armas da vizinhança está na cidade com uma caçamba de agrados não-tão-dentro-da-lei. <br /><br />Confira o estoque dele ainda hoje e adquira a SMG Tática, uma arma de alta capacidade que está presente no arsenal de todos os mestres das armas decentes. Já disponível na Van de Arsenal.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SMG TÁTICA",
+    "content": "Boas notícias: seu traficante de armas da vizinhança está na cidade com uma caçamba de agrados não-tão-dentro-da-lei. <br /><br />Confira o estoque dele ainda hoje e adquira a SMG Tática, uma arma de alta capacidade que está presente no arsenal de todos os mestres das armas decentes. Já disponível na Van de Arsenal.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b74c89280a314a559931cad3/262272_GTAO_SummerTULaunch_TacticalSMG_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

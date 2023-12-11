@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1535466197,"title":"","headline":"GTA Online","subtitle":"HVY Menacer","content":"We all know it’s a jungle out there - but if you’re going on safari in downtown Los Santos you’ll need a whole lot more than an open-top truck and a sense of entitlement to survive. With that mind, the HVY Menacer is just the kind of impregnable engine of death that’ll keep you safe, while leaving every survivor with something to thousand-yard stare about.","url":"","image":{"path":"sc/news/8v4_AH_Menacer/349672_HEAVYMENACER.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1535466197,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HVY Menacer",
+    "content": "We all know it’s a jungle out there - but if you’re going on safari in downtown Los Santos you’ll need a whole lot more than an open-top truck and a sense of entitlement to survive. With that mind, the HVY Menacer is just the kind of impregnable engine of death that’ll keep you safe, while leaving every survivor with something to thousand-yard stare about.",
+    "url": "",
+    "image": {
+        "path": "sc/news/8v4_AH_Menacer/349672_HEAVYMENACER.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

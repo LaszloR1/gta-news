@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1399991727,"headline":"Astuce en ligne","subtitle":"Faites-vous entendre !","content":"Mettez un micro-casque pour profiter pleinement de votre expérience GTA Online et vous faire de nouveaux amis avec qui écumer Los Santos.<br /><br />L'icône de haut-parleur qui s'affiche à côté du nom d'un joueur indique qu'il dispose d'un micro-casque. Mais n'ayez crainte, vous pouvez bloquer ceux qui vous agacent en sélectionnant ‘Muet’ sur leur fiche de joueur, accessible depuis le menu En ligne > Joueurs.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399991727,
+    "headline": "Astuce en ligne",
+    "subtitle": "Faites-vous entendre !",
+    "content": "Mettez un micro-casque pour profiter pleinement de votre expérience GTA Online et vous faire de nouveaux amis avec qui écumer Los Santos.<br /><br />L'icône de haut-parleur qui s'affiche à côté du nom d'un joueur indique qu'il dispose d'un micro-casque. Mais n'ayez crainte, vous pouvez bloquer ceux qui vous agacent en sélectionnant ‘Muet’ sur leur fiche de joueur, accessible depuis le menu En ligne > Joueurs.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Make_Yourself_Heard/65664_Whispering_In_Your_Ear.dds",
+        "filesize": 65664
+    }
+}

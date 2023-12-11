@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1652365335,"title":"","headline":"GTA Online","subtitle":"Discounts","content":"This week, get 30% off the Mammoth Thruster Jetpack. <br /><br />Plus, diversify your fleet of vehicles, with an array of discounts, including:<br /><br />- Declasse Scramjet – 40% off<br />- Invade and Persuade Tank – 40% off<br />- Vapid Slamtruck – 40% off<br />- Albany Manana Custom – 30% off<br /><br />And More! Check out Rockstar Newswire for more details.","url":"","image":{"path":"sc/news/cde7601ca7e844b894c4e7e2/262272_262272_GTAO_IslandHeist_BigFeed_Vapid.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1652365335,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Discounts",
+    "content": "This week, get 30% off the Mammoth Thruster Jetpack. <br /><br />Plus, diversify your fleet of vehicles, with an array of discounts, including:<br /><br />- Declasse Scramjet – 40% off<br />- Invade and Persuade Tank – 40% off<br />- Vapid Slamtruck – 40% off<br />- Albany Manana Custom – 30% off<br /><br />And More! Check out Rockstar Newswire for more details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/cde7601ca7e844b894c4e7e2/262272_262272_GTAO_IslandHeist_BigFeed_Vapid.dds",
+        "filesize": 262272
+    }
+}

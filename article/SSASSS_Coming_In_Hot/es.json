@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1521543832,"title":"","headline":"GTA Online","subtitle":"Novedades","content":"En los concesionarios de Los Santos encontrarás nuevos coches imprescindibles para tu garaje. Abraza la elegancia de la ranchera Vulcar Fagaloa, la furia exquisita del Overflod Entity XXR y, si buscas algo menos refinado, date un capricho con el Declasse Hotring Sabre.","url":"","image":{"path":"sc/news/SSASSS_Coming_In_Hot/349672_bigfeed-hotring.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1521543832,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novedades",
+    "content": "En los concesionarios de Los Santos encontrarás nuevos coches imprescindibles para tu garaje. Abraza la elegancia de la ranchera Vulcar Fagaloa, la furia exquisita del Overflod Entity XXR y, si buscas algo menos refinado, date un capricho con el Declasse Hotring Sabre.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Coming_In_Hot/349672_bigfeed-hotring.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

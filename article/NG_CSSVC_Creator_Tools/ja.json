@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490356057,"title":"","headline":"GTA Online","subtitle":"スタントレースクリエイターで特殊車両が使用可能に","content":"「特殊車両サーキット」アップデートでロックスターコミュニティのみなさんに楽しんでいただけるツールがさらに増えました。ロケットヴォルティック、ルイナー2000、ブレイザーアクアがスタントレースクリエイターで使用できるようになっただけでなく、これらの車両の特殊能力を引き出す新たな小道具(ハードル、ブーストリフィラー、爆発性の箱など)も追加されました。","url":"","image":{"path":"sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CSSVC_Creator_Tools/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490356057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "スタントレースクリエイターで特殊車両が使用可能に",
+    "content": "「特殊車両サーキット」アップデートでロックスターコミュニティのみなさんに楽しんでいただけるツールがさらに増えました。ロケットヴォルティック、ルイナー2000、ブレイザーアクアがスタントレースクリエイターで使用できるようになっただけでなく、これらの車両の特殊能力を引き出す新たな小道具(ハードル、ブーストリフィラー、爆発性の箱など)も追加されました。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/.dds",
+        "filesize": 2048
+    }
+}

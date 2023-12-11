@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978088,"title":"","headline":"GTA Online","subtitle":"Segui il leader","content":"Il leader dà il via al colpo dal proprio appartamento di lusso. Poiché anticipa le spese di preparazione, ha il controllo su composizione della squadra e ripartizione dei ricavi; inoltre, i progressi sono salvati sul suo profilo.<br /><br />Non devi essere il leader per poter giocare, ma devi aver completato un colpo come leader se vuoi essere in grado di avviare il colpo successivo.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Follow_The_Leader/262272_Follow-The-Leader.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Follow_The_Leader/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978088,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Segui il leader",
+    "content": "Il leader dà il via al colpo dal proprio appartamento di lusso. Poiché anticipa le spese di preparazione, ha il controllo su composizione della squadra e ripartizione dei ricavi; inoltre, i progressi sono salvati sul suo profilo.<br /><br />Non devi essere il leader per poter giocare, ma devi aver completato un colpo come leader se vuoi essere in grado di avviare il colpo successivo.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Follow_The_Leader/262272_Follow-The-Leader.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Follow_The_Leader/.dds",
+        "filesize": 2048
+    }
+}

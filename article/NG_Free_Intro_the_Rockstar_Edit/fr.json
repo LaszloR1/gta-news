@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314656,"title":"","headline":"GTA Online","subtitle":"Nouveauté : Éditeur Rockstar","content":"Enregistrez et éditez des vidéos de Grand Theft Auto V et Grand Theft Auto Online grâce à l'Éditeur Rockstar, puis partagez-les sur YouTube et le Rockstar Games Social Club.<br /><br />Vous devez terminer la mission ''Franklin et Lamar'' pour débloquer le mode Réalisateur. Enregistrez des séquences en vous servant des modes Manuel ou Replay, puis lancez l'Éditeur Rockstar depuis le menu Pause pour modifier et créer vos vidéos en vous servant de vos séquences enregistrées.","url":"","image":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouveauté : Éditeur Rockstar",
+    "content": "Enregistrez et éditez des vidéos de Grand Theft Auto V et Grand Theft Auto Online grâce à l'Éditeur Rockstar, puis partagez-les sur YouTube et le Rockstar Games Social Club.<br /><br />Vous devez terminer la mission ''Franklin et Lamar'' pour débloquer le mode Réalisateur. Enregistrez des séquences en vous servant des modes Manuel ou Replay, puis lancez l'Éditeur Rockstar depuis le menu Pause pour modifier et créer vos vidéos en vous servant de vos séquences enregistrées.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314655,"title":"","headline":"GTA Online","subtitle":"Introducing the Rockstar Editor","content":"Record and edit videos of your Grand Theft Auto V and Grand Theft Auto Online experiences with the Rockstar Editor, then share them with friends on YouTube and the Rockstar Games Social Club.<br /><br />You must have completed the Franklin and Lamar mission to unlock Director Mode. Capture clips using Manual or Action Replay recording modes, then enter the Rockstar Editor through the Pause Menu to start editing and creating videos with your recorded clips.","url":"","image":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314655,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Introducing the Rockstar Editor",
+    "content": "Record and edit videos of your Grand Theft Auto V and Grand Theft Auto Online experiences with the Rockstar Editor, then share them with friends on YouTube and the Rockstar Games Social Club.<br /><br />You must have completed the Franklin and Lamar mission to unlock Director Mode. Capture clips using Manual or Action Replay recording modes, then enter the Rockstar Editor through the Pause Menu to start editing and creating videos with your recorded clips.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds",
+        "filesize": 2048
+    }
+}

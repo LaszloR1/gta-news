@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1633693375,"title":"","headline":"GTA Online","subtitle":"Новый транспорт на тестовой трассе: Pfister Growler, Vapid Dominator GTT и Dinka RT3000","content":"Если вы подыскиваете новенький автомобиль, отправляйтесь на тестовую трассу автоклуба ЛС: на этой неделе вас ждут Pfister Growler, Vapid Dominator GTT и Dinka RT3000. Прокатитесь вдоль разметки, примите участие в испытании на время или же бросьте вызов другим водителям в дружеской гонке-схватке.","url":"","image":{"path":"sc/news/8ca0e5633ef84289872e15d9/262272_GTAO_Event268_TestRide_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1633693375,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Новый транспорт на тестовой трассе: Pfister Growler, Vapid Dominator GTT и Dinka RT3000",
+    "content": "Если вы подыскиваете новенький автомобиль, отправляйтесь на тестовую трассу автоклуба ЛС: на этой неделе вас ждут Pfister Growler, Vapid Dominator GTT и Dinka RT3000. Прокатитесь вдоль разметки, примите участие в испытании на время или же бросьте вызов другим водителям в дружеской гонке-схватке.",
+    "url": "",
+    "image": {
+        "path": "sc/news/8ca0e5633ef84289872e15d9/262272_GTAO_Event268_TestRide_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

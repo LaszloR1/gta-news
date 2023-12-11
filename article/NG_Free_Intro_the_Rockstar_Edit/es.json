@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442314656,"title":"","headline":"GTA Online","subtitle":"Presentamos el editor Rockstar","content":"Graba y edita vídeos de tus partidas de Grand Theft Auto V y de Grand Theft Auto Online con el editor Rockstar y compártelos con tus amigos a través de YouTube y del Social Club de Rockstar Games.<br /><br />Debes completar la misión de Franklin y Lamar para desbloquear el modo director. Graba clips utilizando el modo de grabación manual o el de repetición rápida y entra en el editor Rockstar a través del menú de pausa para empezar a editar y crear vídeos con los clips que hayas grabado.","url":"","image":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442314656,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Presentamos el editor Rockstar",
+    "content": "Graba y edita vídeos de tus partidas de Grand Theft Auto V y de Grand Theft Auto Online con el editor Rockstar y compártelos con tus amigos a través de YouTube y del Social Club de Rockstar Games.<br /><br />Debes completar la misión de Franklin y Lamar para desbloquear el modo director. Graba clips utilizando el modo de grabación manual o el de repetición rápida y entra en el editor Rockstar a través del menú de pausa para empezar a editar y crear vídeos con los clips que hayas grabado.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/262272_Editor.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Free_Intro_the_Rockstar_Edit/.dds",
+        "filesize": 2048
+    }
+}

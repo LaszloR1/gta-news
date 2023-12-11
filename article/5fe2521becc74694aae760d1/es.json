@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1699542332,"title":"GTA+","headline":"GTA+","subtitle":"Salón recreativo","content":"Los miembros de GTA+ pueden solicitar la propiedad Warehouse, Davis gratis hasta el 11 de diciembre.<br /><br />Los miembros pueden utilizar el almacén para montar su propio salón recreativo con máquinas recreativas retro del sitio web de Pixel Emporium, accesible a través del portátil situado en la oficina del salón recreativo.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/5fe2521becc74694aae760d1/262272_GTA_MP20_ArcadeBenefits_FINAL_BigFeed_es_es.dds","filesize":262272},"button":"Selecciona para suscribirte a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1699542332,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Salón recreativo",
+    "content": "Los miembros de GTA+ pueden solicitar la propiedad Warehouse, Davis gratis hasta el 11 de diciembre.<br /><br />Los miembros pueden utilizar el almacén para montar su propio salón recreativo con máquinas recreativas retro del sitio web de Pixel Emporium, accesible a través del portátil situado en la oficina del salón recreativo.<br /><br />La suscripción a GTA+ se renueva automáticamente cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/5fe2521becc74694aae760d1/262272_GTA_MP20_ArcadeBenefits_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+"
+}

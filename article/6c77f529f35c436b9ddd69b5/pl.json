@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736474,"title":"","headline":"GTA Online","subtitle":"KROK PO KROKU","content":"Chcesz wejść na wyższy poziom? Spędź nieco więcej czasu z jedyną osobą, która ma znaczenie, czyli ze sobą. Śledź własną drogę na szczyt i podziwiaj swoje sukcesy za pomocą sekcji Postępy kariery. To nowy sposób, żeby dowieść swej reputacji najbardziej utalentowanego szefa przestępczości Los Santos.<br /><br />Sprawdź menu Postępy kariery, aby dowiedzieć się więcej.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_CAREER_HUB arg=NONE","image":{"path":"sc/news/6c77f529f35c436b9ddd69b5/262272_GTAO_SummerTULaunch_SecuroservHoodie_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736474,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "KROK PO KROKU",
+    "content": "Chcesz wejść na wyższy poziom? Spędź nieco więcej czasu z jedyną osobą, która ma znaczenie, czyli ze sobą. Śledź własną drogę na szczyt i podziwiaj swoje sukcesy za pomocą sekcji Postępy kariery. To nowy sposób, żeby dowieść swej reputacji najbardziej utalentowanego szefa przestępczości Los Santos.<br /><br />Sprawdź menu Postępy kariery, aby dowiedzieć się więcej.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_CAREER_HUB arg=NONE",
+    "image": {
+        "path": "sc/news/6c77f529f35c436b9ddd69b5/262272_GTAO_SummerTULaunch_SecuroservHoodie_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

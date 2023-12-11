@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880017,"title":"","headline":"GTA Online","subtitle":"あなただけのスタントレースを作成しましょう","content":"レースクリエイターにトランスフォームレースが新登場。これで陸、海、空の全てを使った過酷な競争が開催できるようになりました。おしゃれなエアゲートや摩天楼さえ小さく見えるスタントチューブなど、新たなスタント小道具を用意しましたので、今まで以上に大胆でデンジャラスなレースを作成しましょう！","url":"","image":{"path":"sc/news/SR_Cunning_Stunts/349672_bigfeed-transform-races-512x1024-V1.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880017,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "あなただけのスタントレースを作成しましょう",
+    "content": "レースクリエイターにトランスフォームレースが新登場。これで陸、海、空の全てを使った過酷な競争が開催できるようになりました。おしゃれなエアゲートや摩天楼さえ小さく見えるスタントチューブなど、新たなスタント小道具を用意しましたので、今まで以上に大胆でデンジャラスなレースを作成しましょう！",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cunning_Stunts/349672_bigfeed-transform-races-512x1024-V1.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

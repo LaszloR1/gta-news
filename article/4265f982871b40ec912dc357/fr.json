@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1686677116,"title":"GTA+","headline":"GTA+","subtitle":"Promotions sur le Mammoth Avenger","content":"Les abonnés à GTA+ peuvent battre Merryweather à leur propre jeu grâce à -40µ% sur les améliorations et modifications de l'Avenger jusqu'au 19/07.<br /><br />Quoi de mieux qu'une forteresse volante dotée d'un système de décollage vertical et capable de tout anéantirµ? Une forteresse volante dotée d'un système de décollage vertical, d'un labo d'armes expérimentales et d'un terminal d'opérations.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_fr_fr.dds","filesize":262272},"button":"Abonnez-vous à GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1686677116,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Promotions sur le Mammoth Avenger",
+    "content": "Les abonnés à GTA+ peuvent battre Merryweather à leur propre jeu grâce à -40µ% sur les améliorations et modifications de l'Avenger jusqu'au 19/07.<br /><br />Quoi de mieux qu'une forteresse volante dotée d'un système de décollage vertical et capable de tout anéantirµ? Une forteresse volante dotée d'un système de décollage vertical, d'un labo d'armes expérimentales et d'un terminal d'opérations.<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois et annulable à tout moment. Infosµ: rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/4265f982871b40ec912dc357/262272_GTAPLUSTab_AvengerBeautySot_FINAL_BigFeed_R01_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "Abonnez-vous à GTA+"
+}

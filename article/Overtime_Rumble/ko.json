@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1499781065,"title":"","headline":"GTA Online","subtitle":"오버타임 럼블","content":"루이너 2000에 탑승하여 표적을 향해 멀리 날아보십시오. <br />최고 점수와 공중 폭발을 정하는 건 낙하산 하나밖에 없습니다. 로스 산토스에서 아드레날린에 미친 사람들과 함께 이 짜릿한 오버타임 럼블을 즐기십시오. 터지지 말고 살아남으세요!","url":"","image":{"path":"sc/news/Overtime_Rumble/262272_OvertimeRumble.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1499781065,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "오버타임 럼블",
+    "content": "루이너 2000에 탑승하여 표적을 향해 멀리 날아보십시오. <br />최고 점수와 공중 폭발을 정하는 건 낙하산 하나밖에 없습니다. 로스 산토스에서 아드레날린에 미친 사람들과 함께 이 짜릿한 오버타임 럼블을 즐기십시오. 터지지 말고 살아남으세요!",
+    "url": "",
+    "image": {
+        "path": "sc/news/Overtime_Rumble/262272_OvertimeRumble.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

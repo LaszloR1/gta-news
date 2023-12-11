@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465293992,"title":"","headline":"GTA Online","subtitle":"Neue VIP-Herausforderungen","content":"Alle VIP-Organisationen können nun in zwei neuen Herausforderungen gegeneinander antreten:<br /><br />- Bargeld lacht: Sei der Rudelführer in der jüngsten Welle von Betrügereien an Bankautomaten, die die Straßen von Los Santos heimsucht<br />- Bergung: Tretet gegeneinander an, um die meisten verlorenen Frachtstücke vom Meeresboden zurückzuholen<br /><br />Als VIP kannst du diese Herausforderungen aus der Sektion ''VIP-Herausforderungen'' deines Interaktionsmenüs starten.","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465293992,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Neue VIP-Herausforderungen",
+    "content": "Alle VIP-Organisationen können nun in zwei neuen Herausforderungen gegeneinander antreten:<br /><br />- Bargeld lacht: Sei der Rudelführer in der jüngsten Welle von Betrügereien an Bankautomaten, die die Straßen von Los Santos heimsucht<br />- Bergung: Tretet gegeneinander an, um die meisten verlorenen Frachtstücke vom Meeresboden zurückzuholen<br /><br />Als VIP kannst du diese Herausforderungen aus der Sektion ''VIP-Herausforderungen'' deines Interaktionsmenüs starten.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/.dds",
+        "filesize": 2048
+    }
+}

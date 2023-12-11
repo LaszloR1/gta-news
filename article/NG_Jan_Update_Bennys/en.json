@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1453977083,"title":"","headline":"GTA Online","subtitle":"Now at Benny's: New Cars and Upgrades","content":"Benny is branching out. Two new sports cars are now available at bennysoriginalmotorworks.com: the Karin Sultan and Bravado Banshee. Bring these cars to Benny’s garage for premium upgrades into wide body race cars, the Karin Sultan RS and the Bravado Banshee 900R.","url":"","image":{"path":"sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Jan_Update_Bennys/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1453977083,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Now at Benny's: New Cars and Upgrades",
+    "content": "Benny is branching out. Two new sports cars are now available at bennysoriginalmotorworks.com: the Karin Sultan and Bravado Banshee. Bring these cars to Benny’s garage for premium upgrades into wide body race cars, the Karin Sultan RS and the Bravado Banshee 900R.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Jan_Update_Bennys/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Jan_Update_Bennys/.dds",
+        "filesize": 2048
+    }
+}

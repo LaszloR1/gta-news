@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543317,"title":"","headline":"GTA Online","subtitle":"Etwas ganz Besonderes im umweltbelastenden Transportwesen","content":"Eine neue Fahrzeugklasse ist eingetroffen und exklusiv bei Warstock Cache and Carry erhältlich. Ganz gleich, ob wir von der schieren Brutalität des Phantom Wedge oder den selbstmörderischen Geschwindigkeitsschüben des Rocket Voltic sprechen – diese Monster befördern Chaos und Wahnsinn in neue Sphären. <br /><br />Zum Kauf dieser Fahrzeuge musst du ein Fahrzeug-Lagerhaus besitzen. Und um den SecuroServ-Einkaufspreis zu erhalten, musst du die entsprechenden Spezialfahrzeug-Aufträge abschließen.","url":"","image":{"path":"sc/news/NG_IE_Something_Special/262272_Something_Nice.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Something_Special/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543317,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Etwas ganz Besonderes im umweltbelastenden Transportwesen",
+    "content": "Eine neue Fahrzeugklasse ist eingetroffen und exklusiv bei Warstock Cache and Carry erhältlich. Ganz gleich, ob wir von der schieren Brutalität des Phantom Wedge oder den selbstmörderischen Geschwindigkeitsschüben des Rocket Voltic sprechen – diese Monster befördern Chaos und Wahnsinn in neue Sphären. <br /><br />Zum Kauf dieser Fahrzeuge musst du ein Fahrzeug-Lagerhaus besitzen. Und um den SecuroServ-Einkaufspreis zu erhalten, musst du die entsprechenden Spezialfahrzeug-Aufträge abschließen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Something_Special/262272_Something_Nice.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Something_Special/.dds",
+        "filesize": 2048
+    }
+}

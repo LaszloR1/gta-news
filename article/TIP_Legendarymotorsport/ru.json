@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381834495,"title":"","headline":"Сетевые подсказки","subtitle":"Legendarymotorsport.net","content":"Откройте страницу Legendarymotorsport.net в браузере телефона, чтобы приобрести самые роскошные транспортные средства современности.<br /><br />Прежде чем приобретать новое транспортное средство, необходимо обзавестись гаражом, куда будет доставлена покупка.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Legendarymotorsport/262272_Legendarymotorsport.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Legendarymotorsport/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381834495,
+    "title": "",
+    "headline": "Сетевые подсказки",
+    "subtitle": "Legendarymotorsport.net",
+    "content": "Откройте страницу Legendarymotorsport.net в браузере телефона, чтобы приобрести самые роскошные транспортные средства современности.<br /><br />Прежде чем приобретать новое транспортное средство, необходимо обзавестись гаражом, куда будет доставлена покупка.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Legendarymotorsport/262272_Legendarymotorsport.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Legendarymotorsport/.dds",
+        "filesize": 2048
+    }
+}

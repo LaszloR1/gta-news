@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149369,"headline":"Newswire","subtitle":"Téléchargez le manuel numérique","content":"Téléchargez le manuel numérique de Grand Theft Auto V pour bénéficier de conseils pour le jeu et d'informations détaillées sur les nombreux quartiers et monuments de Los Santos et Blaine County, sur tout appareil iOS ou Android, ou simplement sur votre ordinateur.<br /><br />Visitez le site www.rockstargames.com/v/manual pour les liens de téléchargement ou recherchez ‘GTAV Digital Manual’ sur App Store ou Google Play Store.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149369,
+    "headline": "Newswire",
+    "subtitle": "Téléchargez le manuel numérique",
+    "content": "Téléchargez le manuel numérique de Grand Theft Auto V pour bénéficier de conseils pour le jeu et d'informations détaillées sur les nombreux quartiers et monuments de Los Santos et Blaine County, sur tout appareil iOS ou Android, ou simplement sur votre ordinateur.<br /><br />Visitez le site www.rockstargames.com/v/manual pour les liens de téléchargement ou recherchez ‘GTAV Digital Manual’ sur App Store ou Google Play Store.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds",
+        "filesize": 65664
+    }
+}

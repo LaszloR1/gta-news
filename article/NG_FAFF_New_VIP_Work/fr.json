@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294200,"title":"","headline":"GTA Online","subtitle":"Nouvelles missions de gros bonnet","content":"Les gros bonnets et leurs gardes du corps ont accès à trois nouvelles sources de revenus illicitesµ:<br /><br />- Liquidation d'actifsµ: assassinez les cibles dans le temps imparti.<br />- Gros porteurµ: récupérez une cargaison sous le nez de gardes armés jusqu'aux dents et mettez-la en lieu sûr.<br />- Remorquageµ: soyez le premier à livrer une remorque de marchandises exonérées d'impôts.<br /><br />Les gros bonnets peuvent lancer ces missions depuis la section Missions de gros bonnet du menu Interaction.","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Work/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294200,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Nouvelles missions de gros bonnet",
+    "content": "Les gros bonnets et leurs gardes du corps ont accès à trois nouvelles sources de revenus illicitesµ:<br /><br />- Liquidation d'actifsµ: assassinez les cibles dans le temps imparti.<br />- Gros porteurµ: récupérez une cargaison sous le nez de gardes armés jusqu'aux dents et mettez-la en lieu sûr.<br />- Remorquageµ: soyez le premier à livrer une remorque de marchandises exonérées d'impôts.<br /><br />Les gros bonnets peuvent lancer ces missions depuis la section Missions de gros bonnet du menu Interaction.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Work/.dds",
+        "filesize": 2048
+    }
+}

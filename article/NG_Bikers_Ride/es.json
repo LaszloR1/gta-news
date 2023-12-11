@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519933,"title":"","headline":"GTA Online","subtitle":"Conduce","content":"Tienes la ropa, la sede del club, el laboratorio de meta, el hacha de combate... pero solo hay una cosa que realmente te convierte en un motero. Desde la velocidad pura y demencial de la Hakuchou Drag, al estilo campo a través de la Manchez, esta nueva oleada de furia sobre dos ruedas tiene algo apropiado para cada motero y cada trabajo.","url":"","image":{"path":"sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Ride/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519933,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Conduce",
+    "content": "Tienes la ropa, la sede del club, el laboratorio de meta, el hacha de combate... pero solo hay una cosa que realmente te convierte en un motero. Desde la velocidad pura y demencial de la Hakuchou Drag, al estilo campo a través de la Manchez, esta nueva oleada de furia sobre dos ruedas tiene algo apropiado para cada motero y cada trabajo.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Ride/262272_Biker_Ride_Out.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Ride/.dds",
+        "filesize": 2048
+    }
+}

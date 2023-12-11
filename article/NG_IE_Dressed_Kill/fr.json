@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543397,"title":"","headline":"GTA Online","subtitle":"Sur votre trente-et-un","content":"Maintenant que votre empire criminel connaît un essor fulgurant, votre garde-robe criminelle se doit d'en faire de même. Retrouvez de nouvelles collections de vêtements en magasin, mais également de nouveaux tatouages, de nouvelles coiffures et de nouveaux masques à la fois étranges, merveilleux et répugnants. Et bien évidemment, les PDG trouveront également leur bonheur parmi les nouveaux styles, qu'ils pourront imposer à leur organisation via le menu Interaction.","url":"","image":{"path":"sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Dressed_Kill/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543397,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Sur votre trente-et-un",
+    "content": "Maintenant que votre empire criminel connaît un essor fulgurant, votre garde-robe criminelle se doit d'en faire de même. Retrouvez de nouvelles collections de vêtements en magasin, mais également de nouveaux tatouages, de nouvelles coiffures et de nouveaux masques à la fois étranges, merveilleux et répugnants. Et bien évidemment, les PDG trouveront également leur bonheur parmi les nouveaux styles, qu'ils pourront imposer à leur organisation via le menu Interaction.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Dressed_Kill/262272_dressedtokill.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Dressed_Kill/.dds",
+        "filesize": 2048
+    }
+}

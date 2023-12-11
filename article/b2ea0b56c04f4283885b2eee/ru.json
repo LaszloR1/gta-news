@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608659660,"title":"","headline":"GTA Online","subtitle":"Музыкальное путешествие","content":"В Music Locker сейчас выступает берлинский коллектив Keinemusik, в чьих композициях можно услышать как отзвуки пляжных вечеринок, так и воплощенный в нотах мрак самых темных ночей Европы. ","url":"","image":{"path":"sc/news/b2ea0b56c04f4283885b2eee/262272_GTAO_IslandHeist_BigFeed_KeineMusik.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608659660,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Музыкальное путешествие",
+    "content": "В Music Locker сейчас выступает берлинский коллектив Keinemusik, в чьих композициях можно услышать как отзвуки пляжных вечеринок, так и воплощенный в нотах мрак самых темных ночей Европы. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/b2ea0b56c04f4283885b2eee/262272_GTAO_IslandHeist_BigFeed_KeineMusik.dds",
+        "filesize": 262272
+    }
+}

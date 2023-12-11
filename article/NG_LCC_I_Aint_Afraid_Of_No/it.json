@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044144,"title":"","headline":"GTA Online","subtitle":"Modalità fantasma","content":"Ti è mai capitato di volerti liberare dell'attenzione indesiderata di qualcuno? Bene, ora potrai farlo in maniera efficace grazie alla nuova modalità fantasma. Se un giocatore ti uccide più volte senza darti la possibilità di reagire, potrai attivare la modalità fantasma (valida solo nei suoi confronti) e allontanarti indisturbato dall'area.","url":"","image":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044144,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Modalità fantasma",
+    "content": "Ti è mai capitato di volerti liberare dell'attenzione indesiderata di qualcuno? Bene, ora potrai farlo in maniera efficace grazie alla nuova modalità fantasma. Se un giocatore ti uccide più volte senza darti la possibilità di reagire, potrai attivare la modalità fantasma (valida solo nei suoi confronti) e allontanarti indisturbato dall'area.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/262272_NG_I_Aint_Affraid_Of_No_Griefer.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_I_Aint_Afraid_Of_No/.dds",
+        "filesize": 2048
+    }
+}

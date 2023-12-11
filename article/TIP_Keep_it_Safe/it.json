@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380468160,"headline":"Suggerimento online","subtitle":"Soldi al sicuro","content":"Tieni al sicuro i tuoi soldi, depositandoli tramite uno dei numerosi bancomat di Los Santos in qualsiasi momento. Dal menu Interazione, usa l'opzione GPS rapido per trovare subito un bancomat. Puoi anche accedere al tuo conto, depositare e ritirare denaro usando il browser del tuo telefono. Vai su www.maze-bank.com.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380468160,
+    "headline": "Suggerimento online",
+    "subtitle": "Soldi al sicuro",
+    "content": "Tieni al sicuro i tuoi soldi, depositandoli tramite uno dei numerosi bancomat di Los Santos in qualsiasi momento. Dal menu Interazione, usa l'opzione GPS rapido per trovare subito un bancomat. Puoi anche accedere al tuo conto, depositare e ritirare denaro usando il browser del tuo telefono. Vai su www.maze-bank.com.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Keep_it_Safe/65664_Keep_it_Safe_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

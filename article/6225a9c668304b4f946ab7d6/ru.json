@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1612524236,"title":"","headline":"GTA Online","subtitle":"Скидки","content":"Если вы готовитесь к вылазке на остров Эль Рубио, учтите: скидка 25% действует на Kosatka и модификации для нее – в том числе управляемые ракеты, сонарную станцию и оружейную мастерскую. Также снижены цены на ряд транспортных средств, в том числе на Issi Classic.<br /><br />- Weeny Issi Classic – скидка 40%<br />- Ocelot Stromberg – скидка 30%<br />- Pegassi Toreador – скидка 25%<br />- Överflöd Entity XXR – скидка 30%.","url":"","image":{"path":"sc/news/6225a9c668304b4f946ab7d6/524416_Stromberg.dds","filesize":524416}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1612524236,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Скидки",
+    "content": "Если вы готовитесь к вылазке на остров Эль Рубио, учтите: скидка 25% действует на Kosatka и модификации для нее – в том числе управляемые ракеты, сонарную станцию и оружейную мастерскую. Также снижены цены на ряд транспортных средств, в том числе на Issi Classic.<br /><br />- Weeny Issi Classic – скидка 40%<br />- Ocelot Stromberg – скидка 30%<br />- Pegassi Toreador – скидка 25%<br />- Överflöd Entity XXR – скидка 30%.",
+    "url": "",
+    "image": {
+        "path": "sc/news/6225a9c668304b4f946ab7d6/524416_Stromberg.dds",
+        "filesize": 524416
+    }
+}

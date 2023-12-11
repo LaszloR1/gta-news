@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475515825,"title":"","headline":"GTA Online","subtitle":"Cambia tu equipo","content":"Más cascos con pinchos, chaquetas vaqueras sin mangas, gafas de seguridad de carretera, más accesorios de calaveras y cadenas de los que puedas soñar, cualquier prenda de cuero desgastado que conozca el hombre... Si queda bien cuando vas a dos ruedas, ya está en las tiendas. Y espera a ver los nuevos peinados y tatuajes.","url":"","image":{"path":"sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_ChangeGear/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475515825,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cambia tu equipo",
+    "content": "Más cascos con pinchos, chaquetas vaqueras sin mangas, gafas de seguridad de carretera, más accesorios de calaveras y cadenas de los que puedas soñar, cualquier prenda de cuero desgastado que conozca el hombre... Si queda bien cuando vas a dos ruedas, ya está en las tiendas. Y espera a ver los nuevos peinados y tatuajes.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_ChangeGear/262272_Biker_Melee.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_ChangeGear/.dds",
+        "filesize": 2048
+    }
+}

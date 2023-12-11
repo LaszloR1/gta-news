@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1535466197,"title":"","headline":"GTA Online","subtitle":"HVY Menacer","content":"Ya sabemos que ahí fuera impera la ley de la selva, pero si te vas de safari por el centro de Los Santos necesitarás mucho más que una furgoneta descapotable y una actitud chulesca para sobrevivir. Dicho esto, el HVY Menacer es el mortal e indestructible vehículo que te protegerá mientras dejas a los supervivientes traumatizados de por vida.","url":"","image":{"path":"sc/news/8v4_AH_Menacer/349672_HEAVYMENACER.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1535466197,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "HVY Menacer",
+    "content": "Ya sabemos que ahí fuera impera la ley de la selva, pero si te vas de safari por el centro de Los Santos necesitarás mucho más que una furgoneta descapotable y una actitud chulesca para sobrevivir. Dicho esto, el HVY Menacer es el mortal e indestructible vehículo que te protegerá mientras dejas a los supervivientes traumatizados de por vida.",
+    "url": "",
+    "image": {
+        "path": "sc/news/8v4_AH_Menacer/349672_HEAVYMENACER.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

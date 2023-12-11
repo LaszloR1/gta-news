@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471717,"title":"","headline":"オンラインのヒント","subtitle":"最高の車が欲しい？","content":"信頼できるチューニング・ショップは、本来の持ち主から“拝借”した車の改造を請け負ったりしません。高性能の高級車は正規のルートから入手する必要があります。ウェブサイトを利用して賢く買い物をすると良いでしょう。","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Hot_Wheels/65664_HotWheels.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Hot_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471717,
+    "title": "",
+    "headline": "オンラインのヒント",
+    "subtitle": "最高の車が欲しい？",
+    "content": "信頼できるチューニング・ショップは、本来の持ち主から“拝借”した車の改造を請け負ったりしません。高性能の高級車は正規のルートから入手する必要があります。ウェブサイトを利用して賢く買い物をすると良いでしょう。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Hot_Wheels/65664_HotWheels.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Hot_Wheels/.dds",
+        "filesize": 2048
+    }
+}

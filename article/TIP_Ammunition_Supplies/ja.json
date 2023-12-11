@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380569644,"headline":"オンラインのヒント","subtitle":"弾薬の補給","content":"弾薬が底を尽きかけているがアミュネーションに行くのは面倒、という時にはジョブ開始前のロビー画面でいつでも補給が可能です。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380569644,
+    "headline": "オンラインのヒント",
+    "subtitle": "弾薬の補給",
+    "content": "弾薬が底を尽きかけているがアミュネーションに行くのは面倒、という時にはジョブ開始前のロビー画面でいつでも補給が可能です。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Ammunition_Supplies/65664_Ammunition-Supplies_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

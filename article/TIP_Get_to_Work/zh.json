@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380471932,"headline":"線上小訣竅","subtitle":"找工作","content":"想要馬上開始工作嗎？您可以使用手機選擇「快速差事」以直接加入競速、死鬥遊戲、任務或遊玩清單；選擇後畫面就會顯示距離您最近、而且符合您需求的可接差事。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380471932,
+    "headline": "線上小訣竅",
+    "subtitle": "找工作",
+    "content": "想要馬上開始工作嗎？您可以使用手機選擇「快速差事」以直接加入競速、死鬥遊戲、任務或遊玩清單；選擇後畫面就會顯示距離您最近、而且符合您需求的可接差事。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Get_to_Work/65664_Get_To_Work_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

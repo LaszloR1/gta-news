@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450175108,"title":"","headline":"GTA Online","subtitle":"SecuroServ","content":"Masz więcej kasy, niż jesteś w stanie wydać? W takim razie polecamy program ochrony VIP SecuroServ. Zarejestruj się jako VIP za pomocą menu interakcji i wynajmij ochroniarzy, którzy wykonają za ciebie brudną robotę. Rozkręć swoją nową organizację, wykonuj zadania bądź wyzwania szefa i natychmiast odczuj korzyści posiadania uzbrojonych goryli na każde skinienie.","url":"","image":{"path":"sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_EAOC_SecuroServ/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450175108,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "SecuroServ",
+    "content": "Masz więcej kasy, niż jesteś w stanie wydać? W takim razie polecamy program ochrony VIP SecuroServ. Zarejestruj się jako VIP za pomocą menu interakcji i wynajmij ochroniarzy, którzy wykonają za ciebie brudną robotę. Rozkręć swoją nową organizację, wykonuj zadania bądź wyzwania szefa i natychmiast odczuj korzyści posiadania uzbrojonych goryli na każde skinienie.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_EAOC_SecuroServ/262272_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_EAOC_SecuroServ/.dds",
+        "filesize": 2048
+    }
+}

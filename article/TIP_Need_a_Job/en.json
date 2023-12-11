@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380467859,"title":"","headline":"Online Tip","subtitle":"Need a Job? ","content":"Check the Job List on your phone, or call one of your Contacts for work. The more work you complete for your Contacts, the more Contacts you’ll meet, and the more work you will be offered. Rise through the ranks and you'll soon find yourself making a nice living from this line of work.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Need_a_Job/262272_NeedAJob.dds","filesize":262272},"landscape":{"path":"sc/news/TIP_Need_a_Job/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380467859,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Need a Job? ",
+    "content": "Check the Job List on your phone, or call one of your Contacts for work. The more work you complete for your Contacts, the more Contacts you’ll meet, and the more work you will be offered. Rise through the ranks and you'll soon find yourself making a nice living from this line of work.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Need_a_Job/262272_NeedAJob.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Need_a_Job/.dds",
+        "filesize": 2048
+    }
+}

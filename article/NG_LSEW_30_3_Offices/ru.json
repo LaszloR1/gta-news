@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475241101,"title":"","headline":"GTA Online","subtitle":"Бонусы в GTA Online: склады и офисы за полцены и не только (30 сентября – 3 октября)","content":"На этих выходных все необходимое для вашей бизнес-империи в Лос-Сантосе можно приобрести с колоссальной скидкой. Вплоть до понедельника, 3 октября, вы можете воспользоваться специальными предложениями, в том числе скидкой 50% на склады, офисы, а также все услуги Лестера, Pegasus и «Мерриуэзер».<br /><br />Подробности в ленте новостей Rockstar: http://www.rockstargames.com/V/ru_ru/news/","url":"","image":{"path":"sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LSEW_30_3_Offices/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475241101,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Бонусы в GTA Online: склады и офисы за полцены и не только (30 сентября – 3 октября)",
+    "content": "На этих выходных все необходимое для вашей бизнес-империи в Лос-Сантосе можно приобрести с колоссальной скидкой. Вплоть до понедельника, 3 октября, вы можете воспользоваться специальными предложениями, в том числе скидкой 50% на склады, офисы, а также все услуги Лестера, Pegasus и «Мерриуэзер».<br /><br />Подробности в ленте новостей Rockstar: http://www.rockstargames.com/V/ru_ru/news/",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/262272_NG_Tough_at_the_top.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LSEW_30_3_Offices/.dds",
+        "filesize": 2048
+    }
+}

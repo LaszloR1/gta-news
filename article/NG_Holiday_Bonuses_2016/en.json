@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482244340,"title":"","headline":"GTA Online","subtitle":"Holiday Bonuses: 25% Discounts, Pinstripe Smoking Jacket & Pajama Set Unlock","content":"Gift yourself something special with 25% off select items now through January 2nd including luxury vehicles like the Enus Super Diamond, real estate including Eclipse Towers Penthouses & weaponry like the Sweeper Shotgun.<br /><br />You've also unlocked the sophisticated Bold Pinstripe Smoking Jacket and Pajamas set just by logging in. You can pickup your free set from any clothing retailer across Los Santos.<br /><br />Check out the Rockstar Newswire for more details.","url":"","image":{"path":"sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Holiday_Bonuses_2016/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482244340,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Holiday Bonuses: 25% Discounts, Pinstripe Smoking Jacket & Pajama Set Unlock",
+    "content": "Gift yourself something special with 25% off select items now through January 2nd including luxury vehicles like the Enus Super Diamond, real estate including Eclipse Towers Penthouses & weaponry like the Sweeper Shotgun.<br /><br />You've also unlocked the sophisticated Bold Pinstripe Smoking Jacket and Pajamas set just by logging in. You can pickup your free set from any clothing retailer across Los Santos.<br /><br />Check out the Rockstar Newswire for more details.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/349672_pajamas-2016.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Holiday_Bonuses_2016/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1442313641,"title":"","headline":"GTA Online","subtitle":"Freemode","content":"La modalità Freemode è stata notevolmente rivisitata e ora contiene una serie di eventi grazie ai quali potrai confrontarti con il resto della comunità di Los Santos. Tieni d'occhio le notifiche e le icone viola!<br />Ogni evento ti darà la possibilità di guadagnare GTA$ e RP.","url":"","image":{"path":"sc/news/NG-Free-Freemode/262272_Freemode-NG.dds","filesize":262272},"landscape":{"path":"sc/news/NG-Free-Freemode/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1442313641,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Freemode",
+    "content": "La modalità Freemode è stata notevolmente rivisitata e ora contiene una serie di eventi grazie ai quali potrai confrontarti con il resto della comunità di Los Santos. Tieni d'occhio le notifiche e le icone viola!<br />Ogni evento ti darà la possibilità di guadagnare GTA$ e RP.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG-Free-Freemode/262272_Freemode-NG.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG-Free-Freemode/.dds",
+        "filesize": 2048
+    }
+}

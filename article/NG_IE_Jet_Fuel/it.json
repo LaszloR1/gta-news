@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1481543617,"title":"","headline":"GTA Online","subtitle":"A tutto gas","content":"Che tu sia alla caccia di un mostro di velocità, eleganza, o dell'ultimo capolavoro uscito da Benny's, l'auto perfetta per te è ora disponibile. Grazie alla possibilità di aggiungere un'officina personale al tuo ufficio, potrai modificare e migliorare i veicoli trasformandoli in varianti custom a due passi dal cuore del tuo impero. Se vuoi qualcosa di ancora più estremo, dai un'occhiata ai nuovi esempi di decadenza su quattro ruote appena arrivati da Warstock Cache and Carry.","url":"","image":{"path":"sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IE_Jet_Fuel/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1481543617,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "A tutto gas",
+    "content": "Che tu sia alla caccia di un mostro di velocità, eleganza, o dell'ultimo capolavoro uscito da Benny's, l'auto perfetta per te è ora disponibile. Grazie alla possibilità di aggiungere un'officina personale al tuo ufficio, potrai modificare e migliorare i veicoli trasformandoli in varianti custom a due passi dal cuore del tuo impero. Se vuoi qualcosa di ancora più estremo, dai un'occhiata ai nuovi esempi di decadenza su quattro ruote appena arrivati da Warstock Cache and Carry.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Jet_Fuel/262272_Jet_Fuel.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Jet_Fuel/.dds",
+        "filesize": 2048
+    }
+}

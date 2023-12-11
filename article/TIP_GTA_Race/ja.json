@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469748,"headline":"オンラインのヒント","subtitle":"GTAレース","content":"レースと不正行為がお好きなら、GTAレースをお試しください。アイテムを拾って迫りくる相手に対処しましょう。<br /><br />レースロビーの設定からGTAレース、またはチームGTAレースにに変更できます。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469748,
+    "headline": "オンラインのヒント",
+    "subtitle": "GTAレース",
+    "content": "レースと不正行為がお好きなら、GTAレースをお試しください。アイテムを拾って迫りくる相手に対処しましょう。<br /><br />レースロビーの設定からGTAレース、またはチームGTAレースにに変更できます。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_GTA_Race/65664_GTA_Race_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

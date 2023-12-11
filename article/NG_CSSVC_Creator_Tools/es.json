@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490356057,"title":"","headline":"GTA Online","subtitle":"Vehículos especiales ya disponibles en el creador de carreras acrobáticas","content":"Circuito especial ha ampliado las herramientas disponibles para la fantástica comunidad del creador, con las que se podrá dar el salto al siguiente nivel. No solo se han añadido los Rocket Voltic, Ruiner 2000 y Blazer Aqua a la lista de vehículos disponibles en el creador de carreras acrobáticas, también hemos incluido una serie de nuevos accesorios especialmente diseñados para resaltar las habilidades únicas de estos vehículos, como vallas de pista, recargas de turbo y cajas explosivas.","url":"","image":{"path":"sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CSSVC_Creator_Tools/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490356057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vehículos especiales ya disponibles en el creador de carreras acrobáticas",
+    "content": "Circuito especial ha ampliado las herramientas disponibles para la fantástica comunidad del creador, con las que se podrá dar el salto al siguiente nivel. No solo se han añadido los Rocket Voltic, Ruiner 2000 y Blazer Aqua a la lista de vehículos disponibles en el creador de carreras acrobáticas, también hemos incluido una serie de nuevos accesorios especialmente diseñados para resaltar las habilidades únicas de estos vehículos, como vallas de pista, recargas de turbo y cajas explosivas.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/.dds",
+        "filesize": 2048
+    }
+}

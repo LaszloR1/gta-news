@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1697140182,"title":"GTA+","headline":"GTA+","subtitle":"Zbrojownia w agencji","content":"Członkowie GTA+ mogą do 8 listopada za darmo ulepszyć swoją agencję, dobudowując w niej zbrojownię, w której można kupić broń ze zniżką, ulepszyć uzbrojenie do wersji 2 oraz kupić potrzebne wyposażenie w postaci amunicji (75% taniej dla członków), pancerzy, spadochronów, oddycharek i noktowizorów.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus","image":{"path":"sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_pl_pl.dds","filesize":262272},"button":"WYBIERZ, ABY DOŁĄCZYĆ DO GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1697140182,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Zbrojownia w agencji",
+    "content": "Członkowie GTA+ mogą do 8 listopada za darmo ulepszyć swoją agencję, dobudowując w niej zbrojownię, w której można kupić broń ze zniżką, ulepszyć uzbrojenie do wersji 2 oraz kupić potrzebne wyposażenie w postaci amunicji (75% taniej dla członków), pancerzy, spadochronów, oddycharek i noktowizorów.<br /><br />Członkostwo GTA+ co miesiąc odnawia się automatycznie i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT_CHECKOUT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/e960e2753d784f7b9d55c0c1/262272_GTAO_Plus_MP19_AgencyArmory_FINAL_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "WYBIERZ, ABY DOŁĄCZYĆ DO GTA+"
+}

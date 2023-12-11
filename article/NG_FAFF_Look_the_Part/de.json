@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465292975,"title":"","headline":"GTA Online","subtitle":"Passend gekleidet","content":"Der Trend der Saison in den Geschäften in Los Santos: VIP- und Leibwächter-Kleidung und brandneue Stücke der Marke SecuroServ.<br /><br />Ganz gleich, ob du einen ersten Eindruck als eleganter Gangsterboss oder als wütender Gorilla machen willst, hier ist auf jeden Fall etwas für dich dabei.","url":"","image":{"path":"sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Look_the_Part/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465292975,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Passend gekleidet",
+    "content": "Der Trend der Saison in den Geschäften in Los Santos: VIP- und Leibwächter-Kleidung und brandneue Stücke der Marke SecuroServ.<br /><br />Ganz gleich, ob du einen ersten Eindruck als eleganter Gangsterboss oder als wütender Gorilla machen willst, hier ist auf jeden Fall etwas für dich dabei.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Look_the_Part/.dds",
+        "filesize": 2048
+    }
+}

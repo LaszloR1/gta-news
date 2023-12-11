@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469139,"headline":"Consejo en línea","subtitle":"Presume de tu talento","content":"Sea cual sea tu mejor habilidad, ganarás premios exclusivos completando diversos objetivos e hitos. Por supuesto, solo podrás conseguir algunos de los objetos más exclusivos de las tiendas y grandes almacenes de Los Santos si completas estos objetivos. La vida de los famosos siempre es mejor, es así.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469139,
+    "headline": "Consejo en línea",
+    "subtitle": "Presume de tu talento",
+    "content": "Sea cual sea tu mejor habilidad, ganarás premios exclusivos completando diversos objetivos e hitos. Por supuesto, solo podrás conseguir algunos de los objetos más exclusivos de las tiendas y grandes almacenes de Los Santos si completas estos objetivos. La vida de los famosos siempre es mejor, es así.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Flaunt_your_Talents/65664_Flaunt_your_Talents_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

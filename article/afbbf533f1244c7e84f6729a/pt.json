@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736467,"title":"","headline":"GTA Online","subtitle":"PEGANDO A ESTRADA","content":"Tem muita gente de olho nos céus? Então fique no solo e contrabandeie mercadorias nas novas missões de localização e venda de carga, já disponíveis para proprietários do esquema de Frete Aéreo.<br /><br />Planeje entregas e coletas pelo Free Trade Shipping Co. no escritório do seu Hangar ou ligue para o Ron para definir o seu próximo alvo.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR","image":{"path":"sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736467,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "PEGANDO A ESTRADA",
+    "content": "Tem muita gente de olho nos céus? Então fique no solo e contrabandeie mercadorias nas novas missões de localização e venda de carga, já disponíveis para proprietários do esquema de Frete Aéreo.<br /><br />Planeje entregas e coletas pelo Free Trade Shipping Co. no escritório do seu Hangar ou ligue para o Ron para definir o seu próximo alvo.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=HANGAR",
+    "image": {
+        "path": "sc/news/afbbf533f1244c7e84f6729a/262272_GTAO_SummerTULaunch_FreeTradeShipping_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

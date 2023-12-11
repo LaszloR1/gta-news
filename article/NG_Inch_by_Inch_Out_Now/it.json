@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452581,"title":"","headline":"GTA Online","subtitle":"Passo dopo passo","content":"Sfoggia la tua agilità in questa nuova modalità Competizione in cui due squadre lottano per impossessarsi di una valigetta e consegnarla al di là della linea nemica. Chi trasporta la valigetta non può usare le armi: dovranno quindi essere i compagni di squadra a garantirne l'arrivo sano e salvo alla meta. E chi non riesce a tollerare la pressione... può sempre lasciare la valigetta a un compagno. Vince chi termina col punteggio più alto.","url":"","image":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Inch_by_Inch_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452581,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Passo dopo passo",
+    "content": "Sfoggia la tua agilità in questa nuova modalità Competizione in cui due squadre lottano per impossessarsi di una valigetta e consegnarla al di là della linea nemica. Chi trasporta la valigetta non può usare le armi: dovranno quindi essere i compagni di squadra a garantirne l'arrivo sano e salvo alla meta. E chi non riesce a tollerare la pressione... può sempre lasciare la valigetta a un compagno. Vince chi termina col punteggio più alto.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/262272_Inch_by_Inch.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Inch_by_Inch_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

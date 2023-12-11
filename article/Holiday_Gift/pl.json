@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1387887195,"headline":"GTA Online","subtitle":"Prezent świąteczny","content":"Wesołych Świąt! Oto bezpłatny prezent świąteczny w GTA Online, który na Gwiazdkę zmieni Zachodnie Wybrzeże w zimową krainę, a Los Santos i hrabstwo Blaine przykryje białym puchem. Pozwól, by rozgrzały cię ubrania i akcesoria z naszej najnowszej kolekcji, m.in. czapka Mikołaja, elfia kamizelka czy maska bałwana. Pokaż innym swoje zimowe zdjęcia Snapmatic z nowymi filtrami, ramkami, mimiką, generatorem memów i innymi bajerami.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Holiday_Gift/65664_Holiday_Gift_Portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Holiday_Gift/65664_Holiday_Gift_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1387887195,
+    "headline": "GTA Online",
+    "subtitle": "Prezent świąteczny",
+    "content": "Wesołych Świąt! Oto bezpłatny prezent świąteczny w GTA Online, który na Gwiazdkę zmieni Zachodnie Wybrzeże w zimową krainę, a Los Santos i hrabstwo Blaine przykryje białym puchem. Pozwól, by rozgrzały cię ubrania i akcesoria z naszej najnowszej kolekcji, m.in. czapka Mikołaja, elfia kamizelka czy maska bałwana. Pokaż innym swoje zimowe zdjęcia Snapmatic z nowymi filtrami, ramkami, mimiką, generatorem memów i innymi bajerami.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Holiday_Gift/65664_Holiday_Gift_Portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Holiday_Gift/65664_Holiday_Gift_Landscape.dds",
+        "filesize": 65664
+    }
+}

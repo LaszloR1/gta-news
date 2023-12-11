@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465294609,"title":"","headline":"GTA Online","subtitle":"Osobisty asystent","content":"Każde biuro SecuroServ przez całą dobę obsługuje osobisty asystent bądź asystentka. Zadaniem tego wysoce wyszkolonego i moralnie skończonego personelu jest m.in. wzywanie prywatnego śmigłowca, odzyskiwanie odholowanych pojazdów czy uzupełnianie baru z przekąskami.","url":"","image":{"path":"sc/news/NG_FAFF_Executive_Assistance/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_Executive_Assistance/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465294609,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Osobisty asystent",
+    "content": "Każde biuro SecuroServ przez całą dobę obsługuje osobisty asystent bądź asystentka. Zadaniem tego wysoce wyszkolonego i moralnie skończonego personelu jest m.in. wzywanie prywatnego śmigłowca, odzyskiwanie odholowanych pojazdów czy uzupełnianie baru z przekąskami.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_Executive_Assistance/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_Executive_Assistance/.dds",
+        "filesize": 2048
+    }
+}

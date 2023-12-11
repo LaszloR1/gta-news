@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1477561765,"title":"","headline":"GTA Online","subtitle":"LCCµ聖者之行","content":"潮流人士、幫派成員、賽道專家、越野車手和稅務律師都已經深陷中年危機了，他們全都有自己量身訂造的機車。如果您是個普普通通、愛穿骷髏頭服飾、憤世嫉俗的死亡崇拜者，而且市場上又沒有適合您年齡層面的車？別怕，LCCµ聖者之行可算是為您量身定製的最佳載具。","url":"","image":{"path":"sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Sanctus/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1477561765,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "LCCµ聖者之行",
+    "content": "潮流人士、幫派成員、賽道專家、越野車手和稅務律師都已經深陷中年危機了，他們全都有自己量身訂造的機車。如果您是個普普通通、愛穿骷髏頭服飾、憤世嫉俗的死亡崇拜者，而且市場上又沒有適合您年齡層面的車？別怕，LCCµ聖者之行可算是為您量身定製的最佳載具。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Sanctus/262272_Sanctus.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Sanctus/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1686736474,"title":"","headline":"GTA Online","subtitle":"МАЛЕНЬКАЯ ЗАГВОЗДКА","content":"Хотите усложнить себе жизнь? Тогда уменьшайтесь в размере! Возьмите пульт дистанционного управления, зарядите аккумулятор и начинайте сеять хаос, бить рекорды и расправляться с конкурентами в новых испытаниях на время RC. <br /><br />Маленькие колеса – большие свершения. Доступно ежедневно.","url":"class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE","image":{"path":"sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1686736474,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "МАЛЕНЬКАЯ ЗАГВОЗДКА",
+    "content": "Хотите усложнить себе жизнь? Тогда уменьшайтесь в размере! Возьмите пульт дистанционного управления, зарядите аккумулятор и начинайте сеять хаос, бить рекорды и расправляться с конкурентами в новых испытаниях на время RC. <br /><br />Маленькие колеса – большие свершения. Доступно ежедневно.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/f7cecd4a4afe4f5782c14a00/262272_GTAO_SummerTULaunch_RCTrials_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

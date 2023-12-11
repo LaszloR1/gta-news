@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452381,"title":"","headline":"GTA Online","subtitle":"Teraz u Benny'ego: Vapid Minivan","content":"Ogromna kolekcja lowriderów Benny'ego powiększyła się właśnie o podrasowanego Vapida Minivana. Normalnie ten rodzinny wóz nie przyciągnie niczyjego wzroku, ale po dobrym odpicowaniu stanie w centrum uwagi każdego zlotu motoryzacyjnego.","url":"","image":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452381,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Teraz u Benny'ego: Vapid Minivan",
+    "content": "Ogromna kolekcja lowriderów Benny'ego powiększyła się właśnie o podrasowanego Vapida Minivana. Normalnie ten rodzinny wóz nie przyciągnie niczyjego wzroku, ale po dobrym odpicowaniu stanie w centrum uwagi każdego zlotu motoryzacyjnego.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds",
+        "filesize": 2048
+    }
+}

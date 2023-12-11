@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1473430365,"title":"","headline":"GTA Online","subtitle":"이번 주의 GTA 온라인 보너스: 프리미엄 스턴트 레이스(9월 9일 - 15일)","content":"이번 주 프리미엄 스턴트 레이스는 밴시 900R 차량을 타고 겨루는 인기 많은 ''다운타운 루프''입니다. 이름처럼 로스 산토스 시내에 연속 루프와 나선형 코스, 점프대가 배치되어 있습니다. 이 프리미엄 스턴트 레이스에서는 상위 우승자 3명에게 큰 상금을 지급하며 모든 참가자에겐 RP가 세 배로 지급됩니다. 지금 당장 자신의 운과 실력을 시험해 보고 싶다면, 퀵 작업 앱을 통해 참가하거나 레지언 스퀘어에 있는 노란색 프리미엄 레이스 표식을 방문하세요.","url":"","image":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Summer_Cool_Premium_9_9/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1473430365,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "이번 주의 GTA 온라인 보너스: 프리미엄 스턴트 레이스(9월 9일 - 15일)",
+    "content": "이번 주 프리미엄 스턴트 레이스는 밴시 900R 차량을 타고 겨루는 인기 많은 ''다운타운 루프''입니다. 이름처럼 로스 산토스 시내에 연속 루프와 나선형 코스, 점프대가 배치되어 있습니다. 이 프리미엄 스턴트 레이스에서는 상위 우승자 3명에게 큰 상금을 지급하며 모든 참가자에겐 RP가 세 배로 지급됩니다. 지금 당장 자신의 운과 실력을 시험해 보고 싶다면, 퀵 작업 앱을 통해 참가하거나 레지언 스퀘어에 있는 노란색 프리미엄 레이스 표식을 방문하세요.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/262272_Stunt_Premium_Blips.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Summer_Cool_Premium_9_9/.dds",
+        "filesize": 2048
+    }
+}

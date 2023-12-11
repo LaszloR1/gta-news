@@ -1,1 +1,19 @@
-{"types":["newswire"],"date":1379149369,"headline":"Newswire","subtitle":"Lade das digitale Handbuch herunter","content":"Lade dir das digitale Handbuch zu Grand Theft Auto V herunter, um eine Einführung in den Spielablauf sowie detaillierte Informationen über die vielen Gegenden und Orientierungspunkte in Los Santos und Blaine County zu erhalten, entweder auf dein iOS- oder Android-Gerät oder einfach auf deinen Computer.<br /><br />Links zum Herunterladen findest du unter www.rockstargames.com/v/manual - oder suche im App Store oder im Google Play Store nach 'GTAV Digital Manual'.","url":"www.rockstargames.com/newswire","extraData":{},"image":{"path":"sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds","filesize":65664},"landscape":{"path":"sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds","filesize":65664}}
+{
+    "types": [
+        "newswire"
+    ],
+    "date": 1379149369,
+    "headline": "Newswire",
+    "subtitle": "Lade das digitale Handbuch herunter",
+    "content": "Lade dir das digitale Handbuch zu Grand Theft Auto V herunter, um eine Einführung in den Spielablauf sowie detaillierte Informationen über die vielen Gegenden und Orientierungspunkte in Los Santos und Blaine County zu erhalten, entweder auf dein iOS- oder Android-Gerät oder einfach auf deinen Computer.<br /><br />Links zum Herunterladen findest du unter www.rockstargames.com/v/manual - oder suche im App Store oder im Google Play Store nach 'GTAV Digital Manual'.",
+    "url": "www.rockstargames.com/newswire",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_Manual_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Download_Digital_Manual/65664_Download_the_Digital_Manual_Landscape.dds",
+        "filesize": 65664
+    }
+}

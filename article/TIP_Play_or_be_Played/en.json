@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380469516,"title":"","headline":"Online Tip","subtitle":"Play or be Played","content":"Challenge Friends, rivals and strangers to take part in a series of Jobs and see who finishes at the top of the heap.<br /><br />Choose from one of our pre-made Rockstar Playlists to see the latest content, or make your own Playlist. Simply open the Online menu and select ‘Playlists’. Mix and match content, go from Races to Deathmatches to Missions seamlessly.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Play_or_be_Played/65664_play_or_be_played.dds","filesize":65664},"landscape":{"path":"sc/news/TIP_Play_or_be_Played/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380469516,
+    "title": "",
+    "headline": "Online Tip",
+    "subtitle": "Play or be Played",
+    "content": "Challenge Friends, rivals and strangers to take part in a series of Jobs and see who finishes at the top of the heap.<br /><br />Choose from one of our pre-made Rockstar Playlists to see the latest content, or make your own Playlist. Simply open the Online menu and select ‘Playlists’. Mix and match content, go from Races to Deathmatches to Missions seamlessly.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Play_or_be_Played/65664_play_or_be_played.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/TIP_Play_or_be_Played/.dds",
+        "filesize": 2048
+    }
+}

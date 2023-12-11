@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394809165,"headline":"Wskazówka do gry sieciowej","subtitle":"Dodaj nowe pojazdy do swoich wyścigów","content":"Nowe pojazdy dodawane do GTA Online nie trafiają automatycznie do stworzonych wcześniej wyścigów.~n~~n~Możesz jednak błyskawicznie zmodyfikować i ponownie udostępnić dowolny wyścig, aby zawierał nowe pojazdy. Żeby to zrobić, należy w kreatorze wejść do menu dostępnych pojazdów (naciśnij ~INPUT_FRONTEND_X~, aby zmienić dozwolone pojazdy w danej klasie). Możliwe jest wybranie, które pojazdy będą dostępne dla graczy, i dodanie dowolnej nowej zawartości.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809165,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Dodaj nowe pojazdy do swoich wyścigów",
+    "content": "Nowe pojazdy dodawane do GTA Online nie trafiają automatycznie do stworzonych wcześniej wyścigów.~n~~n~Możesz jednak błyskawicznie zmodyfikować i ponownie udostępnić dowolny wyścig, aby zawierał nowe pojazdy. Żeby to zrobić, należy w kreatorze wejść do menu dostępnych pojazdów (naciśnij ~INPUT_FRONTEND_X~, aby zmienić dozwolone pojazdy w danej klasie). Możliwe jest wybranie, które pojazdy będą dostępne dla graczy, i dodanie dowolnej nowej zawartości.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1674835843,"title":"Reward Claimed: GTA$100,000","headline":"Reward Claimed: GTA$100,000","subtitle":"For Completing Taxi Work","content":"Your GTA$100,000 Reward for completing Taxi Work between January 26 and February 8 has been deposited into your Maze Bank Account.<br /><br />Stay tuned to the Rockstar Newswire for more limited-time events coming soon.","url":"","image":{"path":"sc/news/8b374685786c4a76a6f0782d/349672_maze-bank-512x1024.dds","filesize":349672}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1674835843,
+    "title": "Reward Claimed: GTA$100,000",
+    "headline": "Reward Claimed: GTA$100,000",
+    "subtitle": "For Completing Taxi Work",
+    "content": "Your GTA$100,000 Reward for completing Taxi Work between January 26 and February 8 has been deposited into your Maze Bank Account.<br /><br />Stay tuned to the Rockstar Newswire for more limited-time events coming soon.",
+    "url": "",
+    "image": {
+        "path": "sc/news/8b374685786c4a76a6f0782d/349672_maze-bank-512x1024.dds",
+        "filesize": 349672
+    }
+}

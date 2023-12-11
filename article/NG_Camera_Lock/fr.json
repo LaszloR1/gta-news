@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416224411,"title":"","headline":"GTA Online","subtitle":"Vue imposée","content":"Vous pouvez obliger tous les joueurs à utiliser la même vue. C'est possible depuis le salon, avant une activité.<br /><br />Dans le salon, définissez l'option ''Vue imposée'' selon vos préférences pour imposer à tous les autres joueurs soit le mode à la troisième personne, soit celui à la première personne, ou leur laisser le choix.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Camera_Lock/262272_CameraLock.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Camera_Lock/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416224411,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vue imposée",
+    "content": "Vous pouvez obliger tous les joueurs à utiliser la même vue. C'est possible depuis le salon, avant une activité.<br /><br />Dans le salon, définissez l'option ''Vue imposée'' selon vos préférences pour imposer à tous les autres joueurs soit le mode à la troisième personne, soit celui à la première personne, ou leur laisser le choix.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Camera_Lock/262272_CameraLock.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Camera_Lock/.dds",
+        "filesize": 2048
+    }
+}

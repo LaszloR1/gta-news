@@ -1,1 +1,15 @@
-{"types":["transition"],"date":1608039614,"title":"","headline":"GTA Online","subtitle":"Fusil militaire","content":"Ammu-Nation vient de recevoir une cargaison de certains des fusils les plus puissants que le magasin ait jamais eu en stock. Vu les dégâts qu'ils infligent, vous serez soulagé de voir que la vitesse de rechargement vous laisse le temps de reprendre votre souffle.","url":"","image":{"path":"sc/news/dde1197fa18c4bedb547567a/262272_GTAO_IslandHeist_BigFeed_Military_Rifle.dds","filesize":262272}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1608039614,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Fusil militaire",
+    "content": "Ammu-Nation vient de recevoir une cargaison de certains des fusils les plus puissants que le magasin ait jamais eu en stock. Vu les dégâts qu'ils infligent, vous serez soulagé de voir que la vitesse de rechargement vous laisse le temps de reprendre votre souffle.",
+    "url": "",
+    "image": {
+        "path": "sc/news/dde1197fa18c4bedb547567a/262272_GTAO_IslandHeist_BigFeed_Military_Rifle.dds",
+        "filesize": 262272
+    }
+}

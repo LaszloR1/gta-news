@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475767265,"title":"","headline":"GTA Online","subtitle":"Evento Snapmatic","content":"Preparati a partecipare all'Evento Snapmatic #BIKERS. Cerchiamo cinque foto che mostrino in modo originale e d'impatto i nuovi contenuti di Cenaturi, dai nuovi veicoli alle clubhouse con i loro affari quotidiani. I vincitori vedranno pubblicati i propri scatti sul Rockstar Newswire e porteranno a casa 1.000.000 di GTA$. La scadenza è fissata per lunedì 10 ottobre. Per partecipare, le foto dovranno essere taggate con #BIKERS sul Social Club.<br /><br />Visita il Social Club per le regole ufficiali.","url":"","image":{"path":"sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Bikers_Snapmatic/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475767265,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Evento Snapmatic",
+    "content": "Preparati a partecipare all'Evento Snapmatic #BIKERS. Cerchiamo cinque foto che mostrino in modo originale e d'impatto i nuovi contenuti di Cenaturi, dai nuovi veicoli alle clubhouse con i loro affari quotidiani. I vincitori vedranno pubblicati i propri scatti sul Rockstar Newswire e porteranno a casa 1.000.000 di GTA$. La scadenza è fissata per lunedì 10 ottobre. Per partecipare, le foto dovranno essere taggate con #BIKERS sul Social Club.<br /><br />Visita il Social Club per le regole ufficiali.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Snapmatic/349672_snapmatic-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Snapmatic/.dds",
+        "filesize": 2048
+    }
+}

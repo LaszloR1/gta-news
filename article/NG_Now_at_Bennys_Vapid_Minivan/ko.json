@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1460452381,"title":"","headline":"GTA Online","subtitle":"베니즈 최신 소식: 바피드 미니밴","content":"베니가 점점 늘어가는 자신의 커스텀 로우라이더 컬렉션에 또다시 새 차를 추가했습니다. 이번에는 바피드 미니밴에 손을 댔군요. 평소라면 지극히 평범한, 이 흔해 빠진 미니밴에 두 번 눈길을 주는 일은 없겠지만, 적절한 개조가 이루어진다면 어떤 차를 만나도 주인공이 될 수 있을 겁니다.","url":"","image":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1460452381,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "베니즈 최신 소식: 바피드 미니밴",
+    "content": "베니가 점점 늘어가는 자신의 커스텀 로우라이더 컬렉션에 또다시 새 차를 추가했습니다. 이번에는 바피드 미니밴에 손을 댔군요. 평소라면 지극히 평범한, 이 흔해 빠진 미니밴에 두 번 눈길을 주는 일은 없겠지만, 적절한 개조가 이루어진다면 어떤 차를 만나도 주인공이 될 수 있을 겁니다.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Now_at_Bennys_Vapid_Minivan/.dds",
+        "filesize": 2048
+    }
+}

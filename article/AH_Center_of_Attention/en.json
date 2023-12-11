@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1532455333,"title":"","headline":"GTA Online","subtitle":"Center of Attention","content":"It’s not enough to invest in a perfectly styled venue, expert bar staff, exquisite dancers and ex-military security teams: if you want to make sure the queue for your nightclub stretches into the next state you’ll need to keep on top of everything from stock levels to headline bookings and personal favors for the talent. Your daily take is added to your safe, so run a tight ship – and you might even see a few A-listers in your VIP area.","url":"","image":{"path":"sc/news/AH_Center_of_Attention/349672_Big_Feed_Only_Center_of_Attention.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1532455333,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Center of Attention",
+    "content": "It’s not enough to invest in a perfectly styled venue, expert bar staff, exquisite dancers and ex-military security teams: if you want to make sure the queue for your nightclub stretches into the next state you’ll need to keep on top of everything from stock levels to headline bookings and personal favors for the talent. Your daily take is added to your safe, so run a tight ship – and you might even see a few A-listers in your VIP area.",
+    "url": "",
+    "image": {
+        "path": "sc/news/AH_Center_of_Attention/349672_Big_Feed_Only_Center_of_Attention.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

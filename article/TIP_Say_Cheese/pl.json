@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394812641,"headline":"Wskazówka do gry sieciowej","subtitle":"Uśmiechnij się!","content":"Podczas ostatniej aktualizacji wprowadziliśmy dodatkowe funkcje Snapmatic, abyście jeszcze bardziej mogli dopieścić swoje zdjęcia. Są to m.in. nowe ramki oraz filtry, które tchną w wasze fotki nowe życie.<br /><br />Ramki i filtry można zmienić za pomocą pada kierunkowego po włączeniu aparatu.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394812641,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Uśmiechnij się!",
+    "content": "Podczas ostatniej aktualizacji wprowadziliśmy dodatkowe funkcje Snapmatic, abyście jeszcze bardziej mogli dopieścić swoje zdjęcia. Są to m.in. nowe ramki oraz filtry, które tchną w wasze fotki nowe życie.<br /><br />Ramki i filtry można zmienić za pomocą pada kierunkowego po włączeniu aparatu.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Say_Cheese/65664_Say_Cheese.dds",
+        "filesize": 65664
+    }
+}

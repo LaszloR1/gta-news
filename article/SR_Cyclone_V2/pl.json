@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1510680628,"title":"","headline":"GTA Online","subtitle":"Cyclone","content":"Gdy w grę wchodzi silnik Twojego samochodu, możesz sobie pomyśleć, że elektryczność jest dla słabych i dbających o środowisko. Jednak Coil Cyclone zmienia to podejście szybciej niż 1000 woltów prosto w czaszkę. Zaufaj nam, jeśli czyny przemawiają głośniej od słów, to takie przyspieszenie praktycznie ogłusza.","url":"","image":{"path":"sc/news/SR_Cyclone_V2/262272_Cyclone.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1510680628,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Cyclone",
+    "content": "Gdy w grę wchodzi silnik Twojego samochodu, możesz sobie pomyśleć, że elektryczność jest dla słabych i dbających o środowisko. Jednak Coil Cyclone zmienia to podejście szybciej niż 1000 woltów prosto w czaszkę. Zaufaj nam, jeśli czyny przemawiają głośniej od słów, to takie przyspieszenie praktycznie ogłusza.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Cyclone_V2/262272_Cyclone.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

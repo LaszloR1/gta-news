@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1482164586,"title":"","headline":"GTA Online","subtitle":"Truffade Nero","content":"Новинка от Truffade – это такой эксклюзив, что ее продают только по записям и самым злым беспредельщикам. Эта машина загадит высокооктановыми выхлопами любой суперкар, который посмеет стоять в одном гараже с ней, а затем подотрет себе задницу кожаными сиденьями. И вы еще не знаете, что для нее заготовил Бенни.","url":"","image":{"path":"sc/news/NG_IE_Truffade_Nero_20_12/349672_Truffade-Nero-Ad-BigFeed-512x1024.dds","filesize":349672},"landscape":{"path":"sc/news/NG_IE_Truffade_Nero_20_12/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1482164586,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Truffade Nero",
+    "content": "Новинка от Truffade – это такой эксклюзив, что ее продают только по записям и самым злым беспредельщикам. Эта машина загадит высокооктановыми выхлопами любой суперкар, который посмеет стоять в одном гараже с ней, а затем подотрет себе задницу кожаными сиденьями. И вы еще не знаете, что для нее заготовил Бенни.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_IE_Truffade_Nero_20_12/349672_Truffade-Nero-Ad-BigFeed-512x1024.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_IE_Truffade_Nero_20_12/.dds",
+        "filesize": 2048
+    }
+}

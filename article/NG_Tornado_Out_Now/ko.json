@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1459850770,"title":"","headline":"GTA Online","subtitle":"베니즈 최신 소식: 디클라스 토네이도","content":"베니가 또 저질렀습니다. 디클라스 토네이도를 로우라이더 커스텀 업그레이드로 선보입니다. 베니즈 웹사이트의 기본 차량 페이지에서 차량을 구매한 다음, 스트로베리 중심부에 있는 베니즈 오리지널 모터 웍스로 몰고 가서 다양한 개조 옵션을 확인해 보십시오.","url":"","image":{"path":"sc/news/NG_Tornado_Out_Now/262272_NG_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Tornado_Out_Now/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1459850770,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "베니즈 최신 소식: 디클라스 토네이도",
+    "content": "베니가 또 저질렀습니다. 디클라스 토네이도를 로우라이더 커스텀 업그레이드로 선보입니다. 베니즈 웹사이트의 기본 차량 페이지에서 차량을 구매한 다음, 스트로베리 중심부에 있는 베니즈 오리지널 모터 웍스로 몰고 가서 다양한 개조 옵션을 확인해 보십시오.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Tornado_Out_Now/262272_NG_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Tornado_Out_Now/.dds",
+        "filesize": 2048
+    }
+}

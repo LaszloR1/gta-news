@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1465293993,"title":"","headline":"GTA Online","subtitle":"新たなボスチャレンジ","content":"組織で力を競い合えるチャレンジが2つ追加されました：<br /><br />-µ現金引き出し：ロスサントスに横行する、新手のATM詐欺を先導する<br />-µサルベージ：海底に消えた貨物の回収個数を競う<br /><br />ボスとしてプレイしている場合、アクションメニューの「ボスチャレンジ」から開始できます。","url":"","image":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds","filesize":262272},"landscape":{"path":"sc/news/NG_FAFF_New_VIP_Challenges/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1465293993,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "新たなボスチャレンジ",
+    "content": "組織で力を競い合えるチャレンジが2つ追加されました：<br /><br />-µ現金引き出し：ロスサントスに横行する、新手のATM詐欺を先導する<br />-µサルベージ：海底に消えた貨物の回収個数を競う<br /><br />ボスとしてプレイしている場合、アクションメニューの「ボスチャレンジ」から開始できます。",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/262272_NG_SecuroServ.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_FAFF_New_VIP_Challenges/.dds",
+        "filesize": 2048
+    }
+}

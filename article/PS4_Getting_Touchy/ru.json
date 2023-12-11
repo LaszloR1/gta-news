@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416225236,"title":"","headline":"GTAV","subtitle":"Трогательные моменты","content":"Вы можете выполнять действия в сюжетном режиме и GTA Online с помощью сенсорной панели контроллера.<br /><br />Находясь в машине, проведите вверх/вниз по сенсорной панели, чтобы сменить радиостанцию, или влево/вправо, чтобы пролистать список оружия.<br /><br />Находясь вне машины и целясь из оружия, проведите по сенсорной панели вверх, чтобы бросить гранату.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds","filesize":65664},"landscape":{"path":"sc/news/PS4_Getting_Touchy/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416225236,
+    "title": "",
+    "headline": "GTAV",
+    "subtitle": "Трогательные моменты",
+    "content": "Вы можете выполнять действия в сюжетном режиме и GTA Online с помощью сенсорной панели контроллера.<br /><br />Находясь в машине, проведите вверх/вниз по сенсорной панели, чтобы сменить радиостанцию, или влево/вправо, чтобы пролистать список оружия.<br /><br />Находясь вне машины и целясь из оружия, проведите по сенсорной панели вверх, чтобы бросить гранату.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/PS4_Getting_Touchy/65664_getting_touchy.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/PS4_Getting_Touchy/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367294,"title":"","headline":"GTA Online","subtitle":"Specjalna, ograniczona czasowo oferta","content":"Skorzystaj w tym tygodniu ze spersonalizowanej zniżki 50% na wybrane auta, motocykle i samoloty, m.in. opancerzonego SUV-a Benefactor XLS, luksusowe coupe Enus Windsor Drop, szybkiego Hakouchou i superauto Vapid FMJ. Schowaj swoją flotę w 10-miejscowym garażu, który do 13 lutego kupisz z 25% zniżką.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367294,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Specjalna, ograniczona czasowo oferta",
+    "content": "Skorzystaj w tym tygodniu ze spersonalizowanej zniżki 50% na wybrane auta, motocykle i samoloty, m.in. opancerzonego SUV-a Benefactor XLS, luksusowe coupe Enus Windsor Drop, szybkiego Hakouchou i superauto Vapid FMJ. Schowaj swoją flotę w 10-miejscowym garażu, który do 13 lutego kupisz z 25% zniżką.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/.dds",
+        "filesize": 2048
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1534258266,"title":"","headline":"GTA Online","subtitle":"El Terrorbyte","content":"Si el malware tuviera seis ruedas, blindaje pesado y asientos muy cómodos, este sería el aspecto que tendría. Puede iniciar misiones de recuperación y de reabastecimiento para todos tus negocios, extraer datos de cualquier otro delincuente de la ciudad e iniciar trabajos de clientes exclusivos, y eso sin contar las mejoras: un lanzamisiles multiobjetivo, una estación de drones, un taller de armas Mk II, y el único taller de vehículos del mundo capaz de modificar la Oppressor Mk II.","url":"","image":{"path":"sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1534258266,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "El Terrorbyte",
+    "content": "Si el malware tuviera seis ruedas, blindaje pesado y asientos muy cómodos, este sería el aspecto que tendría. Puede iniciar misiones de recuperación y de reabastecimiento para todos tus negocios, extraer datos de cualquier otro delincuente de la ciudad e iniciar trabajos de clientes exclusivos, y eso sin contar las mejoras: un lanzamisiles multiobjetivo, una estación de drones, un taller de armas Mk II, y el único taller de vehículos del mundo capaz de modificar la Oppressor Mk II.",
+    "url": "",
+    "image": {
+        "path": "sc/news/ja2_AH_Terrobyte/349672_Big_Feed_Only_Terrorbyte.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349449,"title":"","headline":"GTA Online","subtitle":"Distruggi ultimo classificato","content":"In questa variante della classica gara, gli ultimi saranno i primi... a saltare per aria. A intervalli regolari, l'ultimo classificato esplode e viene eliminato dalla gara. L'opzione Distruggi ultimo classificato può essere impostata dall'host per qualsiasi gara insieme all'intervallo tra un'eliminazione e l'altra... giusto per movimentare le cose!","url":"","image":{"path":"sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Destroy_Last_Place/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349449,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Distruggi ultimo classificato",
+    "content": "In questa variante della classica gara, gli ultimi saranno i primi... a saltare per aria. A intervalli regolari, l'ultimo classificato esplode e viene eliminato dalla gara. L'opzione Distruggi ultimo classificato può essere impostata dall'host per qualsiasi gara insieme all'intervallo tra un'eliminazione e l'altra... giusto per movimentare le cose!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Destroy_Last_Place/262272_Destroy_Last_Place.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Destroy_Last_Place/.dds",
+        "filesize": 2048
+    }
+}

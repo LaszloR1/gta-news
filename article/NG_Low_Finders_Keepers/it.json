@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349603,"title":"","headline":"GTA Online","subtitle":"Chi trova tiene","content":"I trafficanti d'armi hanno abbandonato un bel po' di merce per tutta Los Santos e Blaine County. Se trovi queste armi e munizioni, sono tue. Approfittane! Questa potenza di fuoco aggiuntiva potrebbe tornarti utile per agguantare la vittoria all'ultimo minuto in uno degli eventi Freemode!","url":"","image":{"path":"sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Low_Finders_Keepers/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349603,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Chi trova tiene",
+    "content": "I trafficanti d'armi hanno abbandonato un bel po' di merce per tutta Los Santos e Blaine County. Se trovi queste armi e munizioni, sono tue. Approfittane! Questa potenza di fuoco aggiuntiva potrebbe tornarti utile per agguantare la vittoria all'ultimo minuto in uno degli eventi Freemode!",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Low_Finders_Keepers/262272_Finders_Keepers.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Low_Finders_Keepers/.dds",
+        "filesize": 2048
+    }
+}

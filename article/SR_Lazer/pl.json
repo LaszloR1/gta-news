@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1511880010,"title":"","headline":"GTA Online","subtitle":"Lazer","content":"Lazer jest pierwszą miłością niejednego seryjnego kryminalisty. Smukły, szybki i zabójczy – ten przystojniak definiuje współczesne myśliwce. Teraz po raz pierwszy możesz go mieć na własność.","url":"","image":{"path":"sc/news/SR_Lazer/262272_P996Lazer.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1511880010,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Lazer",
+    "content": "Lazer jest pierwszą miłością niejednego seryjnego kryminalisty. Smukły, szybki i zabójczy – ten przystojniak definiuje współczesne myśliwce. Teraz po raz pierwszy możesz go mieć na własność.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Lazer/262272_P996Lazer.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

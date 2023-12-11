@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1458044095,"title":"","headline":"GTA Online","subtitle":"Wyraźcie się","content":"Czas uzupełnić swoją garderobę dzięki całemu zestawowi nowych elementów odzieży, które będą w sam raz na następny zlot samochodowy. Dostępne jest wszystko, od strojów lowriderowych do ubiorów roboczych. Możecie sięgnąć także po nowe wzory tatuaży i fryzury, aby być na bieżąco ze świeżymi trendami.","url":"","image":{"path":"sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds","filesize":262272},"landscape":{"path":"sc/news/NG_LCC_Express_Yourself/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1458044095,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Wyraźcie się",
+    "content": "Czas uzupełnić swoją garderobę dzięki całemu zestawowi nowych elementów odzieży, które będą w sam raz na następny zlot samochodowy. Dostępne jest wszystko, od strojów lowriderowych do ubiorów roboczych. Możecie sięgnąć także po nowe wzory tatuaży i fryzury, aby być na bieżąco ze świeżymi trendami.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_LCC_Express_Yourself/262272_Express_Yourself.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_LCC_Express_Yourself/.dds",
+        "filesize": 2048
+    }
+}

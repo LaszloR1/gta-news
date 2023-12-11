@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1485367294,"title":"","headline":"GTA Online","subtitle":"Oferta especial por tiempo limitado solo para ti","content":"Disfruta de una oferta privada en una amplia gama de coches, motos y aviones imprescindibles esta semana, como el todocamino blindado Benefactor XLS, el cupé de lujo Enus Windsor Drop, la veloz moto Hakuchou Drag y el supercoche Vapid FMJ, todos ellos con un descuento del 50%. Almacena tu flota en su propio garaje para 10 coches, todos con un 25% de descuento hasta el 13 de febrero.","url":"","image":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds","filesize":349672},"landscape":{"path":"sc/news/NG_Target_Tunables_Tier2_31_01/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1485367294,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Oferta especial por tiempo limitado solo para ti",
+    "content": "Disfruta de una oferta privada en una amplia gama de coches, motos y aviones imprescindibles esta semana, como el todocamino blindado Benefactor XLS, el cupé de lujo Enus Windsor Drop, la veloz moto Hakuchou Drag y el supercoche Vapid FMJ, todos ellos con un descuento del 50%. Almacena tu flota en su propio garaje para 10 coches, todos con un 25% de descuento hasta el 13 de febrero.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/349672_bigFeed-VapidFMJ-2-final.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_Target_Tunables_Tier2_31_01/.dds",
+        "filesize": 2048
+    }
+}

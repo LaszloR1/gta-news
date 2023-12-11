@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1490356057,"title":"","headline":"GTA Online","subtitle":"스턴트 레이스 생성기에서 특수 차량 지금 이용 가능","content":"특수 차량 서킷 업데이트를 통해 더욱 새로워진 생성기의 기능을 경험해 보십시오.<br />또한, 추가로 로켓 볼틱, 루이너 2000, 블레이저 아쿠아를 스턴트 레이스 생성기에서 사용할 수 있게 되었습니다. <br />그리고 이 특수 차량들의 능력을 발휘하도록 설계된 허들, 부스트 리필, 폭발성 상자 같은 추가 기물도 업데이트 되었습니다. ","url":"","image":{"path":"sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds","filesize":349672},"landscape":{"path":"sc/news/NG_CSSVC_Creator_Tools/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1490356057,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "스턴트 레이스 생성기에서 특수 차량 지금 이용 가능",
+    "content": "특수 차량 서킷 업데이트를 통해 더욱 새로워진 생성기의 기능을 경험해 보십시오.<br />또한, 추가로 로켓 볼틱, 루이너 2000, 블레이저 아쿠아를 스턴트 레이스 생성기에서 사용할 수 있게 되었습니다. <br />그리고 이 특수 차량들의 능력을 발휘하도록 설계된 허들, 부스트 리필, 폭발성 상자 같은 추가 기물도 업데이트 되었습니다. ",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/349672_SVC-bigFeed-512x1024-alt.dds",
+        "filesize": 349672
+    },
+    "landscape": {
+        "path": "sc/news/NG_CSSVC_Creator_Tools/.dds",
+        "filesize": 2048
+    }
+}

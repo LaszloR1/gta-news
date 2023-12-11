@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1416223900,"title":"","headline":"GTA Online","subtitle":"당당하게 걷기","content":"상호 작용 메뉴에 캐릭터의 걷는 스타일을 변경할 수 있는 새로운 옵션이 있습니다. 세련된 스타일이나 당당한 스타일 등 여러분이 선호하는 스타일을 찾아 선택할 수 있는 다양한 옵션이 있습니다.<br /><br />상호 작용 메뉴에서 플레이어 감정 아래에 있는 도보 스타일 옵션을 찾으십시오.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Strut_Your_Stuff/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1416223900,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "당당하게 걷기",
+    "content": "상호 작용 메뉴에 캐릭터의 걷는 스타일을 변경할 수 있는 새로운 옵션이 있습니다. 세련된 스타일이나 당당한 스타일 등 여러분이 선호하는 스타일을 찾아 선택할 수 있는 다양한 옵션이 있습니다.<br /><br />상호 작용 메뉴에서 플레이어 감정 아래에 있는 도보 스타일 옵션을 찾으십시오.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Strut_Your_Stuff/262272_StrutYourStuff.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Strut_Your_Stuff/.dds",
+        "filesize": 2048
+    }
+}

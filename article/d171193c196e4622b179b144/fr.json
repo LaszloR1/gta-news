@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1678973250,"title":"Los Santos Drug Wars","headline":"Los Santos Drug Wars","subtitle":"Jouez à la Dernière dose","content":"Une fois que vous aurez terminé la Première dose, allez voir Dax pour poursuivre votre aventure dans Los Santos Drug Wars avec la Dernière dose. Dans ces cinq nouvelles missions, vous et la Troupe aurez affaire à des visages familiers, des tueurs à gages, du sabotage, du kidnapping et plus.<br /><br />Terminez ces missions pour débloquer une Ocelot Virtue gratuite, ainsi que son tarif spécial.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY","image":{"path":"sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds","filesize":262272},"button":"Jouer à la Dernière dose"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1678973250,
+    "title": "Los Santos Drug Wars",
+    "headline": "Los Santos Drug Wars",
+    "subtitle": "Jouez à la Dernière dose",
+    "content": "Une fois que vous aurez terminé la Première dose, allez voir Dax pour poursuivre votre aventure dans Los Santos Drug Wars avec la Dernière dose. Dans ces cinq nouvelles missions, vous et la Troupe aurez affaire à des visages familiers, des tueurs à gages, du sabotage, du kidnapping et plus.<br /><br />Terminez ces missions pour débloquer une Ocelot Virtue gratuite, ainsi que son tarif spécial.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_LOCATION arg=WINTER_TU_STORY",
+    "image": {
+        "path": "sc/news/d171193c196e4622b179b144/262272_GTAO340_LSDWLD_FINAL_BigFeedcopy.dds",
+        "filesize": 262272
+    },
+    "button": "Jouer à la Dernière dose"
+}

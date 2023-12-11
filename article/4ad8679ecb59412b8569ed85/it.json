@@ -1,1 +1,16 @@
-{"types":["standalone"],"date":1689867528,"title":"GTA+","headline":"GTA+","subtitle":"Ponte sollevatore dell’autofficina","content":"Gli abbonati a GTA+ possono riscattare gratuitamente il ponte sollevatore dell'autofficina fino al 16 agosto.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.","url":"class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus","image":{"path":"sc/news/4ad8679ecb59412b8569ed85/262272_GTA_PlusTab_Mp16_PropertyBenefit_FINAL_BigFeed_it_it.dds","filesize":262272},"button":"Seleziona per abbonarti a GTA+"}
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1689867528,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Ponte sollevatore dell’autofficina",
+    "content": "Gli abbonati a GTA+ possono riscattare gratuitamente il ponte sollevatore dell'autofficina fino al 16 agosto.<br /><br />L'abbonamento a GTA+ si rinnova in automatico ogni mese, annullalo quando vuoi. Visita rgs.ms/gtaplus per saperne di più.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/4ad8679ecb59412b8569ed85/262272_GTA_PlusTab_Mp16_PropertyBenefit_FINAL_BigFeed_it_it.dds",
+        "filesize": 262272
+    },
+    "button": "Seleziona per abbonarti a GTA+"
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1502802830,"title":"","headline":"GTA Online","subtitle":"Ocelot XA-21","content":"El XA-21 de Ocelot, recién salido de un laboratorio clandestino que técnicamente no existe, acaba de llegar a las calles de Los Santos, dejando un rastro de millonarios aturdidos y visiblemente excitados a su paso. Si pensabas que la tecnología híbrida solo servía para proteger el medioambiente, cambiarás de opinión en cuanto pises el acelerador del XA-21 y te cagues encima.","url":"","image":{"path":"sc/news/Ocelot_XA21_v2/262272_Ocelot_xa21.dds","filesize":262272},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1502802830,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Ocelot XA-21",
+    "content": "El XA-21 de Ocelot, recién salido de un laboratorio clandestino que técnicamente no existe, acaba de llegar a las calles de Los Santos, dejando un rastro de millonarios aturdidos y visiblemente excitados a su paso. Si pensabas que la tecnología híbrida solo servía para proteger el medioambiente, cambiarás de opinión en cuanto pises el acelerador del XA-21 y te cagues encima.",
+    "url": "",
+    "image": {
+        "path": "sc/news/Ocelot_XA21_v2/262272_Ocelot_xa21.dds",
+        "filesize": 262272
+    },
+    "style": "gta"
+}

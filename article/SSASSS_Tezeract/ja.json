@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1522168342,"title":"","headline":"GTA Online","subtitle":"ペガッシµテザラクト","content":"これはもはや車というより、公道における人類の「音速」に対する挑戦と言った方が良いかもしれません。いよいよ「ペガッシµテザラクト」の登場です。未体験の領域へようこそ。","url":"","image":{"path":"sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1522168342,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "ペガッシµテザラクト",
+    "content": "これはもはや車というより、公道における人類の「音速」に対する挑戦と言った方が良いかもしれません。いよいよ「ペガッシµテザラクト」の登場です。未体験の領域へようこそ。",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Tezeract/349672_bigfeed-tezeract.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

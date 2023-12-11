@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1506609933,"title":"RED DEAD REDEMPTION II","headline":"RED DEAD REDEMPTION II","subtitle":"Zobacz nowy zwiastun","content":"Zobacz najnowszy zwiastun Red Dead Redemption 2. To opowieść o Arthurze Morganie i gangu van der Lindego, którzy napadają, kradną i zabijają, aby przetrwać w surowym, bezkresnym sercu Ameryki. Premiera wiosną 2018 roku.<br /><br />Obejrzyj na rockstargames.com/pl/.","url":"","image":{"path":"sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-POL.dds","filesize":349672},"style":"rdr"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1506609933,
+    "title": "RED DEAD REDEMPTION II",
+    "headline": "RED DEAD REDEMPTION II",
+    "subtitle": "Zobacz nowy zwiastun",
+    "content": "Zobacz najnowszy zwiastun Red Dead Redemption 2. To opowieść o Arthurze Morganie i gangu van der Lindego, którzy napadają, kradną i zabijają, aby przetrwać w surowym, bezkresnym sercu Ameryki. Premiera wiosną 2018 roku.<br /><br />Obejrzyj na rockstargames.com/pl/.",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-POL.dds",
+        "filesize": 349672
+    },
+    "style": "rdr"
+}

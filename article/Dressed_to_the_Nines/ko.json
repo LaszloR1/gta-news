@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1399990022,"title":"","headline":"온라인 팁","subtitle":"멋지게 차려입기","content":"여러분의 캐릭터를 돋보이게 하는 완벽한 조합을 찾아내는 건 정말 힘든 일입니다. 그래서 저희가 그 힘든 일을 대신하여 몇 가지 스타일리시한 복장을 조합해서 마련해 두었습니다.<br /><br />어떤 의상점에서든 카운터로 가서 점원에게 이 복장들을 달라고 요청하십시오. 모든 아이템을 포함한 가격이 붙어 있으니 몇 초 만에 완전히 달라진 외모로 변신할 수 있습니다.<br /><br />복장은 여러분의 아파트 옷장에 보관되며, 원한다면 언제든지 빠르게 복장을 변경할 수 있습니다.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds","filesize":262272},"landscape":{"path":"sc/news/Dressed_to_the_Nines/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1399990022,
+    "title": "",
+    "headline": "온라인 팁",
+    "subtitle": "멋지게 차려입기",
+    "content": "여러분의 캐릭터를 돋보이게 하는 완벽한 조합을 찾아내는 건 정말 힘든 일입니다. 그래서 저희가 그 힘든 일을 대신하여 몇 가지 스타일리시한 복장을 조합해서 마련해 두었습니다.<br /><br />어떤 의상점에서든 카운터로 가서 점원에게 이 복장들을 달라고 요청하십시오. 모든 아이템을 포함한 가격이 붙어 있으니 몇 초 만에 완전히 달라진 외모로 변신할 수 있습니다.<br /><br />복장은 여러분의 아파트 옷장에 보관되며, 원한다면 언제든지 빠르게 복장을 변경할 수 있습니다.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Dressed_to_the_Nines/262272_DressedToTheNines.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/Dressed_to_the_Nines/.dds",
+        "filesize": 2048
+    }
+}

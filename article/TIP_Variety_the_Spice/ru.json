@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1380567052,"headline":"Сетевые подсказки","subtitle":"Разнообразные «Перестрелки»","content":"Все «Перестрелки» очень гибки как режим: в любую «Командную перестрелку» можно играть, как в обычную, и наоборот. Настройте тип игры в лобби «Перестрелки» – и играйте так, как вам нравится.","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Variety_the_Spice/65664_Variety_is_the_Spice_of_Deathmatches_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1380567052,
+    "headline": "Сетевые подсказки",
+    "subtitle": "Разнообразные «Перестрелки»",
+    "content": "Все «Перестрелки» очень гибки как режим: в любую «Командную перестрелку» можно играть, как в обычную, и наоборот. Настройте тип игры в лобби «Перестрелки» – и играйте так, как вам нравится.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Variety_the_Spice/65664_Variety_is_the_Spice_of_Deathmatches_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

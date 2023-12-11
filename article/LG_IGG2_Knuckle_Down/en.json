@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436353979,"title":"","headline":"GTA Online","subtitle":"Knuckle Down","content":"Knuckledusters are the latest addition to the arsenal on offer at Ammu-Nation, the ideal tool to improve clear communication (in a melee.)<br /><br />Also new in stock is the Marksman Pistol, which packs more stopping power than a pump-action shotgun.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds","filesize":65664},"landscape":{"path":"sc/news/LG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436353979,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Knuckle Down",
+    "content": "Knuckledusters are the latest addition to the arsenal on offer at Ammu-Nation, the ideal tool to improve clear communication (in a melee.)<br /><br />Also new in stock is the Marksman Pistol, which packs more stopping power than a pump-action shotgun.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/65664_ammunation.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/LG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

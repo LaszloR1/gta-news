@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1503999999,"title":"","headline":"GTA Online","subtitle":"Przemyt","content":"Mówił Ci ktoś, że człowiek nie został stworzony do latania? Cóż, mylił się. Czas rozszerzyć swoje przestępcze imperium w jedynym możliwym jeszcze kierunku: w górę.<br /><br />Przestronne i modyfikowalne hangary będą stanowić centrum Twojej nowej przemytniczej działalności. Zapełnij je flotą spersonalizowanych statków powietrznych, wznieś się między chmury i nie wracaj, dopóki Twoja przemytnicza działalność nie pozwoli Ci zapanować nad każdym metrem sześciennym przestrzeni powietrznej nad Los Santos.","url":"","image":{"path":"sc/news/SR_Smuggler/349672_gtao-sr-bigfeed.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1503999999,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Przemyt",
+    "content": "Mówił Ci ktoś, że człowiek nie został stworzony do latania? Cóż, mylił się. Czas rozszerzyć swoje przestępcze imperium w jedynym możliwym jeszcze kierunku: w górę.<br /><br />Przestronne i modyfikowalne hangary będą stanowić centrum Twojej nowej przemytniczej działalności. Zapełnij je flotą spersonalizowanych statków powietrznych, wznieś się między chmury i nie wracaj, dopóki Twoja przemytnicza działalność nie pozwoli Ci zapanować nad każdym metrem sześciennym przestrzeni powietrznej nad Los Santos.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SR_Smuggler/349672_gtao-sr-bigfeed.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

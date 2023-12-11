@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1425978549,"title":"","headline":"GTA Online","subtitle":"Vehículos para los golpes","content":"La actualización Golpes incluye una gran variedad de vehículos nuevos en los que puedes gastarte los dólares GTA. Ya están disponibles los siguientes:<br />- Dinka Enduro: una nueva moto todoterreno de cross que dejará mordiendo el polvo a los que te persigan.<br />- Vapid Guardian: un 4x4 monstruoso de 4 asientos y aspecto amenazador que acongojará a tus enemigos.<br /><br />Y muchos, muchos vehículos más que se irán desbloqueando a medida que los encuentres en los golpes.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Heists_Heist_Wheels/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1425978549,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vehículos para los golpes",
+    "content": "La actualización Golpes incluye una gran variedad de vehículos nuevos en los que puedes gastarte los dólares GTA. Ya están disponibles los siguientes:<br />- Dinka Enduro: una nueva moto todoterreno de cross que dejará mordiendo el polvo a los que te persigan.<br />- Vapid Guardian: un 4x4 monstruoso de 4 asientos y aspecto amenazador que acongojará a tus enemigos.<br /><br />Y muchos, muchos vehículos más que se irán desbloqueando a medida que los encuentres en los golpes.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/262272_Heist-Wheels.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Heists_Heist_Wheels/.dds",
+        "filesize": 2048
+    }
+}

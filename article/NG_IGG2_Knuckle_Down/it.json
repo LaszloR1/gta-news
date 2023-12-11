@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1436354142,"title":"","headline":"GTA Online","subtitle":"Prepara le nocche","content":"Ammu-Nation è lieta di offrire ai suoi clienti una vasta gamma di tirapugni disponibili in diversi stili: finalmente potrai affascinare gli altri e comunicare con chiarezza in molte forme diverse.<br /><br />È anche disponibile la pistola da tiratore, un gioiellino dal potere d'arresto superiore a quello di un fucile a pompa.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_IGG2_Knuckle_Down/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1436354142,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Prepara le nocche",
+    "content": "Ammu-Nation è lieta di offrire ai suoi clienti una vasta gamma di tirapugni disponibili in diversi stili: finalmente potrai affascinare gli altri e comunicare con chiarezza in molte forme diverse.<br /><br />È anche disponibile la pistola da tiratore, un gioiellino dal potere d'arresto superiore a quello di un fucile a pompa.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_IGG2_Knuckle_Down/.dds",
+        "filesize": 2048
+    }
+}

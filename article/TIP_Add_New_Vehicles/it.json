@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394809165,"headline":"Suggerimento online","subtitle":"Aggiungi nuovi veicoli alle tue gare","content":"I nuovi veicoli che vengono aggiunti in GTA Online non sono automaticamente disponibili per le gare create in precedenza.~n~~n~Puoi però modificare velocemente e ripubblicare le attività per includere i veicoli più recenti. Per farlo, vai nel menu Veicoli disponibili del creatore: accedi al menu e premi ~INPUT_FRONTEND_X~ per modificare la classe di veicoli ammessa. Da lì potrai specificare i veicoli da includere e aggiungere tutte le novità che sono state inserite.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394809165,
+    "headline": "Suggerimento online",
+    "subtitle": "Aggiungi nuovi veicoli alle tue gare",
+    "content": "I nuovi veicoli che vengono aggiunti in GTA Online non sono automaticamente disponibili per le gare create in precedenza.~n~~n~Puoi però modificare velocemente e ripubblicare le attività per includere i veicoli più recenti. Per farlo, vai nel menu Veicoli disponibili del creatore: accedi al menu e premi ~INPUT_FRONTEND_X~ per modificare la classe di veicoli ammessa. Da lì potrai specificare i veicoli da includere e aggiungere tutte le novità che sono state inserite.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Add_New_Vehicles/65664_New_Vehicles_to_your_Races.dds",
+        "filesize": 65664
+    }
+}

@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1533838139,"title":"Не пропустите","headline":"Не пропустите","subtitle":"Red Dead Redemption 2: демонстрация игрового процесса","content":"Предлагаем вашему вниманию этот видеоролик, целиком составленный из кадров игрового процесса Red Dead Redemption 2 и снятый в разрешении 4K.<br /><br />Red Dead Redemption 2 выйдет 26 октября 2018 года на Xbox One. Спешите оформить предзаказ.","url":"","image":{"path":"sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_RUS.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1533838139,
+    "title": "Не пропустите",
+    "headline": "Не пропустите",
+    "subtitle": "Red Dead Redemption 2: демонстрация игрового процесса",
+    "content": "Предлагаем вашему вниманию этот видеоролик, целиком составленный из кадров игрового процесса Red Dead Redemption 2 и снятый в разрешении 4K.<br /><br />Red Dead Redemption 2 выйдет 26 октября 2018 года на Xbox One. Спешите оформить предзаказ.",
+    "url": "",
+    "image": {
+        "path": "sc/news/9b6_RDR2_Trailer_XB_0908/349672_RDR2_GPT_ANNOUNCEMENTART_RUS.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

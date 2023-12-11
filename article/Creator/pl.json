@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1386691810,"headline":"GTA Online","subtitle":"Wersja beta kreatora deathmatchów i wyścigów już dostępna","content":"Najnowsza bezpłatna aktualizacja GTA Online zawiera wersję beta kreatora deathmatchów i wyścigów.<br /><br />Projektuj krwawe strzelaniny, emocjonujące wyścigi i inne, a następnie udostępniaj je innym za pomocą serwisu Rockstar Games Social Club. Niech wszyscy zobaczą twoje dzieła, ocenią je i przekażą dalej.<br /><br />Aby uzyskać dostęp do wersji beta kreatora deathmatchów i wyścigów, w menu pauzy GTA Online wejdź w menu Online > Kreator.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds","filesize":131200},"landscape":{"path":"sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds","filesize":131200}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1386691810,
+    "headline": "GTA Online",
+    "subtitle": "Wersja beta kreatora deathmatchów i wyścigów już dostępna",
+    "content": "Najnowsza bezpłatna aktualizacja GTA Online zawiera wersję beta kreatora deathmatchów i wyścigów.<br /><br />Projektuj krwawe strzelaniny, emocjonujące wyścigi i inne, a następnie udostępniaj je innym za pomocą serwisu Rockstar Games Social Club. Niech wszyscy zobaczą twoje dzieła, ocenią je i przekażą dalej.<br /><br />Aby uzyskać dostęp do wersji beta kreatora deathmatchów i wyścigów, w menu pauzy GTA Online wejdź w menu Online > Kreator.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_256.dds",
+        "filesize": 131200
+    },
+    "landscape": {
+        "path": "sc/news/Creator/131200_Deathmatch_and_Race_Creator_512.dds",
+        "filesize": 131200
+    }
+}

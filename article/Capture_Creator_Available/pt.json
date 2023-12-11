@@ -1,1 +1,19 @@
-{"types":["newswire","transition"],"date":1397229558,"headline":"GTA Online","subtitle":"A Atualização  Criador de Captura já está disponível","content":"A comunidade de Criadores agora pode criar seus próprios Serviços de Captura personalizados com a Atualização Criador de Captura para GTA Online.<br /><br />Coloque pacotes estrategicamente, defina armas, o local e dezenas de outras variáveis para criar o seu próprio Serviço de Captura para os outros jogarem. Nós também vamos ficar de olho nas suas Capturas para marcar experiências de destaque com o selo de Aprovação da Rockstar.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/Capture_Creator_Available/65664_Capture_Creator_Portrait2.dds","filesize":65664},"landscape":{"path":"sc/news/Capture_Creator_Available/65664_Capture_Creator_Landscape2.dds","filesize":65664}}
+{
+    "types": [
+        "newswire",
+        "transition"
+    ],
+    "date": 1397229558,
+    "headline": "GTA Online",
+    "subtitle": "A Atualização  Criador de Captura já está disponível",
+    "content": "A comunidade de Criadores agora pode criar seus próprios Serviços de Captura personalizados com a Atualização Criador de Captura para GTA Online.<br /><br />Coloque pacotes estrategicamente, defina armas, o local e dezenas de outras variáveis para criar o seu próprio Serviço de Captura para os outros jogarem. Nós também vamos ficar de olho nas suas Capturas para marcar experiências de destaque com o selo de Aprovação da Rockstar.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/Capture_Creator_Available/65664_Capture_Creator_Portrait2.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "sc/news/Capture_Creator_Available/65664_Capture_Creator_Landscape2.dds",
+        "filesize": 65664
+    }
+}

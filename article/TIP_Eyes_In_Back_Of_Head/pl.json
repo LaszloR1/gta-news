@@ -1,1 +1,14 @@
-{"types":["transition"],"date":1394810520,"headline":"Wskazówka do gry sieciowej","subtitle":"Oczy z tyłu głowy","content":"W podejrzanych dzielnicach lepiej mieć oczy z tyłu głowy. Naciśnij prawą gałkę, aby spojrzeć za siebie. Jeśli w tym samym czasie naciśniesz ~INPUT_FRONTEND_LT~, postać obróci się i weźmie wroga na celownik.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds","filesize":65664}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1394810520,
+    "headline": "Wskazówka do gry sieciowej",
+    "subtitle": "Oczy z tyłu głowy",
+    "content": "W podejrzanych dzielnicach lepiej mieć oczy z tyłu głowy. Naciśnij prawą gałkę, aby spojrzeć za siebie. Jeśli w tym samym czasie naciśniesz ~INPUT_FRONTEND_LT~, postać obróci się i weźmie wroga na celownik.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/TIP_Eyes_In_Back_Of_Head/65664_Have_Eyes_In_The_Back_Of_Your_Head.dds",
+        "filesize": 65664
+    }
+}

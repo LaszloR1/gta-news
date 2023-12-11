@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1528223124,"title":"","headline":"GTA Online","subtitle":"Novedades del creador","content":"Explora esa dulce zona oscura que existe entre la creatividad y el sadismo con una amplia gama de nuevas opciones que llegan al creador de contenidos. Ahora no solo podrás crear tus propias carreras Target Assault, sino que además contarás con un montón de nuevas opciones de diseño en todas las categorías del creador, como nuevos vehículos y accesorios.","url":"","image":{"path":"sc/news/SSASSS_Creator/349672_GTAO-creator.dds","filesize":349672},"style":"gta"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1528223124,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Novedades del creador",
+    "content": "Explora esa dulce zona oscura que existe entre la creatividad y el sadismo con una amplia gama de nuevas opciones que llegan al creador de contenidos. Ahora no solo podrás crear tus propias carreras Target Assault, sino que además contarás con un montón de nuevas opciones de diseño en todas las categorías del creador, como nuevos vehículos y accesorios.",
+    "url": "",
+    "image": {
+        "path": "sc/news/SSASSS_Creator/349672_GTAO-creator.dds",
+        "filesize": 349672
+    },
+    "style": "gta"
+}

@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1445349404,"title":"","headline":"GTA Online","subtitle":"Benny’s Original Motor Works","content":"Exciting new vehicle modification options are available courtesy of Benny’s Original Motor Works. Check out www.bennysoriginalmotorworks.com, or use the app shortcut on your phone to see Benny's latest project cars. <br /> <br />Buy the car you want to work on, then take it to Benny himself in the heart of Los Santos. Get access to a host of new mods, including hydraulics and custom interiors after purchasing an upgrade.<br /><br />Lamar will be in touch to help get your foot in the door.","url":"","image":{"path":"sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bennys_Motor_Works/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1445349404,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Benny’s Original Motor Works",
+    "content": "Exciting new vehicle modification options are available courtesy of Benny’s Original Motor Works. Check out www.bennysoriginalmotorworks.com, or use the app shortcut on your phone to see Benny's latest project cars. <br /> <br />Buy the car you want to work on, then take it to Benny himself in the heart of Los Santos. Get access to a host of new mods, including hydraulics and custom interiors after purchasing an upgrade.<br /><br />Lamar will be in touch to help get your foot in the door.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bennys_Motor_Works/262272_Bennys_Original_Motor_Works.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bennys_Motor_Works/.dds",
+        "filesize": 2048
+    }
+}

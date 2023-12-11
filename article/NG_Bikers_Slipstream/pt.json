@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1475519978,"title":"","headline":"GTA Online","subtitle":"No Vácuo","content":"É hora de deixar todo aquele individualismo durão de lado em No Vácuo, o mais recente Modo Adversário a chegar às ruas de Los Santos. Essa é uma corrida em equipe com uma sacada: você e seus colegas motoqueiros terão que acertar checkpoints juntos para progredir. A primeira equipe a passar da linha de chegada com todos os seus membros é a vencedora e, acredite, ficar no vácuo não é opcional.","url":"","image":{"path":"sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Bikers_Slipstream/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1475519978,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "No Vácuo",
+    "content": "É hora de deixar todo aquele individualismo durão de lado em No Vácuo, o mais recente Modo Adversário a chegar às ruas de Los Santos. Essa é uma corrida em equipe com uma sacada: você e seus colegas motoqueiros terão que acertar checkpoints juntos para progredir. A primeira equipe a passar da linha de chegada com todos os seus membros é a vencedora e, acredite, ficar no vácuo não é opcional.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Bikers_Slipstream/262272_Slipstream.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Bikers_Slipstream/.dds",
+        "filesize": 2048
+    }
+}

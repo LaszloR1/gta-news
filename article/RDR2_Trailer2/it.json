@@ -1,1 +1,16 @@
-{"types":["transition"],"date":1506609933,"title":"RED DEAD REDEMPTION II","headline":"RED DEAD REDEMPTION II","subtitle":"Guarda il nuovo trailer","content":"Guarda il nuovo trailer di Red Dead Redemption 2, la storia del fuorilegge Arthur Morgan e della banda di Van der Linde e della loro lotta per la sopravvivenza nel cuore di un'America dura e spietata, tra rapine, furti e scontri. In arrivo nella primavera del 2018.<br /><br />Guardalo su rockstargames.com/it","url":"","image":{"path":"sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-ITA-SPA-MEX.dds","filesize":349672},"style":"rdr"}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1506609933,
+    "title": "RED DEAD REDEMPTION II",
+    "headline": "RED DEAD REDEMPTION II",
+    "subtitle": "Guarda il nuovo trailer",
+    "content": "Guarda il nuovo trailer di Red Dead Redemption 2, la storia del fuorilegge Arthur Morgan e della banda di Van der Linde e della loro lotta per la sopravvivenza nel cuore di un'America dura e spietata, tra rapine, furti e scontri. In arrivo nella primavera del 2018.<br /><br />Guardalo su rockstargames.com/it",
+    "url": "",
+    "image": {
+        "path": "sc/news/RDR2_Trailer2/349672_bigfeed-VF-INT-ITA-SPA-MEX.dds",
+        "filesize": 349672
+    },
+    "style": "rdr"
+}

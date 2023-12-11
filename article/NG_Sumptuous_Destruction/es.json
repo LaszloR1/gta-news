@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1433954895,"title":"","headline":"GTA Online","subtitle":"Destrucción suntuosa","content":"Visita Ammu-Nation para grabar ostentosamente tu arsenal de armas mortíferas.<br /><br />Ahora se pueden poner grabados especiales a una gran variedad de armas. Demuéstrale a tu pistola más fiable todo el amor que se merece.","url":"www.rockstargames.com/GTAOnline","image":{"path":"sc/news/NG_Sumptuous_Destruction/262272_ammunation.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Sumptuous_Destruction/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1433954895,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Destrucción suntuosa",
+    "content": "Visita Ammu-Nation para grabar ostentosamente tu arsenal de armas mortíferas.<br /><br />Ahora se pueden poner grabados especiales a una gran variedad de armas. Demuéstrale a tu pistola más fiable todo el amor que se merece.",
+    "url": "www.rockstargames.com/GTAOnline",
+    "image": {
+        "path": "sc/news/NG_Sumptuous_Destruction/262272_ammunation.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Sumptuous_Destruction/.dds",
+        "filesize": 2048
+    }
+}

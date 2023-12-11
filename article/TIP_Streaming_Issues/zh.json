@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1381832181,"headline":"線上小訣竅","subtitle":"發生串流問題？","content":"在洛聖都內開車時，如果看到些奇怪的東西，像是汽車或物品移動得很奇怪的話，要嘛就是您喝多了阿嬤煮菜用的米酒，要不然就是您戰局的連線速度不佳或發生網路問題。如果這種狀況一直持續，您可以更換戰局、避免邀請有問題的人進您的戰局，或是不要再偷喝烈酒了。","url":"www.rockstargames.com/GTAOnline","extraData":{},"image":{"path":"sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds","filesize":65664},"landscape":{"path":"","filesize":0}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1381832181,
+    "headline": "線上小訣竅",
+    "subtitle": "發生串流問題？",
+    "content": "在洛聖都內開車時，如果看到些奇怪的東西，像是汽車或物品移動得很奇怪的話，要嘛就是您喝多了阿嬤煮菜用的米酒，要不然就是您戰局的連線速度不佳或發生網路問題。如果這種狀況一直持續，您可以更換戰局、避免邀請有問題的人進您的戰局，或是不要再偷喝烈酒了。",
+    "url": "www.rockstargames.com/GTAOnline",
+    "extraData": {},
+    "image": {
+        "path": "sc/news/TIP_Streaming_Issues/65664_Streaming_Issues_portrait.dds",
+        "filesize": 65664
+    },
+    "landscape": {
+        "path": "",
+        "filesize": 0
+    }
+}

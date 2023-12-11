@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1450453722,"title":"","headline":"GTA Online","subtitle":"Bestie gegen Schlitzer","content":"Die Bestie ist zurück! Und diesmal hat sie Verstärkung mitgebracht.<br /><br />Nur ein bunt zusammengewürfelter Haufen von Schlitzern, gepanzert und bis an die Zähne bewaffnet, kann sie jetzt noch stoppen.<br /><br />Die Bestien müssen alle Kontrollpunkte passieren, die Schlitzer müssen die Bestien erledigen.","url":"","image":{"path":"sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds","filesize":262272},"landscape":{"path":"sc/news/NG_BeastvSlasher/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1450453722,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Bestie gegen Schlitzer",
+    "content": "Die Bestie ist zurück! Und diesmal hat sie Verstärkung mitgebracht.<br /><br />Nur ein bunt zusammengewürfelter Haufen von Schlitzern, gepanzert und bis an die Zähne bewaffnet, kann sie jetzt noch stoppen.<br /><br />Die Bestien müssen alle Kontrollpunkte passieren, die Schlitzer müssen die Bestien erledigen.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_BeastvSlasher/262272_NG_BeastvSlasher.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_BeastvSlasher/.dds",
+        "filesize": 2048
+    }
+}

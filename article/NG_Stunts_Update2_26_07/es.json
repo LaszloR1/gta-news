@@ -1,1 +1,19 @@
-{"types":["transition"],"date":1469453442,"title":"","headline":"GTA Online","subtitle":"Vapid Contender, MTL Dune y Sprunk Buffalo","content":"Esta semana hay tres nuevos vehículos exclusivos en GTA Online que satisfarán las apremiantes necesidades que vas a tener. Deja que todos sepan que vas en serio con el Vapid Contender, un todocamino con espacio suficiente para guardar un montón de secretos inconfesables; aniquila a los rivales en el MTL Dune, el hijo bastardo de un vehículo militar y un coche de rally; o rinde homenaje a un bólido clásico con el Buffalo con cubierta Sprunk.","url":"","image":{"path":"sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds","filesize":262272},"landscape":{"path":"sc/news/NG_Stunts_Update2_26_07/.dds","filesize":2048}}
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1469453442,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Vapid Contender, MTL Dune y Sprunk Buffalo",
+    "content": "Esta semana hay tres nuevos vehículos exclusivos en GTA Online que satisfarán las apremiantes necesidades que vas a tener. Deja que todos sepan que vas en serio con el Vapid Contender, un todocamino con espacio suficiente para guardar un montón de secretos inconfesables; aniquila a los rivales en el MTL Dune, el hijo bastardo de un vehículo militar y un coche de rally; o rinde homenaje a un bólido clásico con el Buffalo con cubierta Sprunk.",
+    "url": "",
+    "image": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/262272_SSA.dds",
+        "filesize": 262272
+    },
+    "landscape": {
+        "path": "sc/news/NG_Stunts_Update2_26_07/.dds",
+        "filesize": 2048
+    }
+}
