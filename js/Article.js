@@ -54,13 +54,13 @@ export class Article {
     }
 
     /**
-     * @param {object} articles
+     * @param {Map<string, object>} articles
      * @return {Map<string, Int8Array>}
      */
     static async GetAllImages(articles) {
         let urls = new Set();
 
-        for (const article of Object.values(articles)) {
+        for (const [language, article] of articles) {
             urls.add(article["image"]["path"]);
         }
 
@@ -71,7 +71,7 @@ export class Article {
             let imageName = url.split("/").pop();
             let imageData = await Http.FetchData(imageUrl);
 
-            images.add(imageName, imageData);
+            images.set(imageName, imageData);
         }
 
         return images;
