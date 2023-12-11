@@ -106,7 +106,7 @@ export class Article {
      */
     static SaveArticles(id, articles) {
         for (const [language, article] of articles) {
-            IO.CreateFile(`./article/${id}/${language}.json`, JSON.stringify(article));
+            IO.CreateFile(`./article/${id}/${language}.json`, IO.JsonStringify(article));
         }
     }
 
@@ -125,6 +125,6 @@ export class Article {
      * @param {object} data
      */
     static SaveMetadata(id, data) {
-        IO.CreateFile(`./article/${id}/meta.json`, JSON.stringify(data));
+        IO.CreateFile(`./article/${id}/meta.json`, IO.JsonStringify(data));
     }
 }

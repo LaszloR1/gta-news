@@ -14,12 +14,17 @@ export class News {
     static Platforms = ["xboxone", "xboxsx", "ps4", "ps5", "pcros"];
 
     /**
+     * @type {string}
+     */
+    static Folder = "./article";
+
+    /**
      * @return {Promise<void>}
      */
     static async Fetch() {
-        IO.CreatePathIfNotExist("./article");
+        IO.CreatePathIfNotExist(this.Folder);
         let articles = await this.GetArticles();
-        let cache = IO.GetCache();
+        let cache = IO.GetCache(this.Folder);
         let n = 1;
 
         for (const [id, data] of articles) {
@@ -32,7 +37,7 @@ export class News {
             console.log(`Saved: ${id} (${n++}/${articles.size})`);
         }
 
-        IO.CreateFile(IO.cache, JSON.stringify(Array.from(cache)));
+        IO.CreateFile(IO.cache, IO.JsonStringify(Array.from(cache)));
     }
 
     /**

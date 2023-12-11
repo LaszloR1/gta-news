@@ -32,11 +32,21 @@ export class IO {
     }
 
     /**
+     * @param {string} file
      * @returns {Set<string>}
      */
-    static GetCache(){
-        if (!existsSync("./article")) return new Set();
+    static GetCache(file){
+        if (!existsSync(file)) return new Set();
 
-        return new Set(readdirSync("./article"));
+        return new Set(readdirSync(file));
+    }
+
+    /**
+     * @param {object} object
+     * @return {string}
+     * @constructor
+     */
+    static JsonStringify(object) {
+        return JSON.stringify(object, null, 4);
     }
 }
