@@ -12,6 +12,7 @@ jobs:
       - name: Running script
         run: node index.js
       - name: Updating repo
+        continue-on-error: true
         run: |
           git config --global user.name 'LaszloR1'
           git config --global user.email 'LaszloR1@users.noreply.github.com'
