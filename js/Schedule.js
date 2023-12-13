@@ -32,6 +32,8 @@ export class Schedule {
             return;
         }
 
+        console.log(`Found a new schedule! Saving it with id: ${lastModifiedUnix}!`);
+
         this.SaveSchedules(lastModifiedUnix, schedules);
 
     }
