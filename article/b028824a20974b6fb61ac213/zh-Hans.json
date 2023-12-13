@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369692,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "好麦坞俱乐部",
+    "content": "好麦坞俱乐部扩大了其致优服务范围，可让您畅享俱乐部车库的宽敞内部空间：这个新地点空间广阔，可存放和展示多达µ100µ辆个人载具。<br /><br />GTA+µ会员还可进入好麦坞车友俱乐部，其中包括一系列精选载具，可供试驾、在自由模式中订购至您的位置并使用，并且购买时可享专属折扣。您还可以查看免费的µGTA+µ载具，并直接从该地点领取。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/b028824a20974b6fb61ac213/262272_GTAO_379_VinewoodClub_Logo_DRAFT_BigFeed_zh_hans.dds",
+        "filesize": 262272
+    },
+    "button": "选择以前往好麦坞车友俱乐部"
+}

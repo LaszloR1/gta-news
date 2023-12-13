@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369685,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Garaje del club de Vinewood",
+    "content": "El garaje del club de Vinewood es una amplia expansión nueva que satisface las necesidades de almacenamiento de la clientela del club de Vinewood. Además del espacio de aparcamiento de las propiedades existentes, ahora los miembros de GTA+ pueden acceder a todas las funcionalidades de esta nueva ubicación en Pillbox Hill, en pleno centro de Los Santos.<br /><br />La suscripción a GTA+ se renueva cada mes. Puedes cancelarla cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/5927df9531a44a7eb7ccb2f8/262272_GTAPlus_MP21_PropertyBenafit_Interior_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+"
+}

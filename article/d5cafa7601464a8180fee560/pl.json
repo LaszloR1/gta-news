@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369674,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Klub Vinewood",
+    "content": "Klub Vinewood dodaje do swojej ekskluzywnej oferty dostęp do przestronnego garażu tego klubu. To nowe miejsce do przechowywania i prezentowania dodatkowych 100 pojazdów.<br /><br />Członkowie GTA+ dostaną także dostęp do Automobilklubu Vinewood i jego wyselekcjonowanego wachlarza pojazdów, które można testować, zamawiać do swojej lokalizacji i wykorzystywać w trybie swobodnym oraz kupować ze zniżką. Dodatkowo w Automobilklubie Vinewood można także obejrzeć i od razu odebrać pojazd podarunkowy GTA+.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/d5cafa7601464a8180fee560/262272_GTAO_379_VinewoodClub_Logo_DRAFT_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby odwiedzić Automobilklub"
+}

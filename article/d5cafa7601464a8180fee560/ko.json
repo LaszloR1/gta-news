@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369674,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "바인우드 클럽",
+    "content": "바인우드 클럽의 최신 프리미엄 서비스를 통해 클럽 차고의 넓은 실내 공간을 이용해 보십시오: 이 넓찍하고 새로운 장소에는 최대 100대의 개인 이동 수단을 보관하고 전시할 수 있는 추가 공간이 제공됩니다.<br /><br />또한, GTA+ 회원은 바인우드 카 클럽을 이용할 수 있으며, 엄격히 선별된 뛰어난 이동 수단들을 시승해 보고, 자유 모드에서 현재 위치로 요청해서 이용하거나, 특별 할인가로 구입할 수 있습니다. 또한 무료 GTA+ 이동 수단을 둘러보고 그 자리에서 바로 획득할 수 있습니다.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/d5cafa7601464a8180fee560/262272_GTAO_379_VinewoodClub_Logo_DRAFT_BigFeed_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "바인우드 카 클럽 방문하려면 선택하기"
+}

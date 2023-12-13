@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369674,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "バインウッド・クラブ",
+    "content": "バインウッド・クラブではプレミアムサービスが拡大され、クラブのガレージの広々とした内部を利用できるようになりました。最高100台の個人車両を保管・展示できるスペースを備え、広々とした新拠点です。<br /><br />GTA+メンバーはバインウッド・カークラブも利用でき、厳選された乗り物を試乗できるほか、フリーモードで今いる場所まで注文・使用したり、限定の割引価格で購入したりできます。また、無料のGTA+の乗り物を眺め、その場で直接受け取ることもできます。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/d5cafa7601464a8180fee560/262272_GTAO_379_VinewoodClub_Logo_DRAFT_BigFeed_ja_jp.dds",
+        "filesize": 262272
+    },
+    "button": "選択してバインウッド・カークラブへ移動"
+}

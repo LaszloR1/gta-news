@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369685,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Garaż Klubu Vinewood",
+    "content": "Garaż Klubu Vinewood to przestronny dodatek, który spełnia potrzeby klienteli Klubu Vinewood w zakresie magazynowania pojazdów. Oprócz przestrzeni garażowej w posiadanych nieruchomościach członkowie GTA+ mogą też korzystać z nowego magazynu w Pillbox Hill, w samym środku centrum Los Santos.<br /><br />Członkostwo GTA+ odnawia się automatycznie co miesiąc i można je anulować w dowolnym momencie. Więcej informacji na stronie rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/5927df9531a44a7eb7ccb2f8/262272_GTAPlus_MP21_PropertyBenafit_Interior_FINAL_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby dołączyć do GTA+"
+}

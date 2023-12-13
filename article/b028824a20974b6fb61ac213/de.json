@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369692,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Der Vinewood Club",
+    "content": "Der Vinewood Club erweitert sein Premium-Angebot um den Zugang zur geräumigen Club-Garage, einer neuen Location mit zusätzlichem Raum, um bis zu 100µFahrzeuge unterzubringen und zu präsentieren.<br /><br />Mitglieder bei GTA+ haben zudem Zugang zum Vinewood Car Club mit einer Auswahl an Fahrzeugen, die Probe gefahren, im freien Modus bestellt und benutzt sowie mit einem exklusiven Rabatt gekauft werden können. Außerdem können sie bei GTA+ gratis erhältliche Fahrzeuge hier ansehen und beanspruchen.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/b028824a20974b6fb61ac213/262272_GTAO_379_VinewoodClub_Logo_DRAFT_BigFeed_de_de.dds",
+        "filesize": 262272
+    },
+    "button": "Besuche den Vinewood Car Club"
+}

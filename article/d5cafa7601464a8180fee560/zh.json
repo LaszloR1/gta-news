@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1702369674,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "好麥塢俱樂部",
+    "content": "好麥塢俱樂部祭出更多優惠，讓會員能夠使用俱樂部車庫的巨大室內空間：這個全新地點有足夠的空間容納並展示最多µ100µ輛個人載具。<br /><br />此外，GTA+µ會員還可使用好麥塢車友會，讓您試駕精選載具、請求至您所在的地點並在自由模式中使用，還能以專屬折扣優惠價格購買。您還能在那裡檢視免費的µGTA+µ載具，並且當場領取。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=GTA_PLUS_GARAGE",
+    "image": {
+        "path": "sc/news/d5cafa7601464a8180fee560/262272_GTAO_379_VinewoodClub_Logo_DRAFT_BigFeed_zh_tw.dds",
+        "filesize": 262272
+    },
+    "button": "選擇以造訪好麥塢車友會"
+}
