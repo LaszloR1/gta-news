@@ -6,7 +6,7 @@ export class Http {
         method: "GET",
         headers: {
             "Cookie": "AutoLoginCheck=1;",
-            "Host": "prod.cloud.rockstargames.com.com",
+            "Host": "prod.cloud.rockstargames.com",
             "User-Agent": "Chrome/119.0.0.0",
         },
         redirect: "follow",
