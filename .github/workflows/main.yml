@@ -20,6 +20,6 @@ jobs:
         run: |
           git config --global user.name 'LaszloR1'
           git config --global user.email 'LaszloR1@users.noreply.github.com'
-          git add article
-          git commit -am "[WORKFLOW] Updated news."
+          git add -A
+          git commit -m "[WORKFLOW] Updated news."
           git push
