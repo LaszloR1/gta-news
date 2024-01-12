@@ -1,0 +1,25 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1704960000,
+            "posixEndTime": 1705608000,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币与声望值“空降奇兵”",
+            "eventId": 24739,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
