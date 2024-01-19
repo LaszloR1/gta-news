@@ -1,0 +1,46 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1704960000,
+            "posixEndTime": 1705608000,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币与声望值“空降奇兵”",
+            "eventId": 24739,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1705564800,
+            "posixEndTime": 1706169600,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币和声望值“收集时间”对抗模式",
+            "eventId": 24740,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
