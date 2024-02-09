@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1707412056,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Эксклюзивная одежда",
+    "content": "Подписчики GTA+ могут бесплатно получить куртку и кепку Heartbreakers (с козырьком спереди и сзади), а также штаны и рубашку «Лунный Новый год», которые доступны в красном и черном цвете.<br /><br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/1bf4a2e7369748b398520f6b/262272_GTAP_MP23_FreeClothing_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}

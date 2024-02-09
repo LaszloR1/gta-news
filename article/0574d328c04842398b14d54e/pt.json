@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1707412056,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Garagem do Clube Vinewood",
+    "content": "A Garagem do Clube Vinewood é uma expansão ampla que veio para atender às necessidades veiculares dos frequentadores do Clube de Carros Vinewood. Além de todas as garagens nas propriedades existentes, agora os membros do GTA+ têm acesso à capacidade integral do novo local em Pillbox Hill, bem no coração do centro de Los Santos. <br /><br />A afiliação é renovada automaticamente todo mês e pode ser cancelada a qualquer momento. Saiba mais em rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/0574d328c04842398b14d54e/262272_GTAPlus_MP23_VCG_FINAL_BigFeed_pt_br.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para se afiliar ao GTA+"
+}
