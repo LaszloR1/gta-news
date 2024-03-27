@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1711480902,
+    "title": "Jeux inclus avec GTA+",
+    "headline": "Jeux inclus avec GTA+",
+    "subtitle": "Inclut désormais Red Dead Redemption",
+    "content": "Red Dead Redemption fait désormais partie des jeux inclus avec GTA+. Abonnez-vous dès maintenant pour accéder à ce jeu et à d'autres avantages.<br /><br />Red Dead Redemption raconte l'histoire de John Marston, un ancien hors-la-loi qui parcourt les vastes étendues de l'Ouest américain et du Mexique pour traquer les derniers membres de la bande de Van der Linde.<br /><br />Inclut aussi Undead Nightmare, l'extension narrative qui donne un côté effrayant et surnaturel au monde de Red Dead Redemption.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/f7f955f0aba941eab590e7f5/262272_RDR1_UN_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    },
+    "button": "S’abonner à GTA+"
+}

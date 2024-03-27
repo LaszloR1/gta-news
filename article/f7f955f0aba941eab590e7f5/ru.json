@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1711480902,
+    "title": "Игры по подписке GTA+",
+    "headline": "Игры по подписке GTA+",
+    "subtitle": "Red Dead Redemption теперь входит вµподпискуµGTA+",
+    "content": "Библиотека игр по подписке GTA+ пополнилась Red Dead Redemption. Оформите подписку, чтобы получить доступ к ней и многочисленным бонусамµGTA+.<br /><br />Red Dead Redemption – история бывшего бандита Джона Марстона, который путешествует по просторам американского фронтира и Мексики, чтобы выследить выживших членов банды Ван дер Линде.<br /><br />Также в библиотеке теперь есть Undead Nightmare, хоррор-дополнение, которое превращает мир Red Dead Redemption в настоящий кошмар.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/f7f955f0aba941eab590e7f5/262272_RDR1_UN_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}
