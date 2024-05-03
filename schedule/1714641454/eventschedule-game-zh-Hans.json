@@ -1,0 +1,25 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1714640400,
+            "posixEndTime": 1715245200,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "三倍游戏币和声望值开轮式竞速",
+            "eventId": 24790,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
