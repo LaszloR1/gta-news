@@ -1,0 +1,49 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1715245200,
+            "posixEndTime": 1715850000,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "3x GTA$ i RP - Seria adwersarza - Ewakuacja",
+            "eventId": 24791,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1670803200,
+            "posixEndTime": 1735689540,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "ps4",
+                "ps5"
+            ],
+            "displayName": "Ekskluzywna oferta PlayStation®Plus",
+            "eventId": 24205,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "storeUrlUs": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlEU": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlJPN": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlAsia": "psns:browse?alias=plus--branded_upsell--gtav",
+                "eventType": "PlusPromotion"
+            },
+            "featuredJob": false
+        }
+    ]
+}
