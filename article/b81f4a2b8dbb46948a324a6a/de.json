@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1719307695,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "1.000.000µGTA$ ALS BONUS",
+    "content": "Werde Mitglied bei GTA+ und erhalte einen Sonderbonus in Höhe von 1.000.000µGTA$, der von April bis August jeden Monat automatisch neben den üblichen 500.000µGTA$ überwiesen wird.<br /><br />Die Mitgliedschaft bei GTA+ verlängert sich monatlich und ist jederzeit kündbar. Mehr auf rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/b81f4a2b8dbb46948a324a6a/262272_GTAPlus_MP25_CashMonthlyBonus_FINAL_UPDATE_BigFeed_de_de.dds",
+        "filesize": 262272
+    },
+    "button": "Auswählen, um GTA+ zu abonnieren"
+}

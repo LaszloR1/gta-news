@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1719307694,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "바인우드 클럽",
+    "content": "바인우드 클럽 차고에 이제 새로운 이동 수단 작업실 층이 포함됩니다. 개조 비용이 할인되며 개조에 필요한 랭킹 제한 또한 적용되지 않습니다.<br /><br />또한, 회원은 게임 내 휴대전화의 배경 화면에서 바로 이 새로운 바인우드 클럽 앱을 통해 사업장 수익을 빠르게 수령하고, 추가 비용 없이 탄약을 구매하고, 바인우드 카 클럽 이동 수단을 요청, 구매 또는 획득할 수 있습니다.<br /><br />GTA+ 멤버십은 매달 자동으로 갱신되며, 언제든 취소할 수 있습니다. 자세한 정보는 rsg.ms/gtaplus를 방문하세요.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9967d615bc2d4d49ba83c4a2/262272_GTAPlus_MP28_VCC_FINAL_BigFeed_ko_kr.dds",
+        "filesize": 262272
+    },
+    "button": "선택하여 GTA+에 가입하기"
+}

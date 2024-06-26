@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1719307694,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Club de Vinewood",
+    "content": "Ahora el garaje del club de Vinewood tiene una planta de taller con descuentos en modificaciones y sin requisitos de nivel.<br /><br />Además, la aplicación del club de Vinewood del teléfono del juego permite a los miembros de GTA+ acceder a las ganancias del negocio, comprar munición sin cargos y adquirir o solicitar vehículos del club de coches de Vinewood desde su pantalla principal.<br /><br />La suscripción a GTA+ se renueva cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9967d615bc2d4d49ba83c4a2/262272_GTAPlus_MP28_VCC_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+"
+}

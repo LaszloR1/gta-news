@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1719307694,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Klub Vinewood",
+    "content": "Garaż Klubu Vinewood zawiera nowy warsztat pojazdów. Modyfikacje będą tam tańsze, a wymagania rangi zniesione.<br /><br />Dodatkowo członkowie mogą uzyskać szybki dostęp do zarobków z nieruchomości, kupić amunicję bez żadnych dopłat, wezwać pojazd z Automobilklubu oraz kupić/odebrać pojazdy z Automobilklubu. Wszystko to zrobisz w nowej aplikacji Klubu Vinewood na telefonie w grze.<br /><br />Członkostwo odnawia się automatycznie co miesiąc i można je anulować w dowolnym momencie. Szczegóły: rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/9967d615bc2d4d49ba83c4a2/262272_GTAPlus_MP28_VCC_FINAL_BigFeed_pl_pl.dds",
+        "filesize": 262272
+    },
+    "button": "Wybierz, aby dołączyć do GTA+"
+}
