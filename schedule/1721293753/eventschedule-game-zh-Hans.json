@@ -1,0 +1,25 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1721293200,
+            "posixEndTime": 1721898000,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币和声望值“猎杀犀牛”",
+            "eventId": 24802,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
