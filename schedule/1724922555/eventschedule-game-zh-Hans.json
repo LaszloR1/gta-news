@@ -1,0 +1,25 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1724922000,
+            "posixEndTime": 1725526800,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币和声望值“死亡尾流”对抗模式",
+            "eventId": 24808,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
