@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1725295572,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Únete a GTA+ para conseguir ventajas",
+    "content": "Únete a la suscripción prémium de GTA Online, que otorga ventajas y recompensas para los miembros de GTA+ cada mes, como 500.000µGTA$ y mucho más. Hasta el 4 de septiembre obtendrán:<br /><br />- Benefactor Vorschlaghammer (sedán)<br />- Acceso al taller del club de Vinewood<br />- Doble de recompensas en Carreras de drift y de aceleración<br />- Y mucho más<br /><br />GTA+ se renueva cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/46e7d5a921274155b7632873/262272_GTAOPlus_MP29_Lead_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    }
+}
