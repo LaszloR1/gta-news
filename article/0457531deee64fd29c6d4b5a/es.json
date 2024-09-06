@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1725548441,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Recompensas semanales especiales",
+    "content": "Hasta el 2/10, los miembros de GTA+ desbloquean nuevas ventajas cada semana:<br /><br />- 5/9: 20% de descuento adicional en vehículos del club de coches de Vinewood<br />-12/9: acabados de arma para bate y cuchillo tanto nuevos como antiguos<br />-19/9: camiseta y pantalones cortos de baloncesto Broker Prolaps, cascos dorados y gorra Perseus albaricoque<br />-26/9: diseños de pintura exclusivos para vehículos<br /><br />La suscripción a GTA+ se renueva cada mes; cancélala cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/0457531deee64fd29c6d4b5a/262272_GTAP_MP30_MemberBonuses_FINAL_BigFeed_R02_v2_es_es.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona para suscribirte a GTA+"
+}
