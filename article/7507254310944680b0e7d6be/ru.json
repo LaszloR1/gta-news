@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1727978565,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Эксклюзивная одежда",
+    "content": "Подписчики GTA+ могут получить байкерскую куртку «Демон», маску «Растрескавшаяся с румянцем» и бледную маску со швами.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/7507254310944680b0e7d6be/262272_GTAPlus_MP31_DemonBiker_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}
