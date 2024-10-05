@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1728054116,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Скидки на транспорт в Хэллоуин",
+    "content": "Подписчики GTA+ могут приобрести следующие транспортные средства со скидкой 50%: Albany Brigham (маслкар) в раскраске Harsh Souls, LCC Sanctus (мотоцикл) в раскраске «Призрачное пламя» и Albany Lurcher (маслкар) в раскраске The Ripper.<br /><br />Подписка GTA+ автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности на сайте rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/e8b76ccf30ae408a90737fee/262272_GTAOPlus_MP31_AlbanyLurcher_FINAL_BigFeed_ru_ru.dds",
+        "filesize": 262272
+    },
+    "button": "Оформить подписку GTA+"
+}
