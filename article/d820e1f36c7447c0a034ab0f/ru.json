@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1728922698,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Испытание сообщества «Кошмары Северного Янктона»",
+    "content": "Вы легко справились с испытанием сообщества «Кошмары Северного Янктона» и в ближайшие дни получите оранжевую светящуюся пижаму «Скелет» и маску «Красный череп в капюшоне».<br /><br />Теперь перед вами новая цель - 800 миллионов зомби. Если сообщество добьется успеха, мы наградим всех игроков зелеными и пурпурными светящимися пижамами «Скелет».",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_SERIES arg=SEASONAL",
+    "image": {
+        "path": "sc/news/d820e1f36c7447c0a034ab0f/262272_GTAO_421_LCS_CommunityChallenge_FINAL_BigFeed_R02_V1.dds",
+        "filesize": 262272
+    },
+    "button": "Запустить «Выживание на кладбище»."
+}
