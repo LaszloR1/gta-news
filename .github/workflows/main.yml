@@ -18,8 +18,8 @@ jobs:
       - name: Uploading news to the repo.
         continue-on-error: true
         run: |
-          git config --global user.name 'LaszloR1'
-          git config --global user.email 'LaszloR1@users.noreply.github.com'
+          git config user.name "bot"
+          git config user.email "actions@users.noreply.github.com"
           git add -A
           git commit -m "[WORKFLOW] Updated news."
           git push
