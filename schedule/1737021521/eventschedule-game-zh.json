@@ -1,0 +1,70 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1736416800,
+            "posixEndTime": 1737021600,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "三倍遊戲幣及聲望值：社群系列賽",
+            "eventId": 24826,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1737021600,
+            "posixEndTime": 1737626400,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "雙倍遊戲幣和聲望值：競爭模式「加時大亂鬥 」",
+            "eventId": 24827,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1670803200,
+            "posixEndTime": 1767225540,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "ps4",
+                "ps5"
+            ],
+            "displayName": "PlayStation®Plus 專屬優惠",
+            "eventId": 24205,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "storeUrlUs": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlEU": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlJPN": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlAsia": "psns:browse?alias=plus--branded_upsell--gtav",
+                "eventType": "PlusPromotion"
+            },
+            "featuredJob": false
+        }
+    ]
+}
