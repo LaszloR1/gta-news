@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1738344315,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Abonnez-vous à GTA+ pour recevoir des avantages",
+    "content": "Rejoignez le programme d'abonnement de Grand Theft Auto Online, proposant chaque mois des récompenses et avantages exclusifs, dont 500µ000µGTA$ et plus. Inclus jusqu'au 05/02µ:<br /><br />• Nouvelle Vapid Dominator GT (grosse cylindrée)<br />• GTA$ et RP doublés dans les missions de service client du Terrorbyte<br />• -40µ% sur les salles d'arcade, leurs améliorations et leurs modifications<br />• Et plus<br /><br />Abonnement à GTA+ renouvelé automatiquement chaque mois, annulable à tout moment. Infosµ: rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/1b01b8121d0a48fdb4060095/262272_GTAPlus_MP34_LeadImageVapidDominatorGT_FINAL_BigFeed_fr_fr.dds",
+        "filesize": 262272
+    }
+}
