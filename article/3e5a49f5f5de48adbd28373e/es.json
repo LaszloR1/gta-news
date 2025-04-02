@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1743523155,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Únete a GTA+ para conseguir ventajas",
+    "content": "Únete a la suscripción prémium de Grand Theft Auto Online, que otorga ventajas y recompensas para sus miembros cada mes, como 500.000 GTA$ y más. Hasta el 2 de abril, puedes obtener:<br /><br />- Nuevo Invetero Coquette D5 (deportivo)<br />- 30% de descuento en el nuevo hangar del aeródromo de McKenzie<br />- 2x GTA$ y RP en misiones de venta de mercancía aérea<br />- Atuendo vaquero azul bicolor<br />- Y mucho más<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/3e5a49f5f5de48adbd28373e/262272_GTAO_MP36_Lead_CoquetteD5_FINAL_BigFeed_en_us.dds",
+        "filesize": 262272
+    }
+}
