@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1743775396,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Bonus sulla gestione del night club",
+    "content": "Qualsiasi cosa succeda in strada, all'interno del club la festa non deve fermarsi. Questa settimana, completando le missioni di gestione del night club otterrai il doppio della popolarità, per far sì che la pista rimanga sempre piena e i soldi non smettano di circolare. <br /><br />Nel frattempo, dietro le quinte, la velocità di produzione dei prodotti nel magazzino è raddoppiata, fornendo un ottimo punto di partenza per i nuovi imprenditori che vogliono generare più guadagni.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=NIGHTCLUB",
+    "image": {
+        "path": "sc/news/3a4a7d84782f45eca1c4a858/262272_GTAO_445_NightclubBonuses_FINAL_BigFeed_V2.dds",
+        "filesize": 262272
+    }
+}

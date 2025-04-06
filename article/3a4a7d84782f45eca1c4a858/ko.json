@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1743775396,
+    "title": "GTA 온라인",
+    "headline": "GTA 온라인",
+    "subtitle": "나이트클럽 관리 보너스",
+    "content": "거리에서 무슨 일이 일어나든, 클럽의 파티가 멈춰선 안 됩니다. 이번 주에 나이트클럽 관리 임무를 완료하면 평소의 두 배에 해당하는 인기도를 얻을 수 있습니다. 무대를 붐비게 만들어 끊임없이 현금이 들어오도록 하십시오.<br /><br />한편, 무대의 뒤에서는 창고 재고 생산 속도가 두 배 증가합니다. 평소보다 큰 수익을 창출해 사업을 더욱 성장시킬 기회를 놓치지 마십시오.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=NIGHTCLUB",
+    "image": {
+        "path": "sc/news/3a4a7d84782f45eca1c4a858/262272_GTAO_445_NightclubBonuses_FINAL_BigFeed_V2.dds",
+        "filesize": 262272
+    }
+}

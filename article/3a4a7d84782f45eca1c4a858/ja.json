@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1743775396,
+    "title": "GTAオンライン",
+    "headline": "GTAオンライン",
+    "subtitle": "ナイトクラブ管理ボーナス",
+    "content": "ストリートで何が起きていようとも、クラブのパーティーは続けましょう。期間中にナイトクラブ管理ミッションをクリアすれば通常の2倍の人気を得られますので、ダンスフロアの客入りとクラブのキャッシュフローの勢いを止めないようにしましょう。<br /><br />また、倉庫の物品生産スピードも2倍になっていますので、収益増加を目指す新進起業家の皆さんにピッタリです。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=NIGHTCLUB",
+    "image": {
+        "path": "sc/news/3a4a7d84782f45eca1c4a858/262272_GTAO_445_NightclubBonuses_FINAL_BigFeed_V2.dds",
+        "filesize": 262272
+    }
+}
