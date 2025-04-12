@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744367470,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "GTA$ et RP doublés dans les livraisons de pizzas",
+    "content": "Si les préparations minutieuses et le travail d'équipe ne sont pas votre truc, et que vous préférez aider la population affamée à se rassasier, vous pourrez gagner des GTA$ et RP doublés dans les livraisons de pizzas. Allez dans l'un des trois Pizza This... de Los Santos pour commencer.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_LOCATION arg=PIZZA_THIS",
+    "image": {
+        "path": "sc/news/c6210f6c38d448b894626788/262272_GTAO_411_PizzaThisRewardTee_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

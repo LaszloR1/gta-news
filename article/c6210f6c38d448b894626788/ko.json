@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744367470,
+    "title": "GTA 온라인",
+    "headline": "GTA 온라인",
+    "subtitle": "피자 배달에서 GTA 달러와 RP 두 배",
+    "content": "준비 작업과 팀워크를 맞추는 일보다 도시의 굶주린 대중들에게 음식을 제공하는 일이 더 마음에 드신다면, 피자 배달에서 GTA 달러와 RP 두 배를 획득해 보십시오. 로스 산토스에 있는 세 개의 피자 디스... 매장 중 아무 곳이나 방문해 시작할 수 있습니다.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_LOCATION arg=PIZZA_THIS",
+    "image": {
+        "path": "sc/news/c6210f6c38d448b894626788/262272_GTAO_411_PizzaThisRewardTee_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

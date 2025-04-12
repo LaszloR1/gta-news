@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744367470,
+    "title": "GTA 線上模式",
+    "headline": "GTA 線上模式",
+    "subtitle": "披薩外送雙倍µGTAµ遊戲幣及聲望值",
+    "content": "如果您不太擅長事前準備和團隊合作，而又渴望滿足這座飢腸轆轆的城市，那來披薩外送賺取雙倍µGTAµ遊戲幣及聲望值吧。前往洛聖都三間「披薩一下…」的任意一間即可開始。",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_LOCATION arg=PIZZA_THIS",
+    "image": {
+        "path": "sc/news/c6210f6c38d448b894626788/262272_GTAO_411_PizzaThisRewardTee_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

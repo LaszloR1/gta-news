@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744367470,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "2x GTA$ und RP für Pizzalieferungen",
+    "content": "Wenn Vorbereitung und Teamwork nicht so dein Ding sind, sondern du lieber die hungrigen Mäuler der Stadt stopfst, hol dir doch 2xµGTA$ & RP für Pizzalieferungen. Besuche eine der drei „Pizza This…“-Filialen in Los Santos, um loszulegen.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_LOCATION arg=PIZZA_THIS",
+    "image": {
+        "path": "sc/news/c6210f6c38d448b894626788/262272_GTAO_411_PizzaThisRewardTee_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}

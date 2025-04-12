@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744367470,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "2X GTA $ и RP за доставку пиццы",
+    "content": "Планирование и командная работа вам не по душе? Возможно, вашим призванием станет доставка пиццы: развозите ее голодным клиентам и получайте за это удвоенные GTAµ$ и RP. Чтобы начать, загляните в один из трех ресторанов Pizza This в Лос-Сантосе.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_LOCATION arg=PIZZA_THIS",
+    "image": {
+        "path": "sc/news/c6210f6c38d448b894626788/262272_GTAO_411_PizzaThisRewardTee_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}
