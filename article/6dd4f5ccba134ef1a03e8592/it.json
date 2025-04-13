@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744383918,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Ricompense doppie sui Colpi originali",
+    "content": "Los Santos è il paradiso dei malviventi con tante attività per arricchirsi, ma poche ti fanno vivere il brivido dei Colpi originali. Questa settimana, affronta il Colpo alla Fleeca, fai evadere un professore matto in Evasione, recupera informazioni in Irruzione ai laboratori Humane, sposta merce in Finanziamento stupefacente e completa il Colpo alla Pacific Standard per avere 2x GTA$ e RP.<br /><br />Questa settimana, termina 2 colpi conclusivi qualsiasi per la sfida settimanale e avere 100.000 GTA$.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_HEIST arg=HEISTS",
+    "image": {
+        "path": "sc/news/6dd4f5ccba134ef1a03e8592/262272_GTAO_446_OG_Heists_Final_BigFeed.dds",
+        "filesize": 262272
+    }
+}

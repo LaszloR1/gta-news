@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744383918,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Podwójne nagrody za klasyczne napady",
+    "content": "Los Santos oferuje wiele dróg do bogactwa. Mimo to tylko niektóre zapewnią ci dreszczyk emocji towarzyszący klasycznym napadom. Wyrusz na Akcję we Fleeca, wyciągnij zza krat profesora w Ucieczce z więzienia, zdobądź informacje w Skoku na Humane Labs, przewieź kontrabandę w Serii A: Fundusze i ogarnij Akcję w Pacific Standard, zgarniając w tym tygodniu 2x więcej GTA$ i RP.<br /><br />Ukończ w tym tygodniu dwa finały klasycznych napadów, aby zaliczyć wyzwanie tygodnia i zgarnąć dodatkowe 100 000 GTA$.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_HEIST arg=HEISTS",
+    "image": {
+        "path": "sc/news/6dd4f5ccba134ef1a03e8592/262272_GTAO_446_OG_Heists_Final_BigFeed.dds",
+        "filesize": 262272
+    }
+}

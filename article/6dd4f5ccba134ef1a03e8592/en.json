@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744383918,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Double Rewards on Original Heists",
+    "content": "Los Santos is a hustler’s paradise with countless avenues to riches — but few schemes top the thrills of the OG Heists. Crack The Fleeca Job, bust a mad professor out in The Prison Break, secure intel in The Humane Labs Raid, move contraband in Series A Funding, and take on The Pacific Standard Job for 2X GTA$ and RP this week.<br /><br />Completing any two Heist Finales this week will fulfill the Weekly Challenge and get you an additional bonus of GTA$100,000.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_HEIST arg=HEISTS",
+    "image": {
+        "path": "sc/news/6dd4f5ccba134ef1a03e8592/262272_GTAO_446_OG_Heists_Final_BigFeed.dds",
+        "filesize": 262272
+    }
+}

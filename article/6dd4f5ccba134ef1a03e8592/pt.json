@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744383918,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Recompensas em dobro nos Golpes Originais",
+    "content": "Los Santos é o paraíso dos vigaristas com inúmeras formas de enriquecer, mas poucas superam a adrenalina dos Golpes Originais. Inicie Serviço da Fleeca, resgate um professor louco em Fuga da Prisão, obtenha informações confidenciais em A Invasão ao Laboratório Humane, transporte contrabando em Financiamento - Série A e encare o Serviço do Pacific Standard para ganhar 2x GTA$ e RP esta semana.<br /><br />Conclua dois Finais de Golpe para cumprir o Desafio Semanal e receber um bônus de GTA$100.000.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_HEIST arg=HEISTS",
+    "image": {
+        "path": "sc/news/6dd4f5ccba134ef1a03e8592/262272_GTAO_446_OG_Heists_Final_BigFeed.dds",
+        "filesize": 262272
+    }
+}

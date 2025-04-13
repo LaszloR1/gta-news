@@ -1,0 +1,15 @@
+{
+    "types": [
+        "transition"
+    ],
+    "date": 1744383918,
+    "title": "GTA Online",
+    "headline": "GTA Online",
+    "subtitle": "Doppelte Boni für ursprüngliche Raubüberfälle",
+    "content": "Los Santos ist ein Gangster-Paradies, in dem viele Wege zu Reichtum führen, doch nur wenig übertrifft den Nervenkitzel der Original-Raubüberfälle. Knack den Fleeca-Überfall, hol den verwirrten Prof beim Gefängnisausbruch raus, sichere beim Humane-Labs-Raubüberfall geheime Infos, verschiebe in Serie-A-Finanzierung Schmuggelware & erledige den Pacific-Standard-Überfall diese Woche für 2xµGTA$ & RP.<br /><br />Erledige 2 beliebige Heist-Finale & erhalte 100.000µGTA$ für die wöchentliche Herausforderung.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argType=SRCA_HEIST arg=HEISTS",
+    "image": {
+        "path": "sc/news/6dd4f5ccba134ef1a03e8592/262272_GTAO_446_OG_Heists_Final_BigFeed.dds",
+        "filesize": 262272
+    }
+}
