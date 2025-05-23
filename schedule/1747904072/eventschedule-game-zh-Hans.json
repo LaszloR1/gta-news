@@ -1,0 +1,46 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1747299600,
+            "posixEndTime": 1747904400,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币与声望值狩猎追逐（重混版）对抗模式",
+            "eventId": 24844,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1747904400,
+            "posixEndTime": 1748509200,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币和声望值“迷你竞速”对抗模式",
+            "eventId": 24845,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
