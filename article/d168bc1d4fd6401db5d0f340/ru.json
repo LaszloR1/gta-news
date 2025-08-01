@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1753955109,
+    "title": "Оформите подписку GTA+",
+    "headline": "Оформите подписку GTA+",
+    "subtitle": "Получите 4X GTA $ и RP за «Транспортные войны (Кайо-Перико)»",
+    "content": "Оформив премиальную подписку Grand Theft Auto Online на этой неделе, вы будете получать 4X награды за новые «Транспортные войны (Кайо-Перико)» вплоть до 6 августа.<br /><br />Подписка продлевается автоматически каждый месяц; отменить ее можно в любой момент. Подробности – на странице rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/d168bc1d4fd6401db5d0f340/262272_GTAO_460_Lead_CayoPericoMotorWars_FINAL_BigFeed_R01_Deliv.dds",
+        "filesize": 262272
+    }
+}
