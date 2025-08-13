@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1754924098,
+    "title": "GTA+",
+    "headline": "GTA+",
+    "subtitle": "Únete a GTA+ para conseguir ventajas",
+    "content": "Únete a la suscripción prémium de GTA Online para recibir ventajas y recompensas cada mes, como 500.000µGTA$ y más. Hasta el 13/8, obtendrás:<br /><br />- Bravado Buffalo EVX (bólido)<br />- 30% desc. en Viajes en helicóptero Higgins<br />- Sudadera y pantalones cortos azul Manor<br />- Rec. x2 en trabajos del Sr. Faber<br />- Rec. x2 en ventas a camellos<br />- Pintura camaleónica perlada azul claro<br />- Y mucho más<br /><br />GTA+ se renueva automáticamente cada mes; cancélalo cuando quieras. Más información en rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/ccdd803403114df39238f346/262272_GTAPlus_MP41_LeadAsset_BravadoBuffaloEVX_FINAL_BigFeed_es_es.dds",
+        "filesize": 262272
+    }
+}
