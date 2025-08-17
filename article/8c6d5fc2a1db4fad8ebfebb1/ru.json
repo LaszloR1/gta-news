@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1755281568,
+    "title": "Оформите подписку GTA+",
+    "headline": "Оформите подписку GTA+",
+    "subtitle": "2X GTA $ и RP за финалы заказов автомастерской",
+    "content": "Оформив премиальную подписку Grand Theft Auto Online в этом месяце, вы получите 2X награды за финалы заказов автомастерской.<br /><br />Кроме того, вы сможете воспользоваться скидкой 50% на автомастерские и тюнинг для дрифта, а также получить бомбер и кепку Atomic Racing. <br /> <br />Подписка автоматически продлевается каждый месяц; отменить ее можно в любое время. Подробности – на странице rsg.ms/gtaplus.",
+    "url": "class=uiGoToOnlineMode mode=SRCM_FREE argtype=SRCA_STORE_PRODUCT arg=GTAOPlus",
+    "image": {
+        "path": "sc/news/8c6d5fc2a1db4fad8ebfebb1/262272_GTA285_RobberyContracts_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}
