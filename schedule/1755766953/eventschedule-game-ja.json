@@ -1,0 +1,49 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1755765900,
+            "posixEndTime": 1756371600,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "GTAマネー&RP2倍 - 注目のシリーズ",
+            "eventId": 24857,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1670803200,
+            "posixEndTime": 1767225540,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "ps4",
+                "ps5"
+            ],
+            "displayName": "PlayStation®Plus限定オファー",
+            "eventId": 24205,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "storeUrlUs": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlEU": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlJPN": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlAsia": "psns:browse?alias=plus--branded_upsell--gtav",
+                "eventType": "PlusPromotion"
+            },
+            "featuredJob": false
+        }
+    ]
+}
