@@ -1,0 +1,70 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1756371000,
+            "posixEndTime": 1756976400,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "$/RP 2배 카요 페리코 서바이벌",
+            "eventId": 24858,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1756975800,
+            "posixEndTime": 1757581200,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "$/RP 2배 카요 페리코 기습",
+            "eventId": 24859,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1670803200,
+            "posixEndTime": 1767225540,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "ps4",
+                "ps5"
+            ],
+            "displayName": "PlayStation®Plus 특별 혜택",
+            "eventId": 24205,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "storeUrlUs": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlEU": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlJPN": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlAsia": "psns:browse?alias=plus--branded_upsell--gtav",
+                "eventType": "PlusPromotion"
+            },
+            "featuredJob": false
+        }
+    ]
+}
