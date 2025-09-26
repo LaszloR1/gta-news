@@ -1,0 +1,70 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1758790800,
+            "posixEndTime": 1759395600,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "2x GTA$ e RP em Ataque ao ATT-16",
+            "eventId": 24862,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1758185100,
+            "posixEndTime": 1758790800,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "2x GTA$ e RP em Na Cola",
+            "eventId": 24861,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1670803200,
+            "posixEndTime": 1767225540,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "ps4",
+                "ps5"
+            ],
+            "displayName": "Oferta Exclusiva para PlayStation®Plus",
+            "eventId": 24205,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "storeUrlUs": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlEU": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlJPN": "psns:browse?alias=plus--branded_upsell--gtav",
+                "storeUrlAsia": "psns:browse?alias=plus--branded_upsell--gtav",
+                "eventType": "PlusPromotion"
+            },
+            "featuredJob": false
+        }
+    ]
+}
