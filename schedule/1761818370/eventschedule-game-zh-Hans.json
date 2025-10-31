@@ -1,0 +1,46 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1761817500,
+            "posixEndTime": 1762423200,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "双倍游戏币和声望值万圣节精选系列",
+            "eventId": 24867,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        },
+        {
+            "posixStartTime": 1761209100,
+            "posixEndTime": 1761818400,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "三倍游戏币和声望值“鲁登道夫墓地生存战”",
+            "eventId": 24866,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
