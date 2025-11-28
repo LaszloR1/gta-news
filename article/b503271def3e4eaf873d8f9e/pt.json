@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1764260738,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descontos da Black Friday",
+    "content": "Aproveite alguns dos maiores descontos já oferecidos até 3 de dezembro, incluindo:<br /><br />— Mammoth Avenger (70% off)<br />— Benefactor Terrorbyte (50% off)<br />— Mammoth F-160 Raiju (40% off)<br />— Imponte Deluxo (40% off)<br />— Pegassi Toreador (40% off)<br />— Fábrica de Roupas (50% off)<br />— Lava-rápido Hands On (50% off)<br />— Boates (50% off)<br /><br />E mais! Confira o Boletim da Rockstar para saber mais.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b503271def3e4eaf873d8f9e/262272_GTAO_478_BlackFriday_FINAL_BigFeed_V1_Deliv.dds",
+        "filesize": 262272
+    },
+    "button": "Selecione para entrar no Modo Livre"
+}

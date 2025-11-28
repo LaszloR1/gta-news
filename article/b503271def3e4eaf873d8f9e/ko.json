@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1764260738,
+    "title": "",
+    "headline": "GTA 온라인",
+    "subtitle": "블랙 프라이데이 할인",
+    "content": "12월 3일까지 역대 최고의 할인 혜택을 누려보십시오:<br /><br />- 매머드 어벤져(70% 할인)<br />- 베네팩터 테러바이트(50% 할인)<br />- 매머드 F-160 라이주(40% 할인)<br />- 임폰테 디럭소(40% 할인)<br />- 페가시 토레아도르(40% 할인)<br />- 봉제 공장(50% 할인)<br />- 핸즈온 세차장(50% 할인)<br />- 나이트클럽(50% 할인)<br /><br />그 외에도 다양한 품목이 할인됩니다! 자세한 정보는 Rockstar 뉴스와이어에서 확인하세요.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b503271def3e4eaf873d8f9e/262272_GTAO_478_BlackFriday_FINAL_BigFeed_V1_Deliv.dds",
+        "filesize": 262272
+    },
+    "button": "자유 모드에 참가하려면 선택하세요."
+}

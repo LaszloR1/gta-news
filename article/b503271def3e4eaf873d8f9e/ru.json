@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1764260738,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Распродажа: «черная пятница»",
+    "content": "До 3 декабря воспользуйтесь одними из самых крупных скидок в игре:<br /><br />— Mammoth Avenger (скидка 70%)<br />— Benefactor Terrorbyte (скидка 50%)<br />— Mammoth F-160 Raiju (скидка 40%)<br />— Imponte Deluxo (скидка 40%)<br />— Pegassi Toreador (скидка 40%)<br />— Швейная фабрика (скидка 50%)<br />— Автомойка Hands On (скидка 50%)<br />— Ночные клубы (скидка 50%)<br /><br />И не только! Подробности в новостной ленте Rockstar.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_NONE",
+    "image": {
+        "path": "sc/news/b503271def3e4eaf873d8f9e/262272_GTAO_478_BlackFriday_FINAL_BigFeed_V1_Deliv.dds",
+        "filesize": 262272
+    },
+    "button": "Войти в свободный режим"
+}
