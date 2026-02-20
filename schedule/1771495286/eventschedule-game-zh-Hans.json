@@ -1,0 +1,25 @@
+{
+    "multiplayerEvents": [
+        {
+            "posixStartTime": 1771494300,
+            "posixEndTime": 1772100000,
+            "eventRosGameTypes": [
+                "gta5"
+            ],
+            "eventPlatformTypes": [
+                "pcros",
+                "xboxone",
+                "ps4"
+            ],
+            "displayName": "三倍µGTAµ游戏币和声望值农历新年特技竞速",
+            "eventId": 24882,
+            "eventGameTypes": [
+                11
+            ],
+            "extraData": {
+                "eventType": "FeaturedJob"
+            },
+            "featuredJob": true
+        }
+    ]
+}
