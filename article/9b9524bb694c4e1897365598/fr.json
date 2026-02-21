@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1771515195,
+    "title": "Bonus GTA$ spéciaux",
+    "headline": "Bonus GTA$ spéciaux",
+    "subtitle": "Terminez une mission de vente chaque semaine pour recevoir des GTA$ bonus ",
+    "content": "Récupérez jusqu'à 1µ500µ000µGTA$ bonus dans GTAµOnline en effectuant des missions de vente chaque semaine jusqu'au 11µmars.<br /><br />• Du 19 au 25µfévrierµ: 500µ000µGTA$<br />• Du 26µfévrier au 4 marsµ: 500µ000µGTA$<br />• Du 5 au 11µmarsµ: 500µ000µGTA$<br /><br />Chaque bonus sera crédité sur votre compte Maze Bank sous 72µh. Utilisez vos gains mal acquis pour étendre votre empire criminel.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=NIGHTCLUB",
+    "image": {
+        "path": "sc/news/9b9524bb694c4e1897365598/262272_GTAO_SSS_NightclubSellMission_FINAL_BigFeed_R01_zoomed_Deliv.dds",
+        "filesize": 262272
+    }
+}
