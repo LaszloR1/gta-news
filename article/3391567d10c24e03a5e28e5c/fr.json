@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1772038661,
+    "title": "Bonus GTA$ spéciaux",
+    "headline": "Bonus GTA$ spéciaux",
+    "subtitle": "Terminez une mission de vente chaque semaine pour recevoir des GTA$ bonus ",
+    "content": "Obtenez un bonus de 500µ000µGTA$ en terminant une mission de vente de n'importe quel type entre le 26µfévrier et le 4µmars.<br /><br />Revenez pour recevoir un bonus supplémentaire de 500µ000µGTA$ en terminant n'importe quelle mission de vente entre le 5 et le 11µmars.<br /><br />Chaque bonus sera crédité sur votre compte Maze Bank sous 72µheures. Utilisez vos gains mal acquis pour étendre votre empire criminel.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_PROPERTY arg=BUNKER",
+    "image": {
+        "path": "sc/news/3391567d10c24e03a5e28e5c/262272_GTAO309_BunkerScreenshot_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}
