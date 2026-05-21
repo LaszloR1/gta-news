@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1778778186,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Скидки",
+    "content": "Игнорируйте красный свет за рулем культового Banshee GTS – спорткара, который в ходе  «Транспортного безумия» будет продаваться со скидкой 40%. Другие скидки включают:<br /><br />— Гоночные костюмы из обновления «Тюнинг» — 50%<br />— Модификации в магазине у Бенни —50%<br />— Турбо тюнинг — 50%<br />— Överflöd Pipistrello (суперкар) — 40%<br />— Модификации HSW — 50%<br />— Гараж на бульваре Эклипс — 40%<br />— Lampadati Furore GT (спорткар) — 40%<br />— И не только<br /><br />Подробности – в новостной ленте Rockstar.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=LEGENDARY_MOTORSPORT",
+    "image": {
+        "path": "sc/news/b160a25a205c4bb7920dccdd/262272_GTAO_499-500_BansheeGTS_FINAL_BigFeed_Deliv.dds",
+        "filesize": 262272
+    },
+    "button": "Зайти на сайт Legendary Motorsport"
+}

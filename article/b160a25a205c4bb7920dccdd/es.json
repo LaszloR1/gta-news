@@ -1,0 +1,16 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1778778186,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Descuentos",
+    "content": "Sáltate los semáforos al volante del emblemático Banshee GTS, un deportivo de pedigrí impresionante por un 40% menos. Además, todos estos descuentos:<br /><br />- Monos de carreras LS Tuners: 50%<br />- Mejoras de conversión de Benny's: 50%<br />- Tuneado turbo: 50%<br />- Överflöd Pipistrello: 40%<br />- Mejoras de rendimiento de HSW: 50%<br />- Garaje de Eclipse Boulevard: 40%<br />- Lampadati Furore GT: 40%<br />- Y muchos más<br /><br />Más detalles en el Rockstar Newswire.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=LEGENDARY_MOTORSPORT",
+    "image": {
+        "path": "sc/news/b160a25a205c4bb7920dccdd/262272_GTAO_499-500_BansheeGTS_FINAL_BigFeed_Deliv.dds",
+        "filesize": 262272
+    },
+    "button": "Selecciona y ve a Legendary Motorsport"
+}
