@@ -1,0 +1,15 @@
+{
+    "types": [
+        "standalone"
+    ],
+    "date": 1783019410,
+    "title": "",
+    "headline": "GTA Online",
+    "subtitle": "Распродажа по случаю Дня независимости",
+    "content": "Отмечайте юбилейный День независимости в GTA Online с нашей самой масштабной распродажей, куда вошли:<br /><br />- Mammoth Avenger (самолет) – скидка 70%<br />- B-11 Strikeforce (самолет) – скидка 70%<br />- Агентства – скидка 60%<br />- Ангары – скидка 60%<br />- Бункеры – скидка 40%<br />- Benefactor Terrorbyte – скидка 70%<br />- Declasse Scramjet (суперкар) – скидка 60%<br />- Übermacht Sentinel GTS (спорткар) – скидка 50%<br /><br />И не только! Подробности – в новостной ленте Rockstar.",
+    "url": "class=uiGoToOnlineMode source=SRCS_NATIVE_LANDING_PAGE mode=SRCM_FREE argType=SRCA_WEBPAGE arg=WARSTOCK_CASH_AND_CARRY",
+    "image": {
+        "path": "sc/news/ae5e1c0d9df7466b9e7524ec/262272_GTAO_506_IndependenceDayCarousel_MammothAvengerAd_FINAL_BigFeed.dds",
+        "filesize": 262272
+    }
+}
